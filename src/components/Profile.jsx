@@ -199,14 +199,20 @@ export function Practical({ p }) {
 
 export function Sources({ p }) {
   if (!p.sources?.length) return null
+  // agrupa por site: "the50.com 2 3" em vez de repetir o nome; cada número é o link de outra página do mesmo site
+  const groups = new Map()
+  p.sources.forEach((s) => groups.set(host(s), [...(groups.get(host(s)) || []), s]))
   return (
     <section className="mx-auto mt-16 max-w-3xl text-center">
       <div className="smallcaps text-muted">Fontes</div>
       <p className="mt-3 text-[13px] italic leading-relaxed text-muted">
-        {p.sources.map((s, i) => (
-          <span key={s}>
+        {[...groups].map(([h, urls], i) => (
+          <span key={h}>
             {i > 0 && ' · '}
-            <a href={s} target="_blank" rel="noreferrer" className="link-u hover:text-ink-2">{host(s)}</a>
+            <a href={urls[0]} target="_blank" rel="noreferrer" className="link-u hover:text-ink-2">{h}</a>
+            {urls.slice(1).map((u, j) => (
+              <a key={u} href={u} target="_blank" rel="noreferrer" className="ml-1 not-italic text-[10px] align-super hover:text-ink-2" aria-label={`${h}, página ${j + 2}`}>{j + 2}</a>
+            ))}
           </span>
         ))}
       </p>
