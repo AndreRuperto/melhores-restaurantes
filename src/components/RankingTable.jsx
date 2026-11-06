@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { restaurants, CONTINENTS, countBy } from '../data/restaurants'
+import { restaurants, CONTINENTS, countBy, matches } from '../data/restaurants'
 import { Flag, Search, Tags } from './ui'
 
 const TIERS = [
@@ -44,13 +44,12 @@ export default function RankingTable({ initial = 20 }) {
   const countries = useMemo(() => countBy(restaurants, 'country').map(([c]) => c).sort((a, b) => a.localeCompare(b, 'pt')), [])
 
   const rows = useMemo(() => {
-    const term = q.trim().toLowerCase()
     return restaurants.filter(
       (r) =>
         (tier === 'all' || r.tier === tier) &&
         (!continent || r.continent === continent) &&
         (!country || r.country === country) &&
-        (!term || `${r.name} ${r.city} ${r.country}`.toLowerCase().includes(term)),
+        matches(r, q),
     )
   }, [q, tier, continent, country])
 
