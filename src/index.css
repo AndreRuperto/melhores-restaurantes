@@ -1,0 +1,206 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-paper: var(--c-paper);
+  --color-paper-2: var(--c-paper-2);
+  --color-ink: var(--c-ink);
+  --color-ink-2: var(--c-ink-2);
+  --color-muted: var(--c-muted);
+  --color-rule: var(--c-rule);
+  --color-wine: var(--c-wine);
+  --color-wine-2: var(--c-wine-2);
+  --font-display: 'Cormorant Garamond', 'Times New Roman', serif;
+  --font-serif: 'Source Serif 4', Georgia, serif;
+}
+
+/* Tema claro: papel creme e tinta */
+:root {
+  color-scheme: light;
+  --c-paper: #f4efe6;
+  --c-paper-2: #ece5d8;
+  --c-ink: #1e1a16;
+  --c-ink-2: #4a433b;
+  --c-muted: #857a6d;
+  --c-rule: #cdc2b0;
+  --c-wine: #7a1f2b;
+  --c-wine-2: #9b3442;
+  --c-grain: rgba(30, 26, 22, 0.035);
+  --c-box: rgba(255, 252, 246, 0.45);
+  --c-shadow: rgba(30, 26, 22, 0.15);
+  /* mapa */
+  --m-bg: #efe8db;
+  --m-sphere: #f6f1e8;
+  --m-edge: #bfb29d;
+  --m-grat: #d9cfbe;
+  --m-land: #e4dac8;
+  --m-border: #9c8f7b;
+}
+
+/* Tema escuro: carta à luz de velas */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --c-paper: #15110e;
+  --c-paper-2: #211b17;
+  --c-ink: #ede5d8;
+  --c-ink-2: #bdb2a2;
+  --c-muted: #8d8274;
+  --c-rule: #3b332c;
+  --c-wine: #d0707f;
+  --c-wine-2: #e08a97;
+  --c-grain: rgba(237, 229, 216, 0.025);
+  --c-box: rgba(255, 245, 230, 0.025);
+  --c-shadow: rgba(0, 0, 0, 0.5);
+  --m-bg: #120f0c;
+  --m-sphere: #1a1612;
+  --m-edge: #3b332c;
+  --m-grat: #2a231e;
+  --m-land: #2b241e;
+  --m-border: #5a4e42;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+  background-color: var(--color-paper);
+  /* leve textura de papel */
+  background-image:
+    radial-gradient(var(--c-grain) 1px, transparent 1px),
+    radial-gradient(var(--c-grain) 1px, transparent 1px);
+  background-size: 7px 7px, 11px 11px;
+  background-position: 0 0, 3px 5px;
+  color: var(--color-ink);
+  font-family: var(--font-serif);
+  font-feature-settings: 'onum' 1, 'kern' 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-wine);
+  color: var(--color-paper);
+}
+
+.display {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+/* rótulos em versalete espaçado, como em cardápio */
+.smallcaps {
+  font-family: var(--font-serif);
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  font-feature-settings: 'lnum' 1;
+}
+
+.lnum {
+  font-feature-settings: 'lnum' 1, 'tnum' 1;
+}
+
+/* fio duplo */
+.rule-double {
+  border-top: 3px double var(--color-ink);
+}
+
+/* linha pontilhada entre prato e preço */
+.leader {
+  flex: 1;
+  min-width: 1.5rem;
+  border-bottom: 1.5px dotted var(--color-rule);
+  transform: translateY(-0.3em);
+  margin: 0 0.5rem;
+}
+
+.box {
+  border: 1px solid var(--color-rule);
+  background: var(--c-box);
+}
+
+.pill {
+  border: 1px solid var(--color-rule);
+  padding: 0.3rem 0.85rem;
+  font-size: 13px;
+  color: var(--color-ink-2);
+  background: transparent;
+  transition: all 0.15s;
+  white-space: nowrap;
+  font-family: var(--font-serif);
+}
+.pill:hover {
+  border-color: var(--color-ink-2);
+}
+.pill[aria-pressed='true'] {
+  background: var(--color-ink);
+  border-color: var(--color-ink);
+  color: var(--color-paper);
+}
+
+.field {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--color-ink-2);
+  padding: 0.5rem 0 0.5rem 1.6rem;
+  font-size: 16px;
+  font-style: italic;
+  color: var(--color-ink);
+  outline: none;
+  width: 100%;
+  font-family: var(--font-serif);
+}
+.field::placeholder {
+  color: var(--color-muted);
+}
+.field:focus {
+  border-color: var(--color-wine);
+}
+
+.flag {
+  width: 15px;
+  height: 15px;
+  border-radius: 999px;
+  object-fit: cover;
+  display: inline-block;
+  flex: none;
+  filter: saturate(0.7) sepia(0.15);
+  box-shadow: 0 0 0 1px var(--c-shadow);
+}
+
+.link-u {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  transition: background-size 0.25s;
+}
+.link-u:hover,
+.group:hover .link-u {
+  background-size: 100% 1px;
+}
+
+.fade {
+  animation: fade 0.7s ease both;
+}
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
