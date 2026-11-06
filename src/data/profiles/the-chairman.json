@@ -1,0 +1,185 @@
+{
+  "slug": "the-chairman",
+  "lede": "No terceiro andar de um prédio comercial do Central, em Hong Kong, The Chairman cozinha a tradição cantonesa com poucos ingredientes, frutos do mar comprados de manhã no mercado de peixe e conservas curadas na própria fazenda. Em 2021 tornou-se o primeiro restaurante chinês a chegar ao topo da lista asiática e ao top 10 mundial.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HK_Central_Wellington_Street_Graham_Street_fruit_stall_market_Nov-2012.JPG/1920px-HK_Central_Wellington_Street_Graham_Street_fruit_stall_market_Nov-2012.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_Central_Wellington_Street_Graham_Street_fruit_stall_market_Nov-2012.JPG",
+    "author": "Ghitangshenho",
+    "license": "CC BY-SA 3.0",
+    "caption": "Banca de frutas no mercado de rua da Graham Street, na esquina com a Wellington Street, no Central de Hong Kong, a poucos quarteirões do restaurante",
+    "illustrative": false
+  },
+  "founded": 2009,
+  "founders": [
+    "Danny Yip"
+  ],
+  "chef": {
+    "name": "Danny Yip",
+    "bio": "Nascido em Hong Kong, Danny Yip foi estudar contabilidade na Austrália, onde aprendeu a cozinhar trabalhando em restaurantes de Canberra e abriu suas primeiras casas. De volta a Hong Kong, fez fortuna com empresas de internet antes de se dedicar ao The Chairman, que comanda como proprietário ao lado do chef de cozinha Kwok Keung Tung, presente desde a abertura. Em 2024 recebeu o Icon Award do Asia's 50 Best Restaurants."
+  },
+  "history": [
+    "Danny Yip cresceu comendo mal em casa e conheceu a boa comida cantonesa em banquetes de casamento. Estudante de contabilidade em Canberra, trabalhou como garçom e ajudante de cozinha em restaurantes libaneses, franceses, italianos e chineses até conseguir cozinhar. Em 1988, aos 22 anos, abriu com sete colegas de universidade o Window on the Orient, com molhos feitos na casa e sem glutamato; depois vieram o Madam Yip e, em 1992, o Chairman & Yip, em Sydney.",
+    "De volta a Hong Kong, Yip ganhou dinheiro com empresas de internet, semiaposentou-se e redescobriu a cozinha nos mercados de rua da cidade. Em 2009 abriu The Chairman numa travessa discreta do Central, em Kau U Fong, porque achava que os restaurantes chineses locais serviam todos os mesmos pratos. O chef Kwok Keung Tung está na cozinha desde o primeiro dia.",
+    "A casa ficou em 2º lugar no Asia's 50 Best Restaurants de 2020 e em 2021 tornou-se o primeiro restaurante chinês a liderar a lista asiática e a entrar no top 10 mundial, em 10º. Em 2022 mudou-se para um espaço maior no edifício The Wellington, ali perto. Depois de cair para o 50º lugar mundial em 2023, voltou a subir; em março de 2026 recuperou o 1º lugar na Ásia e, em novembro, ficou em 6º no The 50 Best Restaurants 2026."
+  ],
+  "cuisine": {
+    "style": "Cantonesa clássica",
+    "paragraphs": [
+      "A cozinha parte da tradição cantonesa, que o restaurante descreve como uma história de cerca de dois mil anos, e segue o princípio de que menos é mais: poucos ingredientes, técnica elaborada e sabor original do produto, sem exibicionismo nem tempero pesado. A equipe acrescenta no máximo cinco pratos novos por ano, alguns desenvolvidos por mais de um ano; o ganso defumado em madeira de cânfora levou nove meses. Yip diz ter mais de mil livros de receitas, mas não os segue à risca.",
+      "Funcionários do restaurante escolhem os frutos do mar às 6 da manhã no mercado de peixe de Aberdeen, e numa pequena fazenda em Sheung Shui a casa cura carnes, faz conservas de legumes e salga os próprios ovos. Óleos de camarão, de frango, de cebolinha e de capim-limão são feitos na cozinha, o limão em conserva passa de dez anos de cura e as folhas de tofu vêm da tradicional Shu Kee. O cardápio exclui barbatana de tubarão, pepino-do-mar e ninho de andorinha."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Steamed Fresh Flowery Crab with Aged ShaoXing Wine, Fragrant Chicken Oil & Flat Rice Noodles (caranguejo-flor no vapor com vinho Shaoxing envelhecido, óleo de frango e talharim de arroz)",
+      "desc": "O prato mais famoso da casa: caranguejo-flor do Mar do Sul da China cozido no vapor com vinho de arroz envelhecido, servido sobre talharins largos de arroz que absorvem o caldo.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/1920px-Portunus_pelagicus_male.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Portunus_pelagicus_male.jpg",
+        "author": "Usuário do Wikimedia Commons (obra própria)",
+        "license": "CC BY-SA 3.0",
+        "caption": "Caranguejo da espécie Portunus pelagicus, um dos chamados caranguejos-flor (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Camphor Wood Smoked Black Foot Goose (ganso de pés pretos defumado em madeira de cânfora)",
+      "desc": "O ganso é marinado em caldo de aves, salgado, cozido lentamente no vapor, descansa uma noite, é defumado com madeira de cânfora e por fim frito.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Roast_Goose_Rice.JPG/1920px-Roast_Goose_Rice.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Roast_Goose_Rice.JPG",
+        "author": "Ceeseven",
+        "license": "CC BY-SA 3.0",
+        "caption": "Ganso assado com arroz, clássico das casas de assados de Hong Kong (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Steamed Grouper Fish Head with Fermented Chilli (cabeça de garoupa no vapor com pimenta fermentada)",
+      "desc": "Cabeça de garoupa cozida no vapor sob pimenta fermentada, um dos pratos clássicos da casa.",
+      "photo": null
+    },
+    {
+      "name": "Pickled Mid-summer Ginger Root served with Century Egg (gengibre de verão em conserva com ovo centenário)",
+      "desc": "Entrada que combina gengibre jovem em conserva com ovo preservado, o chamado ovo centenário.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Arranged_century_egg_on_a_plate.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Arranged_century_egg_on_a_plate.jpg",
+        "author": "irrational_cat",
+        "license": "CC BY-SA 2.0",
+        "caption": "Ovo centenário fatiado em prato (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Wok Seared Mud Crab with Premium Soy, Preserved Black Beans & Preserved Olive Greens (caranguejo-de-lama salteado no wok com shoyu, feijão-preto fermentado e folhas de azeitona em conserva)",
+      "desc": "Caranguejo-de-lama selado no wok com molho de soja e conservas tradicionais, servido apenas para mesas de quatro pessoas ou mais.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants — nº 41"
+    },
+    {
+      "year": 2020,
+      "title": "Asia's 50 Best Restaurants — nº 2"
+    },
+    {
+      "year": 2021,
+      "title": "Asia's 50 Best Restaurants — nº 1 (primeiro restaurante chinês a liderar a lista)"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 10 e Highest Climber Award"
+    },
+    {
+      "year": 2021,
+      "title": "Guia Michelin — 1 estrela"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants — nº 5 (The Best Restaurant in China)"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 24"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants — nº 13"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 50"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants — nº 4; Icon Award para Danny Yip"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 26 e Highest Climber Award"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 2"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 19"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 1"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 6"
+    }
+  ],
+  "practical": {
+    "price": "Menus fechados de HK$ 1.380 a HK$ 1.680 por pessoa, mais 10% de serviço (2026)",
+    "reservation": "Pelo sistema de reservas do site oficial, que abre datas em janelas definidas pelo restaurante; também por telefone (+852 2555 2202), WhatsApp (+852 5501 5102) ou e-mail (inquiry@thechairmangroup.com). Almoço e jantar todos os dias.",
+    "website": "https://www.thechairmangroup.com/",
+    "address": "3/F, The Wellington, 198 Wellington Street, Central, Hong Kong"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg/1920px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg",
+      "author": "Ta Laya Miukoo Tuk",
+      "license": "CC BY-SA 4.0",
+      "caption": "Entrada do edifício The Wellington, na Wellington Street, onde o restaurante funciona no terceiro andar desde 2022 (foto de 2016)",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shaoxing_Rice_Wine%2C_Huadiao%2C_10ys%2C_bottle_and_glass.jpg/1920px-Shaoxing_Rice_Wine%2C_Huadiao%2C_10ys%2C_bottle_and_glass.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Shaoxing_Rice_Wine,_Huadiao,_10ys,_bottle_and_glass.jpg",
+      "author": "Bernt Rostad",
+      "license": "CC BY 2.0",
+      "caption": "Vinho de arroz Shaoxing envelhecido (huadiao), base do caranguejo-flor no vapor da casa (imagem ilustrativa)",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/the-chairman.html",
+    "https://www.the50.com/discovery/Establishments/China/Hong-Kong/The-Chairman.html",
+    "https://www.the50.com/stories/News/the-best-restaurant-in-asia-2026-the-chairman-hong-kong.html",
+    "https://www.the50.com/stories/News/the-chairman-highest-climber.html",
+    "https://www.the50.com/asia/en/list/1-100",
+    "https://kyodonewsprwire.jp/release/202402206759",
+    "https://www.thechairmangroup.com/",
+    "https://www.thechairmangroup.com/aboutus",
+    "https://www.thechairmangroup.com/today-menu",
+    "https://www.four-magazine.com/?p=42775",
+    "https://www.enprimeurclub.com/restaurants/the-chairman",
+    "https://sg.finance.yahoo.com/news/asias-50-best-restaurants-list-has-a-new-winner-for-2023-051150151.html",
+    "https://www.afoodieworld.com/blog/2024/03/26/asias-50-best-restaurants-2024/",
+    "https://www.thestar.com.my/news/regional/2020/03/24/these-are-asias-50-best-restaurants-but-you-just-cant-visit-them-all-right-now",
+    "https://says.com/my/news/hong-kong-the-chairman-restaurant-not-affliated-to-kl-restaurant",
+    "https://restaurantsforkings.com/city/hong-kong/the-chairman.html",
+    "https://100toptables.scmp.com/restaurants-profile-2024/the-chairman"
+  ]
+}

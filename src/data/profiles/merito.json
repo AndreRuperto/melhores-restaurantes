@@ -1,0 +1,177 @@
+{
+  "slug": "merito",
+  "lede": "Num sobrado de paredes de adobe em Barranco, o venezuelano Juan Luis Martínez faz uma cozinha que ele mesmo define como nem venezuelana nem peruana: uma identidade híbrida que junta memórias de Caracas à despensa dos Andes, da costa e da Amazônia. Aberto em 2018, o Mérito chegou ao 13º lugar da lista de 2026.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puente_de_los_Suspiros%2C_Barranco.jpg/1920px-Puente_de_los_Suspiros%2C_Barranco.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Puente_de_los_Suspiros,_Barranco.jpg",
+    "author": "Ibrehaut (Ivan Brehaut L.)",
+    "license": "CC BY-SA 4.0",
+    "caption": "Puente de los Suspiros, cartão-postal de Barranco, o bairro boêmio de Lima onde fica o Mérito",
+    "illustrative": false
+  },
+  "founded": 2018,
+  "founders": [
+    "Juan Luis Martínez",
+    "José Luis Saume"
+  ],
+  "chef": {
+    "name": "Juan Luis Martínez",
+    "bio": "Nascido em Caracas, estudou comunicação social e só começou a cozinhar aos 27 anos, com formação na escola La Casserole du Chef, em Caracas, e passagem pela Ferrandi, em Paris. Trabalhou no sul da França e no DiverXo, de Dabiz Muñoz, em Madri, antes de se mudar para Lima em 2014 para integrar a equipe do Central, de Virgilio Martínez. Além do Mérito, comanda em Barranco o café e padaria Demo, o restaurante casual Clon e a pizzaria Indio."
+  },
+  "history": [
+    "Juan Luis Martínez e José Luis Saume se conheceram no início da carreira, na cozinha do Planta Baja, em Caracas. Martínez seguiu para a Europa e, depois de ver Virgilio Martínez falar no congresso Madrid Fusión, entrou para o Central em menos de duas semanas; em 2014 fixou-se em Lima. Em 2018, os dois venezuelanos abriram o Mérito num espaço estreito de dois andares em Barranco, com paredes de adobe, madeira e cozinha aberta, com projeto de interiores da designer Michelle Sikic, mulher do chef.",
+    "A estreia na lista Latin America's 50 Best Restaurants veio em 2020, no 37º lugar, com o prêmio de maior entrada nova do ano. Durante a pandemia, o grupo criou o Demo, serviço de delivery de arepas e cachapas que virou café e padaria; em 2023 abriu o Clon, versão mais descontraída do Mérito, e depois a pizzaria Indio e a Casa Colón, espaço de experimentação com fermentação e café. Em 2024, a revista Food & Wine elegeu o Mérito o melhor restaurante internacional em seus prêmios Global Tastemakers.",
+    "Na lista mundial, a casa estreou no 59º lugar em 2023, subiu para o 55º em 2024 e entrou no top 30 em 2025, no 26º posto. No mesmo ano, depois de sete anos trabalhando só à la carte, lançou seu primeiro menu degustação, com cerca de dez etapas. Em 2026, na edição realizada em Lima, alcançou o 13º lugar."
+  ],
+  "cuisine": {
+    "style": "Peruano-venezuelana contemporânea",
+    "paragraphs": [
+      "Martínez descreve sua cozinha como uma identidade híbrida: não é estritamente venezuelana nem peruana, embora use receitas e produtos dos dois países, que, segundo ele, compartilham uma \"bela despensa endêmica\". Pratos de memória caribenha, como a arepa e o milho assado com queijo venezuelano, convivem com técnicas e ingredientes da costa, dos Andes e da Amazônia peruana.",
+      "Os ingredientes vêm sobretudo do Peru: cushuro (alga de lagoas andinas), tubérculos como arracacha, mashua e yacón, frutas amazônicas como a cocona, o sanky de cactos andinos, paiche e frutos do mar. A arepa ganha massa mais fina, que estufa no forno, e é servida com manteiga misturada a uma redução de chicha de jora, bebida de milho fermentado. A carta é curta e muda com as estações; no térreo, quatro lugares num balcão ficam dentro da cozinha."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Conchas con sanki y jalapeño (vieiras com sanky e jalapeño)",
+      "desc": "Vieiras frescas com sanky, fruto ácido de um cacto andino parecido com o figo-da-índia, e jalapeño.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mercado_Central_-Ostiones_Argopecten_purpuratus_-20171125_fRF03.jpg/1920px-Mercado_Central_-Ostiones_Argopecten_purpuratus_-20171125_fRF03.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mercado_Central_-Ostiones_Argopecten_purpuratus_-20171125_fRF03.jpg",
+        "author": "Rodrigo Fernández",
+        "license": "CC BY-SA 4.0",
+        "caption": "Vieiras do Pacífico (Argopecten purpuratus) à venda num mercado de Santiago do Chile; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Panceta glaseada con arepas (barriga de porco glaceada com arepas)",
+      "desc": "Barriga de porco laqueada ao estilo char siu, servida com arepas, um dos pratos mais lembrados da carta.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Arepas_venezolanas.jpg/1920px-Arepas_venezolanas.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Arepas_venezolanas.jpg",
+        "author": "Periodismodepaz",
+        "license": "CC BY-SA 4.0",
+        "caption": "Arepas venezuelanas; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Curry andino",
+      "desc": "Curry com ingredientes andinos, presente no menu degustação lançado em 2025.",
+      "photo": null
+    },
+    {
+      "name": "Roca de chocolate (rocha de chocolate peruano)",
+      "desc": "Sobremesa assinatura da casa, feita com chocolate peruano.",
+      "photo": null
+    },
+    {
+      "name": "Chirimoya a la parrilla (cherimoia grelhada)",
+      "desc": "Cherimoia grelhada, servida quando a fruta andina está na estação.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Custard-Apple-Cherimoya.jpeg/1920px-Custard-Apple-Cherimoya.jpeg",
+        "page": "https://commons.wikimedia.org/wiki/File:Custard-Apple-Cherimoya.jpeg",
+        "author": "Tgdileep",
+        "license": "CC BY-SA 4.0",
+        "caption": "Cherimoia inteira e cortada ao meio; imagem ilustrativa",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2020,
+      "title": "Latin America's 50 Best Restaurants: nº 37 e Highest New Entry Award"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants: nº 11"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: nº 59 (lista 51–100)"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants: nº 13"
+    },
+    {
+      "year": 2024,
+      "title": "Food & Wine Global Tastemakers: melhor restaurante internacional"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: nº 55 (lista 51–100)"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants: nº 8"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 26"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants: nº 4"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: nº 13"
+    }
+  ],
+  "practical": {
+    "price": "Menu degustação estimado em US$ 125 (cerca de S/ 460) por pessoa e pratos à la carte de S/ 55 a S/ 160 (Caretas, junho de 2025); o site do 50 Best indica menu degustação a partir de US$ 75 (2026)",
+    "reservation": "Online pelo Mesa 24/7 (merito.mesa247.pe) ou pelo telefone +51 1 277 1628; as reservas abrem mensalmente e se esgotam rápido. Almoço de terça a sábado, jantar de segunda a sábado.",
+    "website": "https://www.meritorestaurante.com/",
+    "address": "28 de Julio 206, Barranco, Lima 15063, Peru"
+  },
+  "gallery": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peru_-_Lima_034_-_colourful_streetscape_of_Barranco_%286999157827%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Peru_-_Lima_034_-_colourful_streetscape_of_Barranco_(6999157827).jpg",
+      "author": "McKay Savage",
+      "license": "CC BY 2.0",
+      "caption": "Fachadas coloridas em Barranco, bairro do Mérito",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Corryocactus_brevistylus.jpg/1920px-Corryocactus_brevistylus.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Corryocactus_brevistylus.jpg",
+      "author": "Carlos Zúñiga Gárate",
+      "license": "CC BY 2.0",
+      "caption": "Cacto Corryocactus brevistylus, que dá o fruto sanky, em Huanca, Arequipa; imagem ilustrativa",
+      "illustrative": true
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Solanum_sessiliflorum_1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Solanum_sessiliflorum_1.jpg",
+      "author": "Franz Xaver",
+      "license": "CC BY-SA 3.0",
+      "caption": "Cocona (Solanum sessiliflorum), fruta amazônica usada na cozinha do Mérito, fotografada na Costa Rica; imagem ilustrativa",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/21-30/merito.html",
+    "https://www.the50.com/discovery/Establishments/Peru/Lima/Mérito.html",
+    "https://www.the50.com/latinamerica/en/the-list/merito.html",
+    "https://www.the50.com/stories/News/inside-merito-lima-restaurant-putting-venezuelan-food-on-the-map.html",
+    "https://www.meritorestaurante.com/",
+    "https://caretas.pe/?p=755281",
+    "https://caretas.pe/?p=755267",
+    "https://diariocorreo.pe/gastronomia/merito-estrena-menu-degustacion-noticia/",
+    "https://eldiario.com/2023/06/09/merito-restaurante-venezolano-100-mejores-mundo/",
+    "https://rpp.pe/gastronomia/mas-comida/restaurante-peruano-merito-debuta-en-la-lista-de-los-100-mejores-del-mundo-noticia-1489171",
+    "https://www.bloomberglinea.com/latinoamerica/peru/merito-restaurante-peruano-venezolano-en-lima-entre-los-100-mejores-del-mundo/",
+    "https://www.bloomberglinea.com/2023/12/09/estos-son-los-50-mejores-restaurantes-de-america-latina-en-2023-segun-un-ranking/",
+    "https://www.finedininglovers.com/article/latin-americas-50-best-restaurants-2022-full-list",
+    "https://uk.style.yahoo.com/world-50-best-restaurants-just-190000376.html",
+    "https://panamericana.pe/entretenimiento/428692-maido-kjolle-merito-peru-brilla-latin-america-s-50-best-restaurants-2024",
+    "https://news.people.inc/2024-04-02-FOOD-WINE-ANNOUNCES-WINNERS-OF-ITS-2024-GLOBAL-TASTEMAKERS-AWARDS",
+    "https://thebestchefawards.com/chefs/juan-luis-martinez/",
+    "https://www.nos3magazine.com/home/a-moment-of-form-and-color-merito-in-lima",
+    "https://newworlder.substack.com/p/episode-86-juan-luis-martinez",
+    "https://supertastermel.com/2024/07/peru-lima-merito-by-juan-luis-martinez.html"
+  ]
+}

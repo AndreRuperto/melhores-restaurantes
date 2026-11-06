@@ -1,0 +1,215 @@
+{
+  "slug": "gaggan",
+  "lede": "Em Bangcoc, o chef indiano Gaggan Anand transforma a cozinha indiana progressiva em espetáculo: um menu de mais de 20 etapas indicadas por emojis, servido a 14 pessoas num balcão diante da cozinha aberta, onde se come com as mãos e às vezes se lambe o prato. Em suas sucessivas encarnações, o restaurante foi eleito o melhor da Ásia cinco vezes.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sukhumvit_skyline%2C_Bangkok.jpg/1920px-Sukhumvit_skyline%2C_Bangkok.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sukhumvit_skyline,_Bangkok.jpg",
+    "author": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "caption": "Arranha-céus iluminados da região de Sukhumvit, em Bangcoc, ao anoitecer; o Gaggan fica na Sukhumvit Soi 31",
+    "illustrative": false
+  },
+  "founded": 2010,
+  "founders": [
+    "Gaggan Anand"
+  ],
+  "chef": {
+    "name": "Gaggan Anand",
+    "bio": "Nascido em Calcutá, na Índia, Gaggan Anand tocou bateria em bandas de rock antes de se dedicar à cozinha. Formou-se no grupo hoteleiro Taj e foi o primeiro cozinheiro de origem indiana a estagiar na equipe de pesquisa de Ferran Adrià no elBulli, na Espanha, experiência que despertou seu interesse pela gastronomia molecular. Além do Gaggan, comanda ou participa de projetos como Ms. Maria & Mr. Singh, Gaggan at Louis Vuitton e Sühring, em Bangcoc, e GohGan, em Fukuoka, no Japão."
+  },
+  "history": [
+    "O Gaggan abriu em dezembro de 2010 num sobrado antigo da Soi Langsuan, no centro de Bangcoc, com a proposta de levar a comida indiana ao universo da alta gastronomia. Em poucos anos chegou às listas internacionais: em 2014 foi 3º no Asia's 50 Best e estreou em 17º no ranking mundial; depois, foi eleito o melhor restaurante da Ásia quatro vezes seguidas, de 2015 a 2018. No primeiro Guia Michelin de Bangcoc, recebeu duas estrelas.",
+    "Em 2019, depois de desentendimentos com os sócios, Anand deixou a casa, que fechou em 24 de agosto daquele ano, pouco depois de alcançar o 4º lugar no The World's 50 Best. Em novembro de 2019 ele reabriu em novo endereço, na Sukhumvit Soi 31, com o nome Gaggan Anand. A nova casa entrou no Asia's 50 Best em 2021 direto no 5º lugar, com o prêmio de maior estreia da lista.",
+    "O restaurante voltou à lista mundial em 2023, em 17º, e subiu para 9º em 2024 e 6º em 2025. Em 2024 retomou o nome original, Gaggan, no mesmo endereço; em 2025 voltou a ser eleito o melhor restaurante da Ásia e, na edição 2026 do Guia Michelin Tailândia, anunciada em novembro de 2025, ganhou uma estrela. Em 2026, ano em que passou a proibir o uso de celular à mesa, chegou ao 2º lugar do The 50 Best Restaurants."
+  ],
+  "cuisine": {
+    "style": "Indiana progressiva",
+    "paragraphs": [
+      "O Gaggan se define como um \"teatro gastronômico\" de cozinha indiana progressiva, com influências francesas, tailandesas e japonesas. O menu degustação, com mais de 20 etapas, é encenado como uma apresentação: cada prato aparece no cardápio apenas como um emoji, há trilha sonora e efeitos de cena, e os clientes são convidados a comer com as mãos ou até a lamber o prato.",
+      "A técnica vem da gastronomia molecular que Anand conheceu no elBulli: espumas, esferificações e texturas que imitam outros objetos servem para reinterpretar sabores da comida de rua indiana, como o chaat, e preparos regionais como o peixe ao estilo de Amritsar. O serviço acontece num balcão de 14 lugares em volta da cozinha aberta, num salão de concreto aparente, luzes de neon e cadeiras azuis."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Lick It Up (Lamba o prato)",
+      "desc": "Prato multicolorido feito com corantes vegetais que o cliente come lambendo, apontado pelo The 50 Best como a criação-assinatura da casa.",
+      "photo": null
+    },
+    {
+      "name": "Yoghurt Explosion (Explosão de iogurte)",
+      "desc": "Releitura do dahi chaat em forma de esfera de iogurte que estoura na boca, com sal negro, coentro e chaat masala, um dos clássicos do Gaggan original.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Dahi_Puri_%28Indian_snack%29.jpg/1920px-Dahi_Puri_%28Indian_snack%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Dahi_Puri_(Indian_snack).jpg",
+        "author": "SwatiGupta1986",
+        "license": "CC BY-SA 4.0",
+        "caption": "Dahi puri, petisco de rua indiano com iogurte da família do chaat (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Charcoal (Carvão)",
+      "desc": "Um falso pedaço de carvão comestível, recheado com tikka de peixe ao estilo de Amritsar e coberto com cebola desidratada e pimenta em pó.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Amritsari_Fried_Fish.JPG/1920px-Amritsari_Fried_Fish.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Amritsari_Fried_Fish.JPG",
+        "author": "Miansari66",
+        "license": "CC0",
+        "caption": "Peixe frito ao estilo de Amritsar, preparo que inspira o recheio do prato (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Green with Envy (Verde de inveja)",
+      "desc": "Espuma de coentro servida com kebab de frango com pimenta-verde, do repertório do primeiro Gaggan.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2014,
+      "title": "The World's 50 Best Restaurants – nº 17"
+    },
+    {
+      "year": 2014,
+      "title": "Asia's 50 Best Restaurants – nº 3"
+    },
+    {
+      "year": 2015,
+      "title": "Asia's 50 Best Restaurants – nº 1 (melhor restaurante da Ásia)"
+    },
+    {
+      "year": 2015,
+      "title": "The World's 50 Best Restaurants – nº 10"
+    },
+    {
+      "year": 2016,
+      "title": "Asia's 50 Best Restaurants – nº 1 (melhor restaurante da Ásia)"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants – nº 23"
+    },
+    {
+      "year": 2017,
+      "title": "Asia's 50 Best Restaurants – nº 1 (melhor restaurante da Ásia)"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants – nº 7"
+    },
+    {
+      "year": 2018,
+      "title": "Duas estrelas Michelin (primeira edição do Guia Michelin Bangcoc)"
+    },
+    {
+      "year": 2018,
+      "title": "Asia's 50 Best Restaurants – nº 1 (melhor restaurante da Ásia pelo quarto ano seguido)"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants – nº 5"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants – nº 4"
+    },
+    {
+      "year": 2021,
+      "title": "Asia's 50 Best Restaurants – nº 5 e prêmio Highest New Entry (como Gaggan Anand)"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants – nº 5"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants – nº 17"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants – nº 3"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants – nº 9"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants – nº 1 (melhor restaurante da Ásia)"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 6"
+    },
+    {
+      "year": 2026,
+      "title": "Uma estrela Michelin (Guia Michelin Tailândia 2026)"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants – nº 3 e melhor restaurante da Tailândia"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants – nº 2 e The Best Restaurant in Asia"
+    }
+  ],
+  "practical": {
+    "price": "Menu degustação a partir de US$ 495 por pessoa (The 50 Best, 2026)",
+    "reservation": "Pelo site oficial (sistema SevenRooms) ou por telefone/WhatsApp +66 98 883 1022; abre de quinta a segunda-feira, no almoço e no jantar.",
+    "website": "https://gaggan.com/",
+    "address": "68 Sukhumvit 31, Khlong Tan Nuea, Watthana, Bangcoc 10110, Tailândia"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Gaggan_indian_progressive_cuisine_restaurant_bangkok.jpg/1280px-Gaggan_indian_progressive_cuisine_restaurant_bangkok.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gaggan_indian_progressive_cuisine_restaurant_bangkok.jpg",
+      "author": "Sais.isa",
+      "license": "CC BY-SA 4.0",
+      "caption": "Fachada do primeiro endereço do Gaggan, na Soi Langsuan, em 2015",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Dessert_at_Gaggan.jpg/1920px-Dessert_at_Gaggan.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Dessert_at_Gaggan.jpg",
+      "author": "ZeroPointEnergyFieldManipulationAndYou",
+      "license": "CC BY-SA 4.0",
+      "caption": "Uma das sobremesas do menu degustação do Gaggan, em dezembro de 2016",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Degustation_menu_best_of_gaggan_2015.jpg/1280px-Degustation_menu_best_of_gaggan_2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Degustation_menu_best_of_gaggan_2015.jpg",
+      "author": "Sais.isa",
+      "license": "CC BY-SA 4.0",
+      "caption": "Cardápio do menu degustação \"Best of Gaggan\", de 2015",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sukhumvit_Soi_31_at_Dusk.jpg/1920px-Sukhumvit_Soi_31_at_Dusk.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sukhumvit_Soi_31_at_Dusk.jpg",
+      "author": "Slyronit",
+      "license": "CC BY-SA 4.0",
+      "caption": "A Sukhumvit Soi 31, rua do endereço atual do Gaggan, ao entardecer",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/gaggan.html",
+    "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Gaggan.html",
+    "https://www.the50.com/asia/en/the-list/Gaggan-Anand.html",
+    "https://gaggan.com/",
+    "https://en.wikipedia.org/wiki/Gaggan",
+    "https://en.wikipedia.org/wiki/Gaggan_Anand",
+    "https://www.thestar.com.my/lifestyle/living/2025/03/27/bangkok039s-gaggan-tops-asia039s-50-best-restaurants-list-malaysia-has-2-in-top-100",
+    "https://thebeat.asia/delish/happenings/gaggan-asias-50-best-restaurants-2025",
+    "https://www.gamberorosso.it/notizie/ristoranti/asias-50-best-restaurants-2022-la-classifica-la-corsa-di-gaggan-ma-ce-anche-spazio-per-litalia/",
+    "https://www.republicworld.com/world-news/world-s-50-best-restaurants-2024-released-indian-restaurant-gaggan-in-bangkok-made-it-to-the-top-10/?amp=1",
+    "https://www.bangkokpost.com/life/social-and-lifestyle/2596406/thailand-sees-2-restaurants-on-worlds-50-best-list-2023",
+    "https://prnewswire.com/news-releases/the-chairman-in-hong-kong-takes-no1-spot-at-asias-50-best-restaurants-2021-awards-301256053.html",
+    "https://www.theaureview.com/travel/asias-50-best-restaurants-announced-for-2018-gaggan-tops-list-for-fourth-consecutive-year/",
+    "https://www.thefrontrow.vip/2025-11-27-2026-michelin-ceremony-bangkok-shows-its-evolution-in-real-time",
+    "https://livefromalounge.com/review-gaggan-bangkok-asias-best-restaurant/"
+  ]
+}

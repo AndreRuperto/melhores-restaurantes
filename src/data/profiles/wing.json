@@ -1,0 +1,134 @@
+{
+  "slug": "wing",
+  "lede": "No 29º andar de um edifício em Central, Hong Kong, o chef Vicky Cheng, formado na cozinha clássica francesa, serve um menu degustação sazonal que percorre as oito grandes cozinhas regionais da China. Ele chama o que faz de cozinha chinesa \"sem fronteiras\": fiel aos sabores clássicos, livre na forma.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Hong_Kong_Central_skyline_by_night_from_Tsim_Sha_Tsui.jpg/1920px-Hong_Kong_Central_skyline_by_night_from_Tsim_Sha_Tsui.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Central_skyline_by_night_from_Tsim_Sha_Tsui.jpg",
+    "author": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "caption": "O skyline de Central, bairro onde fica o Wing, visto à noite de Tsim Sha Tsui, do outro lado do porto Victoria",
+    "illustrative": false
+  },
+  "founded": 2021,
+  "founders": ["Vicky Cheng"],
+  "chef": {
+    "name": "Vicky Cheng",
+    "bio": "Nascido em Hong Kong e criado no Canadá, Vicky Cheng estudou culinária no George Brown College, em Toronto, e trabalhou no Restaurant Daniel, de Daniel Boulud, em Nova York. De volta a Hong Kong em 2011, abriu o Vea, que une técnica francesa a ingredientes chineses e recebeu uma estrela Michelin em 2016. Aprendeu a cozinha chinesa por conta própria e depois com os chefs Tam Kwok Fung (Chef Tam's Seasons, Macau) e Adam Wong (Forum, Hong Kong)."
+  },
+  "history": [
+    "O Wing abriu em 9 de abril de 2021, em plena pandemia, um andar abaixo do Vea, no espaço que antes era o bar Vea Lounge. A ideia nasceu de ceias à meia-noite, só para convidados, em que Cheng testava pratos chineses para amigos próximos. O nome vem do nome chinês do chef e, segundo o restaurante, carrega a ideia de esperança e perseverança.",
+    "A proposta foi recebida com desconfiança no início, sobretudo por quem vê a cozinha cantonesa como a referência em Hong Kong. Ainda assim, o restaurante estreou em 2022 no Asia's 50 Best Restaurants, em 34º lugar, e no mesmo ano entrou na lista 51–100 do The World's 50 Best Restaurants, em 100º.",
+    "A subida foi rápida: 5º na Ásia em 2024, com o prêmio de maior escalada, e 20º no mundo no mesmo ano, como a estreia mais alta. Em 2025 ficou em 3º na Ásia e 11º no mundo, onde recebeu o prêmio Art of Hospitality pelo serviço. Em 2026 chegou ao 2º lugar na Ásia e ao 5º na lista mundial."
+  ],
+  "cuisine": {
+    "style": "Chinesa contemporânea \"sem fronteiras\"",
+    "paragraphs": [
+      "O menu degustação presta homenagem às oito grandes cozinhas regionais da China e segue os 24 termos solares do calendário agrícola chinês para escolher os ingredientes de cada época. Cheng diz querer manter a integridade da cozinha chinesa e torná-la mais acessível a quem não a conhece, sem perder o respeito pela tradição. Pesam também as origens da família: a avó de Xangai, o pai de Chiu Chow (Teochew) e os sabores cantoneses de Hong Kong.",
+      "A refeição começa com um chá sazonal, segue com quatro ou cinco entradas para dividir e passa a pratos principais muitas vezes servidos no osso e montados individualmente, terminando com um carrinho de frutas tropicais e gengibre cristalizado como lembrança. A carta de bebidas inclui vinhos chineses, baijiu, saquê e chás. A equipe anota as preferências de cada cliente para que, na volta, a refeição traga pratos novos."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Dry-aged crispy Cantonese chicken (frango cantonês crocante maturado a seco)",
+      "desc": "Frango cantonês maturado a seco e assado até a pele ficar crocante, receita que levou mais de 80 tentativas para chegar à versão final.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/HK_food_Crispy_Deep_Fried_Chicken.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:HK_food_Crispy_Deep_Fried_Chicken.JPG",
+        "author": "LONGS",
+        "license": "CC BY-SA 2.5",
+        "caption": "Frango frito crocante à cantonesa (炸子雞) servido em Hong Kong (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Smoked pigeon with sugarcane (pombo defumado com cana-de-açúcar)",
+      "desc": "Pombo defumado e laqueado com cana-de-açúcar, um dos pratos presentes desde a abertura do restaurante.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/HK_Quarry_Bay_%E8%8B%B1%E7%9A%87%E9%81%93_King%27s_Road_%E5%94%90%E9%A0%86%E8%88%88_%E7%87%92%E5%91%B3_Tang%27s_Roast_shop_%E4%B9%B3%E9%B4%BF%E8%82%89_Squab_display_on_sale_Nov-2010.JPG/1920px-HK_Quarry_Bay_%E8%8B%B1%E7%9A%87%E9%81%93_King%27s_Road_%E5%94%90%E9%A0%86%E8%88%88_%E7%87%92%E5%91%B3_Tang%27s_Roast_shop_%E4%B9%B3%E9%B4%BF%E8%82%89_Squab_display_on_sale_Nov-2010.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:HK_Quarry_Bay_%E8%8B%B1%E7%9A%87%E9%81%93_King%27s_Road_%E5%94%90%E9%A0%86%E8%88%88_%E7%87%92%E5%91%B3_Tang%27s_Roast_shop_%E4%B9%B3%E9%B4%BF%E8%82%89_Squab_display_on_sale_Nov-2010.JPG",
+        "author": "HomJeovasaA",
+        "license": "CC BY-SA 3.0",
+        "caption": "Pombos assados (乳鴿) expostos numa casa de assados de Hong Kong (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Sea cucumber spring roll (rolinho primavera de pepino-do-mar)",
+      "desc": "Pepino-do-mar braseado envolto em massa crocante de rolinho primavera, com cebolinha, uma forma de tornar o ingrediente mais acessível.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sea_cucumber_dish.jpg/1920px-Sea_cucumber_dish.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sea_cucumber_dish.jpg",
+        "author": "avlxyz",
+        "license": "CC BY-SA 2.0",
+        "caption": "Pepino-do-mar braseado com cogumelos e pernil de porco (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Smoked aubergine (berinjela defumada)",
+      "desc": "Tiras de berinjela defumada trançadas, inspiradas nas marias-chiquinhas das filhas do chef.",
+      "photo": null
+    },
+    {
+      "name": "Golden crystal egg with chilli oyster (ovo \"golden crystal\" com ostra ao chili)",
+      "desc": "Ovo preparado na casa, servido com ostra e molho de pimenta.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {"year": 2022, "title": "Asia's 50 Best Restaurants: nº 34 (estreia)"},
+    {"year": 2022, "title": "The World's 50 Best Restaurants (51–100): nº 100"},
+    {"year": 2023, "title": "Asia's 50 Best Restaurants: nº 37"},
+    {"year": 2023, "title": "The World's 50 Best Restaurants (51–100): nº 90"},
+    {"year": 2024, "title": "Asia's 50 Best Restaurants: nº 5 e Highest Climber Award (maior escalada)"},
+    {"year": 2024, "title": "The World's 50 Best Restaurants: nº 20 e Highest New Entry Award (estreia mais alta)"},
+    {"year": 2024, "title": "Tatler Dining Awards (Hong Kong): Chef of the Year para Vicky Cheng"},
+    {"year": 2025, "title": "Asia's 50 Best Restaurants: nº 3 e Inedit Damm Chefs' Choice Award para Vicky Cheng"},
+    {"year": 2025, "title": "The World's 50 Best Restaurants: nº 11 e Gin Mare Art of Hospitality Award"},
+    {"year": 2026, "title": "Asia's 50 Best Restaurants: nº 2"},
+    {"year": 2026, "title": "The World's 50 Best Restaurants: nº 5"}
+  ],
+  "practical": {
+    "price": "Dois menus degustação, de HK$ 1.980 e HK$ 2.980 por pessoa, mais 10% de serviço e taxa obrigatória de chá e água de HK$ 88 por pessoa (site oficial, 2026)",
+    "reservation": "Salão principal: reservas online pelo SevenRooms, abertas para os 30 dias seguintes, à meia-noite (horário de Hong Kong). Salas privativas: pelo e-mail info@wingrestaurant.hk, WhatsApp +852 9310 0172 ou telefone +852 2711 0063.",
+    "website": "https://wingrestaurant.hk/",
+    "address": "29/F, The Wellington, 198 Wellington Street, Central, Hong Kong"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg/1920px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg",
+      "author": "Ta Laya Miukoo Tuk",
+      "license": "CC BY-SA 4.0",
+      "caption": "Fachada do edifício The Wellington (184–198 Wellington Street), onde o Wing ocupa o 29º andar, em foto de 2016",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wellington_Street%2C_Hong_Kong%2C_2006_%2801%29.jpg/1920px-Wellington_Street%2C_Hong_Kong%2C_2006_%2801%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wellington_Street,_Hong_Kong,_2006_(01).jpg",
+      "author": "Bahnfrend",
+      "license": "CC BY-SA 4.0",
+      "caption": "A Wellington Street, em Central, vista das escadas rolantes Central–Mid-Levels",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/wing.html",
+    "https://www.the50.com/asia/en/the-list/wing.html",
+    "https://www.the50.com/stories/News/wing-hong-kong-art-of-hospitality-award-2025-the-worlds-50-best-restaurants.html",
+    "https://www.the50.com/stories/News/worlds-50-best-restaurants-2022-51-100-list-in-pictures.html",
+    "https://en.wikipedia.org/wiki/Vicky_Cheng",
+    "https://www.thestar.com.my/lifestyle/living/2025/07/09/how-hong-kong-eatery-wing-became-one-of-the-world039s-best-restaurants",
+    "https://www.thestar.com.my/lifestyle/living/2026/07/11/5-famous-food-haunts-in-hong-kong",
+    "https://www.four-magazine.com/tasting-notes/michelin-starred-chef-vicky-cheng-opens-new-restaurant/",
+    "https://luxesocietyasia.com/wine-dine/wing-restaurant-debuts-at-no-34-at-the-10th-edition-of-asias-50-best-restaurants-2022",
+    "https://www.afoodieworld.com/blog/2024/03/26/asias-50-best-restaurants-2024/",
+    "https://www.afoodieworld.com/blog/2024/06/06/worlds-50-best-restaurants-2024/",
+    "https://www.afoodieworld.com/blog/2025/03/26/asias-50-best-restaurants-hk/",
+    "https://thefoodpeople.co.uk/blog/worlds-50-best-restaurants-2023-51-to-100-announced",
+    "https://www.tatlerasia.com/dining/food/hong-kong-chef-vicky-cheng-cantonese-restaurant-wing-cassia-singapore-may-2024",
+    "https://www.travelsforstars.com/blog/2025/02/18/wing-hong-kong",
+    "https://wingrestaurant.hk/",
+    "https://wingrestaurant.hk/menu"
+  ]
+}

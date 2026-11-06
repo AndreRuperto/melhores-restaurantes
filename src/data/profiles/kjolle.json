@@ -1,0 +1,179 @@
+{
+  "slug": "kjolle",
+  "lede": "Primeiro restaurante próprio de Pía León, o Kjolle funciona desde 2018 no mesmo prédio de Barranco que abriga o Central e trata cada ingrediente nativo do Peru como protagonista, combinando produtos da costa, dos Andes e da Amazônia num mesmo prato. Em oito anos, saiu da estreia na lista latino-americana para o 7º lugar do mundo em 2026.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Avenida_Pedro_de_Osma_Barranco.jpg/1920px-Avenida_Pedro_de_Osma_Barranco.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Avenida_Pedro_de_Osma_Barranco.jpg",
+    "author": "Ibrehaut",
+    "license": "CC BY-SA 4.0",
+    "caption": "Casarões coloridos na avenida Pedro de Osma, em Barranco, a via onde fica o Kjolle",
+    "illustrative": false
+  },
+  "founded": 2018,
+  "founders": [
+    "Pía León"
+  ],
+  "chef": {
+    "name": "Pía León",
+    "bio": "Nascida em Lima em 1986, formou-se no Le Cordon Bleu da cidade e passou pelo Astrid y Gastón e pelo Ritz de Nova York antes de entrar no Central, onde chegou a chefe de cozinha e comandou a equipe por cerca de dez anos ao lado do marido, Virgilio Martínez. Foi eleita a melhor chef mulher da América Latina em 2018 e a melhor chef mulher do mundo pelo The World's 50 Best em 2021. Também é sócia do Mil, em Moray (Cusco), e trabalha com o centro de pesquisa Mater Iniciativa."
+  },
+  "history": [
+    "O Kjolle abriu em agosto de 2018, cerca de um mês depois de o Central se mudar de Miraflores para Barranco. Os dois restaurantes passaram a dividir o mesmo prédio na avenida Pedro de Osma, junto com o bar de coquetéis Mayo. Para Pía León, que havia passado cerca de uma década no comando da cozinha do Central, era a primeira casa só sua — e a chance, como disse ao 50 Best, de construir algo do zero.",
+    "O nome vem do quéchua e designa uma árvore dos Andes altos usada como tintura e planta medicinal, que ajuda a conter a erosão do solo. Quinze meses depois da abertura, o restaurante estreou no Latin America's 50 Best Restaurants 2019 em 21º lugar, com o prêmio de melhor nova entrada. Em 2021, ano em que León foi eleita a melhor chef mulher do mundo, o Kjolle entrou na lista mundial estendida, em 95º.",
+    "A partir daí a subida foi constante: 68º no ranking mundial em 2022, 28º em 2023 (primeira vez no top 50), 16º em 2024 e 9º em 2025. Na lista regional, foi 8º em 2022, 7º em 2023, 4º em 2024 e 2º em 2025, quando também recebeu os títulos de melhor restaurante do Peru e o Art of Hospitality Award. Em 2026, na cerimônia realizada em Lima, alcançou o 7º lugar do The World's 50 Best Restaurants."
+  ],
+  "cuisine": {
+    "style": "Cozinha peruana contemporânea de ingredientes nativos",
+    "paragraphs": [
+      "Enquanto o Central organiza seus menus por ecossistemas de uma região do país, o Kjolle segue um caminho mais intuitivo: o foco é o ingrediente individual, e um mesmo prato pode juntar produtos do litoral e da Amazônia. León resume a proposta como \"Peru, produtos, cores\". A cozinha procura preservar os sabores naturais com o mínimo de manipulação, e o visual dos pratos, muito colorido, faz parte da assinatura da casa.",
+      "Grãos andinos como a cañihua, tubérculos como o olluco e a oca, raízes amazônicas e frutos do mar da estação aparecem com frequência, muitos deles pouco conhecidos fora do Peru. A pesquisa e o abastecimento contam com o apoio da Mater Iniciativa, centro de pesquisa biológica e cultural dirigido por Malena Martínez. Cada ingrediente é usado de várias formas para reduzir o desperdício, e louças, copos e peças do salão são feitos por artistas e artesãos de diferentes regiões do país."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Many Tubers (Muitos tubérculos)",
+      "desc": "Fatias tostadas de olluco unidas por um creme de oca e servidas sobre uma massa de cañihua.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ollucos_peruanos_2018.jpg/1920px-Ollucos_peruanos_2018.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Ollucos_peruanos_2018.jpg",
+        "author": "MiguelAlanCS",
+        "license": "CC BY-SA 4.0",
+        "caption": "Ollucos, tubérculo andino usado no prato (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Vieiras e ouriço-do-mar com castanha-do-pará e airampo",
+      "desc": "Frutos do mar combinados com castanha amazônica e airampo, um cacto andino.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Mercado_Central_-Ostiones_Argopecten_purpuratus_-20171125_fRF01.jpg/1920px-Mercado_Central_-Ostiones_Argopecten_purpuratus_-20171125_fRF01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mercado_Central_-Ostiones_Argopecten_purpuratus_-20171125_fRF01.jpg",
+        "author": "Rodrigo Fernández",
+        "license": "CC BY-SA 4.0",
+        "caption": "Conchas de abanico (Argopecten purpuratus), vieira do Pacífico do Peru e do Chile, à venda em Santiago (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Costela de boi com milho, tumbo e ají mochero",
+      "desc": "Costela bovina acompanhada de milho, tumbo (fruta andina da família do maracujá) e pimenta mochero.",
+      "photo": null
+    },
+    {
+      "name": "Navajas huarmeyanas (navalhas de Huarmey)",
+      "desc": "Molusco do litoral de Huarmey, citado entre os pratos conhecidos da casa já em seus primeiros anos.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2018,
+      "title": "Latin America's Best Female Chef — Pía León"
+    },
+    {
+      "year": 2019,
+      "title": "Latin America's 50 Best Restaurants: nº 21 e Highest New Entry Award"
+    },
+    {
+      "year": 2021,
+      "title": "The World's Best Female Chef — Pía León"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants (51–100): nº 95"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants (51–100): nº 68"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants: nº 8"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: nº 28"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants: nº 7"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: nº 16"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants: nº 4"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 9"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants: nº 2 e Best Restaurant in Peru"
+    },
+    {
+      "year": 2025,
+      "title": "Art of Hospitality Award (Latin America's 50 Best Restaurants)"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants: nº 7"
+    }
+  ],
+  "practical": {
+    "price": "Menu degustação \"Entorno Mater\" de 9 tempos: S/ 988 por pessoa; harmonização com vinhos e destilados S/ 456; harmonização sem álcool S/ 256 (valores de junho de 2025)",
+    "reservation": "Pelo site oficial ou pelo e-mail reservas@kjolle.com (tel. +51 1 242 8575). Abre de terça a sábado: almoço das 12h45 às 14h e jantar das 19h às 20h30, segundo o site.",
+    "website": "https://kjolle.com",
+    "address": "Av. Pedro de Osma 301, Barranco, Lima 15063, Peru"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Virgilio_Martinez%2C_Malena_Martinez_%26_Pia_Leon_%28by_Daniel_Silva%29.jpg/1920px-Virgilio_Martinez%2C_Malena_Martinez_%26_Pia_Leon_%28by_Daniel_Silva%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Virgilio_Martinez,_Malena_Martinez_%26_Pia_Leon_(by_Daniel_Silva).jpg",
+      "author": "Mater.inicia (foto de Daniel Silva)",
+      "license": "CC BY-SA 4.0",
+      "caption": "Pía León com Virgilio Martínez e Malena Martínez, da Mater Iniciativa",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tradicional_Avenida_Pedro_de_Osma.jpg/1920px-Tradicional_Avenida_Pedro_de_Osma.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tradicional_Avenida_Pedro_de_Osma.jpg",
+      "author": "Wasiwatana",
+      "license": "CC BY-SA 4.0",
+      "caption": "A arborizada avenida Pedro de Osma, principal via de Barranco, com casarões, galerias e restaurantes",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Canihua_%28Chenopodium_pallidicaule%29_at_Atuncolla_near_Sillustani_Juliaca.jpg/1920px-Canihua_%28Chenopodium_pallidicaule%29_at_Atuncolla_near_Sillustani_Juliaca.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Canihua_(Chenopodium_pallidicaule)_at_Atuncolla_near_Sillustani_Juliaca.jpg",
+      "author": "Crops for the Future",
+      "license": "CC BY-SA 3.0",
+      "caption": "Cañihua, grão nativo do altiplano, em Atuncolla, perto de Juliaca (Puno)",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Oca_on_sale_at_Feria_Dominicial_in_Juliaca%2C_Puno%2C_Per%C3%BA.jpg/1920px-Oca_on_sale_at_Feria_Dominicial_in_Juliaca%2C_Puno%2C_Per%C3%BA.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Oca_on_sale_at_Feria_Dominicial_in_Juliaca,_Puno,_Per%C3%BA.jpg",
+      "author": "H.dav.are",
+      "license": "CC BY-SA 4.0",
+      "caption": "Banca de oca, tubérculo andino, na feira dominical de Juliaca, em Puno",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/1-10/kjolle.html",
+    "https://www.the50.com/latinamerica/en/the-list/1-10/kjolle.html",
+    "https://www.the50.com/stories/News/kjolle-pia-leon-family-leadership-working-with-virgilio-martinez.html",
+    "https://kjolle.com",
+    "https://es.wikipedia.org/wiki/P%C3%ADa_Le%C3%B3n",
+    "https://gestion.pe/economia/empresas/kjolle-es-el-segundo-mejor-restaurante-de-america-latina-la-propuesta-gastronomica-de-pia-leon-y-evolucion-noticia/",
+    "https://caretas.pe/?p=755267",
+    "https://rpp.pe/cultura/mas-cultura/50-best-mil-kjolle-y-astrid-y-gaston-se-ubican-entre-los-mejores-100-restaurantes-del-mundo-noticia-1359492",
+    "https://www.finedininglovers.com/article/worlds-50-best-51-100-list-2022",
+    "https://www.gamberorosso.it/notizie/ristoranti/latin-americas-50-best-restaurants-2022-il-central-torna-a-vincere-e-lima-in-crescita/",
+    "https://peru.info/es-pe/gastronomia/noticias/2/14/el-mejor-restaurante-de-latinoamerica-es-peruano"
+  ]
+}

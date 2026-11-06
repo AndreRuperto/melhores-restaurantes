@@ -1,0 +1,134 @@
+{
+  "slug": "plenitude",
+  "lede": "No primeiro andar do Cheval Blanc Paris, dentro do antigo edifício da loja La Samaritaine, diante da Pont Neuf e do Sena, Arnaud Donckele faz do molho o centro de cada prato. Aberto em setembro de 2021, o Plénitude passou de nenhuma a três estrelas Michelin em pouco mais de seis meses.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Paris_1er_La_Samaritaine_150.jpg/1920px-Paris_1er_La_Samaritaine_150.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_1er_La_Samaritaine_150.jpg",
+    "author": "GFreihalter",
+    "license": "CC BY-SA 4.0",
+    "caption": "O prédio da La Samaritaine (Magasin 2), onde funciona o hotel Cheval Blanc Paris, visto do outro lado do Sena, em outubro de 2021",
+    "illustrative": false
+  },
+  "founded": 2021,
+  "founders": ["Arnaud Donckele"],
+  "chef": {
+    "name": "Arnaud Donckele",
+    "bio": "Nascido em Rouen em 1977 e criado em Mantes-la-Jolie, onde os pais tinham uma charcutaria, formou-se na École Ferrandi e passou por Michel Guérard (Les Prés d'Eugénie), pelo Louis XV de Alain Ducasse em Mônaco e pelo Lasserre, em Paris, como subchef de Jean-Louis Nomicos. Em 2004, aos 27 anos, assumiu La Vague d'Or, em Saint-Tropez, que chegou às três estrelas Michelin em 2013. Foi eleito cozinheiro do ano pelo Gault&Millau na edição de 2020."
+  },
+  "history": [
+    "O Plénitude nasceu com a reabertura da La Samaritaine, a histórica loja de departamentos à beira do Sena, cujo edifício do quai du Louvre passou a abrigar o Cheval Blanc Paris, hotel do grupo LVMH. Arnaud Donckele, que já comandava La Vague d'Or no Cheval Blanc de Saint-Tropez, passou mais de dois anos preparando o cardápio antes da inauguração, que, depois de um longo adiamento, foi marcada para 7 de setembro de 2021.",
+    "Em 22 de março de 2022, no anúncio do Guia Michelin, a sala de cerca de 26 lugares recebeu de uma só vez três estrelas, feito que a imprensa francesa descreveu como apenas o segundo em trinta anos, depois de Yannick Alléno no Pavillon Ledoyen, em 2015. Com isso, Donckele passou a somar dois restaurantes com três estrelas.",
+    "No The World's 50 Best Restaurants, o Plénitude estreou em 36º lugar em 2023, subiu para 18º em 2024, ano em que também ganhou o prêmio Art of Hospitality pelo serviço conduzido pelo diretor de salão Alexandre Larvoir, e chegou a 14º em 2025, quando o chef pâtissier Maxime Frédéric recebeu o prêmio de melhor confeiteiro do ranking. Em 2026 entrou no top 10, em 10º lugar."
+  ],
+  "cuisine": {
+    "style": "Alta cozinha francesa centrada nos molhos",
+    "paragraphs": [
+      "A casa trata o molho como protagonista, e não como acompanhamento: o vegetal, o peixe ou a carne é que existem para complementá-lo. Donckele compara seu trabalho ao de um perfumista e chama suas criações de \"Absolues\" — um repertório de cerca de cem molhos, caldos, consommés, sabayons e vinagretes com notas de saída, de corpo e de fundo, que podem reunir até doze ingredientes. Os clientes são convidados a provar o molho sozinho antes de cada prato e recebem por escrito as receitas.",
+      "O jantar é servido em menu-degustação (o \"Symphonie\", em seis etapas, e o \"Fuguons ensemble\"), com ingredientes sazonais e de circuitos curtos. A refeição inclui uma passagem pela adega na chegada, um prato servido na cozinha e uma seleção de queijos franceses tirada de uma cave ao lado do salão. As sobremesas, os petits-fours e o pão são de Maxime Frédéric, chef pâtissier e chocolatier da casa."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Sardine, sauce verte Eden (sardinha com molho verde Eden)",
+      "desc": "Sardinha curada servida com um molho verde de ervas, citada pelo 50 Best como exemplo do menu e descrita por críticos com funcho e calêndula.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Fresh_sardines_with_preserved_lemon.jpg/1920px-Fresh_sardines_with_preserved_lemon.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Fresh_sardines_with_preserved_lemon.jpg",
+        "author": "stu_spivack",
+        "license": "CC BY-SA 2.0",
+        "caption": "Sardinhas frescas grelhadas com limão em conserva (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Langoustine et sabayon (lagostim com sabayon)",
+      "desc": "Caudas de lagostim acompanhadas de um sabayon aerado; em outra versão, com alcachofras e vinagrete de manjericão com o coral do crustáceo.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Langoustine_Nephrops_norvegicus_07062010_2.jpg/1920px-Langoustine_Nephrops_norvegicus_07062010_2.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Langoustine_Nephrops_norvegicus_07062010_2.jpg",
+        "author": "Vassil",
+        "license": "Public domain",
+        "caption": "Lagostim (Nephrops norvegicus) fresco (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Rouget, \"bécasse de mer\" (salmonete, \"galinhola do mar\")",
+      "desc": "Salmonete apresentado como uma \"galinhola do mar\", com sabayon de legumes e açafrão, acompanhado conforme a estação de ouriço e molho de peixes de rocha ou de maçãs à boulangère e fumet de merlot.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Pontoise_%28Val-d%27Oise%29_Rouget_Barbet_au_march%C3%A9.JPG/1920px-Pontoise_%28Val-d%27Oise%29_Rouget_Barbet_au_march%C3%A9.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Pontoise_(Val-d%27Oise)_Rouget_Barbet_au_march%C3%A9.JPG",
+        "author": "Havang(nl)",
+        "license": "CC0",
+        "caption": "Salmonetes-de-rocha (rouget barbet) numa feira em Pontoise, França (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Pigeon rôti, sauce \"Délicatesse\" (pombo assado, molho \"Délicatesse\")",
+      "desc": "Peito de pombo assado com coxa confitada e miúdos, servido com um molho de jus de pombo, chalota, vinagre de Xerez, anchova defumada e alecrim.",
+      "photo": null
+    },
+    {
+      "name": "Émotion normande (emoção normanda)",
+      "desc": "Sobremesa de Maxime Frédéric com maçã e canela, mil-folhas e sorbet de Yquem, acompanhada de um suco concentrado de maçã da Normandia.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {"year": 2022, "title": "Três estrelas Michelin (anunciadas em 22 de março de 2022, pouco mais de seis meses após a abertura)"},
+    {"year": 2023, "title": "The World's 50 Best Restaurants — 36º lugar (estreia na lista)"},
+    {"year": 2024, "title": "The World's 50 Best Restaurants — 18º lugar"},
+    {"year": 2024, "title": "Art of Hospitality Award, The World's 50 Best Restaurants"},
+    {"year": 2025, "title": "The World's 50 Best Restaurants — 14º lugar"},
+    {"year": 2025, "title": "Best Pastry Chef Award (The World's 50 Best Restaurants) para Maxime Frédéric, chef pâtissier do Plénitude"},
+    {"year": 2026, "title": "Gault&Millau — 19/20 e cinco toques"},
+    {"year": 2026, "title": "The 50 Best Restaurants — 10º lugar"}
+  ],
+  "practical": {
+    "price": "Menus-degustação de € 475 (\"Fuguons ensemble\") a € 495 (\"Symphonie\") por pessoa, sem bebidas (Gault&Millau, 2026)",
+    "reservation": "Somente jantar, de terça a sábado, a partir das 19h30; reservas pelo e-mail plenitude.paris@chevalblanc.com ou pelo telefone +33 1 79 35 50 11",
+    "website": "https://www.chevalblanc.com/en/maison/paris/restaurants-and-bars/plenitude/",
+    "address": "Cheval Blanc Paris, 8 Quai du Louvre, 75001 Paris, França"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/La_Samaritaine_depuis_le_pont_Neuf.jpg/1920px-La_Samaritaine_depuis_le_pont_Neuf.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:La_Samaritaine_depuis_le_pont_Neuf.jpg",
+      "author": "Arthur Weidmann",
+      "license": "CC BY-SA 4.0",
+      "caption": "A fachada da La Samaritaine, que abriga o Cheval Blanc Paris, vista a partir da Pont Neuf",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/ARNAUDDONCKELE.tif/lossy-page1-1920px-ARNAUDDONCKELE.tif.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:ARNAUDDONCKELE.tif",
+      "author": "Cheval Blanc Paris Communication",
+      "license": "CC0",
+      "caption": "O chef Arnaud Donckele",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cheval_Blanc_lobby_Paris.jpg/1920px-Cheval_Blanc_lobby_Paris.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Cheval_Blanc_lobby_Paris.jpg",
+      "author": "CVB",
+      "license": "CC BY-SA 4.0",
+      "caption": "Vista parcial do saguão do hotel Cheval Blanc Paris",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/11-20/plenitude.html",
+    "https://www.the50.com/the-list/plenitude.html",
+    "https://www.chevalblanc.com/en/maison/paris/restaurants-and-bars/plenitude/",
+    "https://fr.gaultmillau.com/en/restaurants/plenitude---cheval-blanc-paris",
+    "https://en.wikipedia.org/wiki/Arnaud_Donckele",
+    "https://fr.wikipedia.org/wiki/Arnaud_Donckele",
+    "https://www.lebonbon.fr/paris/news/3-etoiles-plenitude-arnaud-donckele-samaritaine/",
+    "https://www.sortiraparis.com/hotels-and-restaurants/restaurant/articles/259322-arnaud-donckeles-gourmet-restaurant-plenitude-at-le-cheval-blanc-paris/lang/en",
+    "https://www.sortiraparis.com/en/where-to-eat-in-paris/food-events/guides/170388-the-world-s-50-best-restaurants-2025-the-ranking-of-the-world-s-50-best-restaurants-revealed",
+    "https://blog.resy.com/2023/06/worlds-50-best-restaurants-list-2023/",
+    "https://aap.com.au/aapreleases/cision20240418ae69285/",
+    "https://www.andyhayler.com/restaurant/plenitude"
+  ]
+}

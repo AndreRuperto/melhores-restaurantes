@@ -1,0 +1,162 @@
+{
+  "slug": "kadeau",
+  "lede": "Endereço em Christianshavn, em Copenhague, de uma casa nascida numa praia de Bornholm, ilha dinamarquesa no mar Báltico. O Kadeau traz para a capital a despensa da ilha: vegetais da horta própria, peixes defumados e conservas feitas ao longo do ano.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kadeau_Bornholm_IMG_2885_%2823174693123%29.jpg/1920px-Kadeau_Bornholm_IMG_2885_%2823174693123%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kadeau_Bornholm_IMG_2885_(23174693123).jpg",
+    "author": "City Foodsters",
+    "license": "CC BY 2.0",
+    "caption": "Terraço do Kadeau Bornholm, a casa original da marca, sobre as dunas e o mar no sul da ilha (2015)",
+    "illustrative": false
+  },
+  "founded": 2011,
+  "founders": [
+    "Nicolai Nørregaard",
+    "Rasmus Kofoed",
+    "Magnus Klein Kofoed"
+  ],
+  "chef": {
+    "name": "Nicolai Nørregaard",
+    "bio": "Nascido em 1979 e criado em Svaneke, em Bornholm, Nørregaard pensava em estudar arquitetura e passava os verões trabalhando em restaurantes da ilha. Não tem formação de cozinheiro: é um dos poucos chefs autodidatas da alta gastronomia dinamarquesa. É chef e sócio do Kadeau e comanda o passe da cozinha aberta de Copenhague."
+  },
+  "history": [
+    "O Kadeau nasceu em 2007, quando Nicolai Nørregaard e os amigos de infância Rasmus Kofoed e Magnus Klein Kofoed, todos de Bornholm, transformaram uma cabana na praia de Sømarken, no extremo sul da ilha, em restaurante. A casa de Bornholm funciona só no verão, de maio a setembro, e ganhou estrela Michelin em 2016, a primeira da ilha.",
+    "Em 2011 o trio abriu a versão de Copenhague, com a mesma cozinha baseada nos produtos da ilha. A casa mudou de endereço algumas vezes: foi para um espaço maior em Christianshavn e, depois, para o imóvel vizinho, menor, na Wildersgade, com cerca de 24 lugares. A primeira estrela Michelin chegou em 2013 e a segunda em 2018. O salão atual, desenhado pelo estúdio OEO, tem a cozinha logo na entrada, por onde os clientes passam antes de chegar à mesa. Em 2022 o chef de cozinha Kyumin Hahn virou sócio.",
+    "Em 2023 as duas casas receberam a estrela verde Michelin, e o Kadeau de Copenhague entrou na lista 51–100 do The World's 50 Best (nº 91). Subiu para o nº 54 em 2024 e entrou no top 50 em 2025, no nº 41. Em junho de 2026 o Guia Michelin dos países nórdicos deu a terceira estrela à casa de Copenhague, e em novembro, em Lima, o Kadeau saltou 33 posições até o nº 8, com o prêmio Highest Climber."
+  ],
+  "cuisine": {
+    "style": "Nova cozinha nórdica de Bornholm",
+    "paragraphs": [
+      "Nørregaard resume a filosofia numa frase: o DNA da cozinha é a natureza de Bornholm, e o que se colhe e se serve na ilha é o que se serve em Copenhague. Quase todos os ingredientes vegetais vêm da horta do Kadeau, criada em 2012 pelo pai do chef, Flemming, a menos de um quilômetro do restaurante de Sømarken, com quatro lotes e duas estufas que fornecem ervas, frutas, legumes e mel às duas casas.",
+      "No verão, a cozinha colhe e coleta frutas, ervas, bagas e flores; no resto do ano, trabalha com o que foi conservado: picles, secagem, salga, fermentação e defumação, técnica tradicional da ilha. A fermentação dá ao menu uma acidez equilibrada. O menu tem cerca de 15 serviços e muda com as estações. A louça é feita pelo ceramista Torben Lov, do ateliê Lov i Listed, em Bornholm, com uma linha nova a cada temporada."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Salmão defumado por seis dias",
+      "desc": "Salmão defumado na casa durante seis dias, homenagem à tradição das defumadoras de Bornholm; em 2026 vinha em versões fria e quente, com manteiga de lavanda e garum de sardinha.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Smoked_salmon_1.jpg/1920px-Smoked_salmon_1.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Smoked_salmon_1.jpg",
+        "author": "Touzrimounir",
+        "license": "CC BY-SA 4.0",
+        "caption": "Fatias de salmão defumado; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Lula com batata Sieglinde",
+      "desc": "Lula cozida lentamente com batata Sieglinde e molho de soro de leitelho defumado com manteiga noisette.",
+      "photo": null
+    },
+    {
+      "name": "Vieira envolta em couro de frutas",
+      "desc": "Vieira envolta numa lâmina de couro de frutas feita com morango, rosa-mosqueta e ameixa, servida com alga preta.",
+      "photo": null
+    },
+    {
+      "name": "Lagosta-azul grelhada",
+      "desc": "Lagosta-azul grelhada com bisque, semente de coentro e alcaparras de alho-selvagem.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Homarus_gammarus_03.JPG/1920px-Homarus_gammarus_03.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Homarus_gammarus_03.JPG",
+        "author": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "caption": "Lagosta-europeia (Homarus gammarus), a lagosta-azul, em exemplar de museu; imagem ilustrativa",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2013,
+      "title": "Primeira estrela Michelin (Kadeau Copenhague)"
+    },
+    {
+      "year": 2016,
+      "title": "Estrela Michelin para o Kadeau Bornholm, a primeira da ilha"
+    },
+    {
+      "year": 2018,
+      "title": "Duas estrelas Michelin (Kadeau Copenhague)"
+    },
+    {
+      "year": 2023,
+      "title": "Estrela verde Michelin (Copenhague e Bornholm)"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: nº 91 (lista 51–100)"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: nº 54 (lista 51–100)"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 41"
+    },
+    {
+      "year": 2026,
+      "title": "Três estrelas Michelin (Guia Michelin Países Nórdicos 2026)"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: nº 8 e Highest Climber Award"
+    }
+  ],
+  "practical": {
+    "price": "Menu de cerca de 15 serviços a 4.150 coroas dinamarquesas (DKK) por pessoa; harmonização de vinhos de 2.500 a 18.000 DKK e harmonização sem álcool a 1.500 DKK (site oficial, 2026).",
+    "reservation": "Reservas online pelo site oficial; também pelo e-mail kbh@kadeau.dk ou pelo telefone +45 33 25 22 23. Jantar de terça a sexta a partir das 18h; sábado, almoço às 12h e jantar às 18h30.",
+    "website": "https://kadeau.dk/",
+    "address": "Wildersgade 10B, 1408 Copenhague K, Dinamarca"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Kadeau_Bornholm_IMG_2892_%2823174692543%29.jpg/1920px-Kadeau_Bornholm_IMG_2892_%2823174692543%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kadeau_Bornholm_IMG_2892_(23174692543).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Salão envidraçado do Kadeau Bornholm, de frente para o mar (2015)",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kadeau_Bornholm_IMG_3037_%2823693034222%29.jpg/1920px-Kadeau_Bornholm_IMG_3037_%2823693034222%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kadeau_Bornholm_IMG_3037_(23693034222).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Canteiros de ervas e vegetais ao lado do Kadeau Bornholm (2015)",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Gudhjem_Smokehouse_asv2024-07_img1.jpg/1920px-Gudhjem_Smokehouse_asv2024-07_img1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gudhjem_Smokehouse_asv2024-07_img1.jpg",
+      "author": "A.Savin",
+      "license": "FAL",
+      "caption": "Defumadora tradicional de peixe em Gudhjem, em Bornholm, tradição que inspira o salmão defumado do Kadeau",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Christianshavns_Kanal_Copenhagen_Christianshavn_2014_02.jpg/1920px-Christianshavns_Kanal_Copenhagen_Christianshavn_2014_02.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Christianshavns_Kanal_Copenhagen_Christianshavn_2014_02.jpg",
+      "author": "Julian Herzog",
+      "license": "CC BY 4.0",
+      "caption": "Canal de Christianshavn, o bairro de Copenhague onde fica o Kadeau",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://kadeau.dk/about",
+    "https://kadeau.dk/copenhagen/menu",
+    "https://www.the50.com/the-list/41-50/kadeau.html",
+    "https://www.michelin.com/en/publications/products-and-services/the-michelin-guide-nordic-countries-2026-edition",
+    "https://lex.dk/Kadeau",
+    "https://en.wikipedia.org/wiki/Nicolai_N%C3%B8rregaard",
+    "https://www.thestaffcanteen.com/Featured-Chef/nicolai-norregaard-kadeau-restaurant-bornholm-and-copenhagen",
+    "https://www.tastingtable.com/travel/national/bornholm-denmark-kadeau",
+    "https://www.wallpaper.com/travel/designer-dining-the-relaunch-of-chef-nicolai-nrregaards-kadeau-copenhagen",
+    "https://www.troisetoiles.de/en/blog/2026/08/01/kadeau-a-costly-gift",
+    "https://www.forbes.com.au/life/eat-drink/worlds-50-best-restaurants-2024-extended-list/",
+    "https://thefoodpeople.co.uk/blog/worlds-50-best-restaurants-2023-51-to-100-announced"
+  ]
+}

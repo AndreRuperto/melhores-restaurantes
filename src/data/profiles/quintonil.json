@@ -1,0 +1,215 @@
+{
+  "slug": "quintonil",
+  "lede": "Batizado com o nome de uma erva comestível da família do amaranto, o Quintonil, em Polanco, na Cidade do México, transforma ingredientes tradicionais do país, como quelites, huauzontles, insetos e moles, em menus-degustação contemporâneos. Aberto em 2012 por Jorge Vallejo e Alejandra Flores, tornou-se em 2025 o primeiro restaurante mexicano a chegar ao top 3 da lista mundial.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Quintonil_Exterior.jpg/1920px-Quintonil_Exterior.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Quintonil_Exterior.jpg",
+    "author": "City Foodsters",
+    "license": "CC BY 2.0",
+    "caption": "Fachada do Quintonil, no número 55 da rua Newton, em Polanco, Cidade do México (2016).",
+    "illustrative": false
+  },
+  "founded": 2012,
+  "founders": [
+    "Jorge Vallejo",
+    "Alejandra Flores"
+  ],
+  "chef": {
+    "name": "Jorge Vallejo",
+    "bio": "Nascido na Cidade do México em 1981, Vallejo começou a trabalhar em restaurante aos 16 anos e estudou administração e artes culinárias no Centro Culinario de México. Passou por navios de cruzeiro da Princess, pelas cozinhas do grupo hoteleiro Habita, pelo Pujol de Enrique Olvera, onde conheceu a mulher, Alejandra Flores, e por um estágio no Noma, em Copenhague. Em 2022 recebeu o Estrella Damm Chefs' Choice Award, prêmio votado pelos próprios chefs da lista The World's 50 Best Restaurants."
+  },
+  "history": [
+    "Jorge Vallejo e Alejandra Flores se conheceram em 2009, quando ambos trabalhavam no Pujol: ele na cozinha; ela no grupo de Enrique Olvera, onde chegou a diretora de operações e comercial. Flores tem mestrado em gestão de hotelaria pela escola suíça Les Roches e comanda o salão do Quintonil. Em 2011 deixaram o restaurante para abrir um negócio próprio, e o Quintonil foi inaugurado em 9 de março de 2012 na rua Newton, em Polanco, com um pequeno empréstimo, móveis e louças de segunda mão. No início era uma espécie de fonda casual, com menu do dia; com o tempo, migrou para a alta gastronomia.",
+    "O nome vem do quintonil, a parte comestível de uma planta da família do amaranto, um dos quelites (ervas silvestres) usados na cozinha mexicana. A casa estreou na lista The World's 50 Best Restaurants em 2015, no 35º lugar, e subiu para o 12º em 2016. Depois de oscilar entre o 11º e o 27º lugar, entrou no top 10 em 2022, ano de seu décimo aniversário, quando ficou em 9º.",
+    "Na primeira edição do Guia Michelin no México, em 2024, recebeu duas estrelas, empatado com o Pujol como o restaurante mais premiado do país. Em 2025 alcançou o 3º lugar da lista mundial, o melhor resultado já obtido por um restaurante mexicano, e foi apontado como o melhor da América do Norte. Na edição de 2026 ficou em 4º lugar e recebeu o título de melhor restaurante da América Latina."
+  ],
+  "cuisine": {
+    "style": "Mexicana contemporânea",
+    "paragraphs": [
+      "A proposta, nas palavras da casa, é expressar os sabores mexicanos com um toque pessoal. Vallejo parte de técnicas tradicionais e de ingredientes nativos, como quelites, huauzontles, nopal, milho e insetos como gafanhotos (chapulines), formigas chicatanas e escamoles, e os apresenta em preparos modernos. Boa parte dos pratos é à base de vegetais, e o mole aparece com frequência no menu; o chef diz preferir cozinhar legumes, peixes e frutos do mar a centrar a refeição na carne.",
+      "Segundo Vallejo, o menu é cerca de 98% mexicano. Os vegetais vêm de Milpa Alta, Xochimilco, Hidalgo e do Estado do México, a carne suína de Michoacán e Yucatán, a bovina de Durango e os peixes da Baixa Califórnia; parte das ervas sai de uma horta urbana a cerca de 30 metros da cozinha. O restaurante escolhe fornecedores de pescado que não danifiquem ecossistemas e liga a compra de trutas à proteção da floresta da borboleta-monarca. O menu-degustação muda conforme a estação, e há versões vegana, pescetariana e vegetariana."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Tartar de aguacate tatemado con escamoles (tartar de abacate tostado com escamoles)",
+      "desc": "Abacate levemente chamuscado misturado a larvas de formiga salteadas na manteiga noisette com alho, pimenta e epazote, servido com chips de quelites — a versão do Quintonil para o guacamole, segundo o chef.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Escamoles_con_epazote_y_guacamole.jpg/1920px-Escamoles_con_epazote_y_guacamole.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Escamoles_con_epazote_y_guacamole.jpg",
+        "author": "Daniel Arturo Fabian Sánchez",
+        "license": "CC BY-SA 4.0",
+        "caption": "Escamoles com epazote e guacamole (imagem ilustrativa; não é o prato do Quintonil).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Huauzontles en salsa de tomate (huauzontles ao molho de tomate)",
+      "desc": "Um dos primeiros pratos da casa, ainda no cardápio: huauzontles cozidos numa infusão de ervas, servidos com molho de tomate com pimenta habanero e queso de cuadro de Chiapas, que derrete no molho.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Torta_de_huauzontle.jpg/1920px-Torta_de_huauzontle.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Torta_de_huauzontle.jpg",
+        "author": "Wotancito",
+        "license": "CC BY-SA 4.0",
+        "caption": "Torta de huauzontle com molho de tomate, preparo tradicional mexicano (imagem ilustrativa).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Mole de chilacayote (chilacayote ao mole)",
+      "desc": "Pedaços de chilacayote, uma abóbora mexicana, cobertos com o mole da casa, uma das constantes do cardápio desde os primeiros anos.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Course_-6-_%22Chilacayotes%22_%28squash%29_in_homemade_mole_with_charred_tortilla_and_basil_sprouts_%2811303603216%29_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Course_-6-_%22Chilacayotes%22_(squash)_in_homemade_mole_with_charred_tortilla_and_basil_sprouts_(11303603216)_(cropped).jpg",
+        "author": "City Foodsters",
+        "license": "CC BY 2.0",
+        "caption": "Chilacayotes ao mole da casa, com tortilla tostada e brotos de manjericão, servido no Quintonil em 2013.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Chileatole de hongos silvestres (chileatole de cogumelos silvestres)",
+      "desc": "Sopa espessa de massa de milho com cogumelos silvestres, milho cacahuazintle e feijão, citada pela The 50 Best entre os pratos do menu-degustação.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chileatole_mexicano.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Chileatole_mexicano.jpg",
+        "author": "Wotancito",
+        "license": "CC BY-SA 4.0",
+        "caption": "Chileatole, sopa de milho com molho verde (imagem ilustrativa).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Pato con mole manchamanteles (pato com mole manchamanteles)",
+      "desc": "Pato assado com mole manchamanteles de coco, um molho de frutas e pimentas, e redução de beterraba.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2012,
+      "title": "Melhor Restaurante Novo — Gourmet Awards (Travel + Leisure México)"
+    },
+    {
+      "year": 2015,
+      "title": "The World's 50 Best Restaurants — nº 35 (estreia)"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants — nº 12"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants — nº 22"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants — nº 11"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants — nº 24"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 27"
+    },
+    {
+      "year": 2021,
+      "title": "Latin America's 50 Best Restaurants — nº 8"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 9"
+    },
+    {
+      "year": 2022,
+      "title": "Estrella Damm Chefs' Choice Award (Jorge Vallejo)"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 9"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants — nº 12"
+    },
+    {
+      "year": 2024,
+      "title": "Guia Michelin México — duas estrelas (primeira edição do guia no país)"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 7"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 9 e melhor restaurante do México"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 3 e melhor restaurante da América do Norte"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 7 e melhor restaurante do México"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 4"
+    },
+    {
+      "year": 2026,
+      "title": "The Best Restaurant in Latin America 2026 (The 50 Best Restaurants)"
+    }
+  ],
+  "practical": {
+    "price": "Menu-degustação de MXN 6.090 por pessoa; harmonizações de MXN 2.175 (sem álcool) a MXN 8.450 (valores de novembro de 2026, segundo o site oficial)",
+    "reservation": "Somente pela seção de reservas do site oficial ou pelo Tock (exploretock.com/quintonil); não se reserva por e-mail. Abre de segunda a sábado, das 13h à meia-noite; fecha aos domingos.",
+    "website": "https://www.quintonil.com/",
+    "address": "Newton 55, Polanco, Miguel Hidalgo, 11560, Cidade do México, México"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Inside_Quintonil_%2811303567345%29.jpg/1920px-Inside_Quintonil_%2811303567345%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Inside_Quintonil_(11303567345).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Salão do Quintonil, com paredes revestidas de madeira, em 2013.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Quintonil_10.jpg/1920px-Quintonil_10.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Quintonil_10.jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Prato do menu-degustação servido no Quintonil.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Huitlacoche%2C_quintoniles%2C_huauhzontles%2C_flor_de_calabaza_et_al.%2C_Santa_Maria_la_Ribera_Market.jpg/1920px-Huitlacoche%2C_quintoniles%2C_huauhzontles%2C_flor_de_calabaza_et_al.%2C_Santa_Maria_la_Ribera_Market.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Huitlacoche,_quintoniles,_huauhzontles,_flor_de_calabaza_et_al.,_Santa_Maria_la_Ribera_Market.jpg",
+      "author": "Louise Ranck",
+      "license": "CC BY-SA 3.0",
+      "caption": "Huitlacoche, quintoniles, huauzontles e flor de abóbora no mercado de Santa María la Ribera, Cidade do México (imagem ilustrativa dos ingredientes).",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quintonil",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/quintonil.html",
+    "https://www.the50.com/discovery/Establishments/Mexico/Mexico-City/Quintonil.html",
+    "https://www.the50.com/latinamerica/en/the-list/Quintonil.html",
+    "https://www.the50.com/stories/News/world-restaurants-2022-chefs-choice-jorge-vallejo.html",
+    "https://www.quintonil.com/en/",
+    "https://www.elfinanciero.com.mx/food-and-drink/2022/07/19/quien-es-jorge-vallejo-chef-de-quintonil-restaurante-mexicano-en-el-top-10-mundial/",
+    "https://www.elfinanciero.com.mx/food-and-drink/2021/11/22/pujol-y-quintonil-se-meten-en-el-top-10-de-los-mejores-restaurantes-de-america-latina/",
+    "https://www.elfinanciero.com.mx/food-and-drink/2024/11/27/latin-americas-50-best-restaurants-2024-quintonil-es-nombrado-el-mejor-restaurante-de-mexico/",
+    "https://www.elfinanciero.com.mx/food-and-drink/2025/12/02/latin-americas-50-best-restaurants-2025-estos-son-los-mexicanos-en-el-ranking/",
+    "https://www.chilango.com/comida-y-tragos/latin-americas-50-best-restaurants/",
+    "https://www.chilango.com/comida-y-tragos/restaurantes/latin-americas-50-best-restaurants-2024-mexico-cdmx/",
+    "https://www.chefspencil.com/interview-chef-jorge-vallejo-quintonil/",
+    "https://mexiconewsdaily.com/culture/mexico-city-quintonil-best-restaurants-in-the-world/",
+    "https://www.latintimes.com/worlds-50-best-restaurants-announced-san-pellegrino-list-features-9-eateries-latin-320234"
+  ]
+}
