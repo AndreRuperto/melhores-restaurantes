@@ -35,6 +35,10 @@ Restaurante sem perfil continua com a página atual. Nada quebra enquanto os out
 - Toda foto é conferida a olho antes de entrar no site. No Good Cities, a busca automática trouxe fotos erradas.
 - As imagens são carregadas direto do Commons ou do Unsplash, nos tamanhos de miniatura, com `loading="lazy"`.
 
+## Perfil curto do 51º ao 100º
+
+Decidido em 6 nov. 2026, depois do lote 1. Restaurantes menores têm menos fotos livres e menos cobertura de imprensa. Por isso, do 51º ao 100º o perfil é mais curto: lede, 1 ou 2 parágrafos de história, a cozinha em um parágrafo, uma bio curta do chef, 2 ou 3 pratos com foto opcional, prêmios, informações práticas e uma capa. A galeria pode ficar vazia. Os componentes já escondem as seções sem dado, então a página não muda de código, só de tamanho.
+
 ## Texto
 
 - O texto é em pt-BR, num tom jornalístico simples e sem adjetivos de propaganda.

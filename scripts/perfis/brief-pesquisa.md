@@ -31,6 +31,13 @@ Never use photos from the restaurant's site, Instagram, Google or press.
 - Unsplash only if you can read the photo page; src images.unsplash.com …?w=1600; license "Unsplash License".
 - Each photo object: {src, page (file/photo page URL), author, license, caption (pt-BR, what it shows; for illustrative ones say "imagem ilustrativa"), illustrative (bool)}.
 
+## Short profile (positions 51–100)
+If your task says "short profile", keep the same JSON keys but do less:
+- lede, chef {name, bio: 1–2 sentences}, history: 1–2 paragraphs, cuisine: style + 1 paragraph.
+- dishes: 2–3, photo optional — use null rather than a weak illustrative photo.
+- awards and practical as usual; hero: one good landscape photo (or null if nothing decent); gallery: 0–2 photos.
+- Aim to finish in about half the time of a full profile.
+
 ## Output
 Write pretty UTF-8 JSON to `<draft folder>/profiles/<slug>.json` (the draft folder is given in your task; never write straight into src/data/profiles/ — profiles go there only after the photos are checked with `scripts/perfis/conferir_fotos.py`) with keys: slug, lede, hero, founded, founders, chef, history, cuisine, dishes, awards, practical, gallery, sources. Validate it parses.
 
