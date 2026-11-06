@@ -1,0 +1,148 @@
+{
+  "slug": "nusara",
+  "lede": "Diante do templo de Wat Pho, no centro histórico de Bangcoc, os irmãos Ton e Tam Tassanakajohn servem num sobrado antigo uma cozinha tailandesa feita em homenagem à avó que os criou. O menu degustação parte de receitas de família e de livros das cozinhas reais do rei Rama V, e os pratos principais são divididos à mesa, como numa refeição em casa.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thailand-_Bangkok_-_Wat_Pho_-_Bangkok%27s_largest_buddhist_temple_-_seen_from_Chayo_Phraya_River_%2816758694067%29_%282%29.jpg/1920px-Thailand-_Bangkok_-_Wat_Pho_-_Bangkok%27s_largest_buddhist_temple_-_seen_from_Chayo_Phraya_River_%2816758694067%29_%282%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand-_Bangkok_-_Wat_Pho_-_Bangkok%27s_largest_buddhist_temple_-_seen_from_Chayo_Phraya_River_(16758694067)_(2).jpg",
+    "author": "Reinhard Link",
+    "license": "CC BY-SA 2.0",
+    "caption": "O templo de Wat Pho visto do rio Chao Phraya, atrás do bairro de Tha Tien, onde fica o Nusara",
+    "illustrative": false
+  },
+  "founded": 2020,
+  "founders": [
+    "Thitid \"Ton\" Tassanakajohn",
+    "Chaisiri \"Tam\" Tassanakajohn"
+  ],
+  "chef": {
+    "name": "Thitid \"Ton\" Tassanakajohn",
+    "bio": "Nascido em Bangcoc, Ton Tassanakajohn estudou economia na Universidade Chulalongkorn e trabalhou no mercado financeiro antes de se formar no Culinary Institute of America, em Nova York, e cozinhar em casas como Jean-Georges e Eleven Madison Park. De volta à Tailândia, abriu em 2013 o Le Du, de cozinha tailandesa moderna com ingredientes sazonais, que em 2023 se tornou o primeiro restaurante comandado por um chef tailandês a ser eleito o melhor da Ásia. Também comanda o Baan, em Bangcoc."
+  },
+  "history": [
+    "O Nusara leva o nome da avó de Ton e de seu irmão Chaisiri \"Tam\" Tassanakajohn, que os criou e cozinhava para eles. Ton pensava inicialmente em um lugar informal, mas, depois da morte da avó, a ideia virou uma homenagem a ela. A casa abriu em junho de 2020, em plena pandemia, como uma mesa única para até dez pessoas no andar de cima do Mayrai, bar de pad thai e vinhos dos irmãos na Maha Rat Road, de frente para Wat Pho; no período de abertura, o menu de 12 etapas custava 1.990 bahts.",
+    "Em 2021 o Nusara estreou no Asia's 50 Best Restaurants em 20º lugar. Subiu para 10º em 2022 e para 3º em 2023, ano em que o Le Du, do mesmo chef, foi eleito o melhor da Ásia. Em 2023 a casa se mudou para um sobrado de quatro andares na mesma rua, com vista para o templo, e passou de dez para cerca de 30 lugares; a máquina de costura Singer da avó, que era costureira, fica exposta no térreo. Em 2024 recebeu o prêmio Art of Hospitality do ranking asiático; o salão é conduzido por Tam, maître e sommelier da casa.",
+    "Em 2025 o Nusara entrou pela primeira vez na lista mundial, em 35º lugar, e no fim daquele ano ganhou sua primeira estrela no Guia Michelin Tailândia 2026. Em março de 2026 ficou em 5º no Asia's 50 Best e, em novembro, chegou ao 18º lugar do The 50 Best Restaurants."
+  ],
+  "cuisine": {
+    "style": "Tailandesa contemporânea de raiz familiar",
+    "paragraphs": [
+      "Ton define o que faz no Nusara como \"cozinha tailandesa colorida\", nem tradicional nem moderna. A base são as receitas da avó e livros de receitas das cozinhas reais do rei Rama V, que reinou de 1868 a 1910, reinterpretados com técnica contemporânea e ingredientes tailandeses, como as flores comestíveis fornecidas por produtores locais.",
+      "O menu degustação, de cerca de 12 etapas, começa com uma sequência de petiscos e entradas de uma ou duas mordidas, como saladas, frutos do mar em fatias finas e curry de caranguejo, e segue para pratos principais servidos no estilo familiar, compartilhados à mesa: curries tailandeses e indianos, camarões, peixes de rio e carnes. A noite começa no Nuss, o bar de coquetéis do térreo, e o jantar é servido no primeiro andar, diante de Wat Pho."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Blue swimming crab curry (Curry de caranguejo-azul)",
+      "desc": "Entrada-assinatura de curry amarelo de caranguejo-azul servido sobre uma base crocante, que já apareceu com folha de bétel e ovas de caranguejo-ferradura e com um tuile tricolor inspirado no mee krob.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pu_Phat_Phong_Kari.jpg/1920px-Pu_Phat_Phong_Kari.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Pu_Phat_Phong_Kari.jpg",
+        "author": "Takoradee",
+        "license": "CC BY-SA 3.0",
+        "caption": "Pu phat phong kari, caranguejo salteado com curry, prato clássico da cozinha do centro da Tailândia (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Thai wagyu with holy basil (Wagyu tailandês com manjericão-sagrado)",
+      "desc": "Releitura do pad kaprao, o refogado de manjericão-sagrado do dia a dia tailandês, feita com wagyu tailandês e presente no menu desde a abertura.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kraphao_moo.jpg/1920px-Kraphao_moo.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kraphao_moo.jpg",
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "caption": "Phat kaphrao, refogado com manjericão-sagrado servido com arroz, na versão popular de porco moído (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Guwa Malayan curry (Curry malaio com peixe maturado)",
+      "desc": "Curry de inspiração malaia servido com peixe maturado a seco, um dos pratos principais compartilhados à mesa.",
+      "photo": null
+    },
+    {
+      "name": "Tom kha",
+      "desc": "A sopa de leite de coco e galanga ganha lagosta-sapateira e uma farofa crocante de peixe gourami.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tom_kha_servido_en_Bangkok.jpg/1920px-Tom_kha_servido_en_Bangkok.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tom_kha_servido_en_Bangkok.jpg",
+        "author": "ProtoplasmaKid",
+        "license": "CC BY-SA 4.0",
+        "caption": "Tom kha, sopa tailandesa de leite de coco, servida em um restaurante de Bangcoc (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Thai tea ice cream sandwich (Sanduíche de sorvete de chá tailandês)",
+      "desc": "Sobremesa que transforma o chá tailandês em sorvete, servido como sanduíche.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    { "year": 2021, "title": "Asia's 50 Best Restaurants – nº 20 (estreia)" },
+    { "year": 2022, "title": "Asia's 50 Best Restaurants – nº 10" },
+    { "year": 2023, "title": "Asia's 50 Best Restaurants – nº 3" },
+    { "year": 2024, "title": "Asia's 50 Best Restaurants – nº 6" },
+    { "year": 2024, "title": "Asia's 50 Best Restaurants – prêmio Art of Hospitality" },
+    { "year": 2025, "title": "Asia's 50 Best Restaurants – nº 6" },
+    { "year": 2025, "title": "The World's 50 Best Restaurants – nº 35 (estreia)" },
+    { "year": 2025, "title": "1 estrela Michelin (Guia Michelin Tailândia 2026, anunciado em novembro de 2025)" },
+    { "year": 2026, "title": "Asia's 50 Best Restaurants – nº 5" },
+    { "year": 2026, "title": "The 50 Best Restaurants – nº 18" }
+  ],
+  "practical": {
+    "price": "Menu degustação a partir de US$ 185 por pessoa, sem bebidas (The 50 Best, informação consultada em 2026)",
+    "reservation": "Pelo site oficial (reservas on-line) ou pelo telefone +66 97 293 5549; só jantar",
+    "website": "https://www.nusarabkk.com",
+    "address": "336 Maha Rat Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangcoc 10200, Tailândia"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%96%E0%B8%A7%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%99.jpg/1920px-%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%96%E0%B8%A7%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%99.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%96%E0%B8%A7%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%99.jpg",
+      "author": "I3LACK1CE",
+      "license": "CC BY-SA 4.0",
+      "caption": "Sobrados históricos de Tha Tien, bairro ao lado de Wat Pho, registrados como patrimônio cultural da Tailândia",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wat_Pho_11_Les_4_grands_chedis_royaux_de_Phra_Maha_Chedi_Si_Rajakarn_et_la_biblioth%C3%A8que_Phra_Mondop.jpg/1920px-Wat_Pho_11_Les_4_grands_chedis_royaux_de_Phra_Maha_Chedi_Si_Rajakarn_et_la_biblioth%C3%A8que_Phra_Mondop.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wat_Pho_11_Les_4_grands_chedis_royaux_de_Phra_Maha_Chedi_Si_Rajakarn_et_la_biblioth%C3%A8que_Phra_Mondop.jpg",
+      "author": "Bienvenue en Thaïlande",
+      "license": "CC0",
+      "caption": "Os quatro grandes chedis reais de Wat Pho e a biblioteca Phra Mondop, no templo que fica diante do Nusara",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Atmosphere_of_Tha_Tian_Market_.jpg/1920px-Atmosphere_of_Tha_Tian_Market_.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Atmosphere_of_Tha_Tian_Market_.jpg",
+      "author": "Cincin aka",
+      "license": "CC BY-SA 4.0",
+      "caption": "Manhã no mercado de Tha Tien, no bairro do restaurante",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tha_Tien_Pier.jpg/1920px-Tha_Tien_Pier.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tha_Tien_Pier.jpg",
+      "author": "Christophe95",
+      "license": "CC BY-SA 4.0",
+      "caption": "O píer de Tha Tien, no rio Chao Phraya, perto da Maha Rat Road",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/nusara.html",
+    "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Nusara.html",
+    "https://www.the50.com/asia/awards/art-of-hospitality-award.html",
+    "https://www.nusarabkk.com/",
+    "https://en.wikipedia.org/wiki/Thitid_Tassanakajohn",
+    "https://www.bkmagazine.com/restaurant/nusara/",
+    "https://www.thepeakmagazine.com.sg/lifestyle/nusara-restaurant-4th-anniversary-party-bangkok",
+    "https://www.tablecheck.com/en/blog/5-things-to-know-nusara-bangkok/",
+    "https://www.tastytrip.com/en/nusara/",
+    "https://www.yahoo.com/lifestyle/bangkok-chef-took-radical-approach-100009332.html",
+    "https://www.bosshunting.com.au/lifestyle/eat/asia-50-best-restaurants-2025",
+    "https://www.timeout.com/bangkok/news/michelin-stars-in-thailand-for-2026-announced-112725",
+    "https://www.bkmagazine.com/food/restaurants/suhring-joins-sorn-to-become-the-second-3-star-michelin-restaurant-in-thailand-at-the-michelin-guide-ceremony-thailand-2026/"
+  ]
+}

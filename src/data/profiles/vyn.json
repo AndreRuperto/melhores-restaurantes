@@ -1,0 +1,150 @@
+{
+  "slug": "vyn",
+  "lede": "Numa antiga propriedade rural no alto de uma colina de Österlen, entre os vilarejos de pescadores de Skillinge e Brantevik, no sudeste da Suécia, o chef Daniel Berlin recomeçou depois de fechar seu restaurante anterior. O nome quer dizer \"a vista\": do salão se vê o mar Báltico, e o menu de cerca de 16 serviços sai de hortas, florestas, campos e águas de Skåne.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Skillinge_juli_2015.jpg/1920px-Skillinge_juli_2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Skillinge_juli_2015.jpg",
+    "author": "Jorchr",
+    "license": "CC BY-SA 3.0",
+    "caption": "Porto de Skillinge, vilarejo de pescadores de Österlen, em julho de 2015",
+    "illustrative": false
+  },
+  "founded": 2023,
+  "founders": [
+    "Daniel Berlin"
+  ],
+  "chef": {
+    "name": "Daniel Berlin",
+    "bio": "Nascido em 1982 em Landskrona, no sul da Suécia, Berlin se formou cozinheiro ainda no ensino médio e trabalhou com Thomas Drejing no Petri Pumpa, em Malmö, e no Guldapan, em Estocolmo, antes de virar chef do Torso Twisted, em Malmö, aos 26 anos. De 2009 a 2020 comandou a Daniel Berlin Krog, em Skåne-Tranås, que chegou a duas estrelas Michelin. Foi eleito seis vezes Kockarnas Kock, o prêmio de chef do ano votado pelos próprios cozinheiros suecos, a última delas em 2025."
+  },
+  "history": [
+    "Em 2009, Daniel Berlin assumiu o restaurante de Lennart Brummer em Skåne-Tranås, no interior de Skåne, e o rebatizou de Daniel Berlin Krog. A casa tinha quatro mesas e no máximo 16 lugares, ganhou a primeira estrela Michelin em 2016 e a segunda em 2018. Em setembro de 2020 Berlin a fechou para cuidar da família: a mulher, Anna, estava com câncer e morreu na primavera de 2021, deixando os filhos gêmeos do casal.",
+    "Três anos depois ele voltou com o Vyn, instalado numa antiga fazenda no topo de uma colina de Österlen, com cerca de 7 hectares que descem até o mar. Os antigos estábulo e celeiro foram convertidos; o interior foi coordenado pela arquiteta Lisa Mannheimer, do escritório Fojab. O food & wine bar abriu em julho de 2023 e o restaurante principal, com 30 lugares, em 25 de outubro de 2023. O conjunto inclui um hotel-butique de 15 quartos, uma horta, uma estufa que virou bar de coquetéis e uma sala privativa no andar de cima. Na abertura, o chef de cozinha era Tom Swanberg, que vinha do Maaemo, de Oslo.",
+    "O reconhecimento veio rápido. Em maio de 2024, seis meses depois de abrir, o Vyn entrou direto com duas estrelas no Guia Michelin dos países nórdicos; no mesmo ano foi incluído na lista World's Greatest Places da revista TIME e premiado como melhor abertura do ano numa cerimônia em Paris. Estreou no The World's 50 Best Restaurants em 2025, no nº 47, e em novembro de 2026, em Lima, subiu 24 posições até o nº 23. Em 2026 o food & wine bar da casa recebeu um Bib Gourmand do Michelin."
+  ],
+  "cuisine": {
+    "style": "Cozinha nórdica sazonal de Skåne",
+    "paragraphs": [
+      "O Vyn serve um menu degustação de cerca de 16 serviços, com filosofia de aproveitamento integral dos animais (nose-to-tail) e ingredientes das florestas, planícies e praias do entorno. Parte vem da horta da propriedade, que fornece folhas e ervas; o resto chega de produtores de Skåne, ou é coletado na natureza e caçado pelo próprio Berlin e sua equipe. Na abertura, o chef dizia trabalhar com cerca de 70 fornecedores, entre eles a fazenda biodinâmica Arken, em Ravlunda, a padaria Gamla Bageriet e o tio de Anna, que fornece ovos e cordeiro.",
+      "Berlin quis começar do zero: deixou de fora todos os pratos que marcaram a casa anterior, como o aipo-rábano assado e a beterraba. A comida é finalizada perto do cliente, para chegar quente à mesa, e o salão, de madeira e pedra, tem janelões para o mar e vista para a cozinha aberta. O menu muda com as estações: no inverno trabalha com raízes, frutas de pomar, caça e verduras tocadas pela geada; caranguejo-real, lagostim e löjrom (ovas de vendace) aparecem com frequência."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Pilgrimsmussla varm och kall (vieira quente e fria)",
+      "desc": "Vieira selada na frigideira e coberta com discos de metal gelados, para ser ao mesmo tempo quente e fria, servida com endro, kombu-açucarada (sugar kelp) e maçã caramelizada.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jakobsmuschel_angerichtet.jpg/1920px-Jakobsmuschel_angerichtet.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jakobsmuschel_angerichtet.jpg",
+        "author": "Elke Wetzig (Elya)",
+        "license": "CC BY-SA 3.0",
+        "caption": "Vieiras seladas servidas como entrada; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Kungskrabba (caranguejo-real aquecido)",
+      "desc": "Caranguejo-real morno numa tartelete com bochecha de porco da raça Linderöd e ervas da primavera, um dos pratos que costumam abrir o menu.",
+      "photo": null
+    },
+    {
+      "name": "Kalix löjrom",
+      "desc": "Ovas de vendace (Coregonus albula) de Kalix, no norte da Suécia, servidas sobre aipo-rábano caramelizado com verbena.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Caviar_of_Kalix.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Caviar_of_Kalix.jpg",
+        "author": "Dalmato99",
+        "license": "CC BY-SA 3.0",
+        "caption": "Colher com löjrom de Kalix, ovas de vendace com denominação de origem protegida; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Havskräfta (lagostim na manteiga noisette)",
+      "desc": "Cauda de lagostim cozida lentamente em manteiga noisette, presença frequente no menu.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Jomfruhummer_%284826206566%29.jpg/1920px-Jomfruhummer_%284826206566%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jomfruhummer_(4826206566).jpg",
+        "author": "cyclonebill",
+        "license": "CC BY-SA 2.0",
+        "caption": "Lagostins (Nephrops norvegicus) grelhados; imagem ilustrativa",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2024,
+      "title": "Duas estrelas Michelin (Guia Michelin Países Nórdicos), seis meses após a abertura"
+    },
+    {
+      "year": 2024,
+      "title": "World's Greatest Places, revista TIME"
+    },
+    {
+      "year": 2024,
+      "title": "Melhor abertura do ano, La Liste (Paris)"
+    },
+    {
+      "year": 2024,
+      "title": "Kockarnas Kock (chef do ano votado pelos cozinheiros suecos) para Daniel Berlin"
+    },
+    {
+      "year": 2025,
+      "title": "Nº 47 no The World's 50 Best Restaurants (estreia na lista)"
+    },
+    {
+      "year": 2025,
+      "title": "Kockarnas Kock para Daniel Berlin"
+    },
+    {
+      "year": 2026,
+      "title": "Bib Gourmand do Guia Michelin para o Vyn Food & Wine Bar"
+    },
+    {
+      "year": 2026,
+      "title": "Nº 23 no The 50 Best Restaurants"
+    }
+  ],
+  "practical": {
+    "price": "Menu degustação a SEK 4.000 por pessoa (2026); o site anuncia SEK 4.500 a partir de 1º de janeiro. Harmonização de vinhos a SEK 2.500; harmonização sem álcool a SEK 1.600.",
+    "reservation": "Pelo site oficial. As reservas abrem no dia 1º de cada mês para o terceiro mês seguinte (por exemplo, 1º de junho abre setembro). Jantar de quarta a sexta e almoço aos sábados; o food & wine bar recebe clientes sem reserva.",
+    "website": "https://vynrestaurant.se",
+    "address": "Höga vägen 72, 272 92 Simrishamn (Skillinge, Österlen), Suécia"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Gisl%C3%B6vshammar.jpg/1920px-Gisl%C3%B6vshammar.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gisl%C3%B6vshammar.jpg",
+      "author": "Jorchr",
+      "license": "CC BY-SA 3.0",
+      "caption": "Rochas calcárias à beira do Báltico em Gislövshammar, perto do Vyn, usadas no passado como pedreira de mós",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Daniel_Berlin_-_Restaurant_in_Sk%C3%A5ne-Tran%C3%A5s_2018_-_01.jpg/1920px-Daniel_Berlin_-_Restaurant_in_Sk%C3%A5ne-Tran%C3%A5s_2018_-_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Daniel_Berlin_-_Restaurant_in_Sk%C3%A5ne-Tran%C3%A5s_2018_-_01.jpg",
+      "author": "Sinikka Halme",
+      "license": "CC BY-SA 4.0",
+      "caption": "Fachada da Daniel Berlin Krog, o restaurante anterior do chef em Skåne-Tranås, em 2018; fechou em 2020",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/41-50/vyn.html",
+    "https://vynrestaurant.se/",
+    "https://vynrestaurant.se/restaurant",
+    "https://sv.wikipedia.org/wiki/Daniel_Berlin_(krögare)",
+    "https://sv.wikipedia.org/wiki/Daniel_Berlin_krog",
+    "https://www.finedininglovers.com/explore/articles/daniel-berlin-back",
+    "https://hautdegamme.net/2023/08/29/daniel-berlin-is-opening-his-much-anticipated-new-restaurant-vyn-in-skane-this-autumn/",
+    "https://www.restauranttimes.com/?p=9856",
+    "https://scanmagazine.co.uk/vyn-restaurant-sublime-culinary-experience-with-a-stunning-backdrop/",
+    "https://press.visitsweden.com/2024-05-29-Four-new-Swedish-restaurants-awarded-Michelin-Stars",
+    "https://time.com/6992379/vyn/",
+    "https://www.supertastermel.com/2024/07/sweden-simrishamn-2-vyn-by-daniel-berlin.html",
+    "https://www.dagensps.se/weekend/restaurang/tva-svenska-restauranger-lyser-i-arets-hetaste-lista/",
+    "https://news.michelin.se/articles/the-2026-edition-of-the-michelin-guide-nordic-countries-has-been-unveiled",
+    "https://osterlen.se/en/vyn-restaurant-hotel/"
+  ]
+}

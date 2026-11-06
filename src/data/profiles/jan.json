@@ -1,0 +1,193 @@
+{
+  "slug": "jan",
+  "lede": "No térreo do Rhaetenhaus, prédio de uma associação estudantil a poucos passos da Königsplatz, em Munique, o chef Jan Hartwig serve um menu-degustação que relê clássicos da cozinha alemã com técnica francesa. Aberto em outubro de 2022, o JAN recebeu três estrelas Michelin cerca de cinco meses depois e em três anos saiu do 84º para o 19º lugar no ranking mundial.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Rhaetenhaus%2C_Luisenstra%C3%9Fe_27%2C_M%C3%BCnchen-7630.jpg/1920px-Rhaetenhaus%2C_Luisenstra%C3%9Fe_27%2C_M%C3%BCnchen-7630.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rhaetenhaus,_Luisenstra%C3%9Fe_27,_M%C3%BCnchen-7630.jpg",
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "caption": "O Rhaetenhaus, na Luisenstraße 27, em Munique, prédio que abriga o JAN no térreo (fevereiro de 2024)",
+    "illustrative": false
+  },
+  "founded": 2022,
+  "founders": [
+    "Jan Hartwig"
+  ],
+  "chef": {
+    "name": "Jan Hartwig",
+    "bio": "Nascido em 1982 em Helmstedt, na Baixa Saxônia, Jan Hartwig começou a formação em 2000 no restaurante Dannenfeld, em Braunschweig, e passou pelo Kastell, de Christian Jürgens, pelo GästeHaus Erfort, de Klaus Erfort, e pelo Aqua, de Sven Elverfeld, em Wolfsburg, onde chegou a subchef em 2009. De 2014 a 2021 comandou o Atelier, no hotel Bayerischer Hof, em Munique, que ganhou duas estrelas Michelin em 2015 e três em 2017. Foi eleito cozinheiro do ano pela revista Der Feinschmecker em 2016 e publicou os livros \"Sterne leben\" (2021) e \"JAN. Labor der Liebe\" (2023)."
+  },
+  "history": [
+    "Hartwig chegou a Munique em 2014 para assumir a cozinha do Atelier, restaurante gastronômico do hotel Bayerischer Hof. Com ele, a casa passou de duas para três estrelas Michelin em 2017, a primeira cozinha da cidade com a nota máxima desde a era de Eckart Witzigmann. Em julho de 2021 o chef anunciou a saída do hotel e, no fim daquele ano, o plano de abrir o primeiro restaurante próprio.",
+    "O endereço escolhido foi o Rhaetenhaus, na Luisenstraße 27, prédio da associação estudantil Rhaetia erguido em 1957–58 e decorado com sgraffiti brancos e azuis do artista Erich Horndasch. Enquanto o antigo salão da associação, no térreo, passava por reforma, Hartwig manteve um JAN temporário na Porzellan Manufaktur Nymphenburg, a partir de fevereiro de 2022. O restaurante definitivo abriu em 25 de outubro de 2022, com até 40 lugares, uma sala privativa, cozinha aberta, serviço comandado por Kilian Skalet e obras do artista Stefan Strumbel, amigo do chef.",
+    "Em abril de 2023, cerca de cinco meses após a abertura, o Guia Michelin deu três estrelas ao JAN e chamou a ascensão de \"sensação\"; no mesmo ano, o Opinionated About Dining o elegeu o melhor restaurante novo da Europa. No The World's 50 Best Restaurants, o JAN apareceu em 84º lugar em 2024, entrou no top 50 em 2025 — como única estreia alemã — e subiu 31 posições em 2026, para o 19º lugar. O Guia Michelin 2026 manteve as três estrelas."
+  ],
+  "cuisine": {
+    "style": "Alta cozinha alemã contemporânea (menu-degustação)",
+    "paragraphs": [
+      "Hartwig se formou na técnica clássica francesa e usa essa base para reinterpretar pratos e sabores da cozinha alemã — o bolinho de lúcio com molho verde de Frankfurt, a salada de frango \"dos anos 80\", o queijo de montanha do Allgäu. O cardápio é um menu-degustação sazonal construído sobretudo com produtos regionais, ao qual o cliente pode acrescentar pratos-assinatura de uma carta à parte; o chef faz pessoalmente todos os molhos. O Guia Michelin, ao conceder as três estrelas, destacou o domínio de técnica e ofício e a disposição para \"ousar algo inesperado\".",
+      "Os pratos combinam ingredientes de produtores próximos — truta-alpina do lago Schliersee, cordeiro do Gutshof Polting, aspargos de Martin Waßmer, miúdos do açougue Glasstetter — com elementos de outras cozinhas, como dashi, missô, nori, combava e caviar Kaluga da N25. O pão de fermentação natural é feito na casa, e a louça vem da Porzellan Manufaktur Nymphenburg, parceira do restaurante. O salão é sóbrio e iluminado, com mesas de madeira escura, e dá para a cozinha aberta, que a casa chama de \"Labor der Liebe\" (laboratório do amor)."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Seeigel \"Louise\" (ouriço-do-mar \"Louise\")",
+      "desc": "Ouriço-do-mar com gelatina de rabada, crème fraîche, cebolinha e caviar Kaluga, criado como homenagem à filha pequena do chef e oferecido como prato-assinatura extra.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2019-02-17_123025_Seeigel_anagoria.jpg/1920px-2019-02-17_123025_Seeigel_anagoria.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:2019-02-17_123025_Seeigel_anagoria.jpg",
+        "author": "Anagoria",
+        "license": "CC BY 3.0",
+        "caption": "Ouriço-do-mar servido como alimento num hotel de Pequim (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Tartelete de foie gras",
+      "desc": "Tartelete com mousse de foie gras, pérolas de limão-caviar, xarope de bordo defumado e crocante de noz-pecã.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tartelettes_de_foie_gras.jpg/1920px-Tartelettes_de_foie_gras.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tartelettes_de_foie_gras.jpg",
+        "author": "Javi Vte Rejas",
+        "license": "CC BY 2.0",
+        "caption": "Tarteletes de foie gras servidas como entrada (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Hechtklößchen (bolinho de lúcio)",
+      "desc": "Bolinho de lúcio servido com molho verde de Frankfurt, batata fondant, soro de leite, tartare de vitela e ovo de codorna, prato que ganhou nova versão (\"3.0\") com lúcio-perca e geleia de nori.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Quenelle_de_brochet_sauce_Nantua.jpg/1920px-Quenelle_de_brochet_sauce_Nantua.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Quenelle_de_brochet_sauce_Nantua.jpg",
+        "author": "Fryke27",
+        "license": "CC BY-SA 3.0",
+        "caption": "Quenelle de lúcio com molho Nantua, versão clássica de Lyon do bolinho de peixe (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Saibling do Schliersee (truta-alpina do lago Schliersee)",
+      "desc": "Barriga de truta-alpina do lago bávaro Schliersee com beurre blanc de dashi, caviar, combava e óleo de capim-limão (menu de 2023).",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2015,
+      "title": "Duas estrelas Michelin para o Atelier (Bayerischer Hof), sob o comando de Hartwig"
+    },
+    {
+      "year": 2016,
+      "title": "Cozinheiro do ano — Der Feinschmecker"
+    },
+    {
+      "year": 2017,
+      "title": "Três estrelas Michelin para o Atelier (Bayerischer Hof)"
+    },
+    {
+      "year": 2017,
+      "title": "Cozinheiro do ano — Frankfurter Allgemeine Sonntagszeitung"
+    },
+    {
+      "year": 2021,
+      "title": "Cozinheiro do ano — Der Große Restaurant & Hotel Guide"
+    },
+    {
+      "year": 2022,
+      "title": "Cozinheiro do ano — Frankfurter Allgemeine Sonntagszeitung"
+    },
+    {
+      "year": 2023,
+      "title": "Três estrelas Michelin para o JAN, cerca de cinco meses após a abertura"
+    },
+    {
+      "year": 2023,
+      "title": "Opinionated About Dining — melhor restaurante novo da Europa"
+    },
+    {
+      "year": 2024,
+      "title": "Opinionated About Dining (Europa) — nº 3"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 84 (lista 51–100)"
+    },
+    {
+      "year": 2025,
+      "title": "Opinionated About Dining (Europa) — nº 3"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 50 (estreia no top 50)"
+    },
+    {
+      "year": 2026,
+      "title": "Três estrelas Michelin (mantidas no Guia Michelin Alemanha 2026)"
+    },
+    {
+      "year": 2026,
+      "title": "Opinionated About Dining (Europa) — nº 6"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants — nº 19"
+    }
+  ],
+  "practical": {
+    "price": "€ 380 por pessoa no menu-degustação de sete etapas e € 335 no menu reduzido (cinco etapas) do almoço de sexta, sem bebidas; pratos-assinatura e harmonização de vinhos à parte (valores de 2026)",
+    "reservation": "Somente online, pelo sistema do site, com lista de espera para datas lotadas. Cancelamento gratuito até 48 horas antes; depois disso, ou em caso de não comparecimento, cobra-se € 380 por pessoa. Jantar de terça a sexta (chegada entre 18h30 e 19h de terça a quinta, e entre 19h e 19h30 na sexta) e almoço às sextas (chegada entre 12h e 12h30). Não há menu vegano; menus vegetariano ou pescetariano exigem aviso de 48 horas.",
+    "website": "https://jan-hartwig.com/en/",
+    "address": "Luisenstraße 27, 80333 Munique, Alemanha"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Rhaetenhaus%2C_Luisenstra%C3%9Fe_27%2C_M%C3%BCnchen-7642.jpg/1920px-Rhaetenhaus%2C_Luisenstra%C3%9Fe_27%2C_M%C3%BCnchen-7642.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rhaetenhaus,_Luisenstra%C3%9Fe_27,_M%C3%BCnchen-7642.jpg",
+      "author": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "caption": "Fachada do Rhaetenhaus, decorada com sgraffiti do artista Erich Horndasch (1958)",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Propyl%C3%A4en%2C_K%C3%B6nigsplatz%2C_M%C3%BAnich%2C_Alemania%2C_2024-04-02%2C_DD_03.jpg/1920px-Propyl%C3%A4en%2C_K%C3%B6nigsplatz%2C_M%C3%BAnich%2C_Alemania%2C_2024-04-02%2C_DD_03.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Propyl%C3%A4en,_K%C3%B6nigsplatz,_M%C3%BAnich,_Alemania,_2024-04-02,_DD_03.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "caption": "Os Propileus na Königsplatz, praça do bairro dos museus de Munique, vizinha ao restaurante",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/M%C3%BCnchen_-_Schloss_Nymphenburg_-_Porzellan-Manufaktur%2C_Hauptgeb%C3%A4ude_001.jpg/1920px-M%C3%BCnchen_-_Schloss_Nymphenburg_-_Porzellan-Manufaktur%2C_Hauptgeb%C3%A4ude_001.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_-_Schloss_Nymphenburg_-_Porzellan-Manufaktur,_Hauptgeb%C3%A4ude_001.jpg",
+      "author": "Pixelteufel (Gerhard Giebener)",
+      "license": "CC BY 2.0",
+      "caption": "Prédio principal da Porzellan Manufaktur Nymphenburg, onde funcionou o JAN temporário em 2022 e de onde vem a louça do restaurante",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Aerial_image_of_the_Schliersee_%28view_from_the_south%29.jpg/1920px-Aerial_image_of_the_Schliersee_%28view_from_the_south%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Schliersee_(view_from_the_south).jpg",
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "caption": "Vista aérea do lago Schliersee, na Alta Baviera, de onde vinha a truta-alpina servida no menu de 2023",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/restaurant-jan.html",
+    "https://jan-hartwig.com/en/",
+    "https://jan-hartwig.com/en/jan-hartwig/",
+    "https://jan-hartwig.com/en/restaurant/",
+    "https://jan-hartwig.com/en/menu/",
+    "https://jan-hartwig.com/en/faq/",
+    "https://de.wikipedia.org/wiki/Jan_Hartwig",
+    "https://de.wikipedia.org/wiki/Rhaetenhaus",
+    "https://www.tageskarte.io/gastronomie/detail/jan-hartwig-eroeffnet-restaurant-in-muenchen.html",
+    "https://www.tageskarte.io/gastronomie/detail/guide-michelin-2023-drei-sterne-fuer-jan-hartwigs-neues-restaurant-jan.html",
+    "https://www.stuttgarter-zeitung.de/panorama/feinschmecker-list-der-deutsche-koch-ueberflieger-78893091",
+    "https://www.in-muenchen.de/gastro/sterne-restaurants.html",
+    "https://andyhayler.com/restaurant/restaurant-jan",
+    "https://www.supertastermel.com/2025/07/germany-munich-jan-hartwig.html"
+  ]
+}

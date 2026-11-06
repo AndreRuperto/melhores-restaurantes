@@ -1,0 +1,207 @@
+{
+  "slug": "mingles",
+  "lede": "Em Cheongdam-dong, no distrito de Gangnam, em Seul, o chef Kang Mingoo serve desde 2014 uma cozinha coreana contemporânea construída em torno do jang, os molhos fermentados de soja que estão na base da mesa coreana. Primeiro restaurante da Coreia do Sul a entrar no top 50 mundial, o Mingles é hoje o único três estrelas Michelin do país.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NIght_view_at_Ttukseom_Hangang_Park.jpg/1920px-NIght_view_at_Ttukseom_Hangang_Park.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NIght_view_at_Ttukseom_Hangang_Park.jpg",
+    "author": "Real rism",
+    "license": "CC BY-SA 4.0",
+    "caption": "A ponte Cheongdam, que cruza o rio Han entre os distritos de Gwangjin e Gangnam, à noite, vista do parque Ttukseom Hangang (novembro de 2024)",
+    "illustrative": false
+  },
+  "founded": 2014,
+  "founders": [
+    "Kang Mingoo"
+  ],
+  "chef": {
+    "name": "Kang Mingoo (Mingoo Kang)",
+    "bio": "Kang Mingoo descobriu a cozinha preparando refeições para o irmão mais novo e fez carreira no exterior: estagiou com Martín Berasategui em San Sebastián, na Espanha, e trabalhou no Nobu de Miami e das Bahamas, onde se tornou o mais jovem chef de cozinha da unidade. De volta à Coreia, estudou cozinha tradicional com a chef Cho Hee-sook e com a monja budista Jeong Kwan, referência em culinária de templo. É coautor do livro \"Jang: The Soul of Korean Cooking\" e comanda também o Hansik Goo, em Hong Kong, e casas em Paris."
+  },
+  "history": [
+    "Kang Mingoo abriu o Mingles em abril de 2014 em Cheongdam-dong, no distrito de Gangnam, ao sul do rio Han. O nome vem de um apelido do chef e do verbo inglês \"to mingle\", misturar, e resumia a proposta de combinar pratos coreanos com elementos estrangeiros. Nos primeiros tempos, segundo o próprio chef, só cerca de 30% de cada prato era coreano, e críticos apontavam falta de identidade. Kang passou então cerca de um ano e meio estudando a cozinha tradicional, com foco nos molhos fermentados, e inverteu a proporção.",
+    "O reconhecimento internacional veio rápido. Em 2016 o restaurante estreou no Asia's 50 Best Restaurants em 15º lugar, a entrada mais alta daquele ano, e desde então aparece na lista todos os anos. Na primeira edição do Guia Michelin Seul, a de 2017, recebeu uma estrela; a segunda veio no guia de 2019 e foi mantida até 2024. Em 2019 o Mingles se mudou para um espaço maior no mesmo bairro, no segundo andar de um prédio da Dosan-daero 67-gil. Em 2021, Kang recebeu o Inedit Damm Chefs' Choice Award, votado pelos colegas da lista asiática.",
+    "Em 2024, ano em que completou dez anos, o Mingles entrou no The World's 50 Best Restaurants em 44º lugar, o primeiro restaurante coreano no top 50 mundial. Em fevereiro de 2025 o Guia Michelin Seul & Busan lhe deu a terceira estrela, mantida em 2026, e no mesmo ano a casa subiu para o 29º lugar no ranking mundial. Em 2026 ficou em 4º na lista asiática, como melhor restaurante da Coreia do Sul, e chegou ao 17º lugar no The World's 50 Best Restaurants."
+  ],
+  "cuisine": {
+    "style": "Coreana contemporânea (menu-degustação)",
+    "paragraphs": [
+      "Kang define a proposta como um \"novo caminho\" para a cozinha coreana: respeitar a tradição e as raízes, mas com técnicas e sensibilidade atuais, para que o cliente coreano encontre algo novo no que é familiar e o estrangeiro encontre algo familiar no que é novo. Pelas contas do chef, os pratos são cerca de 70% coreanos na origem e 30% inspirados em outras culturas, com influências de Hong Kong e da Europa e técnicas ocidentais usadas para dar frescor.",
+      "O centro da cozinha é o jang: ganjang (molho de soja), doenjang (pasta de soja fermentada) e gochujang (pasta de pimenta), muitos feitos na casa, além de vinagres fermentados. Eles se combinam a peixes, carnes e vegetais da estação vindos de várias regiões da Coreia, como gelatina de bolota e raiz de campânula. O menu-degustação muda com as estações e é servido num salão minimalista de madeira clara, flores e cerâmicas em tons de creme feitas por artesãos coreanos."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Jang Trio (trio de jang)",
+      "desc": "Sobremesa assinatura da casa: crème brûlée de doenjang com noz-pecã marinada em molho de soja, gochujang e sorvete de baunilha.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Soy_Sauce_Ganjang%2C_Gochujang%2C_Doenjang.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Soy_Sauce_Ganjang,_Gochujang,_Doenjang.jpg",
+        "author": "Korea Agro-Fisheries & Food Trade Corporation",
+        "license": "KOGL Type 1",
+        "caption": "Os três jang da cozinha coreana: doenjang (pasta de soja), ganjang (molho de soja) e gochujang (pasta de pimenta) (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Mingling Pot",
+      "desc": "Panela de caldo quente com repolho, tendão bovino, cogumelos morchella recheados, abalone e outros frutos do mar, servida como um dos pratos assinatura do menu.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jeonbok-jjim.jpg/1920px-Jeonbok-jjim.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jeonbok-jjim.jpg",
+        "author": "lazy fri13th",
+        "license": "CC BY 2.0",
+        "caption": "Jeonbok-jjim, abalone cozido no vapor da cozinha coreana (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Hanwoo (carne bovina coreana)",
+      "desc": "Carne de gado hanwoo grelhada, servida em versões que variaram com as estações, com tupinambo, abalone, inhame ou kimchi.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Hanu-sutbul-gui_5.jpg/1920px-Hanu-sutbul-gui_5.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Hanu-sutbul-gui_5.jpg",
+        "author": "lazy fri13th",
+        "license": "CC BY 2.0",
+        "caption": "Carne hanwoo grelhada na brasa, à moda do churrasco coreano (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Ravióli de baunilha em caldo de anchova",
+      "desc": "Massa de mandu recheada com gelatina de vôngole, creme, capim-limão e baunilha, servida em caldo coreano de anchova.",
+      "photo": null
+    },
+    {
+      "name": "Abalone and Cabbage Seon (seon de abalone e repolho)",
+      "desc": "Abalone com repolho, citado pelos inspetores do Guia Michelin, em 2025, como exemplo da criatividade do chef.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2016,
+      "title": "Asia's 50 Best Restaurants – nº 15 (maior entrada do ano)"
+    },
+    {
+      "year": 2017,
+      "title": "1 estrela Michelin (Guia Michelin Seul 2017, primeira edição)"
+    },
+    {
+      "year": 2017,
+      "title": "Asia's 50 Best Restaurants – nº 15"
+    },
+    {
+      "year": 2018,
+      "title": "Asia's 50 Best Restaurants – nº 11"
+    },
+    {
+      "year": 2019,
+      "title": "2 estrelas Michelin (Guia Michelin Seul 2019)"
+    },
+    {
+      "year": 2019,
+      "title": "Asia's 50 Best Restaurants – nº 13"
+    },
+    {
+      "year": 2020,
+      "title": "Asia's 50 Best Restaurants – nº 14 e Best Restaurant in Korea"
+    },
+    {
+      "year": 2021,
+      "title": "Asia's 50 Best Restaurants – nº 10"
+    },
+    {
+      "year": 2021,
+      "title": "Inedit Damm Chefs' Choice Award (Asia's 50 Best) – Kang Mingoo"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants – nº 16"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants – nº 28"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants – nº 13 e Best Restaurant in Korea"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants – nº 44 (primeiro restaurante coreano no top 50)"
+    },
+    {
+      "year": 2025,
+      "title": "3 estrelas Michelin (Guia Michelin Seul & Busan 2025)"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants – nº 5"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 29"
+    },
+    {
+      "year": 2026,
+      "title": "3 estrelas Michelin mantidas (Guia Michelin Seul & Busan 2026)"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants – nº 4 e The Best Restaurant in South Korea"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants – nº 17"
+    }
+  ],
+  "practical": {
+    "price": "Menu-degustação de ₩300.000 a ₩380.000 por pessoa; harmonização a partir de ₩120.000 (2026)",
+    "reservation": "Pelo aplicativo CatchTable; as datas abrem cerca de um mês antes e costumam esgotar em poucas horas. Almoço e jantar de terça a sábado.",
+    "website": "https://www.restaurant-mingles.com",
+    "address": "19 Dosan-daero 67-gil, 2º andar, Gangnam-gu, Seul, Coreia do Sul"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jangdokdae_at_Tongdosa_Temple.jpg/1920px-Jangdokdae_at_Tongdosa_Temple.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jangdokdae_at_Tongdosa_Temple.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC0",
+      "caption": "Jangdokdae, terraço de potes de cerâmica onde se fermentam os jang, no templo budista de Tongdosa (imagem ilustrativa)",
+      "illustrative": true
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Korean_pottery-jangdoks_in_Gangjin_Jeollanamdo%281%29.jpg/1920px-Korean_pottery-jangdoks_in_Gangjin_Jeollanamdo%281%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Korean_pottery-jangdoks_in_Gangjin_Jeollanamdo(1).jpg",
+      "author": "Mar del Este",
+      "license": "CC BY-SA 4.0",
+      "caption": "Fileiras de jangdok, potes tradicionais usados para fermentar e conservar condimentos, em Gangjin, na província de Jeolla do Sul (imagem ilustrativa)",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/mingles.html",
+    "https://www.the50.com/asia/en/the-list/1-10/mingles.html",
+    "https://www.the50.com/discovery/Mingles.html",
+    "https://en.wikipedia.org/wiki/Mingles_(restaurant)",
+    "https://www.korean-culture.org/eng/webzine/202410/sub02.html",
+    "https://visitgangnam.net/en/influencer/interview-mingles",
+    "https://www.timeout.com/seoul/restaurants/kang-min-goo-mingles",
+    "https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20250227/mingles-becomes-koreas-new-michelin-3-star-restaurant",
+    "https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20180328/korean-restaurant-mingles-ranked-asias-11th-best-restaurant",
+    "https://www.thepeakmagazine.com.sg/lifestyle/mingles-three-stars-michelin-guide-2025",
+    "https://www.koreajoongangdaily.com/lifestyle/four-korean-eateries-make-asias-50-best-restaurants-list/10804570",
+    "https://www.koreajoongangdaily.com/lifestyle/mingles-named-the-best-korean-restaurant-by-2026-asias-50-best/12613743",
+    "https://v.daum.net/v/20240606155209387",
+    "https://korea.stripes.com/food-drink/mingles-ranks-29th-in-world%E2%80%99s-best-restaurant-2025-list.html",
+    "https://hypebeast.com/2019/3/asia-50-best-restaurants-2019",
+    "https://epicureasia.com/?p=12732",
+    "https://www.finedininglovers.com/article/asia-50-best-restaurants-2022-full-list",
+    "https://www.finedininglovers.com/article/asia-50-best-restaurants-2023-list",
+    "https://www.seoultourism.org/?p=540",
+    "https://www.hachette.com.au/mingoo-kang/",
+    "https://www.koreajoongangdaily.com/lifestyle/mingles-awarded-michelin-3star-among-growing-constellation-in-korea/12585594",
+    "https://www.travelsforstars.com/blog/2025/05/07/mingles-seoul",
+    "https://en.wikipedia.org/wiki/Cheongdam_Bridge"
+  ]
+}

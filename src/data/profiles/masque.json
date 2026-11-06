@@ -1,0 +1,184 @@
+{
+  "slug": "masque",
+  "lede": "Instalado num antigo moinho têxtil de Mahalaxmi, em Mumbai, o Masque abriu em 2016 servindo apenas menu-degustação, formato então raro na Índia, e construiu sua cozinha sobre ingredientes garimpados em todas as regiões do país. Em 2026 foi o restaurante indiano mais bem colocado no Asia's 50 Best.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mumbai%2C_lavatoi_al_mahalaxmi_dhobi_ghat_01.jpg/1920px-Mumbai%2C_lavatoi_al_mahalaxmi_dhobi_ghat_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mumbai,_lavatoi_al_mahalaxmi_dhobi_ghat_01.jpg",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "caption": "O Dhobi Ghat de Mahalaxmi, a lavanderia a céu aberto do bairro do Masque, com os prédios de Mumbai ao fundo",
+    "illustrative": false
+  },
+  "founded": 2016,
+  "founders": [
+    "Aditi Dugar",
+    "Aditya Dugar"
+  ],
+  "chef": {
+    "name": "Varun Totlani",
+    "bio": "Nascido em Mumbai, Totlani estudou na Culinary Academy of India, em Hyderabad, e depois no Culinary Institute of America, em Nova York. Entrou no Masque como commis na equipe de abertura, em 2016, virou sous-chef em 2021 e assumiu a cozinha em 2022, após a saída do chef fundador, Prateek Sadhu. Desenvolve os menus em conjunto com a brigada, puxando referências das origens regionais de cada cozinheiro."
+  },
+  "history": [
+    "O Masque abriu em 2016, criado por Aditi Dugar e pelo marido, Aditya Dugar. O casal ocupou um galpão da Laxmi Woollen Mills, antiga tecelagem num beco a cerca de 300 metros da rua principal, e convenceu o proprietário, a princípio reticente, em parte com uma refeição feita em casa. A proposta era arriscada para a cidade: só menu-degustação, sem opção à la carte, com o chef caxemirense Prateek Sadhu à frente da cozinha.",
+    "Em 2020 a casa abriu o Masque Lab, espaço de pesquisa para fermentações, conservas e testes de ingredientes, e recebeu o prêmio One To Watch do Asia's 50 Best. No ano seguinte entrou na lista asiática, em 32º lugar. No início de 2022, Sadhu deixou o restaurante e Varun Totlani, que estava ali desde a abertura, assumiu a cozinha; no mesmo ano o Masque passou a integrar a associação Relais & Châteaux.",
+    "Sob Totlani, a casa subiu para 16º na Ásia em 2023, estreou na lista mundial em 78º em 2024 e chegou a 68º em 2025. Em 2026 ficou em 15º no Asia's 50 Best e ganhou o Art of Hospitality Award; depois fechou por pouco mais de três meses para uma reforma assinada pelo Atelier Ashiesh Shah, apresentada nos dez anos da casa, em setembro. Em novembro entrou no top 50 mundial, em 26º."
+  ],
+  "cuisine": {
+    "style": "Indiana contemporânea de ingrediente",
+    "paragraphs": [
+      "O Masque não segue uma cozinha regional: o menu de dez tempos combina técnicas, sabores e produtos de várias partes da Índia, como algas de Goa ou a pimenta da Caxemira. A equipe viaja para conhecer produtores e comunidades, trabalha com coleta e com grãos tradicionais, e o cardápio muda com as estações. Há versões vegetariana e não vegetariana.",
+      "O Masque Lab funciona como despensa e laboratório: ali a equipe faz conservas, fermentados e itens como alho negro, que viram bases de sabor para os pratos, e recebe cozinheiros convidados, de chefs estrangeiros a mulheres da comunidade pesqueira koli e cozinheiras domésticas. O menu lançado nos dez anos foi descrito pela casa como construído a partir da memória, e o bar tem coquetéis inspirados nos cinco elementos da ayurveda e um programa em que o cliente monta o próprio gim."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Sea buckthorn pani puri",
+      "desc": "Releitura do petisco de rua com beterraba curada em alga, carambola e um caldo (pani) de sea buckthorn, fruta ácida e alaranjada que cresce em regiões de montanha como Ladakh.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Leh_Berry_Hippophae_Sea-buckthorn_Horticulture_Agriculture_Produce_of_India.jpg/1920px-Leh_Berry_Hippophae_Sea-buckthorn_Horticulture_Agriculture_Produce_of_India.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Leh_Berry_Hippophae_Sea-buckthorn_Horticulture_Agriculture_Produce_of_India.jpg",
+        "author": "Karunakar Rayker",
+        "license": "CC BY 2.0",
+        "caption": "Frutos de sea buckthorn no vale de Leh, em Ladakh (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Prickly pear, nagphani e coconut malai (figo-da-índia, nagphani e nata de coco)",
+      "desc": "Um dos tempos do menu-degustação de 2026, que junta o figo-da-índia ao nagphani e a uma nata de coco (malai).",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Prickly_pears.jpg/1920px-Prickly_pears.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Prickly_pears.jpg",
+        "author": "Tomás Castelazo",
+        "license": "CC BY-SA 2.5",
+        "caption": "Figos-da-índia, frutos do cacto Opuntia, à venda numa feira (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Sunchoke com ghassi (tupinambo com ghassi)",
+      "desc": "Tupinambo servido com ghassi, preparo regional indiano, num dos tempos do menu-degustação de 2026.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerusalem_Artichokes_tubers.jpg/1920px-Jerusalem_Artichokes_tubers.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jerusalem_Artichokes_tubers.jpg",
+        "author": "Christian Guthier",
+        "license": "CC BY 2.0",
+        "caption": "Tubérculos de tupinambo recém-colhidos (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Porco defumado com pimenta da Caxemira e poha",
+      "desc": "Carne de porco defumada temperada com a pimenta vermelha da Caxemira e servida com poha, o arroz achatado.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Kashmiri_Red_Chilies.jpg/1920px-Kashmiri_Red_Chilies.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kashmiri_Red_Chilies.jpg",
+        "author": "Inu06",
+        "license": "CC BY-SA 4.0",
+        "caption": "Pimentas vermelhas da Caxemira (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Khurchan kebab",
+      "desc": "Do menu dos dez anos, feito com coelho ou, na versão vegetariana, talo de lótus, e servido com carambola.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2020,
+      "title": "One To Watch Award, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2021,
+      "title": "Nº 32, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2022,
+      "title": "Nº 21, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2023,
+      "title": "Nº 16, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2024,
+      "title": "Nº 23, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2024,
+      "title": "Nº 78, The World's 50 Best Restaurants (51–100)"
+    },
+    {
+      "year": 2025,
+      "title": "Nº 19, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "Nº 68, The World's 50 Best Restaurants (51–100)"
+    },
+    {
+      "year": 2026,
+      "title": "Nº 15, Asia's 50 Best Restaurants, e The Best Restaurant in India (pela quinta vez)"
+    },
+    {
+      "year": 2026,
+      "title": "Art of Hospitality Award, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2026,
+      "title": "Nº 26, The World's 50 Best Restaurants"
+    }
+  ],
+  "practical": {
+    "price": "Menu de 10 tempos por Rs 9.999 por pessoa, sem impostos (site oficial, consultado em novembro de 2026)",
+    "reservation": "Pela página de reservas do site oficial; telefone +91 98190 69222",
+    "website": "https://www.masquerestaurant.com/",
+    "address": "Unit G3, Laxmi Woollen Mills, Shakti Mills Lane, Off Dr. E. Moses Road, Mahalaxmi, Mumbai 400011, Índia"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Madhusudan_mills_parel.jpg/1920px-Madhusudan_mills_parel.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Madhusudan_mills_parel.jpg",
+      "author": "Kunal Ghevaria",
+      "license": "CC BY 2.0",
+      "caption": "Teares abandonados da Madhusudan Mills, em Lower Parel, no antigo distrito têxtil de Mumbai onde fica o Masque",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Mill_lands_parel_ground.jpg/1920px-Mill_lands_parel_ground.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mill_lands_parel_ground.jpg",
+      "author": "Andrew Trueblood",
+      "license": "CC BY-SA 2.0",
+      "caption": "Galpões das antigas tecelagens de Parel, vizinhas de Mahalaxmi, com os prédios de Mumbai ao fundo",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Indian_cuisine-Panipuri-03.jpg/1920px-Indian_cuisine-Panipuri-03.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Indian_cuisine-Panipuri-03.jpg",
+      "author": "Ramakrishna Reddy y",
+      "license": "CC BY-SA 2.0",
+      "caption": "Pani puri tradicional, o petisco de rua que o Masque reinterpreta com sea buckthorn (imagem ilustrativa)",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/asia/en/the-list/11-20/masque.html",
+    "https://www.the50.com/discovery/Establishments/India/Mumbai/Masque.html",
+    "https://www.the50.com/stories/News/asias-50-best-restaurants-2026-masque-art-of-hospitality-award.html",
+    "https://www.masquerestaurant.com/",
+    "https://www.masquerestaurant.com/about-us-1",
+    "https://www.masquerestaurant.com/food",
+    "https://en.wikipedia.org/wiki/Masque_(restaurant)",
+    "https://www.restaurantindia.in/news/masque-turns-10-with-new-design-service-format-and-culinary-direction.n17349",
+    "https://www.tatlerasia.com/dining/food/a-decade-of-masque-and-the-mumbai-restaurant-that-changed-how-india-eats-out",
+    "https://www.theestablished.com/culture/living/masques-new-head-chef-varun-totlani-shares-a-taste-of-whats-to-come",
+    "https://www.harpersbazaar.in/travel-food/story/in-conversation-with-chef-varun-totlani-of-masque-an-indian-restaurant-that-ranks-as-asias-16th-best-3319",
+    "https://luxe.outlookindia.com/food-travel/indian-accent-and-masque-rank-in-the-worlds-50-best-restaurants-2024-list",
+    "https://www.knocksense.com/mumbai/mumbai-resto-earns-best-restaurant-in-india-title-on-asias-top-50-list-know-details",
+    "https://www.outlooktraveller.com/explore/story/72609/mumbais-masque-restaurant-joins-the-prestigious-relais-chateaux-family",
+    "https://www.outlooktraveller.com/News/this-award-winning-mumbai-restaurant-is-having-a-pop-up-in-delhi",
+    "https://www.restauranttimes.com/?p=4333"
+  ]
+}

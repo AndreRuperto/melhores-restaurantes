@@ -1,0 +1,176 @@
+{
+  "slug": "reale",
+  "lede": "Num antigo mosteiro do século 16 nas montanhas do Abruzzo, Niko Romito, cozinheiro autodidata, faz uma cozinha italiana de poucos elementos, de aparência simples e sabor concentrado, que nos últimos anos passou a girar em torno dos vegetais. O Reale começou como a trattoria da família numa vila vizinha e chegou às três estrelas Michelin no guia de 2014.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Castel_di_Sangro_%28AQ%29_Innevata.jpg/1920px-Castel_di_Sangro_%28AQ%29_Innevata.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Castel_di_Sangro_(AQ)_Innevata.jpg",
+    "author": "Mario75Romano",
+    "license": "CC BY-SA 4.0",
+    "caption": "Castel di Sangro, no alto vale do rio Sangro, coberta de neve",
+    "illustrative": false
+  },
+  "founded": 2000,
+  "founders": [
+    "Niko Romito",
+    "Cristiana Romito"
+  ],
+  "chef": {
+    "name": "Niko Romito",
+    "bio": "Nascido em 1974 em Castel di Sangro e criado em Rivisondoli, estudava economia em Roma quando a morte do pai, Antonio, o levou de volta para assumir, com a irmã Cristiana, a trattoria da família; nunca tinha cozinhado profissionalmente e aprendeu sozinho. Além do Reale, mantém em Casadonna uma escola de cozinha, a Accademia Niko Romito, criou a rede de restaurantes Spazio, tocada por ex-alunos, assina desde 2017 os restaurantes dos hotéis Bulgari e lançou em 2016 o IN – Intelligenza Nutrizionale, um protocolo de cozinha para hospitais."
+  },
+  "history": [
+    "O Reale nasceu em Rivisondoli, vila de montanha do Abruzzo, no ponto em que a família Romito tinha uma confeitaria, transformada em trattoria pelo pai, Antonio, em meados dos anos 1990. Com a morte dele, Niko e a irmã Cristiana assumiram a casa em 2000 — ele na cozinha, sem formação, ela no salão, depois de se formar em tradução e interpretação. A clientela local demorou a aceitar a nova proposta, mas a crítica não: vieram a primeira estrela Michelin em 2007 e a segunda em 2009.",
+    "Em 2011 os irmãos levaram o restaurante para Casadonna, um mosteiro do século 16 restaurado em Piana Santa Liberata, nos arredores de Castel di Sangro. O complexo reúne o Reale, um pequeno hotel, a escola de cozinha, hortas, pomares, um vinhedo experimental e um laboratório de panificação. A terceira estrela veio com o guia Michelin de 2014.",
+    "No The World's 50 Best Restaurants, o Reale apareceu em 84º lugar em 2016, entrou no top 50 em 43º em 2017 e subiu para 36º em 2018; caiu para 51º em 2019 e voltou em 29º em 2021. Em 2022, ano em que passou a servir um menu-degustação sem carne nem peixe, chegou ao 15º lugar, sua melhor posição. Depois foi 16º em 2023, 19º em 2024 e 18º em 2025. Em 2026 aparece em 27º."
+  ],
+  "cuisine": {
+    "style": "Cozinha italiana contemporânea, minimalista e centrada nos vegetais",
+    "paragraphs": [
+      "Romito chama seu trabalho de \"aparentemente simples\": pratos com nomes curtos e poucos ingredientes por trás dos quais há longos processos de extração, redução e limpeza de sabores. Desde meados dos anos 2000 ele trabalha para tirar gordura e excessos dos pratos e estuda técnicas pouco usadas na alta cozinha, como o cozimento sob pressão. O exemplo mais citado é o assoluto de cipolle, um caldo feito só da água que as cebolas soltam ao cozinhar sob sal. Ele diz que busca \"a comida italiana de amanhã\".",
+      "Desde março de 2022 o menu-degustação do Reale não tem carne nem peixe — Romito faz questão de dizer que não se trata de um restaurante vegano, e pratos de carne e peixe continuam no cardápio à la carte. As passagens são de vegetais como pepino com folhas silvestres, alface com amêndoa ou pêssego com pimentão, ao lado de clássicos da casa e de técnicas regionais, como a carne de porco in carpione, frita e marinada em vinagre. O pão é servido como uma etapa própria do menu, resultado de pesquisas de fermentação e de farinhas de trigos antigos como o Solina e o Saragolla."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Assoluto di cipolle, parmigiano e zafferano tostato (absoluto de cebola, parmesão e açafrão tostado)",
+      "desc": "Criado em 2009, é um caldo feito do líquido de cebolas cozidas sob sal, depois batidas e coadas, com pequenos ravioli de parmesão e açafrão tostado.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Fioritura_zafferano_di_Navelli.jpg/1920px-Fioritura_zafferano_di_Navelli.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Fioritura_zafferano_di_Navelli.jpg",
+        "author": "Giancarlo.pak",
+        "license": "CC BY-SA 4.0",
+        "caption": "Flor de açafrão (Crocus sativus) em Navelli, no Abruzzo (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Ravioli con ricotta di pecora (ravióli de ricota de ovelha)",
+      "desc": "Prato da tradição das montanhas do Abruzzo que está no cardápio desde 2000, o ano em que os irmãos Romito assumiram a casa, e ainda é servido.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ravioli_fatti_in_casa.jpg/1920px-Ravioli_fatti_in_casa.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Ravioli_fatti_in_casa.jpg",
+        "author": "Marica Massaro",
+        "license": "CC BY-SA 4.0",
+        "caption": "Ravióli caseiros em Avezzano, no Abruzzo (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Pane (pão)",
+      "desc": "O pão de Romito, fruto de anos de pesquisa sobre fermentação e farinhas de trigos antigos, é servido como uma etapa do menu-degustação.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Grano_Solina.jpg/1920px-Grano_Solina.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Grano_Solina.jpg",
+        "author": "Marica Massaro",
+        "license": "CC BY-SA 4.0",
+        "caption": "Grãos de trigo Solina, variedade antiga do Abruzzo (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Lattuga e mandorla (alface e amêndoa)",
+      "desc": "Uma única folha de alface com um molho à base de amêndoa, que o 50 Best cita como exemplo do minimalismo do chef.",
+      "photo": null
+    },
+    {
+      "name": "Piccione fondente e pistacchio (pombo e pistache)",
+      "desc": "Pombo de textura macia com pistache, criado em 2016 e apontado como a principal expressão do trabalho de Romito com carnes; desde 2022 é servido no cardápio à la carte.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2007,
+      "title": "Primeira estrela Michelin"
+    },
+    {
+      "year": 2009,
+      "title": "Segunda estrela Michelin"
+    },
+    {
+      "year": 2014,
+      "title": "Três estrelas Michelin (guia de 2014)"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants — 84º lugar (lista 51–100)"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants — 43º lugar (estreia no top 50)"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants — 36º lugar"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants — 51º lugar (lista 51–100)"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — 29º lugar"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — 15º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — 16º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — 19º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — 18º lugar"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 27º lugar"
+    }
+  ],
+  "practical": {
+    "price": "Menu-degustação \"Degustazione Reale\", de 12 etapas, por € 250 por pessoa, sem bebidas (Scatti di Gusto, outubro de 2026)",
+    "reservation": "Jantar de quarta a domingo e almoço de quinta a domingo; fecha segundas e terças e tem um período de férias anual. Reservas pelo site, pelo telefone +39 0864 69382 ou pelo e-mail info@ristorantereale.it",
+    "website": "https://www.nikoromito.com",
+    "address": "Casadonna, Piana Santa Liberata, 67031 Castel di Sangro (AQ), Itália"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Castel_di_Sangro%2C_Panoramica.jpg/1920px-Castel_di_Sangro%2C_Panoramica.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Castel_di_Sangro,_Panoramica.jpg",
+      "author": "Mario75Romano",
+      "license": "CC BY-SA 4.0",
+      "caption": "Castel di Sangro à noite, com a basílica de Santa Maria Assunta ao centro",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Rivisondoli_sotto_la_luce_del_tramonto.jpg/1920px-Rivisondoli_sotto_la_luce_del_tramonto.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rivisondoli_sotto_la_luce_del_tramonto.jpg",
+      "author": "Calancot",
+      "license": "CC BY-SA 4.0",
+      "caption": "Rivisondoli ao entardecer; a vila de montanha onde o Reale funcionou até 2011",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/21-30/reale.html",
+    "https://www.the50.com/discovery/Establishments/Italy/Castel-di-Sangro/Reale.html",
+    "https://www.nikoromito.com/?p=518",
+    "https://www.nikoromito.com/en/?p=3006",
+    "https://it.wikipedia.org/wiki/Niko_Romito",
+    "https://www.identitagolose.com/sito/en/6/2465/chef/nikoromito.html",
+    "https://four-magazine.com/?p=22720",
+    "https://www.dissapore.com/ristoranti/50-best-restaurants-2016-niko-romito-tra-i-primi-100/",
+    "https://www.scattidigusto.it/2019/06/18/50-best-restaurants-2019-niko-romito-guida-italiani",
+    "https://www.dissapore.com/notizie/the-50-best-restaurants-2022-grande-rimonta-del-reale-di-niko-romito/",
+    "https://appetitomagazine.com/news/the-worlds-50-best-restaurants-2024-names-spains-disfrutar-no-1",
+    "https://italynews.online/?p=13006",
+    "https://www.scattidigusto.it/2020/06/17/stelle-michelin-niko-romito-riapre-il-reale-con-il-menu-speciale-20-anni",
+    "https://www.scattidigusto.it/2022/03/22/niko-romito-ristorante-reale-menu-2022/",
+    "https://www.scattidigusto.it/ristorante-reale-di-niko-romito-recensione-essenziale-anche-nel-prezzo"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "al-gatto-verde",
+  "lede": "Num antigo estábulo da Casa Maria Luigia, a casa de hóspedes de Massimo Bottura no campo perto de Modena, a canadense Jessica Rosval cozinha quase tudo no fogo de lenha. O Al Gatto Verde junta produtos da Emília, como Parmigiano Reggiano e aceto balsâmico, a lembranças do Quebec onde a chef cresceu.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Torre_Ghirlandina_01.jpg/1920px-Torre_Ghirlandina_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Torre_Ghirlandina_01.jpg",
+    "author": "Cyberkeak",
+    "license": "CC BY-SA 4.0",
+    "caption": "Torre Ghirlandina e a catedral de Modena, no centro da cidade",
+    "illustrative": false
+  },
+  "founded": 2023,
+  "founders": [
+    "Massimo Bottura",
+    "Lara Gilmore"
+  ],
+  "chef": {
+    "name": "Jessica Rosval",
+    "bio": "Nascida em Montreal, no Canadá, Rosval estudou cozinha na cidade e trabalhou no Chez L'Épicier, em Montreal, e no Bearfoot Bistro, em Whistler. Em 2013, um dia depois de jantar na Osteria Francescana, escreveu a Massimo Bottura pedindo qualquer posto na cozinha e começou lá dois meses depois; em 2019 assumiu a cozinha da Casa Maria Luigia. Fora do restaurante, criou em 2020 com Caroline Caporossi a Association for the Integration of Women e, em 2022, o Roots, restaurante-escola em Modena que forma mulheres migrantes como cozinheiras."
+  },
+  "history": [
+    "A origem do Al Gatto Verde é o Tòla Dòlza, encontro informal de domingo em volta do forno a lenha que Rosval começou a organizar na Casa Maria Luigia em junho de 2020; o nome, em dialeto, quer dizer algo como \"vá com calma\". A casa de hóspedes de Massimo Bottura e Lara Gilmore, no campo de San Damaso, a cerca de 20 minutos de carro do centro de Modena, já tinha um restaurante de menu-degustação, e o churrasco de domingo virou a ideia para um segundo.",
+    "O restaurante abriu em 20 de setembro de 2023 nos antigos estábulos da villa do século 18, ao lado da acetaia da propriedade, que guarda mais de mil barris de aceto balsâmico tradicional. O nome vem de uma história de um gato verde contada por Enzo Ferrari e lembrada a Bottura por Piero Ferrari. A reforma tornou o prédio quase autossuficiente: energia solar no telhado, lenha de árvores caídas da propriedade e cozinha sem plástico.",
+    "Pouco mais de um ano depois, na edição 2025 do Guia Michelin, a casa ganhou a primeira estrela e a estrela verde, dada a restaurantes que se destacam em sustentabilidade. Em 2024, Rosval e Caporossi receberam o prêmio Champions of Change da The World's 50 Best pelo trabalho do Roots. O Al Gatto Verde estreou na lista em 2025, no nº 92, como único italiano entre 51 e 100. Em novembro de 2026, em Lima, subiu 68 posições até o nº 24, e Rosval foi eleita Best Female Chef do ano."
+  ],
+  "cuisine": {
+    "style": "Cozinha emiliana no fogo de lenha",
+    "paragraphs": [
+      "Bottura chamou o projeto de \"uma operação de biodiversidade cultural\": receitas da tradição emiliana relidas por uma chef de fora. Rosval diz que ali se encontram suas raízes canadenses e as tradições da Emília, e o cardápio mostra isso, com tortellini, cotechino, enguia, Parmigiano Reggiano e aceto balsâmico ao lado de pratos como um carrinho de carnes defumadas ou uma sobremesa de xarope de bordo.",
+      "O fogo é a técnica central: grelhas, brasas, forno e fumaça passam por quase todos os pratos, inclusive massas e sobremesas. A grelha foi feita na Toscana e o forno, forjado em Modena. Há serviço à la carte e um menu-degustação de sete etapas; o atual, chamado Fables, se inspira em fábulas italianas e suas morais. Os legumes vêm em parte das hortas da casa e de produtores locais, e o vinho, de vinhedos vizinhos."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Miseria e Nobiltà (Miséria e nobreza)",
+      "desc": "Um tortellino vazio servido com ragù do bosque e trufa emiliana, brincadeira com o prato mais famoso de Modena.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tortellini_of_Modena.JPG/1920px-Tortellini_of_Modena.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Tortellini_of_Modena.JPG",
+        "author": "Nerodiseppia",
+        "license": "CC BY-SA 3.0",
+        "caption": "Tortellini, massa típica de Modena; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Spaghetto di storione (Espaguete de esturjão)",
+      "desc": "Espaguete cozido num caldo de esturjão grelhado, com zabaione de limão e caviar Oscietra Royal.",
+      "photo": null
+    },
+    {
+      "name": "Il carrello delle carni affumicate (O carrinho de carnes defumadas)",
+      "desc": "Degustação de carnes defumadas servida num carrinho, com condimentos da casa e pão de burnt ends, as pontas tostadas do churrasco.",
+      "photo": null
+    },
+    {
+      "name": "Sugar Shack",
+      "desc": "Mousse e fudge de xarope de bordo canadense com tire d'érable, o puxa-puxa de bordo das cabanas de açúcar do Quebec onde a chef cresceu.",
+      "photo": null
+    },
+    {
+      "name": "Non è una cozza (Não é um mexilhão)",
+      "desc": "Prato do cardápio de abertura, em 2023: siri-azul com barriga de porco e maçã.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2024,
+      "title": "Champions of Change da The World's 50 Best Restaurants para Jessica Rosval e Caroline Caporossi, pelo Roots"
+    },
+    {
+      "year": 2025,
+      "title": "Primeira estrela Michelin e estrela verde Michelin (Guia Michelin Itália 2025)"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 92 (lista 51–100, estreia)"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: nº 24"
+    },
+    {
+      "year": 2026,
+      "title": "Best Female Chef da The 50 Best Restaurants para Jessica Rosval"
+    }
+  ],
+  "practical": {
+    "price": "Menu-degustação Fables, de sete etapas, a 170 euros por pessoa; à la carte, entradas de 25 a 35 euros, massas de 45 a 60 euros e pratos principais de 50 a 70 euros (site oficial, 2026).",
+    "reservation": "Reservas online pelo site oficial ou pelo telefone +39 334 655 5554. Segundo a The 50 Best, o restaurante serve jantar de quarta a domingo e almoço aos domingos; o site oficial diz que abre de terça a domingo a partir do meio-dia. Só aceita clientes a partir de 15 anos.",
+    "website": "https://ristorantealgattoverde.com/",
+    "address": "Stradello Bonaghino 56, San Damaso, 41126 Modena, Itália (dentro da Casa Maria Luigia)"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Massimo_Bottura_Rimini.jpg/1920px-Massimo_Bottura_Rimini.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Massimo_Bottura_Rimini.jpg",
+      "author": "Pietro Luca Cassarino",
+      "license": "CC BY-SA 4.0",
+      "caption": "Massimo Bottura, dono da Casa Maria Luigia e do Al Gatto Verde, em Rimini (2015)",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Barrel_of_Traditional_Balsamic_Vinegar_of_Modena.jpg/1920px-Barrel_of_Traditional_Balsamic_Vinegar_of_Modena.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Barrel_of_Traditional_Balsamic_Vinegar_of_Modena.jpg",
+      "author": "Giottotaste",
+      "license": "CC0",
+      "caption": "Barril de carvalho de aceto balsâmico tradicional de Modena no Museu do Vinagre Malpighi; imagem ilustrativa da acetaia vizinha ao restaurante",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/discovery/Establishments/Italy/Modena/Al-Gatto-Verde.html",
+    "https://ristorantealgattoverde.com/",
+    "https://ristorantealgattoverde.com/menu/",
+    "https://www.theupcoming.co.uk/2026/11/05/meet-jessica-rosval-the-worlds-best-female-chef/",
+    "https://www.scattidigusto.it/al-gatto-verde-bottura-nuovo-ristorante-modena",
+    "https://www.fortuneita.com/?p=319638",
+    "https://www.gamberorosso.it/notizie/attualita/50-best-jessica-rosval/",
+    "https://en.ilsole24ore.com/art/al-gatto-verde-rosval-and-bottura-only-italian-51-100-best-restaurants-AHKbkM9",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/the-michelin-guide-italy-2025-70th-anniversary-new-three-star",
+    "https://www.modenatoday.it/attualita/al-gatto-verde-50best-jessica-rosval-best-female-chef.html",
+    "https://www.identitagolose.it/sito/it/95/47265/dal-mondo/jessica-rosval-miglior-chef-donna-del-mondo-la-best-female-chef-per-the-50.html"
+  ]
+}

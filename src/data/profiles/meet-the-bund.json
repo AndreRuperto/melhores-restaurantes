@@ -1,0 +1,155 @@
+{
+  "slug": "meet-the-bund",
+  "lede": "Aberto em 2019 no Bund, em Xangai, o Meet the Bund se apresentou como o primeiro restaurante de alta gastronomia da cidade dedicado à cozinha de Fujian, a culinária min, com uma equipe de cozinha toda vinda daquela província do sul da China. Caldos de longo cozimento, frutos do mar e pratos clássicos de Fujian revistos com técnica moderna levaram a casa ao posto de melhor restaurante da China continental na lista asiática de 2026.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/1920px-Pudong_Shanghai_November_2017_panorama.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg",
+    "author": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "caption": "Os arranha-céus de Lujiazui, em Pudong, vistos do Bund do outro lado do rio Huangpu: a paisagem que as janelas do restaurante emolduram (foto de 2017)",
+    "illustrative": false
+  },
+  "founded": 2019,
+  "founders": [
+    "Wu Rong"
+  ],
+  "chef": {
+    "name": "Chen Zhiping",
+    "bio": "Criado em Quanzhou, no sul de Fujian, Chen Zhiping, conhecido como Yoda, treinou por mais de uma década com Wu Rong, referência da cozinha min e dono do restaurante, e passou pela cozinha do grupo Yanyu em Xiamen. Comanda a cozinha do Meet the Bund desde a abertura, em 2019; no ano seguinte, quando a casa ganhou a primeira estrela, o Guia Michelin de Xangai concedeu ao jovem chef da casa o prêmio Michelin Young Chef. Ele resume o método assim: técnicas modernas são apenas pincéis novos para pintar a tradição."
+  },
+  "history": [
+    "Por trás do restaurante está Wu Rong, cozinheiro de Fujian que começou em cozinhas de hotel em 1998, abriu em 2011 um restaurante de cozinha de fusão em sua província e, em 2016, voltou-se para a tradição com a rede Mr Rong's (荣先森), de comida do sul de Fujian. A ideia era tirar a cozinha min, uma das oito grandes tradições culinárias da China e menos conhecida fora da província que a sichuanesa ou a cantonesa, do circuito regional e levá-la às grandes cidades do país.",
+    "O Meet the Bund (遇外滩) abriu em 2019 no terceiro andar do Bund Finance Center, complexo à beira do rio Huangpu, no extremo sul do Bund, como versão de alto padrão desse projeto. Chen Zhiping, discípulo de Wu, assumiu a cozinha. As paredes cor de tijolo lembram as casas de tijolo vermelho do sul de Fujian, e as janelas, do chão ao teto, dão para o rio e para o skyline de Xangai. Mais tarde a marca ganhou uma segunda casa, o Meet the Bund Skyline, no 56º andar de uma das torres do Raffles City The Bund, na margem norte do Bund.",
+    "Em outubro de 2020, menos de dois anos após a abertura, a casa recebeu uma estrela no Guia Michelin Xangai 2021, a primeira para um restaurante de cozinha de Fujian na seleção da cidade. A estreia no Asia's 50 Best Restaurants veio em 2024, no 50º lugar. Em 2025 subiu 36 posições, para o 14º, foi eleita o melhor restaurante da China continental e entrou na lista mundial estendida, em 94º. Em março de 2026 chegou ao 6º lugar na Ásia, de novo como o melhor da China continental, e em novembro ficou em 21º no The 50 Best Restaurants 2026."
+  ],
+  "cuisine": {
+    "style": "Fujianesa (min) contemporânea",
+    "paragraphs": [
+      "A base é a cozinha do sul de Fujian, a tradição minnan de Xiamen e Quanzhou, apresentada em versões mais polidas e contidas. O restaurante descreve seu princípio como manter a tradição buscando inovar: valorizar o sabor natural das proteínas e dos vegetais, com pratos leves e ao mesmo tempo cheios de camadas. Os pilares são frutos do mar muito frescos, sopas e cozidos de longa fervura ricos em umami e cortes de faca precisos.",
+      "Os ingredientes vêm em boa parte do repertório de Fujian: abalone, bexiga natatória de peixe, pepino-do-mar, caranguejo-de-lama com ova, arroz glutinoso, alga nori da primeira colheita, carnes marinadas em arroz de levedura vermelha e chás das montanhas Wuyi. O clássico Buddha Jumps Over the Wall é feito sem barbatana de tubarão, e um dos menus traz harmonização com chás, entre eles jasmim, dan cong de Wudong, lapsang souchong e pu-erh de Jingmai."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Fotiaoqiang (佛跳墙, \"Buda pula o muro\")",
+      "desc": "A sopa mais célebre de Fujian, feita só por encomenda com abalone, pepino-do-mar, bexiga natatória de peixe, vieira seca e cogumelos no lugar da barbatana de tubarão, num caldo claro que, segundo o Michelin, leva uma semana para ficar pronto.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fotiaoqiang_at_Juchunyuan%2C_Fuzhou_%2820250127114656%29.jpg/1920px-Fotiaoqiang_at_Juchunyuan%2C_Fuzhou_%2820250127114656%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Fotiaoqiang_at_Juchunyuan,_Fuzhou_(20250127114656).jpg",
+        "author": "N509FZ",
+        "license": "CC BY-SA 4.0",
+        "caption": "Fotiaoqiang servido no restaurante Juchunyuan, em Fuzhou, capital de Fujian (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Duck essence (essência de pato)",
+      "desc": "Consomê cor de âmbar obtido ao cozinhar um pato inteiro no vapor por horas, num recipiente fechado, e recolher o suco concentrado.",
+      "photo": null
+    },
+    {
+      "name": "厦门红蟳蒸米糕 (arroz glutinoso no vapor com caranguejo-de-lama vermelho, à moda de Xiamen)",
+      "desc": "Prato de festa de Fujian em que o caranguejo com ova é cozido no vapor sobre arroz glutinoso, que absorve seus sucos.",
+      "photo": null
+    },
+    {
+      "name": "原创葱头油肉汁焗荔浦芋头 (inhame de Lipu assado com óleo de cebola roxa e molho de carne de porco)",
+      "desc": "Criação da casa e um de seus pratos mais pedidos: inhame de Lipu assado sob um molho espesso de carne, óleo de cebola roxa e o próprio inhame.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Lipu_taro_casserole.jpg/1920px-Lipu_taro_casserole.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Lipu_taro_casserole.jpg",
+        "author": "Fumikas Sagisavas",
+        "license": "CC0",
+        "caption": "Caçarola de inhame de Lipu (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "盐酒干蒸闽西河田鸡 (frango de Hetian, do oeste de Fujian, cozido no vapor com vinho e sal)",
+      "desc": "Ave da raça Hetian cozida no vapor numa salmoura com vinho, que deixa a pele macia e elástica.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2020,
+      "title": "Guia Michelin Xangai 2021 (publicado em outubro de 2020) — 1 estrela, primeira para a cozinha de Fujian na seleção da cidade; Michelin Young Chef Award para o chef da casa"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants — nº 50 (estreia)"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 14 (The Best Restaurant in the Chinese Mainland)"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 94 (lista 51–100, estreia)"
+    },
+    {
+      "year": 2025,
+      "title": "Chinese Restaurant Awards, Elite 15 Asia — nº 4"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 6 (The Best Restaurant in Mainland China)"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 21"
+    }
+  ],
+  "practical": {
+    "price": "Menu-degustação a partir de 194 dólares por pessoa, segundo o The 50 Best (2026); há também pedidos à la carte",
+    "reservation": "Por telefone (+86 21 6377 7668). Almoço e jantar todos os dias. O Buddha Jumps Over the Wall precisa ser encomendado com antecedência.",
+    "website": null,
+    "address": "S301, 3º andar, South Mall, The Bund Finance Center, 600 Zhongshan Dong Er Road, Huangpu, Xangai, China (endereço da ficha do The 50 Best; a marca tem uma segunda casa, o Meet the Bund Skyline, no 56º andar da torre oeste do Raffles City The Bund, em Hongkou, telefone +86 21 6888 9080)"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Fundaci%C3%B3n_Fosun_en_Shangh%C3%A1i.jpg/1920px-Fundaci%C3%B3n_Fosun_en_Shangh%C3%A1i.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_Fosun_en_Shangh%C3%A1i.jpg",
+      "author": "Agomga14",
+      "license": "CC BY-SA 4.0",
+      "caption": "Prédio da Fundação Fosun, centro de arte que faz parte do complexo Bund Finance Center, onde fica o restaurante (foto de 2019)",
+      "illustrative": false
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/20230130_Old_City_of_Quanzhou_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:20230130_Old_City_of_Quanzhou_01.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "caption": "Cidade velha de Quanzhou, no sul de Fujian, onde o chef Chen Zhiping foi criado",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuyi_Shan_Fengjing_Mingsheng_Qu_2012.08.23_15-10-18.jpg/1920px-Wuyi_Shan_Fengjing_Mingsheng_Qu_2012.08.23_15-10-18.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wuyi_Shan_Fengjing_Mingsheng_Qu_2012.08.23_15-10-18.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 3.0",
+      "caption": "Arbustos do chá Da Hong Pao na área cênica das montanhas Wuyi, em Fujian; chás da região aparecem no menu e nas sobremesas da casa (imagem ilustrativa)",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/list/1-50",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/meet-the-bund.html",
+    "https://www.the50.com/discovery/Establishments/China/Shanghai/Meet-the-Bund.html",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Meet-The-Bund.html",
+    "https://www.the50.com/stories/News/asias-50-best-restaurants-2024-the-list-in-pictures.html",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+    "https://english.shanghai.gov.cn/en-Restaurants/20250331/66a154db9a4540c69ee723a57e0c213e.html",
+    "https://www.tatlerasia.com/dining/food/asias-50-best-restaurants-2026",
+    "https://www.tatlerasia.com/dining/meet-the-bund-skyline",
+    "https://espacioprensa.michelin.es/wp-content/uploads/2020/11/CP_Guia-Michelin-Shanghai-2021_ES.pdf",
+    "https://www.chinadaily.com.cn/a/202010/22/WS5f90e14aa31024ad0ba80327.html",
+    "https://govt.chinadaily.com.cn/s/202501/21/WS678f479b498eec7e1f72dcaf/fujians-fragrant-feast_2.html",
+    "https://govt.chinadaily.com.cn/s/202501/21/WS678f479b498eec7e1f72dcaf/fujians-fragrant-feast_3.html",
+    "https://chineserestaurantawards.com/list/2025/elite-15-asia/meet-the-bund/",
+    "https://thebestchefawards.com/chefs/chen-zhiping/",
+    "https://m.winshang.com/news712969.html",
+    "https://rachelgouk.com/listings/meet-the-bund-bfc/",
+    "https://hedonisthk.blogspot.com/2026/04/meet-bund-bfc-shanghai-china-highest-ranked-restaurant-in-mainland-china-no6-asia-best-50-award.html"
+  ]
+}
