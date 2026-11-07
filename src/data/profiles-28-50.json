@@ -1,0 +1,869 @@
+{
+  "28": {
+    "lede": "No Trèsind Studio, em Dubai, a Índia é apresentada como uma viagem por regiões, sabores e referências culturais em um menu de degustação encenado.",
+    "history": [
+      "O chef Himanshu Saini abriu o projeto em 2018, depois de criar o Trèsind. O espaço em Palm Jumeirah opera com cerca de vinte lugares e usa cenografia ligada a cada etapa da refeição."
+    ],
+    "cuisine": {
+      "style": "Cozinha indiana contemporânea",
+      "paragraphs": [
+        "O menu Rising India percorre regiões do subcontinente e reinterpreta preparações e ingredientes indianos com técnicas modernas."
+      ]
+    },
+    "chef": {
+      "name": "Himanshu Saini"
+    },
+    "dishes": [
+      {
+        "name": "Cenoura, sambal de pimenta guntur e caldo koshimbir",
+        "desc": "Etapa inspirada no planalto de Decão, citada no menu descrito pela organização.",
+        "photo": null
+      },
+      {
+        "name": "Tortellini, raita de queijo de cabra e curry de nabo",
+        "desc": "Preparação associada à etapa dedicada às planícies do norte da Índia.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 28º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://tresindstudio.com",
+      "address": "St. Regis Gardens, The Palm Jumeirah, Dubai"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/tresind-studio.html"
+    ]
+  },
+  "29": {
+    "lede": "Em Barcelona, o Enigma é o laboratório gastronômico de Albert Adrià, com pequenas etapas que mudam conforme a estação.",
+    "history": [
+      "Depois de sua trajetória no elBulli, Albert Adrià concentrou no Enigma um projeto autoral de pesquisa culinária. O espaço foi concebido com arquitetura do escritório RCR Arquitectes."
+    ],
+    "cuisine": {
+      "style": "Cozinha de pesquisa e menu degustação contemporâneo",
+      "paragraphs": [
+        "O percurso costuma ter cerca de 25 etapas; as técnicas são experimentais, mas o produto sazonal continua no centro da proposta."
+      ]
+    },
+    "chef": {
+      "name": "Albert Adrià"
+    },
+    "dishes": [
+      {
+        "name": "Barriga de atum em escabeche de perdiz",
+        "desc": "Preparação citada entre as criações recentes do menu.",
+        "photo": null
+      },
+      {
+        "name": "Flã de foie gras",
+        "desc": "Uma das pequenas etapas mencionadas na apresentação do restaurante.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 29º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://enigmaconcept.es",
+      "address": "Carrer de Sepúlveda 38, Barcelona"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/enigma.html"
+    ]
+  },
+  "30": {
+    "lede": "O Steirereck, no Stadtpark de Viena, apresenta a tradição austríaca em versões atuais e com atenção a ingredientes pouco conhecidos.",
+    "history": [
+      "O restaurante familiar é conduzido por Heinz Reitbauer na cozinha e Birgit Reitbauer no salão. Funciona em uma construção histórica ampliada por uma estrutura contemporânea de vidro no parque."
+    ],
+    "cuisine": {
+      "style": "Cozinha austríaca contemporânea",
+      "paragraphs": [
+        "Plantas, variedades locais de frutas, peixes de água doce e produtos sazonais compõem menus que valorizam a biodiversidade da Áustria."
+      ]
+    },
+    "chef": {
+      "name": "Heinz Reitbauer"
+    },
+    "dishes": [
+      {
+        "name": "Truta de montanha com vagem, alcaparra e nectarina",
+        "desc": "Combinação sazonal citada no menu degustação.",
+        "photo": null
+      },
+      {
+        "name": "Carrinho de pães austríacos",
+        "desc": "Serviço que apresenta diferentes receitas de panificação do país.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 30º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://www.steirereck.at",
+      "address": "Am Heumarkt 2A, Stadtpark, Viena"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/steirereck.html"
+    ]
+  },
+  "31": {
+    "lede": "Em Cartagena, o Celele usa pesquisas sobre o Caribe colombiano para criar pratos com ingredientes regionais pouco conhecidos.",
+    "history": [
+      "Jaime Rodríguez desenvolveu com Sebastián Pinzón o Proyecto Caribe Lab, dedicado a registrar preparações e ingredientes da costa caribenha. A pesquisa permanece na base do restaurante, hoje conduzido por Rodríguez."
+    ],
+    "cuisine": {
+      "style": "Cozinha caribenha colombiana contemporânea",
+      "paragraphs": [
+        "O menu à la carte inclui pescados, frutas, sementes e vegetais de produtores e extrativistas da região; a apresentação combina técnicas atuais e tradições locais."
+      ]
+    },
+    "chef": {
+      "name": "Jaime Rodríguez"
+    },
+    "dishes": [
+      {
+        "name": "Robalo defumado com quiabo lactofermentado",
+        "desc": "Servido com homus de orejero e caldo de gergelim nativo.",
+        "photo": null
+      },
+      {
+        "name": "Celele de Cerdo",
+        "desc": "Terrine de porco confitado com pimentões conservados, feijões caribenhos e caldo.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 31º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://celelerestaurante.com",
+      "address": "Calle del Espíritu Santo, Cartagena, Colômbia"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/celele.html"
+    ]
+  },
+  "32": {
+    "lede": "O Potong ocupa um antigo prédio da família da chef Pam no bairro chinês de Bangkok e explora encontros entre cozinhas tailandesa e chinesa.",
+    "history": [
+      "Aberto em 2021, o restaurante recuperou um edifício de cinco andares usado pela família desde 1910. Pichaya Soontornyanakij transformou memórias familiares em um percurso gastronômico."
+    ],
+    "cuisine": {
+      "style": "Cozinha tailandesa-chinesa progressiva",
+      "paragraphs": [
+        "A chef estrutura os pratos em torno de sal, acidez, especiarias, textura e reações de caramelização e tostagem, com uso de ingredientes tradicionais."
+      ]
+    },
+    "chef": {
+      "name": "Pichaya 'Pam' Soontornyanakij"
+    },
+    "dishes": [
+      {
+        "name": "Lula marinada com tinta de lula",
+        "desc": "Uma das etapas do menu descrito pelo 50 Best.",
+        "photo": null
+      },
+      {
+        "name": "Caranguejo com coentro e capim-limão",
+        "desc": "Criação ligada ao repertório familiar da chef.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 32º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://www.restaurantpotong.com",
+      "address": "422 Vanich Road, Samphanthawong, Bangkok"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/potong.html"
+    ]
+  },
+  "33": {
+    "lede": "No Elkano, em Getaria, o peixe fresco é protagonista: a grelha basca é a técnica central da casa.",
+    "history": [
+      "Pedro Arregui transformou o comércio da família em um bar com grelha na rua e aperfeiçoou o preparo de peixes inteiros. O legado é mantido por seu filho Aitor Arregui."
+    ],
+    "cuisine": {
+      "style": "Peixes e frutos do mar na brasa, à moda basca",
+      "paragraphs": [
+        "O que chega à mesa depende da pesca do dia, com preparações simples que procuram preservar sabor e textura."
+      ]
+    },
+    "chef": {
+      "name": "Aitor Arregui"
+    },
+    "dishes": [
+      {
+        "name": "Rodovalho inteiro na brasa",
+        "desc": "Especialidade que ajudou a tornar a casa conhecida.",
+        "photo": null
+      },
+      {
+        "name": "Kokotxas",
+        "desc": "Bochechas de peixe, preparação tradicional do País Basco.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 33º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://www.restauranteelkano.com",
+      "address": "Herrerieta Kalea 2, Getaria, Espanha"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/elkano.html"
+    ]
+  },
+  "34": {
+    "lede": "O Le Coquillage, na Bretanha, trabalha com o ritmo das marés e a pesca do dia na baía do Monte Saint-Michel.",
+    "history": [
+      "Instalado no Château Richeux, o restaurante é conduzido por Hugo Roellinger, filho do chef Olivier Roellinger. Depois de trabalhar na marinha mercante, Hugo retornou à cozinha familiar."
+    ],
+    "cuisine": {
+      "style": "Cozinha marítima da Bretanha",
+      "paragraphs": [
+        "Peixes, crustáceos, algas e ervas costeiras compõem menus sazonais que priorizam a pesca responsável."
+      ]
+    },
+    "chef": {
+      "name": "Hugo Roellinger"
+    },
+    "dishes": [
+      {
+        "name": "Histoires de Homard",
+        "desc": "Lagosta da Bretanha apresentada em duas etapas.",
+        "photo": null
+      },
+      {
+        "name": "Chemin des Douaniers",
+        "desc": "Caranguejo-aranha servido com molho de ervas colhidas junto ao litoral.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 34º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://www.maisons-de-bricourt.com",
+      "address": "Le Buot, Saint-Méloir-des-Ondes, França"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/el-coquillage.html"
+    ]
+  },
+  "35": {
+    "lede": "Em Constantia Nek, perto da Cidade do Cabo, o La Colombe combina produtos sul-africanos com técnica francesa e apresentação teatral.",
+    "history": [
+      "A casa funciona em meio à vegetação da propriedade Silvermist, onde a experiência de refeição inclui serviço cuidadosamente encenado e pratos que mudam com a estação."
+    ],
+    "cuisine": {
+      "style": "Cozinha sul-africana contemporânea de influência francesa",
+      "paragraphs": [
+        "Frutos do mar, ervas nativas e vegetais locais aparecem em preparações delicadas e com intervenções visuais."
+      ]
+    },
+    "chef": {
+      "name": "James Gaag"
+    },
+    "dishes": [
+      {
+        "name": "Tuna La Colombe",
+        "desc": "Atum amarelo marinado com ervas e flores comestíveis, servido em uma pequena lata.",
+        "photo": null
+      },
+      {
+        "name": "Sequência sazonal de frutos do mar",
+        "desc": "Preparações do menu que variam conforme a disponibilidade dos ingredientes.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 35º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://www.lacolombe.restaurant",
+      "address": "Silvermist, Constantia Nek, Cidade do Cabo"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/la-colombe.html"
+    ]
+  },
+  "36": {
+    "lede": "Situado em um jardim botânico de Hangzhou, o Ru Yuan revisita receitas clássicas da cozinha regional hangbang.",
+    "history": [
+      "O chef Fu Yueliang tem décadas de experiência com a tradição gastronômica de Hangzhou. A casa procura preservar preparações históricas e apresentá-las para o público atual."
+    ],
+    "cuisine": {
+      "style": "Cozinha tradicional de Hangzhou refinada",
+      "paragraphs": [
+        "Peixes dos rios da região, camarões, chá Longjing e vegetais de Zhejiang aparecem em receitas baseadas na herança culinária local."
+      ]
+    },
+    "chef": {
+      "name": "Fu Yueliang"
+    },
+    "dishes": [
+      {
+        "name": "Porco braseado Medalha de Ouro",
+        "desc": "Banha e carne de porco em lâminas finas dobradas em formato de torre.",
+        "photo": null
+      },
+      {
+        "name": "Camarões de rio com chá Longjing",
+        "desc": "Prato associado à cozinha clássica de Hangzhou.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 36º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "address": "11 Yuquan Road, Xihu, Hangzhou"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/ru-yuan.html"
+    ]
+  },
+  "37": {
+    "lede": "Em Quito, o Nuema pesquisa ingredientes do Equador, do litoral ao território andino e à Amazônia.",
+    "history": [
+      "O restaurante foi fundado em 2014 e é conduzido pela dupla Alejandro Chamorro e Pía Salazar, que trabalha com pequenos produtores e ingredientes nativos."
+    ],
+    "cuisine": {
+      "style": "Cozinha equatoriana contemporânea",
+      "paragraphs": [
+        "A proposta aproxima técnicas atuais da biodiversidade e das tradições agrícolas do país, incluindo doces que usam vegetais e ervas."
+      ]
+    },
+    "chef": {
+      "name": "Alejandro Chamorro e Pía Salazar"
+    },
+    "dishes": [
+      {
+        "name": "Ceviche de atum com sacha inchi",
+        "desc": "Criação mencionada entre os pratos de diferentes temporadas.",
+        "photo": null
+      },
+      {
+        "name": "Medula com lentilhas e doce salgado de concha negra",
+        "desc": "Combinação de ingredientes equatorianos citada no menu da casa.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 37º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "website": "https://nuema.ec",
+      "address": "Bello Horizonte E11-12, Quito"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/nuema.html"
+    ]
+  },
+  "38": {
+    "lede": "O Atelier Moessmer ocupa uma antiga vila ligada à indústria têxtil em Brunico e apresenta a filosofia Cook the Mountain de Norbert Niederkofler.",
+    "history": [
+      "Aberto nessa sede em 2023, o restaurante sucedeu o trabalho do chef no St. Hubertus. Hoje, Mauro Siega coordena a cozinha do dia a dia, mantendo a pesquisa sobre ingredientes alpinos."
+    ],
+    "cuisine": {
+      "style": "Cozinha alpina de origem local",
+      "paragraphs": [
+        "A seleção de ingredientes privilegia produtos do Tirol e das montanhas próximas, numa proposta ligada à sazonalidade e ao aproveitamento dos recursos locais."
+      ]
+    },
+    "chef": {
+      "name": "Mauro Siega (com direção de Norbert Niederkofler)"
+    },
+    "dishes": [
+      {
+        "name": "Salada de primavera",
+        "desc": "Preparação citada pela organização como exemplo da cozinha sazonal.",
+        "photo": null
+      },
+      {
+        "name": "Bolo de queijo da montanha",
+        "desc": "Sobremesa apresentada entre os exemplos do menu.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 38º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/atelier-moessmer-norbert-niederkofler.html"
+    ]
+  },
+  "39": {
+    "lede": "O Schloss Schauenstein recebe visitantes em um castelo de Fürstenau e interpreta a paisagem suíça de Graubünden.",
+    "history": [
+      "Andreas Caminada transformou o castelo em um destino gastronômico. Parte da cozinha é abastecida pela horta do próprio restaurante, que influencia o menu diário."
+    ],
+    "cuisine": {
+      "style": "Cozinha suíça contemporânea",
+      "paragraphs": [
+        "Peixes de rio, cogumelos, vegetais, ervas e flores comestíveis ilustram a ligação entre os pratos e a região alpina."
+      ]
+    },
+    "chef": {
+      "name": "Andreas Caminada"
+    },
+    "dishes": [
+      {
+        "name": "Vegetais e ervas da horta do castelo",
+        "desc": "Ingredientes colhidos no próprio terreno e usados conforme a estação.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 39º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/schloss-stauenstein.html"
+    ]
+  },
+  "40": {
+    "lede": "Acima do Hotel Gentofte, na região de Copenhague, o Jordnær serve uma cozinha centrada em frutos do mar e hospitalidade informal.",
+    "history": [
+      "O restaurante é conduzido por Eric Vildgaard na cozinha e Tina Vildgaard no acolhimento dos clientes. O nome sugere algo próximo de 'pé no chão'."
+    ],
+    "cuisine": {
+      "style": "Frutos do mar com técnicas francesas e japonesas",
+      "paragraphs": [
+        "Lagostins, caranguejos e outros produtos do mar recebem preparos precisos que podem usar dashi, ponzu e wasabi."
+      ]
+    },
+    "chef": {
+      "name": "Eric Vildgaard"
+    },
+    "dishes": [
+      {
+        "name": "Lagostins noruegueses",
+        "desc": "Frutos do mar valorizados entre os ingredientes centrais da cozinha.",
+        "photo": null
+      },
+      {
+        "name": "Caranguejo-rei",
+        "desc": "Produto trabalhado em diferentes composições do menu degustação.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 40º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/jordnaer.html"
+    ]
+  },
+  "41": {
+    "lede": "O Onjium, em Seul, funciona como restaurante e espaço de estudo da história alimentar coreana.",
+    "history": [
+      "Ligado a um instituto de preservação cultural, o Food Studio pesquisa receitas, técnicas de fermentação e repertórios das cozinhas regionais e da corte de Joseon."
+    ],
+    "cuisine": {
+      "style": "Cozinha histórica coreana reinterpretada",
+      "paragraphs": [
+        "A equipe de Cho Eun-hee e Park Sung-bae recria técnicas e ingredientes documentados no passado para compor refeições contemporâneas."
+      ]
+    },
+    "chef": {
+      "name": "Cho Eun-hee e Park Sung-bae"
+    },
+    "dishes": [
+      {
+        "name": "Menu inspirado na cozinha da corte Joseon",
+        "desc": "Seleção de pratos de época reinterpretados a partir de pesquisa histórica.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 41º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/onjium.html"
+    ]
+  },
+  "42": {
+    "lede": "Dentro do centro de artes Bozar, em Bruxelas, o restaurante de Karen Torosyan dá destaque à precisão da cozinha clássica francesa.",
+    "history": [
+      "A casa integra o complexo cultural projetado por Victor Horta e transforma técnicas demoradas de panificação e confeitaria salgada em parte importante da experiência."
+    ],
+    "cuisine": {
+      "style": "Alta cozinha francesa clássica",
+      "paragraphs": [
+        "A massa folhada é uma especialidade da casa, usada em preparações trabalhosas como pithiviers e versões de pratos tradicionais."
+      ]
+    },
+    "chef": {
+      "name": "Karen Torosyan"
+    },
+    "dishes": [
+      {
+        "name": "Pithivier",
+        "desc": "Torta de massa folhada com recheio salgado, montada com técnica precisa.",
+        "photo": null
+      },
+      {
+        "name": "Boeuf Wellington",
+        "desc": "Carne envolta em massa folhada, uma das especialidades citadas pelo restaurante.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 42º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/bozar.html"
+    ]
+  },
+  "43": {
+    "lede": "O Le Calandre, em Rubano, alia o legado da família Alajmo a uma cozinha italiana inventiva.",
+    "history": [
+      "Massimiliano Alajmo e seu irmão Raffaele assumiram o restaurante dos pais em 1994. A casa oferece menus que alternam clássicos e criações sazonais."
+    ],
+    "cuisine": {
+      "style": "Cozinha italiana contemporânea",
+      "paragraphs": [
+        "A gastronomia da família combina memória culinária italiana, texturas inesperadas e apresentações inspiradas em artes visuais."
+      ]
+    },
+    "chef": {
+      "name": "Massimiliano Alajmo"
+    },
+    "dishes": [
+      {
+        "name": "Cappuccino Murrina",
+        "desc": "Creme de batata, sépia e ouriço-do-mar, com cores que lembram vidro veneziano.",
+        "photo": null
+      },
+      {
+        "name": "Risotto Passi d'Oro",
+        "desc": "Risoto de açafrão e alcaçuz inspirado em uma escultura.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 43º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/le-calandre.html"
+    ]
+  },
+  "44": {
+    "lede": "O Don Julio, no bairro de Palermo em Buenos Aires, celebra a parrilla e os produtos agrícolas argentinos.",
+    "history": [
+      "Pablo Rivero abriu a casa como restaurante de bairro e desenvolveu uma rede de fornecedores e produção própria. Guido Tassi conduz a cozinha."
+    ],
+    "cuisine": {
+      "style": "Parrilla argentina e vegetais de origem rastreável",
+      "paragraphs": [
+        "Os cortes de carne passam por maturação e preparo na brasa, enquanto hortaliças sazonais também têm papel de destaque."
+      ]
+    },
+    "chef": {
+      "name": "Guido Tassi"
+    },
+    "dishes": [
+      {
+        "name": "Bife ancho na parrilla",
+        "desc": "Corte bovino preparado na grelha argentina.",
+        "photo": null
+      },
+      {
+        "name": "Salada de tomates de variedades tradicionais",
+        "desc": "Preparação feita com tomates de produção selecionada.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 44º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/don.html"
+    ]
+  },
+  "45": {
+    "lede": "O Mayta, em Lima, transforma ingredientes peruanos em pratos de apresentação contemporânea.",
+    "history": [
+      "O chef Jaime Pesaque reformulou a casa em 2018 e ampliou o trabalho de pesquisa de ingredientes pelo projeto Yachay."
+    ],
+    "cuisine": {
+      "style": "Cozinha peruana contemporânea",
+      "paragraphs": [
+        "Milhos, tubérculos, ervas andinas e produtos amazônicos entram em menus degustação e pratos à la carte."
+      ]
+    },
+    "chef": {
+      "name": "Jaime Pesaque"
+    },
+    "dishes": [
+      {
+        "name": "Milho chullpi e flor de quinoa",
+        "desc": "Preparação de milho e ingredientes andinos citada no menu degustação.",
+        "photo": null
+      },
+      {
+        "name": "Ceviche amazônico",
+        "desc": "Uma das opções do repertório à la carte do restaurante.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 45º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/mayta.html"
+    ]
+  },
+  "46": {
+    "lede": "Em Bogotá, o El Chato trabalha ingredientes colombianos com técnicas que o chef Álvaro Clavijo desenvolveu em cozinhas internacionais.",
+    "history": [
+      "A casa ganhou espaço na cena gastronômica do bairro Quinta Camacho e mantém relações com produtores, pescadores e coletores de diferentes regiões da Colômbia."
+    ],
+    "cuisine": {
+      "style": "Cozinha colombiana autoral",
+      "paragraphs": [
+        "Tubérculos andinos, produtos do Pacífico, frutas e ervas pouco usadas em restaurantes aparecem em composições contemporâneas."
+      ]
+    },
+    "chef": {
+      "name": "Álvaro Clavijo"
+    },
+    "dishes": [
+      {
+        "name": "Preparações com tubérculos andinos",
+        "desc": "A cozinha valoriza variedades tradicionais de raízes da Colômbia.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 46º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/el-chato.html"
+    ]
+  },
+  "47": {
+    "lede": "No Hôtel de Paris, em Monte Carlo, o Le Louis XV preserva a valorização de ingredientes mediterrâneos iniciada por Alain Ducasse.",
+    "history": [
+      "O restaurante abriu em 1987 e marcou uma virada para menus mais leves e centrados em vegetais. Emmanuel Pilon comanda atualmente a cozinha."
+    ],
+    "cuisine": {
+      "style": "Alta cozinha mediterrânea e francesa",
+      "paragraphs": [
+        "Os pratos seguem estações e produtos da Riviera, reduzindo excessos para valorizar sabores da região."
+      ]
+    },
+    "chef": {
+      "name": "Emmanuel Pilon"
+    },
+    "dishes": [
+      {
+        "name": "Camarões de San Remo",
+        "desc": "Preparação com camarões e gelée de peixes de rocha.",
+        "photo": null
+      },
+      {
+        "name": "Cenouras locais com queijo de cabra",
+        "desc": "Criação sazonal ligada à cozinha de vegetais do restaurante.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 47º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/le-lous-xv-alain-ducasse.html"
+    ]
+  },
+  "48": {
+    "lede": "Em Londres, o Ikoyi combina ingredientes britânicos e especiarias globais em uma cozinha que resiste a rótulos regionais fixos.",
+    "history": [
+      "Criado em 2017 por Jeremy Chan e Iré Hassan-Odukale, o restaurante mudou para um espaço maior no Strand mantendo a proposta de pesquisa de sabores."
+    ],
+    "cuisine": {
+      "style": "Cozinha autoral com especiarias africanas e asiáticas",
+      "paragraphs": [
+        "O menu usa ingredientes de produtores britânicos e preparações aromáticas intensas, com fermentações e molhos complexos."
+      ]
+    },
+    "chef": {
+      "name": "Jeremy Chan"
+    },
+    "dishes": [
+      {
+        "name": "Arroz jollof defumado",
+        "desc": "Prato assinatura que varia de apresentação com a estação.",
+        "photo": null
+      },
+      {
+        "name": "Rodovalho com salada de caranguejo",
+        "desc": "Exemplo de combinação descrita pela organização.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 48º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/ikoyi.html"
+    ]
+  },
+  "49": {
+    "lede": "Nas encostas do Himalaia, perto de Kasauli, o Naar transforma ingredientes e memórias do norte da Índia em um menu sazonal.",
+    "history": [
+      "O chef Prateek Sadhu escolheu uma casa cercada de pinheiros e organiza a refeição em torno das seis estações tradicionalmente reconhecidas na região."
+    ],
+    "cuisine": {
+      "style": "Cozinha himalaia contemporânea com fogo",
+      "paragraphs": [
+        "O nome 'Naar' significa fogo em caxemir; brasas, produtos de montanha e técnicas locais orientam o menu."
+      ]
+    },
+    "chef": {
+      "name": "Prateek Sadhu"
+    },
+    "dishes": [
+      {
+        "name": "Askalu com queijo de iaque defumado",
+        "desc": "Pão semelhante a uma panqueca recheada, citado no menu.",
+        "photo": null
+      },
+      {
+        "name": "Pine Pine Pine",
+        "desc": "Sobremesa com sorvete de pinhão, óleo e xarope de pinheiro.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 49º lugar no ranking mundial"
+      }
+    ],
+    "practical": {},
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/naar.html"
+    ]
+  },
+  "50": {
+    "lede": "O Saint Peter, em Sydney, pesquisa maneiras de aproveitar quase integralmente os peixes que chegam à cozinha.",
+    "history": [
+      "Fundado por Josh Niland em 2016, o restaurante mudou em 2024 para o Grand National Hotel, em Paddington, mantendo o foco na redução de desperdício."
+    ],
+    "cuisine": {
+      "style": "Cozinha australiana de peixes, da escama à cauda",
+      "paragraphs": [
+        "O menu trabalha maturação de peixes, charcutaria marinha e preparações feitas com partes do pescado normalmente descartadas."
+      ]
+    },
+    "chef": {
+      "name": "Josh Niland"
+    },
+    "dishes": [
+      {
+        "name": "Embutido de bacalhau Murray",
+        "desc": "Exemplo de charcutaria feita com peixe.",
+        "photo": null
+      },
+      {
+        "name": "Macarrão de espinha de peixe",
+        "desc": "Preparação servida em caldo delicado de frutos do mar.",
+        "photo": null
+      }
+    ],
+    "awards": [
+      {
+        "year": 2026,
+        "title": "The 50 Best Restaurants — 50º lugar no ranking mundial"
+      }
+    ],
+    "practical": {
+      "address": "Grand National Hotel, Paddington, Sydney"
+    },
+    "sources": [
+      "https://www.the50.com/restaurants/best-in-the-world/the-list/saint-peter.html"
+    ]
+  }
+}
