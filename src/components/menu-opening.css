@@ -273,3 +273,23 @@
   .menu-opening__book,
   .menu-opening__leaf { transition: none !important; }
 }
+
+/* A mesma marca vetorial da navegação também identifica o cardápio. */
+.menu-opening__masthead {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+}
+.menu-opening__masthead-mark {
+  font-size: 16px;
+  color: var(--intro-gold);
+}
+.menu-opening__cover-mark {
+  font-size: clamp(24px, 3.6vw, 40px);
+  color: var(--intro-gold);
+  line-height: 1;
+}
+@media (max-width: 580px) {
+  .menu-opening__cover-mark { font-size: 24px; }
+}
