@@ -4,6 +4,7 @@ import { restaurants, CONTINENTS, COUNTRIES, countBy, bySlug } from '../data/res
 import { Header, Footer, Chapter, Em, Flag, Ornament, Tags } from '../components/ui'
 import WorldMap, { TIER_COLOR } from '../components/WorldMap'
 import RankingTable from '../components/RankingTable'
+import MenuOpening from '../components/MenuOpening'
 
 const nCountries = new Set(restaurants.map((r) => r.code)).size
 const nCities = new Set(restaurants.map((r) => r.city)).size
@@ -26,6 +27,7 @@ export default function Home() {
 
   return (
     <>
+      <MenuOpening />
       <Header sections />
       <main className="mx-auto max-w-6xl px-4 sm:px-8">
         {/* CAPA */}
