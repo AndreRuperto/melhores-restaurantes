@@ -1,0 +1,10 @@
+/* Florão vetorial da marca: segue a cor do contexto, em tema claro/escuro. */
+.brand-mark {
+  display: inline-block;
+  flex: none;
+  width: 1em;
+  height: 1.17em;
+  background-color: currentColor;
+  -webkit-mask: url('/brand-mark.svg') center / contain no-repeat;
+  mask: url('/brand-mark.svg') center / contain no-repeat;
+}
