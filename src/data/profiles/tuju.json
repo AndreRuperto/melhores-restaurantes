@@ -1,0 +1,176 @@
+{
+  "slug": "tuju",
+  "lede": "Numa rua sem saída do Jardim Paulistano, em São Paulo, o Tuju organiza o menu degustação pelo regime de chuvas da cidade, e não pelas quatro estações do calendário. Comandado por Ivan Ralston, foi em 2026 um dos dois primeiros restaurantes da América Latina a receber três estrelas Michelin.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Lurocalis_semitorquatus_-_Short-tailed_Nighthawk%3B_Botanic_Garden%2C_S%C3%A3o_Paulo%2C_Brazil.jpg/1920px-Lurocalis_semitorquatus_-_Short-tailed_Nighthawk%3B_Botanic_Garden%2C_S%C3%A3o_Paulo%2C_Brazil.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lurocalis_semitorquatus_-_Short-tailed_Nighthawk;_Botanic_Garden,_S%C3%A3o_Paulo,_Brazil.jpg",
+    "author": "Hector Bottai",
+    "license": "CC BY-SA 4.0",
+    "caption": "O tuju (Lurocalis semitorquatus), ave sul-americana que dá nome ao restaurante, no Jardim Botânico de São Paulo.",
+    "illustrative": false
+  },
+  "founded": 2014,
+  "founders": [
+    "Ivan Ralston"
+  ],
+  "chef": {
+    "name": "Ivan Ralston",
+    "bio": "Nascido em São Paulo em 1985, Ivan Ralston é filho dos fundadores da rede de restaurantes Ráscal. Estudou música na Berklee College of Music, nos Estados Unidos, antes de se dedicar à cozinha, e trabalhou no Mugaritz e no El Celler de Can Roca, na Espanha, e no RyuGin, em Tóquio. Abriu o Tuju aos 28 anos e hoje divide o comando da casa com a pesquisadora Katherina Cordás, sua companheira e diretora de pesquisa e hospitalidade do restaurante."
+  },
+  "history": [
+    "O Tuju abriu em 2014 numa casa da Vila Madalena, em São Paulo, com o nome de uma ave sul-americana. Poucos meses depois, recebeu a primeira estrela do Guia Michelin; a segunda veio em 2018, quando São Paulo passou a ser a única cidade brasileira com dois restaurantes duas estrelas. Na época, a casa cultivava mais de 350 espécies comestíveis, que forneciam todas as folhas usadas no menu. O restaurante também entrou na lista Latin America's 50 Best Restaurants, na qual foi o 45º colocado em 2017.",
+    "Com a pandemia de covid-19, o Tuju fechou. Durante o intervalo de cerca de três anos, Ralston e Katherina Cordás viajaram pelos biomas brasileiros e estudaram ingredientes e cozinha do país. O restaurante reabriu em setembro de 2023, num prédio de três andares projetado pelo arquiteto Angelo Bucci na Rua Frei Galvão, no Jardim Paulistano. A nova casa tem nove mesas, recebe cerca de 30 pessoas por serviço, cerca de um terço do público do endereço anterior, e abriga um centro de pesquisa dedicado a ingredientes e sazonalidade.",
+    "A segunda fase acelerou o reconhecimento. Menos de um ano após a reabertura, o Tuju voltou a ter duas estrelas Michelin e ganhou a estrela verde, por práticas de sustentabilidade. Na Latin America's 50 Best Restaurants foi 16º em 2024, com o prêmio de hospitalidade da lista, e 8º em 2025, como melhor restaurante do Brasil. Em 2025 estreou no ranking mundial, em 70º lugar. Em abril de 2026 recebeu a terceira estrela Michelin, ao lado do também paulistano Evvai, e em novembro, na cerimônia de Lima, entrou no top 50 mundial em 16º, com o prêmio de maior estreia (Highest New Entry Award) e o Art of Hospitality Award."
+  ],
+  "cuisine": {
+    "style": "Cozinha sazonal paulistana",
+    "paragraphs": [
+      "Ralston define o que faz como cozinha \"sazonal paulista\". Em vez de primavera, verão, outono e inverno, o Tuju divide o ano em quatro menus batizados segundo o clima de São Paulo: Umidade, Chuva, Ventania e Seca. As trocas não têm data fixa e seguem o tempo de cada ano; em 2026, com o El Niño, a temporada de cogumelos durou quase o dobro do normal, segundo o chef. O menu degustação tem cerca de dez etapas e é planejado com meses de antecedência.",
+      "A base são ingredientes de pequenos produtores do estado de São Paulo e carnes de fazendas com critérios sociais e ambientais; frutas nativas aparecem nas sobremesas. O centro de pesquisa da casa, dirigido por Katherina Cordás, estuda os ingredientes a partir das regiões e épocas em que são produzidos. A refeição percorre os três andares do prédio: começa no pátio, ao lado de uma jabuticabeira e de uma adega envidraçada com cerca de 5 mil garrafas, segue para o salão com cozinha aberta e termina no terraço, com queijos, chocolates e mel de abelhas nativas sem ferrão. O restaurante reaproveita a água da chuva."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Caranguejo com bacalhau e cenoura",
+      "desc": "Combinação de caranguejo, bacalhau e cenoura citada pela The 50 Best entre os pratos de destaque da casa.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Siri_Azul_%28Callinectes_sapidus%29_-_S%C3%A3o_Sebasti%C3%A3o%2C_SP.jpg/1920px-Siri_Azul_%28Callinectes_sapidus%29_-_S%C3%A3o_Sebasti%C3%A3o%2C_SP.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Siri_Azul_(Callinectes_sapidus)_-_S%C3%A3o_Sebasti%C3%A3o,_SP.jpg",
+        "author": "Danesof",
+        "license": "CC BY-SA 4.0",
+        "caption": "Siri-azul em manguezal de São Sebastião, no litoral paulista (imagem ilustrativa; não é necessariamente o crustáceo usado no prato).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Berinjela com amendoim e café",
+      "desc": "Berinjela servida com amendoim e café, outro dos pratos destacados pela The 50 Best em 2026.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Eggplant_aubergine_brinjal.jpg/1920px-Eggplant_aubergine_brinjal.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Eggplant_aubergine_brinjal.jpg",
+        "author": "A3 Baard",
+        "license": "CC BY-SA 4.0",
+        "caption": "Berinjelas (imagem ilustrativa do ingrediente principal).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Figo com estragão e sobrasada",
+      "desc": "Figo combinado com estragão e sobrasada, embutido curado de porco.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Fig_%28Ficus_carica%29_fruit_halved.jpg/1920px-Fig_%28Ficus_carica%29_fruit_halved.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Fig_(Ficus_carica)_fruit_halved.jpg",
+        "author": "Ivar Leidus",
+        "license": "CC BY-SA 4.0",
+        "caption": "Figo cultivado no Brasil, cortado ao meio (imagem ilustrativa do ingrediente principal).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Cacau na casca",
+      "desc": "Sobremesa do menu Chuva de 2026 servida dentro da casca do fruto, com sorvete de cacau, espuma da polpa, nibs e praliné de baru e cardamomo.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Theobroma_cacao_%28cacau%29_open_fruit.jpg/1920px-Theobroma_cacao_%28cacau%29_open_fruit.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Theobroma_cacao_(cacau)_open_fruit.jpg",
+        "author": "Rodrigo.Argenton",
+        "license": "CC BY-SA 4.0",
+        "caption": "Fruto do cacau aberto, com a polpa e as sementes à mostra (imagem ilustrativa).",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2015,
+      "title": "Primeira estrela no Guia Michelin"
+    },
+    {
+      "year": 2017,
+      "title": "Nº 45 no Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2018,
+      "title": "Segunda estrela no Guia Michelin"
+    },
+    {
+      "year": 2024,
+      "title": "Duas estrelas e estrela verde no Guia Michelin, após a reabertura"
+    },
+    {
+      "year": 2024,
+      "title": "Nº 16 no Latin America's 50 Best Restaurants e Gin Mare Art of Hospitality Award"
+    },
+    {
+      "year": 2025,
+      "title": "Nº 8 no Latin America's 50 Best Restaurants e melhor restaurante do Brasil na lista"
+    },
+    {
+      "year": 2025,
+      "title": "Nº 70 no The World's 50 Best Restaurants (lista 51-100)"
+    },
+    {
+      "year": 2026,
+      "title": "Três estrelas no Guia Michelin, entre os dois primeiros restaurantes da América Latina com a distinção"
+    },
+    {
+      "year": 2026,
+      "title": "Nº 16 no The 50 Best Restaurants e Highest New Entry Award (maior estreia)"
+    },
+    {
+      "year": 2026,
+      "title": "Art of Hospitality Award, The 50 Best Restaurants"
+    }
+  ],
+  "practical": {
+    "price": "R$ 1.650 por pessoa (menu degustação, sem bebidas; valor de 2026). Harmonizações cobradas à parte.",
+    "reservation": "Pela plataforma Tock (exploretock.com/tuju-so-paulo), pelo e-mail reserva@tuju.com.br ou pelo telefone/WhatsApp +55 11 91899-0002. Jantar de terça a sábado e almoço aos sábados.",
+    "website": "https://www.tuju.com.br/",
+    "address": "Rua Frei Galvão, 135, Jardim Paulistano, São Paulo - SP, 01454-060, Brasil"
+  },
+  "gallery": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jardim_Paulistano2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jardim_Paulistano2.jpg",
+      "author": "Alexandre Giesbrecht",
+      "license": "CC BY-SA 2.0",
+      "caption": "Vista do Jardim Paulistano, bairro da zona oeste de São Paulo onde o Tuju funciona desde 2023 (foto de 2010).",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Plinia_cauliflora_jabuticabeira.jpg/1920px-Plinia_cauliflora_jabuticabeira.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Plinia_cauliflora_jabuticabeira.jpg",
+      "author": "Silvestresbrasileiros",
+      "license": "Public domain",
+      "caption": "Jabuticabeira no sul de Minas Gerais; no térreo do Tuju, o bar fica ao lado de uma árvore dessa espécie (imagem ilustrativa).",
+      "illustrative": true
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Street_art_at_Vila_Madalena%2C_Sao_Paulo_01.jpg/1920px-Street_art_at_Vila_Madalena%2C_Sao_Paulo_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Street_art_at_Vila_Madalena,_Sao_Paulo_01.jpg",
+      "author": "Slyronit",
+      "license": "CC BY-SA 4.0",
+      "caption": "Arte de rua na Vila Madalena, bairro onde o Tuju funcionou de 2014 até o fechamento na pandemia.",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.the50.com/restaurants/best-in-the-world/list/Individual-Awards",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/tuju.html",
+    "https://www.prnewswire.com/news-releases/asador-etxebarri-is-named-no1-in-the-list-of-the-50-best-restaurants-2026-302930269.html",
+    "https://www.the50.com/discovery/Establishments/Brazil/S%C3%A3o-Paulo/Tuju.html",
+    "https://www.the50.com/stories/News/tuju-sao-paulo-art-of-hospitality-latin-americas-50-best-restaurants-2024.html",
+    "https://prnewswire.com/news-releases/don-julio-takes-the-no1-spot-in-the-list-of-latin-americas-50-best-restaurants-2024-302317136.html",
+    "https://www.seudinheiro.com/2025/lifestyle/tuju-e-eleito-o-melhor-restaurante-brasileiro-no-latin-americas-50-best-edvl/",
+    "https://www.tuju.com.br/",
+    "https://forbes.com.br/forbeslife/2018/05/ivan-ralston-chef-do-tuju-define-sua-gastronomia-como-sazonal-paulista/",
+    "https://www.worldofmouth.app/podcast/brazilian-blend-ivan-ralston-from-tuju-in-sao-paulo",
+    "https://reportergourmet.com/en/chef/714-ivan-ralston",
+    "https://www.thestar.com.my/lifestyle/living/2026/08/11/erratic-rains-dictate-the-menu-at-tuju-a-3-star-michelin-restaurant-in-brazil",
+    "https://www.theupcoming.co.uk/2026/04/15/sao-paulos-evvai-and-tuju-become-first-latin-american-restaurants-to-earn-three-michelin-stars/",
+    "https://www.folhape.com.br/noticia/amp/291216/tuju-volta-em-novo-endereco/",
+    "https://www.abcdoabc.com.br/restaurante-tuju-e-reaberto-em-novo-endereco-em-sp-com-apenas-nove-mesas/",
+    "https://www.bloomberglinea.com.br/estilo-de-vida/a-receita-da-alta-gastronomia-como-ivan-ralston-equilibra-as-contas-no-premiado-tuju/",
+    "https://www.travelsforstars.com/blog/2026/05/07/tuju-sao-paulo"
+  ]
+}

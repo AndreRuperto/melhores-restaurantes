@@ -1,0 +1,195 @@
+{
+  "slug": "diverxo",
+  "lede": "Restaurante de Dabiz Muñoz em Madrid, o DiverXO serve um longo menu-degustação encenado como espetáculo, que mistura produtos espanhóis com técnicas e sabores da China, do Japão, da Índia e do México. Porcos voadores espalhados pelo salão lembram a aposta improvável que deu origem à casa.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/DiverXO_AV4A3445-Edit_%2827539833998%29.jpg/1920px-DiverXO_AV4A3445-Edit_%2827539833998%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DiverXO_AV4A3445-Edit_(27539833998).jpg",
+    "author": "City Foodsters",
+    "license": "CC BY 2.0",
+    "caption": "Entrada do DiverXO no hotel NH Eurobuilding, em Madrid, em 2018",
+    "illustrative": false
+  },
+  "founded": 2007,
+  "founders": [
+    "Dabiz Muñoz",
+    "Ángela Montero"
+  ],
+  "chef": {
+    "name": "Dabiz Muñoz",
+    "bio": "David Muñoz Rosillo, que assina Dabiz, nasceu em Madrid em 1980, entrou na escola de cozinha aos 17 anos e trabalhou no Viridiana, de Abraham García, antes de se mudar para Londres, onde passou por Hakkasan, Nobu, Nahm e Locanda Locatelli. De volta à Espanha, abriu o DiverXO em 2007 e chegou às três estrelas Michelin em 2013. Foi eleito melhor chef do mundo pelo The Best Chef Awards em 2021, 2022 e 2023 e comanda também o StreetXO e o RavioXO."
+  },
+  "history": [
+    "O DiverXO abriu em 2007 num local pequeno do bairro de Tetuán, em Madrid, como projeto de Dabiz Muñoz e de sua então companheira, Ángela Montero, ex-bailarina que chefiou o salão nos primeiros anos. O casal financiou o negócio com economias próprias e hipotecando o apartamento; Muñoz contou que chegaram a dormir no chão do restaurante. O símbolo dos porcos voadores vem da resposta do pai do chef quando ele disse que um dia teria um restaurante com fila na porta: \"Claro, e os porcos vão voar\".",
+    "A ascensão foi rápida: primeira estrela Michelin em 2010, segunda em 2012 e terceira em 2013, o que fez do DiverXO o único três estrelas de Madrid. Em 2014 o restaurante deixou Tetuán e passou para o hotel NH Eurobuilding, na calle del Padre Damián. Uma mudança para La Finca, em Pozuelo de Alarcón, chegou a ser anunciada, mas foi cancelada pelo chef em 2024; segundo a imprensa espanhola, a casa pretende seguir no Eurobuilding até o fim de 2027.",
+    "Na lista The World's 50 Best Restaurants, o DiverXO saltou do 75º lugar em 2019 para o 20º em 2021, chegou ao 4º em 2022 e ao 3º em 2023, e ficou em 4º em 2024 e 2025. Em 2026 aparece em 9º."
+  ],
+  "cuisine": {
+    "style": "Cozinha de autor de vanguarda, com influências asiáticas",
+    "paragraphs": [
+      "Muñoz define sua cozinha como complexa, cheia de sabor, arriscada e surpreendente. O menu-degustação, chamado \"La Cocina de los Cerdos Voladores\" (a cozinha dos porcos voadores), parte da ideia de que no prato tudo pode acontecer, até o improvável. A The 50 Best descreve a refeição como teatro, com muitos passos e combinações pouco usuais, e o salão funciona como palco para as ideias do chef.",
+      "A base é a despensa espanhola (camarões de Motril, trutas dos Pireneus, vinhos de Jerez, embutidos ibéricos), cruzada com técnicas e temperos que o chef conheceu nas cozinhas asiáticas de Londres: currys indianos, forno tandoor, molhos chineses, arroz de sushi. A confeitaria fica a cargo de Graziano Tracchia, e há um menu líquido sem álcool, servido apenas junto com o menu sólido."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Pichón al Jerez (pombo com jerez)",
+      "desc": "Pombo macerado durante uma semana em vinho Palo Cortado, servido frio com caviar defumado e outros acompanhamentos, segundo relato de 2023.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/A_Grilled_pigeon_at_Ristorante.jpg/1920px-A_Grilled_pigeon_at_Ristorante.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:A_Grilled_pigeon_at_Ristorante.jpg",
+        "author": "Peachyeung316",
+        "license": "CC BY-SA 4.0",
+        "caption": "Pombo grelhado; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Nigiri de trucha madurada de los Pirineos (nigiri de truta maturada dos Pireneus)",
+      "desc": "Truta dos Pireneus maturada por cerca de 45 dias, servida sobre arroz de sushi preparado de mais de uma forma.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Nigirizushi.jpg/1920px-Nigirizushi.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nigirizushi.jpg",
+        "author": "Maksym Kozlenko",
+        "license": "CC BY-SA 4.0",
+        "caption": "Nigiris de peixe; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Paella japonesa",
+      "desc": "Versão do arroz espanhol com influência japonesa, citada pela The 50 Best entre os pratos do menu-degustação.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/01_Paella_Valenciana_original.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:01_Paella_Valenciana_original.jpg",
+        "author": "Jan Harenburg",
+        "license": "CC BY-SA 4.0",
+        "caption": "Paella valenciana tradicional; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Caviar asado con curry vindaloo y yogur griego (caviar assado com curry vindaloo e iogurte grego)",
+      "desc": "Caviar assado no tandoor e servido com curry vindaloo e iogurte grego.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Caviar_-_beluga_and_salmon.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Caviar_-_beluga_and_salmon.jpg",
+        "author": "THOR",
+        "license": "CC BY 2.0",
+        "caption": "Caviar de beluga e ovas de salmão; imagem ilustrativa",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2010,
+      "title": "Primeira estrela Michelin"
+    },
+    {
+      "year": 2012,
+      "title": "Segunda estrela Michelin"
+    },
+    {
+      "year": 2013,
+      "title": "Terceira estrela Michelin (único três estrelas de Madrid)"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants – nº 75 (lista 51–100)"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants – nº 20"
+    },
+    {
+      "year": 2021,
+      "title": "The Best Chef Awards – Dabiz Muñoz eleito melhor chef do mundo"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants – nº 4"
+    },
+    {
+      "year": 2022,
+      "title": "The Best Chef Awards – Dabiz Muñoz eleito melhor chef do mundo"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants – nº 3"
+    },
+    {
+      "year": 2023,
+      "title": "The Best Chef Awards – Dabiz Muñoz eleito melhor chef do mundo"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants – nº 4"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 4"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants – nº 9"
+    }
+  ],
+  "practical": {
+    "price": "Menu sólido \"La Cocina de los Cerdos Voladores\": 450 euros por pessoa; harmonização de vinhos a partir de 300 euros e menu líquido sem álcool a partir de 250 euros (site oficial, 2026)",
+    "reservation": "Pelo site oficial (diverxo.com/es/reservar) ou pelo telefone +34 915 700 766",
+    "website": "https://diverxo.com",
+    "address": "Hotel NH Collection Madrid Eurobuilding, Calle del Padre Damián, 23, 28036 Madrid, Espanha"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/DiverXO_AV4A3572-Edit_%2839601814410%29.jpg/1920px-DiverXO_AV4A3572-Edit_%2839601814410%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:DiverXO_AV4A3572-Edit_(39601814410).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Mesa posta no salão do DiverXO, em 2018",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/DiverXO_AV4A3451_%2827539839788%29.jpg/1920px-DiverXO_AV4A3451_%2827539839788%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:DiverXO_AV4A3451_(27539839788).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Cozinha do DiverXO durante o serviço, em 2018",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/DiverXO_AV4A3557_%2839601804880%29.jpg/1920px-DiverXO_AV4A3557_%2839601804880%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:DiverXO_AV4A3557_(39601804880).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Dabiz Muñoz finaliza um prato no salão do DiverXO, em 2018",
+      "illustrative": false
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Fachada_de_Diverxo.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Fachada_de_Diverxo.jpg",
+      "author": "Javier Lastras",
+      "license": "CC BY 2.0",
+      "caption": "Fachada do DiverXO em 2009, quando o restaurante ainda ficava no bairro de Tetuán",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/1-10/diverxo.html",
+    "https://diverxo.com",
+    "https://en.wikipedia.org/wiki/David_Mu%C3%B1oz_(chef)",
+    "https://es.wikipedia.org/wiki/Dabiz_Mu%C3%B1oz",
+    "https://www.foodswinesfromspain.com/en/business/who-is-who/2023/dabiz-munoz",
+    "https://www.alimarket.es/hoteles/noticia/152281/el-hotel--nh-eurobuilding---nueva-ubicacion-del-vanguardista--diverxo-",
+    "https://www.esmadrid.com/en/restaurants/diverxo",
+    "https://theobjective.com/gente/2024-12-05/exmujer-dabiz-munoz-fundo-diverxo-pedroche/",
+    "https://madridsecreto.co/en/la-finca-failure/",
+    "https://www.timeout.es/madrid/es/noticias/diverxo-entre-los-20-mejores-restaurantes-del-mundo-100621",
+    "https://www.timeout.es/madrid/es/noticias/el-cuarto-mejor-restaurante-del-mundo-esta-en-madrid-071922",
+    "https://www.timeout.es/madrid/es/noticias/diverxo-se-convierte-en-el-tercer-mejor-restaurante-del-mundo-062023",
+    "https://www.timeout.es/madrid/es/noticias/madrid-tiene-el-cuarto-mejor-restaurante-del-mundo-segun-the-worlds-50-best-restaurants-060624",
+    "https://www.luxeat.com/blog/diverxo-madrid",
+    "https://www.supertastermel.com/2023/01/madrid-diverxo-dabiz-munoz.html",
+    "https://commons.wikimedia.org/wiki/Category:DiverXO"
+  ]
+}

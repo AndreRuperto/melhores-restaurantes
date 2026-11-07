@@ -55,12 +55,12 @@ export function ThemeToggle() {
 }
 
 export function Header({ sections = false, back = false }) {
-  const link = 'smallcaps whitespace-nowrap !tracking-[0.14em] sm:!tracking-[0.28em] text-ink-2 hover:text-wine transition-colors'
+  const link = 'smallcaps whitespace-nowrap !tracking-[0.08em] sm:!tracking-[0.28em] text-ink-2 hover:text-wine transition-colors'
   return (
     <header className="sticky top-0 z-40 border-b border-rule bg-paper/90 backdrop-blur-sm">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-4 sm:px-8">
+      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:gap-4 sm:px-8">
         <Logo />
-        <div className="flex items-center gap-4 sm:gap-7">
+        <div className="flex min-w-0 items-center gap-3 sm:gap-7">
         {back ? (
           <Link
             to="/restaurantes"
@@ -75,7 +75,7 @@ export function Header({ sections = false, back = false }) {
             ← Voltar
           </Link>
         ) : (
-          <nav className="flex items-center gap-4 sm:gap-7">
+          <nav className="flex items-center gap-3 sm:gap-7">
             {sections && (
               <>
                 <a href="#mapa" className={`${link} hidden lg:inline`}>Mapa</a>
@@ -86,7 +86,7 @@ export function Header({ sections = false, back = false }) {
                 <span className="hidden h-4 w-px bg-rule lg:block" />
               </>
             )}
-            {!sections && <NavLink to="/" end className={({ isActive }) => `${link} ${isActive ? '!text-wine' : ''}`}>Início</NavLink>}
+            {!sections && <NavLink to="/" end className={({ isActive }) => `${link} hidden sm:inline ${isActive ? '!text-wine' : ''}`}>Início</NavLink>}
             <NavLink to="/restaurantes" className={({ isActive }) => `${link} ${isActive ? '!text-wine' : ''}`}>Restaurantes</NavLink>
             <NavLink to="/como-funciona" className={({ isActive }) => `${link} ${isActive ? '!text-wine' : ''}`}>Como funciona</NavLink>
           </nav>

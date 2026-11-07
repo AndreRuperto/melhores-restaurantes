@@ -1,0 +1,174 @@
+{
+  "slug": "alchemist",
+  "lede": "Num antigo ateliê de cenografia do Teatro Real Dinamarquês, em Copenhague, o chef Rasmus Munk serve até 50 \"impressões\" ao longo de quatro a seis horas, misturando cozinha, teatro, arte e ciência. Muitos pratos tratam de temas como desperdício de alimentos, doação de órgãos e vigilância.",
+  "hero": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AlchemistAV4A4003_%2848826061293%29.jpg/1920px-AlchemistAV4A4003_%2848826061293%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4003_(48826061293).jpg",
+    "author": "City Foodsters",
+    "license": "CC BY 2.0",
+    "caption": "Porta de entrada do Alchemist, em Refshaleøen, Copenhague (setembro de 2019)",
+    "illustrative": false
+  },
+  "founded": 2015,
+  "founders": [
+    "Rasmus Munk"
+  ],
+  "chef": {
+    "name": "Rasmus Munk",
+    "bio": "Natural de Randers, na Jutlândia, Rasmus Munk passou pela escola de culinária e por estágios em cozinhas de toda a Dinamarca antes de assumir, em 2013, a cozinha do Treetop, restaurante perto de sua cidade, onde ficou dois anos. Abriu o Alchemist em 2015 e, em 2023, fundou o Spora, centro de pesquisa e inovação em alimentos. Foi eleito o melhor chef do mundo pelo The Best Chef Awards em 2024 e em 2025."
+  },
+  "history": [
+    "O primeiro Alchemist abriu em 2015 num antigo bistrô de Copenhague: uma única sala com 15 lugares em torno de um balcão em U, financiada com um empréstimo bancário. Munk saíra do Treetop, perto de Randers, por achar que o modelo clássico de restaurante não bastava, e esse endereço funcionou até 2017.",
+    "A segunda fase começou em 2019, com o empresário Lars Seier Christensen como sócio. O restaurante passou a ocupar cerca de 2.200 m² no antigo ateliê de cenografia do Teatro Real Dinamarquês, em Refshaleøen, antiga área industrial da cidade. O orçamento previsto era de 20 milhões de coroas dinamarquesas, e o custo final passou de quatro vezes esse valor. Sete meses após a reabertura, em fevereiro de 2020, o Guia Michelin dos Países Nórdicos deu duas estrelas à casa.",
+    "O Alchemist entrou na lista The World's 50 Best Restaurants em 2021, na 58ª posição, subiu para 18º em 2022 e chegou ao 5º lugar em 2023, ano em que recebeu também o prêmio Art of Hospitality. Foi 8º em 2024 e 5º em 2025. Na edição de 2026, anunciada em Lima, alcançou o 3º lugar."
+  ],
+  "cuisine": {
+    "style": "Cozinha holística",
+    "paragraphs": [
+      "Munk chama sua proposta de \"Holistic Cuisine\" (cozinha holística): sabor, bons ingredientes e técnica são a base, mas a refeição é pensada como uma experiência que reúne gastronomia, teatro, arte, ciência, tecnologia e design. O jantar tem até 50 \"impressões\", entre pratos e momentos puramente sensoriais, e dura de quatro a seis horas. Os convidados passam por vários ambientes, entre eles uma cúpula com projeções no estilo de um planetário, que serve de salão principal.",
+      "Vários pratos usam a provocação para levantar temas sociais e éticos: miolo de cordeiro para falar de desperdício, um sorvete de sangue de porco ligado a uma campanha de doação de sangue, um pé de galinha preso numa gaiola do tamanho das usadas na criação industrial. Na cozinha aparecem ingredientes pouco comuns, como formigas, águas-vivas e cérebro de cordeiro, e técnicas como fermentações e maturação a seco em cera de abelha. O restaurante também mantém linhas de pesquisa, com proteína de bicho-da-seda, iogurte feito com formigas e experimentos de comida espacial em parceria com o MIT Media Lab."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "1984",
+      "desc": "Caviar e um creme servidos num recipiente em forma de olho, numa referência ao romance de George Orwell e ao tema da vigilância.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Caviar_spoon_black.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Caviar_spoon_black.jpg",
+        "author": "THOR; obra derivada: Saibo",
+        "license": "CC BY 2.0",
+        "caption": "Colher com caviar preto (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Food for Thought (\"comida para pensar\")",
+      "desc": "Miolo de cordeiro cozido no vapor e servido dentro de uma cabeça de silicone, para chamar atenção para o desperdício de alimentos.",
+      "photo": null
+    },
+    {
+      "name": "Tongue Kiss (\"beijo de língua\")",
+      "desc": "Tartare de carne bovina servido sobre uma língua de silicone moldada a partir de uma língua real.",
+      "photo": null
+    },
+    {
+      "name": "Lifeline (\"linha da vida\")",
+      "desc": "Sorvete feito com sangue de porco, no formato de uma gota de sangue, acompanhado de um QR code para cadastro como doador de sangue.",
+      "photo": null
+    },
+    {
+      "name": "The Omelette (\"a omelete\")",
+      "desc": "Pequena esfera de gema de ovo recheada com creme de gema e queijo comté, que se rompe na boca.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2020,
+      "title": "2 estrelas Michelin (Guia Michelin Países Nórdicos 2020)"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants – nº 58 (lista 51–100)"
+    },
+    {
+      "year": 2021,
+      "title": "Opinionated About Dining – nº 1 da Europa (repetido até 2025, cinco anos seguidos)"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants – nº 18"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants – nº 5"
+    },
+    {
+      "year": 2023,
+      "title": "Gin Mare Art of Hospitality Award (The World's 50 Best)"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants – nº 8"
+    },
+    {
+      "year": 2024,
+      "title": "The Best Chef Awards – Rasmus Munk eleito nº 1 do mundo"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 5"
+    },
+    {
+      "year": 2025,
+      "title": "The Best Chef Awards – Rasmus Munk eleito nº 1 do mundo pela segunda vez"
+    },
+    {
+      "year": 2025,
+      "title": "Michelin Service Award para a gerente-geral Lykke Metzger"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants – nº 3"
+    }
+  ],
+  "practical": {
+    "price": "DKK 5.600 por pessoa pelo menu The Alchemist Experience, sem bebidas (site oficial, consultado em novembro de 2026); harmonizações cobradas à parte",
+    "reservation": "Ingressos vendidos on-line pela plataforma Tock (exploretock.com/alchemist), para mesas de 2, 4 ou 6 pessoas, com depósito antecipado. As vagas são liberadas cerca de a cada três meses, para os dois a três meses seguintes, e há lista de espera.",
+    "website": "https://alchemist.dk/",
+    "address": "Refshalevej 173C, 1432 Copenhague K, Dinamarca"
+  },
+  "gallery": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AlchemistAV4A4095_%2848826070418%29.jpg/1920px-AlchemistAV4A4095_%2848826070418%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4095_(48826070418).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Salão do Alchemist sob a cúpula com projeções (setembro de 2019)",
+      "illustrative": false
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/AlchemistAV4A4031_%2848826596217%29.jpg/1920px-AlchemistAV4A4031_%2848826596217%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4031_(48826596217).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Balcão no interior do Alchemist (setembro de 2019)",
+      "illustrative": false
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/AlchemistAV4A4175-Edit_%2848826075688%29.jpg/1920px-AlchemistAV4A4175-Edit_%2848826075688%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4175-Edit_(48826075688).jpg",
+      "author": "City Foodsters",
+      "license": "CC BY 2.0",
+      "caption": "Prato servido numa concha de vieira durante o menu do Alchemist (setembro de 2019)",
+      "illustrative": false
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Scenografisk_V%C3%A6rksted.jpg/1920px-Scenografisk_V%C3%A6rksted.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Scenografisk_V%C3%A6rksted.jpg",
+      "author": "Orf3us",
+      "license": "CC BY 4.0",
+      "caption": "Scenografisk Værksted, o antigo ateliê de cenografia do Teatro Real Dinamarquês, na Refshalevej, em Refshaleøen",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alchemist_(restaurant)",
+    "https://en.wikipedia.org/wiki/Rasmus_Munk",
+    "https://alchemist.dk/",
+    "https://alchemist.dk/the-alchemist-experience/",
+    "https://alchemist.dk/tickets-for-alchemist/",
+    "https://alchemist.dk/holistic-cuisine/",
+    "https://alchemist.dk/contact/",
+    "https://www.nationalgeographic.com/travel/article/pioneer-rasmus-munk-provocative-danish-chef",
+    "https://www.finedininglovers.com/explore/articles/dishes-earned-alchemist-two-michelin-stars-just-seven-months",
+    "https://suitcasemag.com/articles/rasmus-munk",
+    "https://cphpost.dk/2023-06-21/news/alchemist-named-among-the-worlds-best-restaurants",
+    "https://www.theupcoming.co.uk/2021/09/23/worlds-50-best-restaurants-2021-the-new-51-100-list-on-a-map",
+    "https://www.falstaff.com/en/news/nordic-restaurants-make-their-mark-on-the-worlds-50-best",
+    "https://www.wonderfulcopenhagen.com/wonderful-copenhagen/international-press/press-kit-gastronomy/rasmus-munk-crowned-worlds-best-chef-best-chef-awards-2025",
+    "https://www.prnewswire.com/fr/communiques-de-presse/gin-mare-annonce-que-le-restaurant-alchemist-a-remporte-le-prix-art-of-the-hospitality-lors-des-worlds-50-best-restaurant-awards-a-valence-301857854.html",
+    "https://commons.wikimedia.org/wiki/Category:Alchemist_(restaurant)"
+  ]
+}

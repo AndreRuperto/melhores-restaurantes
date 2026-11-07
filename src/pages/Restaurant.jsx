@@ -5,6 +5,8 @@ import { Header, Footer, Flag, Ornament, Tags, SITE } from '../components/ui'
 import WorldMap from '../components/WorldMap'
 import { MenuItem } from '../components/RankingTable'
 import NotFound from './NotFound'
+import { useProfile } from '../data/profiles'
+import { Photo, Credit, Story, Chef, Dishes, Awards, Gallery, Practical, Sources } from '../components/Profile'
 
 function Section({ kicker, title, children }) {
   return (
@@ -21,6 +23,7 @@ function Section({ kicker, title, children }) {
 export default function Restaurant() {
   const { slug } = useParams()
   const r = bySlug[slug]
+  const profile = useProfile(slug) // undefined enquanto carrega, null se não houver
 
   useEffect(() => {
     window.scrollTo(0, 0)
@@ -72,7 +75,10 @@ export default function Restaurant() {
             <h1 className="display mt-4 text-5xl font-semibold leading-[0.95] sm:text-7xl">{r.name}</h1>
             <div className="mt-5 min-h-5"><Tags r={r} /></div>
           </div>
-          <p className="fade mx-auto mt-8 max-w-xl text-lg leading-relaxed text-ink-2">
+          {profile?.lede && (
+            <p className="fade display mx-auto mt-8 max-w-2xl text-2xl leading-snug text-ink sm:text-[28px]">{profile.lede}</p>
+          )}
+          <p className={`fade mx-auto max-w-xl leading-relaxed text-ink-2 ${profile?.lede ? 'mt-4 text-base italic' : 'mt-8 text-lg'}`}>
             {r.rank === 1 ? (
               <>Eleito o <em className="italic text-wine">melhor restaurante do mundo</em> em 2026 pelo The 50 Best Restaurants.</>
             ) : (
@@ -83,6 +89,18 @@ export default function Restaurant() {
             )}
           </p>
         </section>
+
+        {profile?.hero?.src && (
+          <figure className="fade mt-14 sm:-mx-8">
+            <div className="aspect-[4/3] overflow-hidden border border-rule bg-paper-2 sm:aspect-[16/8]">
+              <img src={profile.hero.src} alt={profile.hero.caption || r.name} className="photo h-full w-full object-cover" />
+            </div>
+            <figcaption className="mt-2 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-0.5 px-0 sm:px-8">
+              {profile.hero.caption && <span className="text-sm italic text-ink-2">{profile.hero.caption}</span>}
+              <Credit photo={profile.hero} />
+            </figcaption>
+          </figure>
+        )}
 
         <Section kicker="Na lista" title="Onde ele aparece">
           <div className="grid border-t border-l border-rule grid-cols-2 lg:grid-cols-4">
@@ -107,6 +125,17 @@ export default function Restaurant() {
             </div>
           )}
         </Section>
+
+        {profile && (
+          <>
+            <Story p={profile} />
+            <Chef p={profile} />
+            <Dishes p={profile} />
+            <Awards p={profile} />
+            <Gallery p={profile} />
+            <Practical p={profile} />
+          </>
+        )}
 
         <Section kicker="Onde fica" title={`${r.city}, ${r.country}`}>
           <WorldMap items={restaurants} focus={r} className="aspect-[4/3] sm:aspect-[960/470]" />
@@ -143,6 +172,8 @@ export default function Restaurant() {
             </div>
           </Section>
         )}
+
+        {profile && <Sources p={profile} />}
 
         <Ornament className="mt-20" />
 

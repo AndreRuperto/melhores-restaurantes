@@ -1,0 +1,223 @@
+{
+  "slug": "asador-etxebarri",
+  "lede": "Num vilarejo de montanha entre Bilbao e San Sebastián, o cozinheiro autodidata Bittor Arguinzoniz passa praticamente tudo o que serve pela brasa, em grelhas que ele mesmo projetou. Aberto em 1990 numa casa de pedra diante da praça de Axpe, o Asador Etxebarri foi eleito o melhor restaurante do mundo em 2026.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Axpe_from_Mendigoikoa.jpg/1920px-Axpe_from_Mendigoikoa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Axpe_from_Mendigoikoa.jpg",
+    "author": "PaU1570",
+    "license": "CC BY-SA 4.0",
+    "caption": "Vista geral de Axpe-Marzana, bairro de Atxondo, cercado de pastos e montanhas.",
+    "illustrative": false
+  },
+  "founded": 1990,
+  "founders": [
+    "Bittor (Victor) Arguinzoniz"
+  ],
+  "chef": {
+    "name": "Bittor Arguinzoniz",
+    "bio": "Nascido e criado em Axpe, no vale de Atxondo, cresceu numa casa sem eletricidade nem gás, onde a mãe e a avó cozinhavam no fogo da lareira. Trabalhou com madeira, como florestal, antes de abrir o restaurante, e nunca teve formação formal em cozinha: aprendeu na prática, ao longo de mais de 30 anos diante das brasas. Em 2021 recebeu dos colegas o Chefs' Choice Award da The World's 50 Best Restaurants, prêmio que chamou de o mais importante de sua carreira."
+  },
+  "history": [
+    "Bittor Arguinzoniz comprou em 1989 um edifício de cerca de 200 anos em Axpe, bairro do município de Atxondo, na Biscaia, para montar um asador basco tradicional. O restaurante abriu em 1990, na casa de pedra que dá para a praça do vilarejo. Sem passagem por outras cozinhas, ele partiu da lembrança do fogo de lenha da infância e da técnica de cozinha mais antiga que existe.",
+    "Com o tempo, Arguinzoniz trocou o carvão por lenhas de aroma suave, passou a produzir as brasas num forno separado para controlá-las melhor e criou ferramentas próprias, como panelas de malha metálica e um sistema de roldanas que sobe e desce os alimentos sobre o fogo. Em 2010 o Etxebarri recebeu uma estrela Michelin.",
+    "O restaurante entrou na lista The World's 50 Best Restaurants em 2008. Em 2015 ganhou o prêmio de maior escalada ao chegar ao 13º lugar e, desde 2016, aparece sempre entre os dez primeiros: 3º em 2019 e 2021, 4º em 2023 e 2º em 2024 e 2025. Em 4 de novembro de 2026, em Lima, foi eleito o melhor restaurante do mundo, o quarto espanhol a chegar ao topo, depois de elBulli, El Celler de Can Roca e Disfrutar, e o primeiro do País Basco."
+  ],
+  "cuisine": {
+    "style": "Brasa e produto basco",
+    "paragraphs": [
+      "No Etxebarri, quase tudo passa pela grelha, das entradas à sobremesa. A cozinha não usa técnicas moleculares nem desconstrução; o foco é o produto da estação e o sabor que a lenha acrescenta. Arguinzoniz escolhe a madeira conforme o ingrediente, como macieira para frutos do mar e azinheira para o atum, e boa parte dela vem do próprio vale de Atxondo. Segundo ele, não há receitas secretas: o ponto certo na brasa só se aprende com anos de prática.",
+      "O menu-degustação tem cerca de 14 etapas, e também há serviço à la carte. Parte dos ingredientes é produzida pela casa, como verduras da horta, leite, ovos e a muçarela feita com leite de búfalas próprias. Para a sobremesa, o chef criou um aparelho que defuma o leite usado no sorvete. O salão tem oito mesas, a cozinha é pequena, e a carta de vinhos, com cerca de 400 rótulos, é organizada pelo sommelier e gerente Mohamed Benabdallah."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Chuleta de vaca vieja (bisteca de vaca velha)",
+      "desc": "Prato mais conhecido da casa, é uma bisteca com osso de vacas da raça Rubia Gallega ou outras vacas galegas de 7 a 11 anos, tostada na brasa.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Etxebarri_Beef_chop_%2814468258749%29.jpg/1920px-Etxebarri_Beef_chop_%2814468258749%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Etxebarri_Beef_chop_(14468258749).jpg",
+        "author": "Ryan Snyder",
+        "license": "CC BY 2.0",
+        "caption": "Bisteca de vaca grelhada e fatiada, servida no Etxebarri em julho de 2014.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Gamba roja de Palamós (camarão-vermelho de Palamós)",
+      "desc": "Camarões vermelhos de Palamós, na Catalunha, cozidos rapidamente na casca sobre brasas de carvalho e servidos sozinhos, sem acompanhamento.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Etxebarri_Prawns_from_Palamos_%2814468269969%29.jpg/1920px-Etxebarri_Prawns_from_Palamos_%2814468269969%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Etxebarri_Prawns_from_Palamos_(14468269969).jpg",
+        "author": "Ryan Snyder",
+        "license": "CC BY 2.0",
+        "caption": "Camarões de Palamós grelhados, servidos no Etxebarri em julho de 2014.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Angulas (filhotes de enguia)",
+      "desc": "Os filhotes de enguia, servidos na temporada, foram um dos pratos que mais exigiram tentativas do chef até chegar ao ponto na brasa, segundo ele mesmo.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Etxebarri_angulas.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Etxebarri_angulas.jpg",
+        "author": "Krista",
+        "license": "CC BY 2.0",
+        "caption": "Tigela de angulas servida no Asador Etxebarri, em abril de 2011.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Pepino de mar con judías verdes (pepino-do-mar com vagem)",
+      "desc": "Pepino-do-mar grelhado servido sobre vagens, uma das etapas citadas pela The World's 50 Best no menu da casa.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Etxebarri_Sea_cucumber_and_green_beans_%2814674808843%29.jpg/1920px-Etxebarri_Sea_cucumber_and_green_beans_%2814674808843%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Etxebarri_Sea_cucumber_and_green_beans_(14674808843).jpg",
+        "author": "Ryan Snyder",
+        "license": "CC BY 2.0",
+        "caption": "Pepino-do-mar com vagem, servido no Etxebarri em julho de 2014.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Helado de leche ahumada con remolacha (sorvete de leite defumado com beterraba)",
+      "desc": "Sorvete feito com leite defumado num aparelho criado pelo chef, servido com suco de beterraba para encerrar a refeição.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Etxebarri_Smoked_milk_ice_cream_with_beetroot_juice_%2814654494722%29.jpg/1920px-Etxebarri_Smoked_milk_ice_cream_with_beetroot_juice_%2814654494722%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Etxebarri_Smoked_milk_ice_cream_with_beetroot_juice_(14654494722).jpg",
+        "author": "Ryan Snyder",
+        "license": "CC BY 2.0",
+        "caption": "Sorvete de leite defumado com suco de beterraba, servido no Etxebarri em julho de 2014.",
+        "illustrative": false
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2008,
+      "title": "Estreia na lista The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2010,
+      "title": "Uma estrela no Guia Michelin"
+    },
+    {
+      "year": 2015,
+      "title": "The World's 50 Best Restaurants: nº 13 e prêmio Highest Climber (maior escalada)"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants: nº 10"
+    },
+    {
+      "year": 2016,
+      "title": "Premio Nacional de Gastronomía (Espanha) para Bittor Arguinzoniz"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants: nº 6"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants: nº 10"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants: nº 3"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants: nº 3"
+    },
+    {
+      "year": 2021,
+      "title": "Estrella Damm Chefs' Choice Award para Bittor Arguinzoniz"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants: nº 6"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: nº 4"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: nº 2"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 2"
+    },
+    {
+      "year": 2025,
+      "title": "World's Best Sommelier Award para Mohamed Benabdallah, sommelier e gerente do restaurante"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants: nº 1 – Melhor restaurante do mundo 2026"
+    },
+    {
+      "year": 2026,
+      "title": "Melhor restaurante da Europa 2026 (The World's 50 Best Restaurants)"
+    }
+  ],
+  "practical": {
+    "price": "Menu-degustação (ou à la carte, servido para toda a mesa) a 300 euros por pessoa, com IVA incluído e sem bebidas; pagamento antecipado do valor total da reserva (informação de 2026, site oficial). Não há menu vegetariano ou vegano.",
+    "reservation": "Muito difícil. As reservas são feitas por solicitação no site oficial, para grupos de 2 a 6 pessoas; a confirmação chega por e-mail em até 7 dias, e sem resposta nesse prazo o pedido vai para a lista de espera. O restaurante recebe cerca de mil e-mails de pedido por dia. Abre só para almoço, fecha às segundas e terças, de 24 de dezembro a 10 de janeiro e durante todo o mês de agosto. Cancelamentos com reembolso exigem aviso de pelo menos 5 dias.",
+    "website": "https://www.asadoretxebarri.com/",
+    "address": "Plaza San Juan, 1, 48291 Axpe (Atxondo), Bizkaia, Espanha"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Across_the_square_to_Asador_Etxebarri_%2817910009633%29.jpg/1920px-Across_the_square_to_Asador_Etxebarri_%2817910009633%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Across_the_square_to_Asador_Etxebarri_(17910009633).jpg",
+      "author": "Winniepix",
+      "license": "CC BY 2.0",
+      "caption": "A casa de pedra do Asador Etxebarri, vista do outro lado da praça de Axpe, em junho de 2015.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Entrance_of_Asador_Etxebarri_%2818342772348%29.jpg/1920px-Entrance_of_Asador_Etxebarri_%2818342772348%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Entrance_of_Asador_Etxebarri_(18342772348).jpg",
+      "author": "Winniepix",
+      "license": "CC BY 2.0",
+      "caption": "A porta de madeira do Asador Etxebarri, com o nome da casa na parede de pedra, em setembro de 2015.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Etxebarri%2C_Axpe%2C_Spain_%2814651703331%29.jpg/1920px-Etxebarri%2C_Axpe%2C_Spain_%2814651703331%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Etxebarri,_Axpe,_Spain_(14651703331).jpg",
+      "author": "Ryan Snyder",
+      "license": "CC BY 2.0",
+      "caption": "Praça de Axpe, com um chafariz de pedra e as montanhas ao fundo, em julho de 2014.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Atxondo_crester%C3%ADa_Anboto_Alluitz.jpg/1920px-Atxondo_crester%C3%ADa_Anboto_Alluitz.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Atxondo_crester%C3%ADa_Anboto_Alluitz.jpg",
+      "author": "Txo",
+      "license": "CC BY-SA 4.0",
+      "caption": "A crista de calcário entre o Anboto e o Alluitz, vista do colo de Larrano, em Atxondo.",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/asador-etxebarri-atxondo-the-worlds-best-restaurant-2026.html",
+    "https://www.the50.com/the-list/Asador-Etxebarri.html",
+    "https://www.the50.com/stories/News/victor-arguinzoniz-chefs-choice-award.html",
+    "https://www.asadoretxebarri.com/",
+    "https://en.wikipedia.org/wiki/Asador_Etxebarri",
+    "https://es.wikipedia.org/wiki/Asador_Etxebarri",
+    "https://www.infobae.com/espana/2026/11/05/todo-sobre-etxebarri-el-asador-vasco-elegido-como-mejor-restaurante-del-mundo-en-2026-un-menu-de-300-euros-y-un-humilde-chef-de-66-anos/",
+    "https://sothebys.com/en/articles/the-epicureans-atlas-asador-etxebarri",
+    "https://www.finedininglovers.com/article/victor-arguinzoniz-interview",
+    "https://www.theupcoming.co.uk/2017/03/31/road-to-the-worlds-50-best-2017-victor-arguinzoniz-of-asador-etxebarri",
+    "https://www.restaurantonline.co.uk/Article/2015/06/01/The-World-s-50-Best-Restaurants-list-2015",
+    "https://hypebeast.com/2017/4/worlds-50-best-restaurants-2017",
+    "https://www.greatbritishchefs.com/features/worlds-50-best-restaurants-2018-results",
+    "https://jospergrill.com/?p=40096",
+    "https://www.directoalpaladar.com/actualidad-1/danes-noma-vuelve-a-ser-mejor-restaurante-mundo-50-best-asador-etxebarri-tambien-repite-tercera-posicion/amp",
+    "https://www.foodswinesfromspain.com/en/food/news/2023/june/50best-2023-list",
+    "https://www.theolivepress.es/spain-news/2026/11/05/asador-etxebarri-worlds-best-restaurant/"
+  ]
+}

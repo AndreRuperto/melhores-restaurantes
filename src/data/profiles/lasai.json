@@ -1,0 +1,214 @@
+{
+  "slug": "lasai",
+  "lede": "No Humaitá, Zona Sul do Rio, o Lasai serve um único menu degustação para dez pessoas por vez, sentadas num balcão em L diante da cozinha. Boa parte do que chega ao prato sai das duas hortas do chef Rafa Costa e Silva, que passou anos no Mugaritz, no País Basco, antes de abrir a casa em 2014.",
+  "hero": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Humait%C3%A1_Rio_de_Janeiro_Brazil.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Humait%C3%A1_Rio_de_Janeiro_Brazil.jpg",
+    "author": "Wikityke (Wikipédia em inglês)",
+    "license": "CC BY-SA 3.0",
+    "caption": "Vista do Humaitá, com Botafogo ao centro e o Pão de Açúcar à direita, ao fundo.",
+    "illustrative": false
+  },
+  "founded": 2014,
+  "founders": [
+    "Rafa Costa e Silva",
+    "Malena Cardiel"
+  ],
+  "chef": {
+    "name": "Rafa Costa e Silva",
+    "bio": "Rafael Costa e Silva estudou no Culinary Institute of America, em Nova York, a partir de 2003, e trabalhou nos restaurantes Jean Georges e René Pujol. Em 2007 entrou como estagiário no Mugaritz, de Andoni Luis Aduriz, no País Basco, e saiu em dezembro de 2011 como chef executivo. De volta ao Brasil, abriu o Lasai com a mulher, Malena Cardiel, que comanda o salão, e mantém duas hortas próprias, uma no Itanhangá, no Rio, e outra no Vale das Videiras, na serra fluminense."
+  },
+  "history": [
+    "O Lasai abriu em 2014 num casarão colonial da Rua Conde de Irajá, em Botafogo. O nome vem do euskera, a língua basca, e quer dizer \"tranquilo\" — escolha que remete à formação do chef Rafa Costa e Silva no País Basco. Em março de 2015, cerca de um ano após a abertura, a casa recebeu sua primeira estrela no Guia Michelin e, no mesmo ano, entrou na lista Latin America's 50 Best Restaurants, em 16º lugar. Desde então aparece em todas as edições do ranking regional.",
+    "Em 2022, o restaurante trocou o casarão de 45 lugares por um espaço bem menor a poucos metros dali, no Largo dos Leões, já no Humaitá. Passou a receber dez pessoas por sessão, todas num balcão em L de frente para a equipe de cozinha. Segundo a Forbes, a produção diária caiu de mais de 650 pratos para cerca de 150.",
+    "A mudança coincidiu com a fase de maior reconhecimento. Em 2024, o Lasai ganhou a segunda estrela Michelin e chegou ao 7º lugar na lista latino-americana, com o título de melhor restaurante do Brasil. No ranking mundial, foi o 58º em 2024, na lista estendida; estreou no top 50 em 2025, em 28º, como único brasileiro entre os 50; e subiu para o 25º lugar na edição de 2026, anunciada em Lima."
+  ],
+  "cuisine": {
+    "style": "Cozinha autoral de base vegetal, sazonal e de horta própria",
+    "paragraphs": [
+      "O Lasai não tem cardápio à la carte. Serve um menu degustação de cerca de 15 etapas que muda com as estações e, segundo a Forbes, pode variar de uma noite para outra. Os vegetais são o centro da refeição, acompanhados de frutos do mar frescos e carnes de pequenos produtores. A Forbes relata que cerca de 80% do menu vem das duas hortas do chef, no Itanhangá e no Vale das Videiras; o restante sai de feiras orgânicas e de pequenos agricultores do estado do Rio.",
+      "Do Mugaritz, Costa e Silva diz ter trazido a atenção ao produto, ao fornecedor e à precisão. Antes de cada etapa, os clientes podem cheirar, tocar e provar os ingredientes crus. A casa dispensa símbolos do luxo europeu, como caviar e trufas, e usa produtos brasileiros como o porco moura do Paraná e o sal de Mossoró (RN). A sommelière Maíra Freire monta harmonizações com vinhos biodinâmicos e naturais, com destaque para produtores brasileiros, além de vermutes paulistas e hidromel de mel nativo."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Chuchu com ervas e finger lime",
+      "desc": "O chuchu, ingrediente comum da mesa brasileira, servido com ervas e as pequenas vesículas cítricas do finger lime.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chayote_1.jpg/1920px-Chayote_1.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Chayote_1.jpg",
+        "author": "Gaurav Dhwaj Khadka",
+        "license": "CC BY-SA 4.0",
+        "caption": "Chuchu (Sechium edule) inteiro (imagem ilustrativa do ingrediente).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Oyster leaf, abóbora, ouriço-do-mar e azedinha",
+      "desc": "Etapa que reúne a folha de sabor marinho conhecida como oyster leaf, abóbora, ouriço-do-mar e a acidez da azedinha.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mertensia_maritima_%28Oysterleaf%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mertensia_maritima_(Oysterleaf).jpg",
+        "author": "Leonora Enking",
+        "license": "CC BY-SA 2.0",
+        "caption": "Oyster leaf (Mertensia maritima) numa praia do Canadá (imagem ilustrativa do ingrediente).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Chuchu com brócolis romanesco, borragem e vieiras",
+      "desc": "Combinação de chuchu e brócolis romanesco com borragem e vieiras.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Romanesco_broccoli_%28Brassica_oleracea%29.jpg/1920px-Romanesco_broccoli_%28Brassica_oleracea%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_(Brassica_oleracea).jpg",
+        "author": "Ivar Leidus",
+        "license": "CC BY-SA 4.0",
+        "caption": "Brócolis romanesco (imagem ilustrativa do ingrediente).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Palmito com castanha-de-caju, enoki e cogumelo eryngii",
+      "desc": "Palmito servido com castanha-de-caju e dois tipos de cogumelo, o enoki e o eryngii.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Heart_of_palm.jpg/1920px-Heart_of_palm.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Heart_of_palm.jpg",
+        "author": "mhoenig",
+        "license": "CC BY-SA 3.0",
+        "caption": "Palmito fresco sendo cortado, no Havaí (imagem ilustrativa do ingrediente).",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2015,
+      "title": "1 estrela no Guia Michelin (Rio de Janeiro)"
+    },
+    {
+      "year": 2015,
+      "title": "Latin America's 50 Best Restaurants – nº 16"
+    },
+    {
+      "year": 2016,
+      "title": "Latin America's 50 Best Restaurants – nº 18"
+    },
+    {
+      "year": 2017,
+      "title": "Latin America's 50 Best Restaurants – nº 16"
+    },
+    {
+      "year": 2018,
+      "title": "Latin America's 50 Best Restaurants – nº 26"
+    },
+    {
+      "year": 2019,
+      "title": "Latin America's 50 Best Restaurants – nº 24"
+    },
+    {
+      "year": 2019,
+      "title": "Latin America's 50 Best Restaurants – prêmio Art of Hospitality"
+    },
+    {
+      "year": 2020,
+      "title": "Latin America's 50 Best Restaurants – nº 21"
+    },
+    {
+      "year": 2021,
+      "title": "Latin America's 50 Best Restaurants 2021: Pasado y Futuro (lista retrospectiva 2013–2020) – nº 22"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants – nº 20"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants – nº 14"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants – nº 7 e Best Restaurant in Brazil"
+    },
+    {
+      "year": 2024,
+      "title": "2 estrelas no Guia Michelin (promovido de uma para duas)"
+    },
+    {
+      "year": 2024,
+      "title": "Guia Michelin – prêmio de Sommelier para Maíra Freire, do Lasai"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants – nº 58 (lista 51–100)"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 28 (estreia no top 50; único brasileiro)"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants – nº 13"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants – nº 25 (subiu do 28º em 2025)"
+    }
+  ],
+  "practical": {
+    "price": "Menu degustação a R$ 1.380 por pessoa (junho de 2025, segundo o Diário do Rio); Forbes e Portal In, no mesmo mês, citaram R$ 1.250, com harmonização de vinhos por R$ 680. Valor de 2026 não confirmado.",
+    "reservation": "Somente com reserva, feita online pela plataforma Tock (exploretock.com/lasai); não aceita clientes sem reserva. Sessões de terça a sexta às 20h e aos sábados às 19h e às 22h30, segundo o site oficial.",
+    "website": "https://www.lasai.com.br",
+    "address": "Largo dos Leões, 35 – Humaitá, Rio de Janeiro – RJ, 22260-210"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Largo_dos_Le%C3%B5es.JPG/1920px-Largo_dos_Le%C3%B5es.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Largo_dos_Le%C3%B5es.JPG",
+      "author": "Eduardo P",
+      "license": "CC BY-SA 3.0",
+      "caption": "Largo dos Leões, no Humaitá, Rio de Janeiro, onde fica o endereço atual do Lasai (foto de 2013, anterior à mudança do restaurante).",
+      "illustrative": false
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/R_Viuva_Lacerda_Humait%C3%A1_Rio_de_janeiro.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:R_Viuva_Lacerda_Humait%C3%A1_Rio_de_janeiro.jpg",
+      "author": "Wikityke (Wikipédia em inglês)",
+      "license": "CC BY-SA 3.0",
+      "caption": "Casas na Rua Viúva Lacerda, no Humaitá, com o Corcovado ao fundo.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Botafogo_Beach_and_skyline_at_dusk%2C_Rio_de_Janeiro%2C_Brazil.jpg/1920px-Botafogo_Beach_and_skyline_at_dusk%2C_Rio_de_Janeiro%2C_Brazil.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Botafogo_Beach_and_skyline_at_dusk,_Rio_de_Janeiro,_Brazil.jpg",
+      "author": "Wilfredor",
+      "license": "CC0",
+      "caption": "Praia e orla de Botafogo ao entardecer; o Lasai funcionou no bairro de 2014 a 2022.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Finger_lime_-_halved.jpg/1920px-Finger_lime_-_halved.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Finger_lime_-_halved.jpg",
+      "author": "Ivar the Boneful",
+      "license": "CC BY-SA 4.0",
+      "caption": "Finger lime cortado ao meio, com as vesículas de suco à mostra (imagem ilustrativa de ingrediente usado no menu).",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.lasai.com.br",
+    "https://www.the50.com/the-list/lasai.html",
+    "https://www.the50.com/the-list/21-30/lasai.html",
+    "https://www.the50.com/latinamerica/en/the-list/11-20/lasai.html",
+    "https://www.the50.com/latinamerica/en/previous-list/2020",
+    "https://www.prnewswire.co.uk/news-releases/latin-america-s-50-best-restaurants-2021-pasado-y-futuro-is-revealed-as-the-region-s-culinary-stars-look-to-the-future-841040767.html",
+    "https://www.four-magazine.com/chefs/rafa-costa-e-silva/",
+    "https://forbes.com.br/forbes-life/2025/06/lasai-os-segredos-do-melhor-restaurante-do-brasil/",
+    "https://www.poder360.com.br/poder-brasil/restaurante-lasai-no-rio-e-eleito-o-28o-melhor-do-mundo/",
+    "https://www.timeout.com/pt/rio-de-janeiro/noticias/guia-michelin-volta-ao-rio-dois-restaurantes-cariocas-ganham-novas-estrelas-saiba-quais-052124",
+    "https://travel.com.br/novidades/quais-sao-os-restaurantes-de-sao-paulo-e-rio-de-janeiro-premiados-no-guia-michelin-2024/",
+    "https://diariodonordeste.verdesmares.com.br/estilo-de-vida/culinaria/restaurante-brasileiro-lasai-conquista-7-lugar-entre-os-50-melhores-da-america-latina-1.3587356",
+    "https://www.bloomberglinea.com.br/2023/03/24/lasai/",
+    "https://diariodorio.com/quanto-custa-comer-no-melhor-restaurante-do-rio-de-janeiro/",
+    "https://www.portalin.com.br/?p=628905"
+  ]
+}

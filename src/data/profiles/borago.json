@@ -1,0 +1,218 @@
+{
+  "slug": "borago",
+  "lede": "Em Vitacura, ao pé do Cerro Manquehue, em Santiago, o Boragó serve um único menu, o Endémica, montado apenas com ingredientes nativos do Chile, do deserto do Atacama à Patagônia. O chef Rodolfo Guzmán trabalha com mais de 200 coletores e pequenos produtores e mantém um centro de pesquisa dedicado à despensa endêmica do país.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Borag%C3%B3%2C_Vitacura%2C_Santiago_20240610_02.jpg/1920px-Borag%C3%B3%2C_Vitacura%2C_Santiago_20240610_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Borag%C3%B3,_Vitacura,_Santiago_20240610_02.jpg",
+    "author": "Carlos Figueroa Rojas",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fachada do Boragó na Avenida San Josemaría Escrivá de Balaguer, em Vitacura, Santiago (junho de 2024).",
+    "illustrative": false
+  },
+  "founded": 2006,
+  "founders": [
+    "Rodolfo Guzmán"
+  ],
+  "chef": {
+    "name": "Rodolfo Guzmán",
+    "bio": "Rodolfo Guzmán passou a infância entre Santiago e a ilha de Chiloé, onde ficava três meses por ano na casa da avó paterna. Em 2003 foi trabalhar na Espanha, com Andrés Madrigal e depois no Mugaritz, de Andoni Luis Aduriz, no País Basco, e voltou ao Chile para abrir o Boragó em 2006. Em 2025 recebeu o Icon Award do Latin America's 50 Best Restaurants; o Boragó é seu único restaurante."
+  },
+  "history": [
+    "O Boragó abriu em 2006 num imóvel pequeno e precário de Vitacura (em 2016 o endereço era a Nueva Costanera 3467). Guzmán conta que, nos primeiros seis anos, o restaurante viveu à beira do fechamento: ficava vazio boa parte do tempo, acumulou dívidas e ele tentou vendê-lo cinco vezes. A cozinha chilena, à sombra das vizinhas peruana e argentina, ainda atraía pouca atenção.",
+    "A virada veio com o reconhecimento internacional. O restaurante entrou no Latin America's 50 Best Restaurants em 2013, chegou ao 2º lugar da lista regional em 2015 e, no mesmo ano, estreou no ranking mundial, em 42º. Em 2019 mudou-se para um endereço maior, também em Vitacura, ao pé do Cerro Manquehue, que abriga ainda o Centro de Investigación Boragó (CIB), dedicado a estudar ingredientes chilenos.",
+    "A pandemia fechou a casa de março de 2020 a agosto de 2021; nesse período Guzmán criou o Muumami, de hambúrgueres com ingredientes nativos. Na volta, o Boragó retomou a escalada no ranking mundial: 29º em 2023 e 2024, 23º em 2025 e 22º em 2026, sua melhor posição até agora."
+  ],
+  "cuisine": {
+    "style": "Cozinha chilena de ingredientes endêmicos e coleta",
+    "paragraphs": [
+      "Guzmán descreve o Chile como uma \"despensa endêmica\", com ingredientes que só crescem ali, e defende uma cozinha baseada no território e nos povos originários, não na técnica nem na cópia de modelos estrangeiros. O restaurante se apoia na cultura mapuche e nas tradições dos povos caçadores-coletores do sul do Chile e da Argentina, e define o menu como um ensaio permanente sobre o momento do território.",
+      "O menu Endémica tem de 12 a 18 etapas, muda conforme a estação e, segundo The 50 Best, se ajusta diariamente ao que chega à cozinha. Os ingredientes vêm de mais de 200 coletores e pequenos produtores espalhados do Atacama à Patagônia, de bosques, encostas de montanha e do litoral, além de uma horta biodinâmica própria a cerca de 30 minutos do restaurante. O trabalho de documentação desses produtos rendeu ao Boragó o prêmio de restaurante sustentável do Latin America's 50 Best em 2018 e do ranking mundial em 2021."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Alface-do-mar com trufa chilena",
+      "desc": "Alga verde do litoral chileno servida com uma trufa nativa do país, um dos pratos citados pelo Latin America's 50 Best.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Meersalat-Ulva-lactuca.jpg/1920px-Meersalat-Ulva-lactuca.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Meersalat-Ulva-lactuca.jpg",
+        "author": "Holger Krisp",
+        "license": "CC BY 3.0",
+        "caption": "Alface-do-mar (Ulva lactuca) numa praia da Croácia (imagem ilustrativa do ingrediente).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "\"Ceviche\" quente de cogumelos",
+      "desc": "Versão quente e sem peixe do ceviche, feita com cogumelos e uma infusão de ervas do bosque.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro patagônico com folha de figueira e tomate rosado do Maule",
+      "desc": "Cordeiro da Patagônia servido com folha de figueira e o tomate rosado do vale do Maule, no centro do Chile.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Patagonia_chilena%2C_cordero_al_palo_1.jpg/1920px-Patagonia_chilena%2C_cordero_al_palo_1.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Patagonia_chilena,_cordero_al_palo_1.jpg",
+        "author": "LBM1948",
+        "license": "CC BY-SA 4.0",
+        "caption": "Cordeiro assado ao estilo magalânico no Parque Nacional Torres del Paine, na Patagônia chilena (imagem ilustrativa).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Mexilhões com favas e pêssegos verdes",
+      "desc": "Mexilhões chilenos combinados com favas e pêssegos ainda verdes, uma das etapas do menu Endémica.",
+      "photo": null
+    },
+    {
+      "name": "Marraqueta envelhecida com sorvete de cogumelo",
+      "desc": "Sobremesa feita com a marraqueta, o pão do dia a dia chileno, envelhecida por três semanas, assada na lenha e recheada com sorvete de três pães e de cogumelo, com caramelo de algas e cogumelos.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Marraquetas.jpg/1920px-Marraquetas.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Marraquetas.jpg",
+        "author": "Caleidoscopic",
+        "license": "CC BY-SA 4.0",
+        "caption": "Marraquetas, o pão típico do Chile (imagem ilustrativa).",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2014,
+      "title": "Latin America's 50 Best Restaurants — nº 5"
+    },
+    {
+      "year": 2015,
+      "title": "Latin America's 50 Best Restaurants — nº 2"
+    },
+    {
+      "year": 2015,
+      "title": "The World's 50 Best Restaurants — nº 42 (estreia no ranking, empatado com o Tickets, de Barcelona)"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants — nº 36"
+    },
+    {
+      "year": 2016,
+      "title": "Latin America's 50 Best Restaurants — nº 4"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants — nº 42"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants — nº 27"
+    },
+    {
+      "year": 2018,
+      "title": "Latin America's 50 Best Restaurants — nº 5 e Sustainable Restaurant Award (primeira edição do prêmio)"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants — nº 26"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 38 e Sustainable Restaurant Award"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 43"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants — nº 10"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 29"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants — nº 9"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 29"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 5"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 23"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 6 e Best Restaurant in Chile"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — Icon Award para Rodolfo Guzmán"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants — nº 22 (subiu do 23º em 2025)"
+    }
+  ],
+  "practical": {
+    "price": "Menu Endémica (12 a 18 etapas) a CLP 199.000 por pessoa; harmonização de vinhos CLP 99.000 e de sucos CLP 49.000 (site oficial, consultado em novembro de 2026).",
+    "reservation": "Reserva pelo site oficial (borago.cl/en/reservations), pelo e-mail reservations@borago.cl ou pelo telefone +56 2 2953 8893, com cartão de crédito como garantia; cancelamentos com menos de 24 horas têm multa de US$ 100 por pessoa. Funciona de terça a sábado, a partir das 17h15. Há menu ovolactovegetariano mediante aviso de 24 horas; não há opção vegana.",
+    "website": "https://borago.cl/en/welcome/",
+    "address": "Av. San José María Escrivá de Balaguer 5970, Vitacura, Santiago, Região Metropolitana, 7640804, Chile"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Borag%C3%B3%2C_Vitacura%2C_Santiago_20240610_01.jpg/1920px-Borag%C3%B3%2C_Vitacura%2C_Santiago_20240610_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Borag%C3%B3,_Vitacura,_Santiago_20240610_01.jpg",
+      "author": "Carlos Figueroa Rojas",
+      "license": "CC BY-SA 4.0",
+      "caption": "Painel de madeira com o nome do restaurante na entrada do Boragó, em Vitacura.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Vista_al_Cerro_Manquehue_desde_El_Carb%C3%B3n.jpg/1920px-Vista_al_Cerro_Manquehue_desde_El_Carb%C3%B3n.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Vista_al_Cerro_Manquehue_desde_El_Carb%C3%B3n.jpg",
+      "author": "José Ignacio Gallardo",
+      "license": "CC BY-SA 4.0",
+      "caption": "O Cerro Manquehue visto do Cerro El Carbón; o Boragó fica ao pé do morro, em Vitacura.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cyttaria_Espinosae_%28Dig%C3%BCe%C3%B1e%29.jpg/1920px-Cyttaria_Espinosae_%28Dig%C3%BCe%C3%B1e%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Cyttaria_Espinosae_(Dig%C3%BCe%C3%B1e).jpg",
+      "author": "Robert Motecinos Holda",
+      "license": "CC0",
+      "caption": "Digüeñes (Cyttaria espinosae), fungo comestível da tradição mapuche que cresce em árvores do gênero Nothofagus, na Araucanía (imagem ilustrativa).",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/borago.html",
+    "https://www.the50.com/latinamerica/en/the-list/borago.html",
+    "https://www.the50.com/discovery/Establishments/Chile/Santiago/Borag%C3%B3.html",
+    "https://www.the50.com/stories/News/rodolfo-guzman-latin-americas-50-best-restaurants-icon-award.html",
+    "https://borago.cl/en/welcome/",
+    "https://borago.cl/en/reservations/",
+    "https://www.cronista.com/clase/gourmet/al-principio-recibiamos-desprecio-pero-ahora-chile-tiene-un-restaurante-importante-entrevista-a-rodolfo-guzman-chef-y-creador-de-borago",
+    "https://marcachile.cl/red-de-chilenos-creando-futuro/rodolfo-guzman.php?lang=en",
+    "https://www.latercera.com/finde/noticia/borago-el-restaurante-mas-premiado-de-chile-reabre-despues-de-16-meses-cerrado/",
+    "https://www.elmostrador.cl/cultura/2016/06/14/borago-escala-posiciones-y-vuelve-ubicarse-entre-los-50-mejores-restaurantes-del-mundo/",
+    "https://www.thedailymeal.com/eat/latin-americas-50-best-restaurants-2015-announced-mexico-city",
+    "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2016/09/27/borago-es-elegido-el-cuarto-mejor-restaurante-de-america-latina.shtml",
+    "https://www.t13.cl/noticia/nacional/borago-vuelve-destacar-mejores-50-restaurantes-del-mundo-y-se-posiciona-numero-27",
+    "https://www.cnnchile.com/tendencias/ya-es-un-clasico-borago-sube-una-posicion-en-el-ranking-de-los-mejores-50-restaurantes-del-mundo/",
+    "https://forbes.cl/life/2021-10-06/borago-es-premiado-como-restaurante-sostenible-del-ano-en-los-premios-oscar-de-la-gastronomia/",
+    "https://forbes.cl/life/2022-07-20/cuanto-cuesta-comer-en-restaurante-borago",
+    "https://forbes.cl/life/2022-11-16/borago-entre-los-10-restaurantes-mas-importantes-de-latinoamerica/",
+    "https://forbes.cl/life/2023-06-20/borago-asciende-entre-los-50-mejores-restaurantes-del-mundo",
+    "https://www.latercera.com/tendencias/noticia/chile-logra-el-puesto-9-entre-los-50-mejores-restaurantes-de-latinoamerica-2023/BK2ONB2UCVET3D2W6YUSKAYEBE/",
+    "https://forbes.cl/life/2024-06-06/the-worlds-50-best-borago-de-rodolfo-guzman-ocupa-el-puesto-29-en-los-mejores-restaurantes-del-mundo",
+    "https://www.24horas.cl/tendencias/espectaculos/ranking-restaurante-chileno-quinto-mejor-latinoamerica",
+    "https://www.meganoticias.cl/nacional/490843-cuanto-cuesta-comer-en-borago-mejor-restaurante-de-chile-vdsia-05-06-2025.html"
+  ]
+}

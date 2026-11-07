@@ -170,6 +170,14 @@ body {
   box-shadow: 0 0 0 1px var(--c-shadow);
 }
 
+/* fotos levemente aquecidas, para conversarem com o papel */
+.photo {
+  filter: saturate(0.9) sepia(0.06);
+}
+:root[data-theme='dark'] .photo {
+  filter: saturate(0.85) sepia(0.08) brightness(0.92);
+}
+
 .link-u {
   background-image: linear-gradient(currentColor, currentColor);
   background-size: 0% 1px;

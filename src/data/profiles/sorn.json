@@ -1,0 +1,167 @@
+{
+  "slug": "sorn",
+  "lede": "Numa casa de cerca de 90 anos escondida num soi da Sukhumvit, em Bangkok, o Sorn serve só cozinha do sul da Tailândia, feita com produtos das 14 províncias da região e sem baixar o picante. Em 2025 tornou-se o primeiro restaurante do país com três estrelas Michelin.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Benjakitti_Forest_Park_%28I%29.jpg/1920px-Benjakitti_Forest_Park_%28I%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Benjakitti_Forest_Park_(I).jpg",
+    "author": "Supanut Arunoprayote",
+    "license": "CC BY 4.0",
+    "caption": "Parque Florestal Benjakitti, no distrito de Khlong Toei, o mesmo distrito de Bangkok onde fica o Sorn",
+    "illustrative": false
+  },
+  "founded": 2018,
+  "founders": [
+    "Supaksorn \"Ice\" Jongsiri",
+    "Yodkwan \"Yod\" U-Pumpruk"
+  ],
+  "chef": {
+    "name": "Supaksorn \"Ice\" Jongsiri",
+    "bio": "Nascido em Bangkok, Ice foi criado em boa parte pela avó, professora aposentada em Nakhon Si Thammarat, que foi sua primeira mestra na cozinha e deu seu nome ao restaurante da família, o Baan Ice (\"a casa do Ice\"). Estudou arquitetura e design nos Estados Unidos, onde cozinhava para se sustentar durante a crise financeira asiática de 1997. De volta à Tailândia, abriu filiais do Baan Ice, hoje com sete endereços em Bangkok, antes de criar o Sorn."
+  },
+  "history": [
+    "O Sorn abriu em meados de 2018 (as fontes citam maio ou junho) numa casa restaurada da Soi Sukhumvit 26. Ice o montou com economias próprias, sem investidores, ao lado do amigo de infância Yodkwan \"Yod\" U-Pumpruk, que se tornou chef de cozinha; toda a equipe inicial veio do Baan Ice. O nome junta o do filho mais velho do chef ao final do seu próprio nome, Supaksorn, e remete à palavra sânscrita śaraṇa, ligada à ideia de refúgio e de alguém que se apoia na própria força.",
+    "O reconhecimento veio rápido: a primeira estrela Michelin chegou poucos meses após a abertura, no guia de 2019, e a segunda no guia de 2020, quando Sorn e R-Haan se tornaram as primeiras casas de cozinha tailandesa tradicional com duas estrelas. Na lista Asia's 50 Best, estreou em 2019, subiu 32 posições até o 16º lugar em 2020, ganhando o prêmio de maior escalada, e chegou ao 2º lugar em 2022, como melhor restaurante da Tailândia.",
+    "Em 2022 entrou no top 50 mundial, em 39º, como único restaurante tailandês da lista daquele ano. Foi 38º em 2024 e 17º em 2025, ano em que o Guia Michelin Tailândia lhe deu a terceira estrela, a primeira do país. Em 2026 ficou em 12º tanto no Asia's 50 Best quanto em The 50 Best Restaurants."
+  ],
+  "cuisine": {
+    "style": "Cozinha do sul da Tailândia",
+    "paragraphs": [
+      "A proposta parte das receitas que Ice aprendeu com a avó e de viagens pelas 14 províncias do sul, onde conheceu agricultores, pescadores e cozinheiros caseiros. O chef costuma dizer que a comida do sul não vem do palácio, mas das aldeias, e defende uma alta gastronomia tailandesa sem fusão nem desconstrução. O picante, protagonista da cozinha sulista, não é atenuado para o cliente, e a apresentação fica em segundo plano diante do sabor.",
+      "Quase tudo vem do sul: budu (molho de vísceras de peixe fermentadas) de Pattani, arroz Khem Thong de Nakhon Si Thammarat, carne bovina de Phatthalung, lagostas de Phuket e pimentas olho-de-pássaro chegam de avião, alguns frutos do mar ainda vivos. A cozinha recusa atalhos modernos: pastas de curry socadas no pilão, fogões a carvão, panelas de barro e arroz cozido no vapor. Há um único serviço por noite, para cerca de 40 pessoas, com menu degustação de muitos pratos, servido em boa parte para compartilhar e ajustado às estações e à pesca do dia."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Kan Chu Piang (\"joias no palito de caranguejo\")",
+      "desc": "Releitura do kan chiang pu, com carne de caranguejo-azul, ova de caranguejo e pasta de pimenta amarela, servida gelada num pequeno pilão de granito.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/1920px-Portunus_pelagicus_male.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Portunus_pelagicus_male.jpg",
+        "author": "Almandine",
+        "license": "CC BY-SA 3.0",
+        "caption": "Caranguejo-azul (Portunus pelagicus), base do prato; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "The Sea Holds the Forest (khao yam, salada de arroz)",
+      "desc": "Salada de arroz com cúrcuma e ervas do sul, temperada com budu, pensada para expressar a ligação entre mar e floresta na região.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Khao_yam.jpg/1920px-Khao_yam.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Khao_yam.jpg",
+        "author": "Vee Satayamas",
+        "license": "CC BY 2.0",
+        "caption": "Khao yam, salada de arroz do sul da Tailândia; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Phat sato (salteado de feijão sato)",
+      "desc": "Feijão sato (Parkia speciosa) salteado com bagre-de-cauda-vermelha e pasta de curry do sul, um dos pratos principais para compartilhar.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Mu_phat_sato_southern_style.jpg/1920px-Mu_phat_sato_southern_style.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mu_phat_sato_southern_style.jpg",
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "caption": "Salteado de sato ao estilo do sul, versão com porco; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Kaeng lueang (curry amarelo)",
+      "desc": "O curry amarelo e azedo do sul, feito com pimenta olho-de-pássaro; uma versão já servida na casa levava bagre-gigante do mar, mangostão verde e ova do peixe.",
+      "photo": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kaeng_lueang.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Kaeng_lueang.JPG",
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "caption": "Kaeng lueang com peixe e broto de bambu; imagem ilustrativa",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Arroz jasmim no carvão com acompanhamentos",
+      "desc": "Arroz jasmim do sul cozido no vapor sobre carvão com água mineral de Ranong, servido com pastas de pimenta, torresmo, camarão adocicado e molho de peixe com pimenta.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    { "year": 2019, "title": "Uma estrela Michelin (Guia Michelin Tailândia 2019)" },
+    { "year": 2019, "title": "Estreia no Asia's 50 Best Restaurants (nº 48)" },
+    { "year": 2020, "title": "Duas estrelas Michelin (Guia Michelin Tailândia 2020)" },
+    { "year": 2020, "title": "Asia's 50 Best Restaurants: nº 16 e Highest Climber Award" },
+    { "year": 2021, "title": "The World's 50 Best Restaurants: nº 63 (lista 51–100)" },
+    { "year": 2022, "title": "Asia's 50 Best Restaurants: nº 2 e melhor restaurante da Tailândia" },
+    { "year": 2022, "title": "The World's 50 Best Restaurants: nº 39" },
+    { "year": 2023, "title": "Asia's 50 Best Restaurants: nº 9" },
+    { "year": 2024, "title": "Asia's 50 Best Restaurants: nº 11" },
+    { "year": 2024, "title": "The World's 50 Best Restaurants: nº 38" },
+    { "year": 2025, "title": "Três estrelas Michelin (Guia Michelin Tailândia 2025), as primeiras da Tailândia" },
+    { "year": 2025, "title": "Asia's 50 Best Restaurants: nº 16" },
+    { "year": 2025, "title": "The World's 50 Best Restaurants: nº 17" },
+    { "year": 2026, "title": "Asia's 50 Best Restaurants: nº 12" },
+    { "year": 2026, "title": "The 50 Best Restaurants: nº 12" }
+  ],
+  "practical": {
+    "price": "Menu degustação a 7.200 bahts por pessoa, sem bebidas; harmonização de vinhos de 4.900 a 8.800 bahts (fevereiro de 2025). A página da 50 Best indica menu a partir de US$ 223 (2026).",
+    "reservation": "Pela plataforma TableCheck ou pelo e-mail reservation@sornfinesouthern.com; telefone +66 99 081 1119 (das 14h às 18h). Um único serviço de jantar por noite.",
+    "website": "https://sornfinesouthern.com/",
+    "address": "56 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok 10110, Tailândia"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Wat_Phra_Mahathat_Woramahawihan%2C_Nakhon_Si_Thammarat.jpg/1920px-Wat_Phra_Mahathat_Woramahawihan%2C_Nakhon_Si_Thammarat.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wat_Phra_Mahathat_Woramahawihan,_Nakhon_Si_Thammarat.jpg",
+      "author": "Preecha.MJ",
+      "license": "CC BY-SA 4.0",
+      "caption": "Wat Phra Mahathat Woramahawihan, em Nakhon Si Thammarat, província onde o chef Ice cresceu com a avó",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Parkia_speciosa_%28bitter_bean%2C_stink_bean%2C_%E0%B8%AA%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7_sato_khao%29_Phuket%2C_Thailand.jpg/1920px-Parkia_speciosa_%28bitter_bean%2C_stink_bean%2C_%E0%B8%AA%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7_sato_khao%29_Phuket%2C_Thailand.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Parkia_speciosa_(bitter_bean,_stink_bean,_%E0%B8%AA%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7_sato_khao)_Phuket,_Thailand.jpg",
+      "author": "Sharon Hahn Darlin",
+      "license": "CC BY 2.0",
+      "caption": "Vagens de sato à venda no mercado central de Phuket, ingrediente típico do sul",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2019_02_Southern_Thai_vegetable_platter.jpg/1920px-2019_02_Southern_Thai_vegetable_platter.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2019_02_Southern_Thai_vegetable_platter.jpg",
+      "author": "Takeaway",
+      "license": "CC BY-SA 4.0",
+      "caption": "Travessa de vegetais crus típica da cozinha do sul da Tailândia; imagem ilustrativa",
+      "illustrative": true
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stove_Thailand.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Stove_Thailand.jpg",
+      "author": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "caption": "Fogareiro a carvão tailandês, técnica de cocção usada no Sorn; imagem ilustrativa",
+      "illustrative": true
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/sorn.html",
+    "https://www.the50.com/asia/en/the-list/sorn.html",
+    "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Sorn.html",
+    "https://www.the50.com/stories/News/sorn-is-the-highest-climber-at-asias-50-best-restaurants-2020.html",
+    "https://sornfinesouthern.com/",
+    "https://sornfinesouthern.com/wp-content/uploads/Classic-Menu.pdf",
+    "https://en.wikipedia.org/wiki/Sorn_(restaurant)",
+    "https://en.wikipedia.org/wiki/Supaksorn_Jongsiri",
+    "https://www.tatlerasia.com/power-purpose/impact/chef-ice-on-achieving-three-michelin-stars-for-sorn",
+    "https://www.nationthailand.com/life/food/40019675",
+    "https://www.bkmagazine.com/food/mastermind-behind-bangkoks-ground-breaking-sorn-talks-shop/",
+    "https://www.aljazeera.com/news/2019/11/12/two-michelin-stars-go-to-thai-restaurants-in-thailand-in-a-first",
+    "https://www.timeout.com/bangkok/news/sorn-is-thailands-best-restaurant-according-to-this-years-list-of-the-worlds-50-best-restaurants-071922",
+    "https://www.timeout.com/bangkok/news/le-du-crowned-no-1-on-asias-50-best-restaurants-2023-list-032923",
+    "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/275339",
+    "https://seawavemag.com/2024/06/16/thailand-and-singapore-recognized-in-worlds-50-best-restaurants-2024/",
+    "https://www.timeout.com/bangkok/news/thailand-leads-asias-50-best-restaurants-2025-032625",
+    "https://www.enprimeurclub.com/lists/2026-asias-50-best-restaurants",
+    "https://www.travelsforstars.com/blog/2025/02/24/sorn-bangkok",
+    "https://curlytales.com/this-restaurant-in-thailand-is-the-first-in-the-country-to-earn-three-michelin-stars/amp/"
+  ]
+}

@@ -98,7 +98,7 @@ function MapSection() {
   const items = restaurants.filter((r) => (!cont || r.continent === cont) && (tier === 'all' || r.tier === tier))
   return (
     <section className="pt-28">
-      <Chapter id="mapa" n={1} kicker="O mapa" sub="Cada ponto é um restaurante. Passe o cursor para ver o nome e clique para abrir a página. Use + e − ou arraste para explorar.">
+      <Chapter id="mapa" n={1} kicker="O mapa" sub="Cada ponto é um restaurante. Passe o cursor ou toque num ponto para ver o nome, e clique para abrir a página. Use + e − ou arraste para explorar.">
         Cem mesas, <Em>{nCities} cidades</Em>
       </Chapter>
       <div className="mb-5 flex flex-wrap items-center justify-center gap-2">

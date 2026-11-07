@@ -1,0 +1,180 @@
+{
+  "slug": "piazza-duomo",
+  "lede": "Num salão de paredes cor-de-rosa voltado para a catedral de Alba, Enrico Crippa cozinha a partir de uma horta biodinâmica da família Ceretto, vinicultora das Langhe. A casa traduz o Piemonte dos vinhos e das trufas em menus que mudam conforme o que se colhe no dia.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Alba_Piazza_Duomo_1.jpg/1920px-Alba_Piazza_Duomo_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alba_Piazza_Duomo_1.jpg",
+    "author": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "caption": "A Piazza Risorgimento, em Alba, com a catedral ao fundo; o restaurante fica no número 4 da praça.",
+    "illustrative": false
+  },
+  "founded": 2005,
+  "founders": [
+    "Enrico Crippa",
+    "Família Ceretto"
+  ],
+  "chef": {
+    "name": "Enrico Crippa",
+    "bio": "Nascido em 1971 em Carate Brianza, na Lombardia, Crippa se formou com Gualtiero Marchesi, um dos chefs que renovaram a cozinha italiana, e passou também pelas cozinhas de Michel Bras e Ferran Adrià. Em 1996, Marchesi o mandou a Kobe, no Japão, para abrir um restaurante, experiência que mudou seu modo de apresentar a natureza no prato. Desde 2005 comanda o Piazza Duomo, onde conquistou as três estrelas Michelin."
+  },
+  "history": [
+    "O restaurante nasceu de um encontro em 2003 entre Crippa e Bruno Ceretto, da família de produtores de Barolo e Barbaresco que queria levar três estrelas Michelin a Alba, a capital das Langhe. Em 2005 abriram juntos, na Piazza Risorgimento, dois endereços: a Piola, de cozinha piemontesa do dia a dia, e o Piazza Duomo, com interiores de Bill Katz e afrescos do artista Francesco Clemente.",
+    "A ascensão foi rápida: a primeira estrela Michelin chegou em 2006, a segunda em 2009 e a terceira em 2012. Em 2010 a casa ganhou uma sala envidraçada com vista para a cozinha. Para abastecê-la, os Ceretto cederam a Crippa terras da propriedade Monsordo Bernardina, nos arredores de Alba, onde hoje há cerca de três hectares de horta cultivada em regime biodinâmico, além de estufas.",
+    "O Piazza Duomo entrou na lista The World's 50 Best Restaurants em 2013 e chegou ao 15º lugar em 2017. Depois oscilou — caiu para o 42º posto em 2023 —, mas voltou a subir em 2025 (32º) e alcançou o 20º lugar na edição de 2026."
+  ],
+  "cuisine": {
+    "style": "Piemontesa de horta",
+    "paragraphs": [
+      "A cozinha de Crippa parte da horta: a maior parte dos legumes, ervas e frutas servidos vem da propriedade dos Ceretto, e o chef a visita pela manhã para decidir o que entra no menu do dia. A ideia de cozinhar a partir do mercado e da colheita veio de Michel Bras, a quem Crippa chama de seu mestre de poesia; do Japão vieram o rigor e o cuidado com a apresentação.",
+      "Os menus são só de degustação. O Viaggio tem oito pratos; o Seasonal Things, onze, é montado com o que as estufas e hortas oferecem; e no outono há um menu dedicado à trufa branca de Alba. A base é a tradição do Piemonte — carne crua cortada à faca, caracóis, risotos —, revista com técnica moderna, ao lado de uma carta de vinhos de peso, com harmonizações dedicadas ao Barolo."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Insalata 21…31…41…51… (salada 21…31…41…51…)",
+      "desc": "Salada cujo nome indica o número de folhas, ervas, brotos e flores que a compõem no dia, conforme a estação.",
+      "photo": null
+    },
+    {
+      "name": "Risotto alla zucca con fegatini di faraona (risoto de abóbora com fígados de galinha-d'angola)",
+      "desc": "Prato de inverno que junta o doce da abóbora ao sabor intenso dos miúdos de galinha-d'angola.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Risotto-alla-zucca.jpg/1920px-Risotto-alla-zucca.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Risotto-alla-zucca.jpg",
+        "author": "Luca Nebuloni",
+        "license": "CC BY 2.0",
+        "caption": "Risoto de abóbora (imagem ilustrativa).",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Piselli e seppie (ervilhas e sépia)",
+      "desc": "Prato de primavera de ervilhas e sépia servidas com uma redução da tinta do próprio molusco.",
+      "photo": null
+    },
+    {
+      "name": "Lumache e polenta (caracóis e polenta)",
+      "desc": "Releitura de uma tradição local de criação de caracóis, servidos com polenta.",
+      "photo": null
+    },
+    {
+      "name": "Pane Carlo Alberto (pão Carlo Alberto)",
+      "desc": "Pão com manteiga, anchova e nozes, ligado à história da Primeira Guerra de Independência Italiana.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2006,
+      "title": "Primeira estrela Michelin"
+    },
+    {
+      "year": 2009,
+      "title": "Segunda estrela Michelin"
+    },
+    {
+      "year": 2012,
+      "title": "Terceira estrela Michelin"
+    },
+    {
+      "year": 2014,
+      "title": "The World's 50 Best Restaurants — nº 39"
+    },
+    {
+      "year": 2015,
+      "title": "The World's 50 Best Restaurants — nº 27"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants — nº 17"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants — nº 15"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants — nº 16"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants — nº 29"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 18"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 19"
+    },
+    {
+      "year": 2023,
+      "title": "Estrela Verde Michelin (sustentabilidade), no Guia Michelin Itália 2023"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 42"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 39"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 32"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 20"
+    }
+  ],
+  "practical": {
+    "price": "Menus degustação de € 290 (Viaggio, 8 pratos) e € 350 (Seasonal Things, 11 pratos) (março de 2026)",
+    "reservation": "Pelo site oficial, pelo telefone +39 0173 366167 ou pelo e-mail info@piazzaduomoalba.it.",
+    "website": "https://www.piazzaduomoalba.it/",
+    "address": "Piazza Risorgimento 4, 12051 Alba (CN), Itália"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Vineyards_in_Langhe.jpg/1920px-Vineyards_in_Langhe.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Vineyards_in_Langhe.jpg",
+      "author": "Alessandra Cimatti",
+      "license": "CC BY 2.0",
+      "caption": "Vinhedos nas Langhe, perto de Treiso, a poucos quilômetros de Alba.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/White_truffles_from_Alba.jpg/1920px-White_truffles_from_Alba.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:White_truffles_from_Alba.jpg",
+      "author": "Kent Wang",
+      "license": "CC BY-SA 2.0",
+      "caption": "Trufas brancas de Alba, base do menu de outono do restaurante.",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nebbiolo_vines_in_Langhe.jpg/1920px-Nebbiolo_vines_in_Langhe.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nebbiolo_vines_in_Langhe.jpg",
+      "author": "Blue moon in her eyes",
+      "license": "CC BY 2.0",
+      "caption": "Videiras de nebbiolo, a uva do Barolo, em dia de neblina nas Langhe.",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/the-list/piazza-duomo.html",
+    "https://ceretto.com/en/piazza-duomo",
+    "https://www.identitagolose.com/sito/en/6/2457/chef/enrico.html",
+    "https://www.gamberorosso.it/notizie/ristoranti/enrico-crippa-e-piazza-duomo-di-alba-storia-di-un-grande-chef-e-di-un-grande-ristorante/",
+    "https://reportergourmet.com/en/news/8975-piazza-duomo-and-the-crippa-factor-the-chef-who-made-the-langhe-a-global-culinary-hotspot",
+    "https://kachen.lu/de/?p=129999",
+    "https://www.thestaffcanteen.com/News/stelle-di-stelle-enrico-crippa",
+    "https://www.theupcoming.co.uk/2016/06/11/road-to-the-worlds-50-best-restaurants-2016-enrico-crippa-piazza-duomo",
+    "https://www.dissapore.com/notizie/the-50-best-restaurants-2022-piazza-duomo-perde-una-posizione/",
+    "https://www.enprimeurclub.com/restaurants/piazza-duomo",
+    "https://www.cuneodice.it/varie/alba-e-langhe/guida-michelin-il-piazza-duomo-fa-il-pieno-di-stelle-premiato-anche-per-la-sostenibilita_67994.html",
+    "https://www.scattidigusto.it/ristorante-piazza-duomo-tre-stelle-michelin-chef-enrico-crippa",
+    "https://lesgrandestablesdumonde.com/en/restaurant/piazza-duomo/"
+  ]
+}

@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { restaurants, CONTINENTS, countBy } from '../data/restaurants'
+import { restaurants, CONTINENTS, countBy, matches } from '../data/restaurants'
 import { Header, Footer, Search, Ornament } from '../components/ui'
 import WorldMap from '../components/WorldMap'
 import { MenuItem } from '../components/RankingTable'
@@ -21,13 +21,12 @@ export default function Restaurants() {
   const countries = useMemo(() => countBy(restaurants, 'country').map(([c]) => c).sort((a, b) => a.localeCompare(b, 'pt')), [])
 
   const list = useMemo(() => {
-    const term = q.trim().toLowerCase()
     return restaurants.filter(
       (r) =>
         (!cont || r.continent === cont) &&
         (!country || r.country === country) &&
         (!tier || r.tier === tier) &&
-        (!term || `${r.name} ${r.city} ${r.country}`.toLowerCase().includes(term)),
+        matches(r, q),
     )
   }, [q, cont, country, tier])
 

@@ -1,0 +1,230 @@
+{
+  "slug": "suhring",
+  "lede": "Num casarão dos anos 1970 cercado por um jardim tropical em Bangcoc, os gêmeos alemães Thomas e Mathias Sühring reinterpretam a cozinha caseira da Alemanha a partir das receitas de família e das lembranças dos verões na casa da avó. Em novembro de 2025, o restaurante se tornou o segundo da Tailândia com três estrelas Michelin.",
+  "hero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sathon_area%2C_Bangkok_%2833164940940%29.jpg/1920px-Sathon_area%2C_Bangkok_%2833164940940%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sathon_area,_Bangkok_(33164940940).jpg",
+    "author": "Ninara",
+    "license": "CC BY 2.0",
+    "caption": "Vista noturna da região de Sathon, em Bangcoc, a partir do terraço do edifício United Center; o Sühring fica no vizinho bairro de Chong Nonsi",
+    "illustrative": false
+  },
+  "founded": 2016,
+  "founders": [
+    "Thomas Sühring",
+    "Mathias Sühring"
+  ],
+  "chef": {
+    "name": "Thomas e Mathias Sühring",
+    "bio": "Gêmeos idênticos nascidos em 1977 em Berlim Oriental, Thomas e Mathias Sühring passavam os verões na casa da avó, no campo, onde aprenderam a fermentar, conservar, defumar e secar alimentos. Formados na cozinha francesa, trabalharam com chefs estrelados como Sven Elverfeld (Aqua), Jonnie Boer (De Librije) e Heinz Beck (La Pergola), na Alemanha, na Holanda e na Itália. Chegaram a Bangcoc em 2008 e comandaram a cozinha do Mezzaluna, no complexo lebua, antes de abrir a própria casa."
+  },
+  "history": [
+    "Os irmãos Sühring vieram para a Tailândia em 2008 com a ideia de ficar alguns anos e acabaram se fixando no país, onde se casaram. Depois de comandar o Mezzaluna, restaurante no alto da State Tower, decidiram abrir um endereço próprio, incentivados pelo chef indiano Gaggan Anand, que ficou com uma participação minoritária no negócio. O Sühring abriu em 2016 num casarão dos anos 1970 em Chong Nonsi, área tranquila do sul de Bangcoc; a casa, com vários andares e jardim, já tinha servido de residência a funcionários de embaixadas próximas. Os gêmeos investiram nela todas as suas economias.",
+    "O reconhecimento veio rápido. Em 2017 o restaurante estreou no Asia's 50 Best em 13º lugar, a segunda maior estreia daquela edição. Em 2018 subiu para 4º na lista asiática, recebeu uma estrela na primeira edição do Guia Michelin da Tailândia e entrou no ranking mundial em 54º, a estreia mais alta do grupo 51–100. Em 2019 ganhou a segunda estrela e chegou ao 45º lugar da lista mundial; em 2021 subiu para 40º, como único restaurante de Bangcoc entre os 50 primeiros.",
+    "Depois de cair para 66º em 2022 e 72º em 2023, o Sühring voltou a subir: 23º em 2024 e 22º em 2025. No Guia Michelin Tailândia 2026, anunciado em 27 de novembro de 2025, foi promovido a três estrelas, depois de sete anos seguidos com duas, e se juntou ao Sorn como o segundo três-estrelas do país; no palco, os irmãos agradeceram a Gaggan, a quem chamaram de mentor. Em 2026 alcançou sua melhor posição no ranking mundial, o 14º lugar."
+  ],
+  "cuisine": {
+    "style": "Alemã contemporânea",
+    "paragraphs": [
+      "O ponto de partida do Sühring é a comida caseira alemã: receitas de família, um livro de receitas que pertenceu aos avós e lembranças de infância. Os gêmeos reinterpretam esses pratos num menu degustação chamado Erlebnis (\"experiência\", em alemão), que muda constantemente e reúne clássicos de diferentes regiões do país, como os spätzle do sul, o labskaus do norte e a torta Floresta Negra, ao lado de criações sazonais com lagosta, vieira e wagyu de Kagoshima.",
+      "Na técnica, recorrem a métodos tradicionais de conservação, como fermentar, conservar em salmoura e curar, aprendidos na infância. Os ingredientes misturam produtos trazidos da Alemanha, como manteiga de Oldenburg e vinagres do produtor Doktorenhof, com fornecedores locais, como uma fazenda de queijo de cabra em Nakhon Pathom; o pão é de fermentação natural, feito com um fermento iniciado em 2015. As mesas se espalham pelos ambientes da casa, algumas voltadas para a cozinha aberta e outras para um átrio com teto de vidro, e o jardim, segundo os irmãos, lembra a fazenda da avó."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Spätzle",
+      "desc": "A massa de ovo típica do sul da Alemanha, servida com queijo de montanha da região de Allgäu e trufa negra, apontada pelo The 50 Best como prato-assinatura dos gêmeos.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kaesspaetzle_mit_Zwiebeln.jpg/1920px-Kaesspaetzle_mit_Zwiebeln.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kaesspaetzle_mit_Zwiebeln.jpg",
+        "author": "Stefan-Xp",
+        "license": "CC BY-SA 3.0",
+        "caption": "Käsespätzle, spätzle gratinados com queijo e cebola, versão tradicional do prato (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Brotzeit (hora do pão)",
+      "desc": "Serviço de pães com vários acompanhamentos e condimentos que chega no meio da refeição para ser compartilhado na mesa, à maneira do lanche tradicional alemão.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Brotzeit_mit_allem.jpg/1920px-Brotzeit_mit_allem.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Brotzeit_mit_allem.jpg",
+        "author": "Xocolatl",
+        "license": "CC BY-SA 3.0",
+        "caption": "Brotzeit bávaro, com pão, queijo de montanha e acompanhamentos (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Labskaus",
+      "desc": "Prato de marinheiros do norte da Alemanha, à base de carne em conserva e beterraba, que a casa serve com caviar.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Moderne_Variante_vom_Labskaus_mit_Corned_Beef.jpg/1920px-Moderne_Variante_vom_Labskaus_mit_Corned_Beef.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Moderne_Variante_vom_Labskaus_mit_Corned_Beef.jpg",
+        "author": "Hannesauas14",
+        "license": "CC BY-SA 4.0",
+        "caption": "Versão moderna de labskaus com carne em conserva, beterraba e rollmops (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Schwarzwälder Kirschtorte (torta Floresta Negra)",
+      "desc": "Releitura da clássica torta da Floresta Negra, com chocolate amargo, cerejas e baunilha, servida como sobremesa do menu.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Black_Forest_gateau.jpg/1920px-Black_Forest_gateau.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Black_Forest_gateau.jpg",
+        "author": "Mikelo",
+        "license": "CC BY-SA 2.0",
+        "caption": "Fatia de Schwarzwälder Kirschtorte, a torta Floresta Negra tradicional (imagem ilustrativa)",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Oma Christa's Eierlikör (licor de ovos da vovó Christa)",
+      "desc": "Licor de ovos que homenageia a avó dos gêmeos, servido numa garrafinha em miniatura no fim da refeição, com pequenos biscoitos.",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Advocaat_glass.jpg/1920px-Advocaat_glass.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Advocaat_glass.jpg",
+        "author": "Sebastian Koppehel",
+        "license": "CC BY 4.0",
+        "caption": "Taça de licor de ovos (Eierlikör) (imagem ilustrativa)",
+        "illustrative": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": 2017,
+      "title": "Asia's 50 Best Restaurants – nº 13 (segunda maior estreia da edição)"
+    },
+    {
+      "year": 2018,
+      "title": "Uma estrela Michelin (primeira edição do Guia Michelin Tailândia)"
+    },
+    {
+      "year": 2018,
+      "title": "Asia's 50 Best Restaurants – nº 4"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants – nº 54 (maior estreia da lista 51–100)"
+    },
+    {
+      "year": 2019,
+      "title": "Duas estrelas Michelin (Guia Michelin Tailândia), mantidas por sete anos seguidos"
+    },
+    {
+      "year": 2019,
+      "title": "Asia's 50 Best Restaurants – nº 4"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants – nº 45"
+    },
+    {
+      "year": 2020,
+      "title": "Asia's 50 Best Restaurants – nº 6"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants – nº 40"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants – nº 7"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants – nº 66"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants – nº 72"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants – nº 7"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants – nº 23"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants – nº 11"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 22"
+    },
+    {
+      "year": 2026,
+      "title": "Três estrelas Michelin (Guia Michelin Tailândia 2026, anunciado em novembro de 2025), o segundo três-estrelas do país"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants – nº 18"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants – nº 14"
+    }
+  ],
+  "practical": {
+    "price": "Menu degustação Erlebnis a 9.800 bahts por pessoa (7.800 bahts na versão mais curta; menu de almoço de 5.800 bahts sob consulta), sem bebidas, mais 10% de serviço e 7% de imposto; harmonização de vinhos de 5.800 a 9.800 bahts (cardápio de agosto de 2026). A página da 50 Best indica menu a partir de US$ 241 (2026).",
+    "reservation": "Pelo site oficial, com até 60 dias de antecedência (a casa recomenda reservar cerca de um mês antes); grupos com mais de oito pessoas pelo telefone +66 2107 2777 ou pelo e-mail reservation@restaurantsuhring.com. Almoço de quinta a domingo e jantar de quarta a domingo; fecha às segundas e terças.",
+    "website": "https://www.restaurantsuhring.com/",
+    "address": "10 Soi Yen Akat 3, Chong Nonsi, Yan Nawa, Bangcoc 10120, Tailândia"
+  },
+  "gallery": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chong_Nonsi_Sathon_Skywalk_Bangkok_2020_01.jpg/1920px-Chong_Nonsi_Sathon_Skywalk_Bangkok_2020_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chong_Nonsi_Sathon_Skywalk_Bangkok_2020_01.jpg",
+      "author": "Chainwit.",
+      "license": "CC BY-SA 4.0",
+      "caption": "A passarela elevada de Chong Nonsi, sobre o cruzamento de Sathon, no bairro onde fica o Sühring",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Wat_Chong_Nonsi_%281%29.jpg/1920px-Wat_Chong_Nonsi_%281%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wat_Chong_Nonsi_(1).jpg",
+      "author": "Kriengsak Jirasirirojanakorn",
+      "license": "CC BY-SA 4.0",
+      "caption": "Wat Chong Nonsi, templo budista histórico do distrito de Yan Nawa, o mesmo do restaurante",
+      "illustrative": false
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Lebua_at_State_Tower_IMG_1399_01.jpg/1920px-Lebua_at_State_Tower_IMG_1399_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lebua_at_State_Tower_IMG_1399_01.jpg",
+      "author": "Na derdingseben",
+      "license": "CC BY-SA 3.0",
+      "caption": "O bar Sirocco, no 64º andar da State Tower, sede do complexo lebua, onde os gêmeos comandaram a cozinha do Mezzaluna antes de abrir o Sühring",
+      "illustrative": false
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/how-twin-chefs-mathias-thomas-suhring-conquered-bangkok-dining-scene-inventive-german-cuisine.html",
+    "https://www.the50.com/asia/en/the-list/1-10/suhring.html",
+    "https://www.the50.com/the-list/31-40/Suhring.html",
+    "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Sühring.html",
+    "https://www.michelin.com/en/publications/products-and-services/thailand-shines-brighter-with-10-new-michelin-star-restaurants",
+    "https://www.bkmagazine.com/food/restaurants/suhring-joins-sorn-to-become-the-second-3-star-michelin-restaurant-in-thailand-at-the-michelin-guide-ceremony-thailand-2026/",
+    "https://www.gamberorossointernational.com/news/the-best-german-cuisine-is-in-asia-two-twins-bring-germany-to-bangkok/",
+    "https://andershusa.com/the-suhring-twins-german-fine-dining-bangkok-thailand-worlds50best-michelin-guide/",
+    "https://www.restaurantsuhring.com/",
+    "https://www.restaurantsuhring.com/reservation.html",
+    "https://www.restaurantsuhring.com/menu.pdf",
+    "https://www.enprimeurclub.com/restaurants/suhring",
+    "https://www.timeout.com/bangkok/news/suhring-is-the-only-bangkok-restaurant-on-the-worlds-50-best-restaurants-2021-list-100621",
+    "https://www.timeout.com/bangkok/news/asias-50-best-restaurants-2020-revealed7-restaurants-in-bangkok-made-the-cut-032420",
+    "https://www.timeout.com/bangkok/news/thailand-leads-asias-50-best-restaurants-2025-032625",
+    "https://www.timeout.com/asia/news/worlds-50-best-restaurants-2025-here-are-the-14-asian-entries-062025",
+    "https://citynomads.com/asias-50-best-restaurants-2018-bangkoks-gaggan-is-no-1-for-fourth-consecutive-year-odette-is-singapores-best-restaurant/",
+    "https://www.tageskarte.io/gastronomie/detail/deutsche-koeche-auf-platz-vier-in-asien.html",
+    "https://www.hospitalitymagazine.com.au/?p=27362",
+    "https://www.restaurantonline.co.uk/Article/2018/06/12/The-World-s-50-Rest-Restaurants-2018-announces-the-51-100-list",
+    "https://www.finedininglovers.com/article/asia-50-best-restaurants-2022-full-list",
+    "https://www.finedininglovers.com/explore/articles/worlds-50-best-restaurants-51-100-list-2022",
+    "https://www.finedininglovers.com/article/worlds-50-best-restaurants-2024-list"
+  ]
+}

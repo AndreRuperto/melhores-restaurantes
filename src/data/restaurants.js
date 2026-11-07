@@ -172,7 +172,19 @@ export const restaurants = RAW.map(([rank, name, city, code, lat, lng, extra = {
   prev: extra.prev || null,
 }))
 
-export const bySlug = Object.fromEntries(restaurants.map((r) => [r.slug, r]))
+// minúsculas e sem acento, para a busca achar "sao paulo" em "São Paulo"
+export const fold = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+
+restaurants.forEach((r) => {
+  r.search = fold(`${r.name} ${r.city} ${r.country} ${r.continent}`)
+})
+
+export const matches = (r, q) => {
+  const term = fold(q.trim())
+  return !term || r.search.includes(term)
+}
+
+export const bySlug =Object.fromEntries(restaurants.map((r) => [r.slug, r]))
 
 export const flagUrl = (code) => `/flags/${code.toLowerCase()}.svg`
 
