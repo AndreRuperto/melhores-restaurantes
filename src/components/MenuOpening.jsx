@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { restaurants } from '../data/restaurants'
+import BrandMark from './BrandMark'
 import './menu-opening.css'
 
 const STORAGE_KEY = 'a-carta-abertura-2026-v1'
@@ -76,7 +77,10 @@ export default function MenuOpening() {
 
   return (
     <div className={`menu-opening menu-opening--${phase}`} role="dialog" aria-modal="true" aria-label="Animação de abertura de A Carta">
-      <div className="menu-opening__masthead" aria-hidden="true">A C A R T A</div>
+      <div className="menu-opening__masthead" aria-hidden="true">
+        <BrandMark className="menu-opening__masthead-mark" />
+        <span>A C A R T A</span>
+      </div>
       <button
         ref={skipRef}
         type="button"
@@ -113,6 +117,7 @@ export default function MenuOpening() {
             <div className="menu-opening__cover">
               <div className="menu-opening__cover-frame">
                 <span className="menu-opening__cover-kicker">Uma experiência</span>
+                <BrandMark className="menu-opening__cover-mark" />
                 <span className="menu-opening__cover-rule" />
                 <span className="menu-opening__cover-title">A Carta</span>
                 <span className="menu-opening__cover-rule" />

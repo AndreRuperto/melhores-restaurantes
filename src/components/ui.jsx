@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { flagUrl } from '../data/restaurants'
+import BrandMark from './BrandMark'
 
 export const SITE = 'A Carta'
 
@@ -13,7 +14,8 @@ export const roman = (n) => ROMAN[n - 1]
 
 export function Logo() {
   return (
-    <Link to="/" className="flex flex-none items-baseline gap-2 whitespace-nowrap text-ink">
+    <Link to="/" className="flex flex-none items-center gap-1.5 whitespace-nowrap text-ink sm:gap-2" aria-label="A Carta — início">
+      <BrandMark className="text-[19px] text-wine sm:text-[25px]" />
       <span className="display text-2xl italic text-wine">A Carta</span>
       <span className="smallcaps hidden text-muted sm:inline">· 2026</span>
     </Link>
@@ -102,7 +104,7 @@ export function Ornament({ className = '' }) {
   return (
     <div className={`flex items-center justify-center gap-4 text-wine ${className}`} aria-hidden="true">
       <span className="h-px w-16 bg-rule" />
-      <span className="display text-xl">❦</span>
+      <BrandMark className="text-[22px]" />
       <span className="h-px w-16 bg-rule" />
     </div>
   )
@@ -114,7 +116,10 @@ export function Footer() {
       <div className="mx-auto max-w-6xl px-4 sm:px-8">
         <div className="rule-double" />
         <div className="flex flex-col items-center gap-4 py-12 text-center">
-          <span className="display text-3xl italic text-wine">A Carta</span>
+          <div className="flex items-center justify-center gap-2 text-wine">
+            <BrandMark className="text-[30px]" />
+            <span className="display text-3xl italic">A Carta</span>
+          </div>
           <p className="max-w-md text-sm text-ink-2">
             Os 100 melhores restaurantes do mundo em 2026, segundo{' '}
             <a className="link-u text-ink" href="https://www.theworlds50best.com/" target="_blank" rel="noreferrer">The 50 Best Restaurants</a>. Lista reproduzida via{' '}
