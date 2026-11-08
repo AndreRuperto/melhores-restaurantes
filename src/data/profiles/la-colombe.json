@@ -1,51 +1,200 @@
 {
-  "lede": "Em Constantia Nek, perto da Cidade do Cabo, o La Colombe combina produtos sul-africanos com técnica francesa e apresentação teatral.",
+  "lede": "Nas encostas arborizadas de Constantia Nek, perto da Cidade do Cabo, o La Colombe serve uma degustação de ingredientes sul-africanos com técnicas francesas e apresentações interativas. Criada em Constantia Uitsig nos anos 1990, a casa mudou-se para Silvermist em 2014; hoje, sob o chef executivo James Gaag, voltou ao top 50 mundial em 2026, na 35ª posição, como a melhor colocada da África.",
   "history": [
-    "A casa funciona em meio à vegetação da propriedade Silvermist, onde a experiência de refeição inclui serviço cuidadosamente encenado e pratos que mudam com a estação.",
-    "O salão do La Colombe fica na encosta arborizada de Constantia Nek, dentro de Silvermist. A arquitetura envidraçada aproxima a sala de jantar da paisagem e integra o cenário ao modo teatral de apresentar os pratos."
+    "O La Colombe nasceu em 1996, na propriedade Constantia Uitsig, em uma região montanhosa ao sul da Cidade do Cabo. Sua história reúne diferentes gerações de cozinheiros: Franck Dangereux foi um dos responsáveis pela primeira fase de prestígio, e Luke Dale-Roberts assumiu a cozinha em 2006. Nesse período, a casa se projetou na cena gastronômica sul-africana, entrou na lista mundial The World's 50 Best e recebeu o prêmio de melhor restaurante do país nas edições de 2008 e 2009 dos Eat Out Awards.",
+    "Após a saída de Dale-Roberts, Scot Kirton liderou a cozinha e depois a direção do grupo. Em outubro de 2014, transferiu o La Colombe de Constantia Uitsig para a Silvermist Wine Estate, nas encostas de Constantia Nek. A vista para a vegetação e o vale passou a integrar a experiência: o salão de linhas claras, ampliado e reformado em 2018, tem grandes superfícies envidraçadas e uma atmosfera semelhante à de uma casa entre as árvores.",
+    "James Gaag ingressou na equipe em 2010, ainda estudante. Depois de trabalhar com Raymond Blanc no Le Manoir aux Quat'Saisons, na Inglaterra, retornou em 2014 como chef de cozinha; em abril de 2018 tornou-se chef executivo. Sua proposta manteve o serviço de degustação e a técnica clássica, mas incorporou mais referências locais, elementos de encenação e pequenas surpresas à mesa. Em 2019, a equipe voltou a receber o título de restaurante do ano na África do Sul pelo Eat Out.",
+    "Depois de figurar em 49º lugar no ranking global em 2024, o La Colombe passou para a lista estendida, na 55ª posição, em 2025. A cerimônia do The 50 Best em Lima, em 4 de novembro de 2026, marcou o retorno ao top 50: 35º no mundo e melhor restaurante da África. A casa também recebeu em 2026 os títulos de melhor restaurante da África e da África do Sul no World Culinary Awards, premiações independentes do The 50 Best."
   ],
   "cuisine": {
-    "style": "Cozinha sul-africana contemporânea de influência francesa",
+    "style": "Degustação contemporânea com técnica francesa, produtos locais e apresentação teatral",
     "paragraphs": [
-      "Frutos do mar, ervas nativas e vegetais locais aparecem em preparações delicadas e com intervenções visuais.",
-      "James Gaag combina técnica francesa com ingredientes sul-africanos e influências asiáticas pontuais. Ervas nativas, frutos do mar e vegetais aparecem em apresentações que envolvem o serviço de mesa."
+      "O chef executivo James Gaag resume a abordagem da equipe em uma frase: a comida é também um espetáculo. A sequência combina técnica francesa, ingredientes sul-africanos e influências asiáticas; os pratos podem chegar em recipientes inesperados, ser finalizados diante dos convidados ou convidá-los a descobrir componentes escondidos. Segundo o chef, porém, sabor e equilíbrio vêm antes da aparência. Frutos do mar, ervas, legumes de estação e carne de produtores locais participam de um repertório que muda continuamente.",
+      "A criação mais identificada com a casa é Tuna La Colombe: atum-amarelo marinado, ervas pequenas e flores comestíveis são apresentados numa lata em miniatura, aberta pelo convidado. O cardápio oficial de novembro de 2026 inclui também codorna com lagostim e milho, cordeiro preparado no carvão com tomate e alecrim, aipo-rábano com cogumelos selvagens e trufas, e uma sobremesa que recupera memórias de iogurte congelado da infância.",
+      "Há uma degustação completa chamada Chef's Menu e, em certos períodos, um almoço mais curto durante a semana. O restaurante publica versões vegetarianas com pratos próprios, como beterraba La Colombe, couve-flor com temperos tandoori e canelone de cogumelos. Algumas etapas mantêm o mesmo nome em diferentes temporadas; outras são substituídas conforme ingredientes e disponibilidade. Os seis exemplos abaixo correspondem ao menu oficial consultado em 8 de novembro de 2026, não a um compromisso de que sejam servidos em outra data."
     ]
   },
   "chef": {
     "name": "James Gaag",
-    "bio": "James Gaag é o chef responsável pelo La Colombe, conhecido pela combinação de técnicas francesas com produtos e narrativas sul-africanas."
+    "bio": "James Gaag cresceu próximo ao universo da gastronomia: sua mãe, Gaie Gaag, ensinava confeitaria e culinária na escola Silwood Kitchen, na região da Cidade do Cabo. Ele estudou na mesma escola e trabalhou em cozinhas locais como Jardine's, Greenhouse, Terroir, Maze e Nobu antes de entrar no La Colombe em 2010. Em 2013, passou um ano na cozinha de Raymond Blanc, no Le Manoir aux Quat'Saisons, perto de Oxford. Voltou em 2014 como chef de cozinha e, em abril de 2018, assumiu a função de chef executivo. Sob sua liderança, o restaurante foi eleito o melhor da África do Sul pelo Eat Out em 2019, voltou ao top 50 mundial em 2024 e 2026 e recebeu o prêmio de melhor restaurante africano na classificação mundial de 2026. Gaag descreve a apresentação como uma forma de contar histórias, mas insiste que o sabor deve vir primeiro."
   },
   "dishes": [
     {
-      "name": "Tuna La Colombe",
-      "desc": "Atum amarelo marinado com ervas e flores comestíveis, servido em uma pequena lata.",
+      "name": "Tuna La Colombe — atum em lata",
+      "desc": "A assinatura mais conhecida da casa: atum-amarelo marinado com ervas pequenas e flores comestíveis, apresentado numa lata de abrir. A receita transforma o ato de abrir uma conserva em parte do serviço; descrita no perfil oficial do The 50 Best.",
       "photo": null
     },
     {
-      "name": "Sequência sazonal de frutos do mar",
-      "desc": "Preparações do menu que variam conforme a disponibilidade dos ingredientes.",
+      "name": "Codorna, lagostim e milho-doce",
+      "desc": "Etapa do menu Chef's Menu de novembro de 2026 que combina codorna com lagostim e milho-doce. As técnicas e acompanhamentos podem mudar com a estação.",
+      "photo": null
+    },
+    {
+      "name": "Aipo-rábano, cogumelos selvagens e trufa",
+      "desc": "Preparação vegetal presente tanto no menu completo quanto no almoço sazonal de novembro de 2026. Parte da proposta de destacar produtos de estação em pratos de sabores concentrados.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro na brasa, tomate e alecrim",
+      "desc": "Etapa principal descrita na carta oficial de novembro de 2026, com cordeiro preparado sobre carvão, tomate e alecrim.",
+      "photo": null
+    },
+    {
+      "name": "Cana-de-açúcar, lichia e gergelim",
+      "desc": "Etapa intermediária do menu de novembro de 2026, trabalhando doçura e contraste de texturas entre cana-de-açúcar, lichia e gergelim. A carta pública não especifica todas as técnicas.",
+      "photo": null
+    },
+    {
+      "name": "Memórias de iogurte congelado",
+      "desc": "Sobremesa de nome autobiográfico — Childhood Memories of Frozen Yoghurt — que encerra os menus oficiais de novembro de 2026. Composição exata não detalhada na carta pública.",
       "photo": null
     }
   ],
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 35º lugar no ranking mundial"
+      "year": 2006,
+      "title": "The World's 50 Best Restaurants: 28º lugar e melhor restaurante da África e Oriente Médio"
+    },
+    {
+      "year": 2008,
+      "title": "Eat Out Awards: Restaurante do Ano da África do Sul"
+    },
+    {
+      "year": 2008,
+      "title": "Luke Dale-Roberts: Chef do Ano no Eat Out Awards, pela cozinha do La Colombe"
+    },
+    {
+      "year": 2009,
+      "title": "Eat Out Awards: Restaurante do Ano da África do Sul"
+    },
+    {
+      "year": 2009,
+      "title": "The World's 50 Best Restaurants: 38º lugar"
+    },
+    {
+      "year": 2010,
+      "title": "The World's 50 Best Restaurants: 12º lugar"
+    },
+    {
+      "year": 2015,
+      "title": "Eat Out Awards: 2º lugar na África do Sul"
+    },
+    {
+      "year": 2016,
+      "title": "Eat Out Awards: 2º lugar na África do Sul"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants: 76º lugar na lista estendida"
+    },
+    {
+      "year": 2017,
+      "title": "The World's 50 Best Restaurants: 73º lugar na lista estendida"
+    },
+    {
+      "year": 2018,
+      "title": "Eat Out Awards: 3º lugar na África do Sul"
+    },
+    {
+      "year": 2019,
+      "title": "Eat Out Awards: 1º lugar — Restaurante do Ano da África do Sul"
+    },
+    {
+      "year": 2020,
+      "title": "World Culinary Awards: Melhor Restaurante da África e da África do Sul"
+    },
+    {
+      "year": 2021,
+      "title": "World Culinary Awards: Melhor Restaurante da África e da África do Sul"
+    },
+    {
+      "year": 2022,
+      "title": "World Culinary Awards: Melhor Restaurante da África e da África do Sul"
+    },
+    {
+      "year": 2023,
+      "title": "Eat Out Woolworths Restaurant Awards: Restaurante do Ano"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 49º lugar e melhor restaurante da África"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 55º lugar na lista estendida"
+    },
+    {
+      "year": 2025,
+      "title": "James Gaag: Two Knives, The Best Chef Awards"
+    },
+    {
+      "year": 2025,
+      "title": "Eat Out Woolworths Restaurant Awards: avaliação de três estrelas"
     },
     {
       "year": 2026,
-      "title": "Melhor restaurante da África em 2026 (The 50 Best)"
+      "title": "The 50 Best Restaurants: 35º lugar e melhor restaurante da África"
+    },
+    {
+      "year": 2026,
+      "title": "World Culinary Awards: Melhor Restaurante da África e da África do Sul"
     }
   ],
   "practical": {
-    "website": "https://www.lacolombe.restaurant",
-    "address": "Silvermist, Main Road, Constantia Nek, Cidade do Cabo 7806, África do Sul"
+    "website": "https://www.lacolombe.restaurant/la-colombe",
+    "address": "Silvermist Wine Estate, Main Road, Constantia Nek, Cidade do Cabo 7806, África do Sul",
+    "price": "Preços publicados no site oficial e consultados em 8/11/2026: Chef's Menu de R 2.595 por pessoa, e almoço de primavera em dias úteis de R 1.695 por pessoa, válido até 30/11/2026. Existem versões vegetarianas com os mesmos valores. O restaurante informa taxa de serviço discricionária de 13,5%; cardápios e preços podem mudar.",
+    "reservation": "Solicite uma mesa pelo botão Book Online na página oficial, que encaminha à plataforma Dineplan. A reserva exige um depósito pago no agendamento (o valor exato aparece no sistema); sem o pagamento, pode ser cancelada. Cancelamentos até 48 horas antes recebem reembolso integral do depósito, conforme política publicada. A casa não recebe crianças com menos de 8 anos. Dúvidas pelo telefone +27 21 794 2390 ou pelo e-mail reservations@lacolombe.co.za. A disponibilidade deve ser confirmada na plataforma.",
+    "reservationUrl": "https://www.lacolombe.restaurant/la-colombe"
   },
   "sources": [
+    "https://www.lacolombe.restaurant/la-colombe",
     "https://www.the50.com/restaurants/best-in-the-world/the-list/la-colombe.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.capetourism.com/la-colombe-worlds-50-best-2026/",
+    "https://www.four-magazine.com/chefs/james-gaag/",
+    "https://www.eatout.co.za/award/2008/",
+    "https://www.eatout.co.za/award/2009/",
+    "https://www.eatout.co.za/article/top-10-restaurants-south-africa-2019/",
+    "https://www.eatout.co.za/article/eat-3-star-restaurant-sa-named-number-49th-world/",
+    "https://www.eatout.co.za/article/double-triumph-for-la-colombe-at-the-2008-prudential-eat-out-restaurant-awards/",
+    "https://worldculinaryawards.com/award/africa-best-restaurant",
+    "https://worldculinaryawards.com/award/south-africa-best-restaurant",
+    "https://www.southafrica.info/plan_trip/holiday/food_wine/best-50-restaurants-180506.htm",
+    "https://www.dailymaverick.co.za/article/2021-10-01-south-african-restaurants-and-vineyards-are-among-the-top-100-in-the-world/",
+    "https://insideguide.co.za/cape-town/restaurants/la-colombe/",
+    "https://visi.co.za/new-la-colombe-at-silvermist-organic-vineyards/",
+    "https://silvermistestate.co.za/restaurants/",
+    "https://commons.wikimedia.org/wiki/File:Walking_up_Constantia_Nek.jpg",
+    "https://commons.wikimedia.org/wiki/File:Constantiaberg.JPG",
+    "https://commons.wikimedia.org/wiki/File:Eagles_Nest,_Table_Mountain.JPG"
   ],
   "slug": "la-colombe",
-  "rank": 35
+  "rank": 35,
+  "founded": 1996,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Walking_up_Constantia_Nek.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Walking_up_Constantia_Nek.jpg",
+    "author": "Michael Rowe",
+    "license": "CC BY-SA 4.0",
+    "caption": "Imagem contextual: vista das encostas e do vale de Constantia Nek, fotografada em 2021. NÃO é uma imagem do restaurante La Colombe.",
+    "illustrative": true
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Constantiaberg.JPG?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Constantiaberg.JPG",
+      "author": "Xiphon (Wikipédia em inglês)",
+      "license": "CC BY-SA 3.0",
+      "caption": "Montanha Constantiaberg, fotografada em 2005. Imagem contextual da região, não do restaurante.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eagles_Nest%2C_Table_Mountain.JPG?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Eagles_Nest,_Table_Mountain.JPG",
+      "author": "Zaian",
+      "license": "Domínio público (PD-self)",
+      "caption": "Mirante Eagle's Nest com vista para Constantia Nek e o vale de Hout Bay, em 2009. Imagem da paisagem, não do La Colombe.",
+      "illustrative": true
+    }
+  ]
 }
