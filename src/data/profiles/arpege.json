@@ -1,0 +1,26 @@
+{
+  "lede": "Em Paris, o Arpège é conhecido pela atenção às verduras e hortaliças na alta gastronomia francesa.",
+  "history": [
+    "Alain Passard construiu uma identidade culinária em torno de hortas próprias e vegetais tratados como protagonistas."
+  ],
+  "cuisine": {
+    "style": "Cozinha francesa contemporânea centrada em vegetais",
+    "paragraphs": [
+      "O menu explora maturação, cocção, textura e sazonalidade de produtos vegetais."
+    ]
+  },
+  "chef": {
+    "name": "Alain Passard"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 67º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "arpege",
+  "rank": 67
+}

@@ -1,0 +1,26 @@
+{
+  "lede": "O Coda, em Berlim, transforma técnicas de confeitaria em linguagem de menu degustação.",
+  "history": [
+    "René Frank desenvolveu uma proposta que rompe com a divisão tradicional entre pratos salgados e sobremesas."
+  ],
+  "cuisine": {
+    "style": "Cozinha experimental inspirada na confeitaria",
+    "paragraphs": [
+      "Fermentações, cacau, vegetais e frutas são usados em sequências que exploram sabor e textura."
+    ]
+  },
+  "chef": {
+    "name": "René Frank"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 82º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "coda",
+  "rank": 82
+}

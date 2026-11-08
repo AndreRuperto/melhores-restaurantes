@@ -1,0 +1,38 @@
+{
+  "lede": "O Kol, em Londres, revisita sabores mexicanos usando principalmente produtos sazonais britânicos.",
+  "history": [
+    "Santiago Lastra concebeu o restaurante como uma ponte entre técnicas mexicanas e a despensa do Reino Unido."
+  ],
+  "cuisine": {
+    "style": "Cozinha mexicana com ingredientes britânicos",
+    "paragraphs": [
+      "Milho, tortilhas, molhos e marinadas mexicanas são adaptados aos produtos locais."
+    ]
+  },
+  "chef": {
+    "name": "Santiago Lastra"
+  },
+  "dishes": [
+    {
+      "name": "Taco de lagostim",
+      "desc": "Taco feito com lagostim de origem britânica.",
+      "photo": null
+    },
+    {
+      "name": "Tamal de truta com salsa macha",
+      "desc": "Adaptação de uma preparação mexicana com peixe local.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 70º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "kol",
+  "rank": 70
+}

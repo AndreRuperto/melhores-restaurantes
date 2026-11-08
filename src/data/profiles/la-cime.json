@@ -1,0 +1,33 @@
+{
+  "lede": "Em Osaka, o La Cime aproxima a técnica francesa de ingredientes japoneses e de referências à memória culinária.",
+  "history": [
+    "Yusuke Takada organiza sua cozinha em torno da ideia de aprender com o passado para orientar o presente."
+  ],
+  "cuisine": {
+    "style": "Cozinha franco-japonesa contemporânea",
+    "paragraphs": [
+      "O menu usa ingredientes sazonais do Japão, molhos e técnicas da tradição francesa."
+    ]
+  },
+  "chef": {
+    "name": "Yusuke Takada"
+  },
+  "dishes": [
+    {
+      "name": "Boudin Dog",
+      "desc": "Criação com boudin noir envolto em massa escura de carvão vegetal comestível.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 52º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "la-cime",
+  "rank": 52
+}

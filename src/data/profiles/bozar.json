@@ -1,0 +1,57 @@
+{
+  "lede": "Dentro do centro de artes Bozar, em Bruxelas, o restaurante de Karen Torosyan dá destaque à precisão da cozinha clássica francesa.",
+  "history": [
+    "A casa integra o complexo cultural projetado por Victor Horta e transforma técnicas demoradas de panificação e confeitaria salgada em parte importante da experiência.",
+    "O restaurante está dentro do Centro de Belas-Artes de Bruxelas, projetado por Victor Horta. Karen Torosyan leva ao menu o mesmo cuidado técnico que caracteriza trabalhos artesanais complexos."
+  ],
+  "cuisine": {
+    "style": "Alta cozinha francesa clássica",
+    "paragraphs": [
+      "A massa folhada é uma especialidade da casa, usada em preparações trabalhosas como pithiviers e versões de pratos tradicionais.",
+      "Pithiviers, pâté en croûte e outras receitas de massa folhada são centrais na proposta. O chef também desenvolveu durante dois anos um mille-feuille feito no momento do serviço."
+    ]
+  },
+  "chef": {
+    "name": "Karen Torosyan",
+    "bio": "Nascido na Armênia, Karen Torosyan especializou-se em preparações clássicas francesas que exigem camadas, tempo e precisão, especialmente na massa folhada."
+  },
+  "dishes": [
+    {
+      "name": "Pithivier",
+      "desc": "Torta de massa folhada com recheio salgado, montada com técnica precisa.",
+      "photo": null
+    },
+    {
+      "name": "Boeuf Wellington",
+      "desc": "Carne envolta em massa folhada, uma das especialidades citadas pelo restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Mille-feuille à la minute",
+      "desc": "Sobremesa de massa folhada montada no momento, após anos de aperfeiçoamento da receita.",
+      "photo": null
+    },
+    {
+      "name": "Granivore",
+      "desc": "Preparação de pombo com foie gras, enguia defumada e crosta de sementes.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 42º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Rue Baron Horta 3, 1000 Bruxelas, Bélgica",
+    "website": "https://www.bozar.be"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/bozar.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "bozar",
+  "rank": 42
+}

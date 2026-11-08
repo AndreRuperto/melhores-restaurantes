@@ -1,0 +1,26 @@
+{
+  "lede": "O Aponiente, em El Puerto de Santa María, pesquisa sabores do mar e dos ecossistemas costeiros andaluzes.",
+  "history": [
+    "Fundado em 2007, o restaurante ocupa um antigo moinho de marés do século XIX."
+  ],
+  "cuisine": {
+    "style": "Cozinha marítima andaluza contemporânea",
+    "paragraphs": [
+      "O menu Miasma explora ingredientes da zona úmida, pescados e recursos pouco convencionais do mar."
+    ]
+  },
+  "chef": {
+    "name": "Ángel León"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 100º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "aponiente",
+  "rank": 100
+}

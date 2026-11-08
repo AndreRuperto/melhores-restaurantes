@@ -1,0 +1,26 @@
+{
+  "lede": "O Burnt Ends, em Singapura, estrutura a cozinha ao redor do forno a lenha e da grelha.",
+  "history": [
+    "A casa desenvolveu uma proposta descontraída que combina defumação, cocção em fogo vivo e ingredientes selecionados."
+  ],
+  "cuisine": {
+    "style": "Cozinha contemporânea na brasa",
+    "paragraphs": [
+      "Carnes, peixes e vegetais são preparados com diferentes intensidades de calor."
+    ]
+  },
+  "chef": {
+    "name": "Dave Pynt"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 89º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "burnt-ends",
+  "rank": 89
+}

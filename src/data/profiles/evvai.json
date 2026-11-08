@@ -1,0 +1,26 @@
+{
+  "lede": "O Evvai, em São Paulo, combina técnicas italianas com ingredientes brasileiros em uma proposta autoral.",
+  "history": [
+    "Luiz Filipe Souza desenvolveu uma cozinha que coloca a herança italiana em diálogo com a diversidade de produtos do Brasil."
+  ],
+  "cuisine": {
+    "style": "Cozinha ítalo-brasileira contemporânea",
+    "paragraphs": [
+      "O menu degustação reúne preparações que reinterpretam tradições italianas com ingredientes nacionais."
+    ]
+  },
+  "chef": {
+    "name": "Luiz Filipe Souza"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 68º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "evvai",
+  "rank": 68
+}

@@ -1,0 +1,57 @@
+{
+  "lede": "O Mayta, em Lima, transforma ingredientes peruanos em pratos de apresentação contemporânea.",
+  "history": [
+    "O chef Jaime Pesaque reformulou a casa em 2018 e ampliou o trabalho de pesquisa de ingredientes pelo projeto Yachay.",
+    "No aniversário de dez anos, em 2018, o Mayta mudou de endereço e refez a experiência gastronômica. Entrou no Latin America's 50 Best em 2019 e na lista mundial em 2022."
+  ],
+  "cuisine": {
+    "style": "Cozinha peruana contemporânea",
+    "paragraphs": [
+      "Milhos, tubérculos, ervas andinas e produtos amazônicos entram em menus degustação e pratos à la carte.",
+      "O menu degustação Mayta Experience tem cerca de dez etapas e destaca ingredientes peruanos de diferentes regiões. O projeto de pesquisa Yachay estuda o cultivo e a utilização desses ingredientes."
+    ]
+  },
+  "chef": {
+    "name": "Jaime Pesaque",
+    "bio": "Jaime Pesaque desenvolveu o Mayta como restaurante de cozinha peruana contemporânea e mantém uma frente de pesquisa chamada Yachay."
+  },
+  "dishes": [
+    {
+      "name": "Milho chullpi e flor de quinoa",
+      "desc": "Preparação de milho e ingredientes andinos citada no menu degustação.",
+      "photo": null
+    },
+    {
+      "name": "Ceviche amazônico",
+      "desc": "Uma das opções do repertório à la carte do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Paiche em finas lâminas",
+      "desc": "Peixe amazônico apresentado em lâminas que lembram uma flor.",
+      "photo": null
+    },
+    {
+      "name": "Torta de muña",
+      "desc": "Torta de hortelã andina com sorvete de maracujá e chocolate branco.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 45º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Avenida Mariscal La Mar 1285, Miraflores, Lima 15027, Peru",
+    "website": "https://www.maytalima.com"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/mayta.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "mayta",
+  "rank": 45
+}

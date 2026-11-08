@@ -1,0 +1,26 @@
+{
+  "lede": "O Le Doyenné ocupa uma propriedade rural em Saint-Vrain, ao sul de Paris, e aproxima a mesa do cultivo.",
+  "history": [
+    "O projeto dos chefs James Henry e Shaun Kelly reúne restaurante, horticultura e hospedagem em um ambiente campestre."
+  ],
+  "cuisine": {
+    "style": "Cozinha francesa de fazenda",
+    "paragraphs": [
+      "O menu segue o que é colhido na propriedade e de produtores próximos."
+    ]
+  },
+  "chef": {
+    "name": "James Henry e Shaun Kelly"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 84º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "le-doyenne",
+  "rank": 84
+}

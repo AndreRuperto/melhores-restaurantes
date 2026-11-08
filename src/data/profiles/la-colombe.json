@@ -1,0 +1,51 @@
+{
+  "lede": "Em Constantia Nek, perto da Cidade do Cabo, o La Colombe combina produtos sul-africanos com técnica francesa e apresentação teatral.",
+  "history": [
+    "A casa funciona em meio à vegetação da propriedade Silvermist, onde a experiência de refeição inclui serviço cuidadosamente encenado e pratos que mudam com a estação.",
+    "O salão do La Colombe fica na encosta arborizada de Constantia Nek, dentro de Silvermist. A arquitetura envidraçada aproxima a sala de jantar da paisagem e integra o cenário ao modo teatral de apresentar os pratos."
+  ],
+  "cuisine": {
+    "style": "Cozinha sul-africana contemporânea de influência francesa",
+    "paragraphs": [
+      "Frutos do mar, ervas nativas e vegetais locais aparecem em preparações delicadas e com intervenções visuais.",
+      "James Gaag combina técnica francesa com ingredientes sul-africanos e influências asiáticas pontuais. Ervas nativas, frutos do mar e vegetais aparecem em apresentações que envolvem o serviço de mesa."
+    ]
+  },
+  "chef": {
+    "name": "James Gaag",
+    "bio": "James Gaag é o chef responsável pelo La Colombe, conhecido pela combinação de técnicas francesas com produtos e narrativas sul-africanas."
+  },
+  "dishes": [
+    {
+      "name": "Tuna La Colombe",
+      "desc": "Atum amarelo marinado com ervas e flores comestíveis, servido em uma pequena lata.",
+      "photo": null
+    },
+    {
+      "name": "Sequência sazonal de frutos do mar",
+      "desc": "Preparações do menu que variam conforme a disponibilidade dos ingredientes.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 35º lugar no ranking mundial"
+    },
+    {
+      "year": 2026,
+      "title": "Melhor restaurante da África em 2026 (The 50 Best)"
+    }
+  ],
+  "practical": {
+    "website": "https://www.lacolombe.restaurant",
+    "address": "Silvermist, Main Road, Constantia Nek, Cidade do Cabo 7806, África do Sul"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/la-colombe.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "la-colombe",
+  "rank": 35
+}

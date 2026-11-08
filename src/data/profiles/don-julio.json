@@ -1,0 +1,57 @@
+{
+  "lede": "O Don Julio, no bairro de Palermo em Buenos Aires, celebra a parrilla e os produtos agrícolas argentinos.",
+  "history": [
+    "Pablo Rivero abriu a casa como restaurante de bairro e desenvolveu uma rede de fornecedores e produção própria. Guido Tassi conduz a cozinha.",
+    "Pablo Rivero abriu o Don Julio em Palermo há cerca de vinte e cinco anos. A casa mantém sua natureza de parrilla de bairro, mas ampliou a relação com produção rural e agricultura regenerativa."
+  ],
+  "cuisine": {
+    "style": "Parrilla argentina e vegetais de origem rastreável",
+    "paragraphs": [
+      "Os cortes de carne passam por maturação e preparo na brasa, enquanto hortaliças sazonais também têm papel de destaque.",
+      "Parte importante da carne e das hortaliças vem de produção própria. Os cortes são preparados e maturados na casa; entre os vegetais há tomates de variedades tradicionais e hortaliças sazonais."
+    ]
+  },
+  "chef": {
+    "name": "Guido Tassi",
+    "bio": "Guido Tassi é o chef executivo do Don Julio; Pablo Rivero dirige o projeto e a relação com produtores."
+  },
+  "dishes": [
+    {
+      "name": "Bife ancho na parrilla",
+      "desc": "Corte bovino preparado na grelha argentina.",
+      "photo": null
+    },
+    {
+      "name": "Salada de tomates de variedades tradicionais",
+      "desc": "Preparação feita com tomates de produção selecionada.",
+      "photo": null
+    },
+    {
+      "name": "Entraña na parrilla",
+      "desc": "Corte tradicional argentino feito sobre brasas.",
+      "photo": null
+    },
+    {
+      "name": "Chouriço em espiral",
+      "desc": "Embutido de formato característico mencionado entre os favoritos da casa.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 44º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Guatemala 4691, Palermo Viejo, Buenos Aires, Argentina",
+    "website": "https://www.parrilladonjulio.com"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/don.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "don-julio",
+  "rank": 44
+}

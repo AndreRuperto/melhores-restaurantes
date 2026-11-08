@@ -1,0 +1,51 @@
+{
+  "lede": "Situado em um jardim botânico de Hangzhou, o Ru Yuan revisita receitas clássicas da cozinha regional hangbang.",
+  "history": [
+    "O chef Fu Yueliang tem décadas de experiência com a tradição gastronômica de Hangzhou. A casa procura preservar preparações históricas e apresentá-las para o público atual.",
+    "O chef Fu Yueliang dedica mais de quatro décadas à tradição culinária de Hangzhou. A casa fica junto ao Jardim Botânico da cidade, em um edifício atual que faz referência à arquitetura histórica da dinastia Song do Sul."
+  ],
+  "cuisine": {
+    "style": "Cozinha tradicional de Hangzhou refinada",
+    "paragraphs": [
+      "Peixes dos rios da região, camarões, chá Longjing e vegetais de Zhejiang aparecem em receitas baseadas na herança culinária local.",
+      "O repertório regional inclui peixe do Lago Oeste ao vinagre, camarão de rio com folhas de chá Longjing e o porco braseado dobrado em uma torre de lâminas finas."
+    ]
+  },
+  "chef": {
+    "name": "Fu Yueliang",
+    "bio": "Natural de Hangzhou, Fu Yueliang é conhecido por preservar e refinar receitas tradicionais da cozinha hangbang, sem descaracterizá-las."
+  },
+  "dishes": [
+    {
+      "name": "Porco braseado Medalha de Ouro",
+      "desc": "Banha e carne de porco em lâminas finas dobradas em formato de torre.",
+      "photo": null
+    },
+    {
+      "name": "Camarões de rio com chá Longjing",
+      "desc": "Prato associado à cozinha clássica de Hangzhou.",
+      "photo": null
+    },
+    {
+      "name": "Peixe do Lago Oeste ao vinagre",
+      "desc": "Prato tradicional da gastronomia de Hangzhou, preparado com técnica cuidadosa.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 36º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "11 Yuquan Road, Xihu, Hangzhou, China"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/ru-yuan.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "ru-yuan",
+  "rank": 36
+}

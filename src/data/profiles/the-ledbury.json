@@ -1,0 +1,26 @@
+{
+  "lede": "O The Ledbury, em Londres, combina precisão técnica com produtos britânicos sazonais.",
+  "history": [
+    "Brett Graham consolidou a casa em Notting Hill e desenvolveu relações próximas com criadores e produtores."
+  ],
+  "cuisine": {
+    "style": "Cozinha britânica contemporânea de influência francesa",
+    "paragraphs": [
+      "Carnes, vegetais e peixes recebem preparações sazonais e molhos de alta cozinha."
+    ]
+  },
+  "chef": {
+    "name": "Brett Graham"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 83º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "the-ledbury",
+  "rank": 83
+}

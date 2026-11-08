@@ -1,0 +1,57 @@
+{
+  "lede": "Acima do Hotel Gentofte, na região de Copenhague, o Jordnær serve uma cozinha centrada em frutos do mar e hospitalidade informal.",
+  "history": [
+    "O restaurante é conduzido por Eric Vildgaard na cozinha e Tina Vildgaard no acolhimento dos clientes. O nome sugere algo próximo de 'pé no chão'.",
+    "O Jordnær funciona sobre o saguão do Gentofte Hotel. Eric Vildgaard dirige a cozinha e Tina Vildgaard coordena o acolhimento, marcando a experiência com um serviço próximo e sem formalidade excessiva."
+  ],
+  "cuisine": {
+    "style": "Frutos do mar com técnicas francesas e japonesas",
+    "paragraphs": [
+      "Lagostins, caranguejos e outros produtos do mar recebem preparos precisos que podem usar dashi, ponzu e wasabi.",
+      "A cozinha usa mariscos e peixes do norte da Europa, mas o repertório técnico combina França e Japão. Ingredientes como dashi, ponzu e wasabi acompanham frutos do mar sazonais."
+    ]
+  },
+  "chef": {
+    "name": "Eric Vildgaard",
+    "bio": "Eric Vildgaard passou pelo Noma e construiu o Jordnær com Tina Vildgaard, responsável pelo serviço e pela relação com os visitantes."
+  },
+  "dishes": [
+    {
+      "name": "Lagostins noruegueses",
+      "desc": "Frutos do mar valorizados entre os ingredientes centrais da cozinha.",
+      "photo": null
+    },
+    {
+      "name": "Caranguejo-rei",
+      "desc": "Produto trabalhado em diferentes composições do menu degustação.",
+      "photo": null
+    },
+    {
+      "name": "Vieiras com groselha e rosa",
+      "desc": "Preparação sazonal registrada entre os exemplos do menu.",
+      "photo": null
+    },
+    {
+      "name": "Lagosta com yuzu e pimenta sansho",
+      "desc": "Combinação de frutos do mar nórdicos com notas japonesas.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 40º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Gentoftegade 29, 2820 Gentofte, Dinamarca",
+    "website": "https://restaurantjordnaer.dk"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/jordnaer.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "jordn-r",
+  "rank": 40
+}

@@ -1,0 +1,26 @@
+{
+  "lede": "O Belcanto, em Lisboa, interpreta tradições portuguesas com técnicas contemporâneas.",
+  "history": [
+    "José Avillez construiu o restaurante como vitrine da cozinha portuguesa de autor, usando ingredientes locais."
+  ],
+  "cuisine": {
+    "style": "Cozinha portuguesa contemporânea",
+    "paragraphs": [
+      "Peixes, mariscos, vegetais e doces tradicionais aparecem em apresentações atuais."
+    ]
+  },
+  "chef": {
+    "name": "José Avillez"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 75º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "belcanto",
+  "rank": 75
+}

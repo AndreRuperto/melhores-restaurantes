@@ -1,0 +1,38 @@
+{
+  "lede": "No Nelita, em São Paulo, a chef Tássia Magalhães apresenta uma cozinha autoral em um salão com balcão aberto para a equipe.",
+  "history": [
+    "Aberto em 2021, o restaurante consolidou uma equipe de cozinha feminina e entrou na lista mundial estendida em 2026."
+  ],
+  "cuisine": {
+    "style": "Cozinha brasileira contemporânea de referências italianas",
+    "paragraphs": [
+      "A casa trabalha pratos à la carte e menus degustação com combinações sazonais."
+    ]
+  },
+  "chef": {
+    "name": "Tássia Magalhães"
+  },
+  "dishes": [
+    {
+      "name": "Truta com cenoura e massa folhada",
+      "desc": "Combinação apresentada no repertório do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Codorna, chocolate e cebola",
+      "desc": "Prato citado entre as combinações do menu.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 54º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "nelita",
+  "rank": 54
+}

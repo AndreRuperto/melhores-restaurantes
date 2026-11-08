@@ -1,0 +1,26 @@
+{
+  "lede": "O Txispa, no vale basco de Atxondo, aproxima a tradição local do uso japonês da brasa.",
+  "history": [
+    "O chef Tetsuro Maeda desenvolveu o projeto em uma antiga construção rural da região."
+  ],
+  "cuisine": {
+    "style": "Cozinha basca e japonesa na brasa",
+    "paragraphs": [
+      "Produtos da região são preparados com fogo e técnicas de precisão, em um menu sazonal."
+    ]
+  },
+  "chef": {
+    "name": "Tetsuro Maeda"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 80º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "txispa",
+  "rank": 80
+}

@@ -1,0 +1,26 @@
+{
+  "lede": "O Caprice, em Hong Kong, trabalha o repertório clássico francês com vista para o porto Victoria.",
+  "history": [
+    "A casa fica no Four Seasons Hotel e se tornou conhecida pela combinação entre cozinha francesa e ingredientes selecionados."
+  ],
+  "cuisine": {
+    "style": "Alta cozinha francesa contemporânea",
+    "paragraphs": [
+      "Molhos, frutos do mar e produtos clássicos franceses orientam os menus."
+    ]
+  },
+  "chef": {
+    "name": "Guillaume Galliot"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 77º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "caprice",
+  "rank": 77
+}

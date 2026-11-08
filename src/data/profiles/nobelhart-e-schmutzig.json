@@ -1,0 +1,23 @@
+{
+  "lede": "O Nobelhart & Schmutzig, em Berlim, põe ingredientes regionais e produtores no centro da experiência.",
+  "history": [
+    "O restaurante desenvolveu um modelo de cozinha aberta e refeições que valorizam a procedência do alimento."
+  ],
+  "cuisine": {
+    "style": "Cozinha regional alemã contemporânea",
+    "paragraphs": [
+      "As etapas seguem a disponibilidade sazonal de ingredientes da região de Berlim e Brandemburgo."
+    ]
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 76º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "nobelhart-e-schmutzig",
+  "rank": 76
+}

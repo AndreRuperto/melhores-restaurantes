@@ -1,0 +1,26 @@
+{
+  "lede": "O Narisawa, em Tóquio, transforma a paisagem e a biodiversidade japonesas em uma linguagem culinária própria.",
+  "history": [
+    "Yoshihiro Narisawa desenvolveu o conceito de gastronomia ligada à natureza e à sustentabilidade da floresta japonesa."
+  ],
+  "cuisine": {
+    "style": "Cozinha japonesa contemporânea de inspiração natural",
+    "paragraphs": [
+      "Ingredientes de diferentes ecossistemas japoneses são trabalhados em pratos que dialogam com solo, floresta e estações."
+    ]
+  },
+  "chef": {
+    "name": "Yoshihiro Narisawa"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 59º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "narisawa",
+  "rank": 59
+}

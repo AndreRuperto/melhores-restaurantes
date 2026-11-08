@@ -1,0 +1,26 @@
+{
+  "lede": "O Koan, em Copenhague, cruza ingredientes nórdicos com referências da herança coreana do chef.",
+  "history": [
+    "A casa se desenvolveu a partir da experiência do chef Kristian Baumann em restaurantes escandinavos e de seu interesse pelas próprias origens."
+  ],
+  "cuisine": {
+    "style": "Cozinha nórdica com influências coreanas",
+    "paragraphs": [
+      "Fermentações, vegetais sazonais e produtos do mar compõem menus de degustação."
+    ]
+  },
+  "chef": {
+    "name": "Kristian Baumann"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 57º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "koan",
+  "rank": 57
+}

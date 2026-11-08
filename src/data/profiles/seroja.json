@@ -1,0 +1,26 @@
+{
+  "lede": "O Seroja, em Singapura, pesquisa as cozinhas do arquipélago malaio e os ingredientes da região.",
+  "history": [
+    "Kevin Wong estruturou um menu que percorre referências gastronômicas de diferentes comunidades do Sudeste Asiático."
+  ],
+  "cuisine": {
+    "style": "Cozinha do arquipélago malaio contemporânea",
+    "paragraphs": [
+      "Produtos do mar, especiarias e técnicas tradicionais são apresentados em menus de degustação."
+    ]
+  },
+  "chef": {
+    "name": "Kevin Wong"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 64º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "seroja",
+  "rank": 64
+}

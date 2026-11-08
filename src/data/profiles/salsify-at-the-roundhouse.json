@@ -1,0 +1,33 @@
+{
+  "lede": "O Salsify at the Roundhouse, em Camps Bay, combina vistas para o litoral da Cidade do Cabo com cozinha sul-africana contemporânea.",
+  "history": [
+    "O restaurante ocupa o histórico Roundhouse e valoriza produtos do litoral e do interior do país."
+  ],
+  "cuisine": {
+    "style": "Cozinha sul-africana contemporânea",
+    "paragraphs": [
+      "Peixes, plantas costeiras e preparações de carnes aparecem em menus sazonais."
+    ]
+  },
+  "chef": {
+    "name": "Ryan Cole"
+  },
+  "dishes": [
+    {
+      "name": "Peixe de linha com prenia e alho-poró confitado",
+      "desc": "Prato com a planta costeira sul-africana prenia.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 71º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "salsify-at-the-roundhouse",
+  "rank": 71
+}

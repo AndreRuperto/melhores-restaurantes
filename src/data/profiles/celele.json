@@ -1,0 +1,57 @@
+{
+  "lede": "Em Cartagena, o Celele usa pesquisas sobre o Caribe colombiano para criar pratos com ingredientes regionais pouco conhecidos.",
+  "history": [
+    "Jaime Rodríguez desenvolveu com Sebastián Pinzón o Proyecto Caribe Lab, dedicado a registrar preparações e ingredientes da costa caribenha. A pesquisa permanece na base do restaurante, hoje conduzido por Rodríguez.",
+    "Jaime Rodríguez e o antigo sócio Sebastián Pinzón viajaram pelo Caribe colombiano para documentar ingredientes, receitas e modos de preparo ameaçados pelo esquecimento. O levantamento, chamado Proyecto Caribe Lab, continua orientando o restaurante."
+  ],
+  "cuisine": {
+    "style": "Cozinha caribenha colombiana contemporânea",
+    "paragraphs": [
+      "O menu à la carte inclui pescados, frutas, sementes e vegetais de produtores e extrativistas da região; a apresentação combina técnicas atuais e tradições locais.",
+      "Segundo a apresentação do 50 Best, aproximadamente 90% dos produtos usados vêm do Caribe e boa parte é obtida por coleta. O trabalho inclui sementes de orejero, guáimaro, frutas pomarrosa e jumbalee."
+    ]
+  },
+  "chef": {
+    "name": "Jaime Rodríguez",
+    "bio": "Jaime Rodríguez lidera a cozinha e integra a pesquisa de campo sobre as tradições culinárias do Caribe colombiano ao menu do Celele."
+  },
+  "dishes": [
+    {
+      "name": "Robalo defumado com quiabo lactofermentado",
+      "desc": "Servido com homus de orejero e caldo de gergelim nativo.",
+      "photo": null
+    },
+    {
+      "name": "Celele de Cerdo",
+      "desc": "Terrine de porco confitado com pimentões conservados, feijões caribenhos e caldo.",
+      "photo": null
+    },
+    {
+      "name": "Lula com arroz de camarão seco e curry de canistel",
+      "desc": "Prato com ingrediente caribenho que lembra a batata-doce.",
+      "photo": null
+    },
+    {
+      "name": "Sobremesa Mango Season",
+      "desc": "Três apresentações de manga, incluindo sorvete, polpa e óleo da folha.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 31º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "website": "https://celelerestaurante.com",
+    "address": "Calle del Espíritu Santo, Carrera 10C #29–200, Getsemaní, Cartagena, Colômbia"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/celele.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "celele",
+  "rank": 31
+}

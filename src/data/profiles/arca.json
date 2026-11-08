@@ -1,0 +1,26 @@
+{
+  "lede": "Em Tulum, o Arca explora a cozinha mexicana com foco em fogo, produtos regionais e contrastes de sabor.",
+  "history": [
+    "O restaurante desenvolveu uma identidade ligada à paisagem tropical e à cozinha aberta."
+  ],
+  "cuisine": {
+    "style": "Cozinha mexicana contemporânea",
+    "paragraphs": [
+      "Ingredientes de Yucatán, pimentas, marinadas e técnicas na brasa compõem o menu."
+    ]
+  },
+  "chef": {
+    "name": "José Luis Hinostroza"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 87º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "arca",
+  "rank": 87
+}

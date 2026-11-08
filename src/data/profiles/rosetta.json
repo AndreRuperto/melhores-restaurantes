@@ -1,0 +1,26 @@
+{
+  "lede": "O Rosetta, no bairro Roma da Cidade do México, combina influência italiana e tradições culinárias mexicanas.",
+  "history": [
+    "Elena Reygadas desenvolveu sua cozinha a partir de massas e pães e passou a dar maior espaço aos ingredientes do México."
+  ],
+  "cuisine": {
+    "style": "Cozinha mexicana contemporânea com herança italiana",
+    "paragraphs": [
+      "O menu aproxima produtos mexicanos de técnicas de panificação, massas e outras tradições."
+    ]
+  },
+  "chef": {
+    "name": "Elena Reygadas"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 96º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "rosetta",
+  "rank": 96
+}

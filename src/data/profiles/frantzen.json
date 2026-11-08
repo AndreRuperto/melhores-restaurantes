@@ -1,0 +1,26 @@
+{
+  "lede": "O Frantzén, em Estocolmo, apresenta uma refeição em diferentes ambientes da casa, combinando técnicas de várias tradições.",
+  "history": [
+    "Björn Frantzén estabeleceu uma cozinha que aproxima repertórios francês, nórdico e japonês."
+  ],
+  "cuisine": {
+    "style": "Alta cozinha contemporânea nórdica, francesa e japonesa",
+    "paragraphs": [
+      "O menu trabalha produtos sazonais, molhos complexos e serviço em etapas."
+    ]
+  },
+  "chef": {
+    "name": "Björn Frantzén"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 58º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "frantzen",
+  "rank": 58
+}

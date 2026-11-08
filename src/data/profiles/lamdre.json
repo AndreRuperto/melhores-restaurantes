@@ -1,0 +1,26 @@
+{
+  "lede": "O Lamdre, em Pequim, usa apenas ingredientes vegetais para desenvolver uma cozinha chinesa de alta gastronomia.",
+  "history": [
+    "A proprietária Zhao Jia e o chef Dai Jun trabalham com heranças regionais chinesas e apresentações contemporâneas."
+  ],
+  "cuisine": {
+    "style": "Cozinha chinesa vegetal contemporânea",
+    "paragraphs": [
+      "Vegetais, fungos e ingredientes locais recebem tratamento técnico e apresentações de degustação."
+    ]
+  },
+  "chef": {
+    "name": "Dai Jun"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 92º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "lamdre",
+  "rank": 92
+}

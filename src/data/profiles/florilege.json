@@ -1,0 +1,26 @@
+{
+  "lede": "O Florilège, em Tóquio, privilegia vegetais e a relação entre produtores e cozinha contemporânea.",
+  "history": [
+    "Hiroyasu Kawate desenvolveu uma abordagem própria a partir de referências francesas, com foco em produtos japoneses."
+  ],
+  "cuisine": {
+    "style": "Cozinha japonesa contemporânea de inspiração francesa",
+    "paragraphs": [
+      "Vegetais, fermentações e ingredientes sazonais se destacam no menu."
+    ]
+  },
+  "chef": {
+    "name": "Hiroyasu Kawate"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 61º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "florilege",
+  "rank": 61
+}

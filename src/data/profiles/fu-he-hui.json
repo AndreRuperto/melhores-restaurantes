@@ -1,0 +1,26 @@
+{
+  "lede": "O Fu He Hui, em Xangai, dedica-se a menus vegetarianos que reinterpretam a tradição culinária chinesa.",
+  "history": [
+    "A casa se tornou conhecida pela alta cozinha sem carne, centrada na pesquisa de vegetais, cogumelos e chás."
+  ],
+  "cuisine": {
+    "style": "Alta cozinha vegetariana chinesa",
+    "paragraphs": [
+      "Diferentes texturas vegetais e preparações da cozinha budista chinesa são combinadas a técnicas modernas."
+    ]
+  },
+  "chef": {
+    "name": "Tony Lu"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 62º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "fu-he-hui",
+  "rank": 62
+}

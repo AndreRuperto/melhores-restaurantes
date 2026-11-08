@@ -1,0 +1,26 @@
+{
+  "lede": "O Baan Tepa, em Bangkok, funciona em uma casa histórica com jardim e espaço de pesquisa culinária.",
+  "history": [
+    "A chef Chudaree 'Tam' Debhakam conduz o restaurante e valoriza ingredientes tailandeses e produtores locais."
+  ],
+  "cuisine": {
+    "style": "Cozinha tailandesa contemporânea sustentável",
+    "paragraphs": [
+      "O menu explora ervas, fermentações e produtos do jardim e de diferentes regiões do país."
+    ]
+  },
+  "chef": {
+    "name": "Chudaree 'Tam' Debhakam"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 90º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "baan-tepa",
+  "rank": 90
+}

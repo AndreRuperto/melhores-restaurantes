@@ -1,0 +1,33 @@
+{
+  "lede": "No Wynn Palace de Macau, o Chef Tam's Seasons valoriza a cozinha cantonesa por meio de ingredientes sazonais.",
+  "history": [
+    "O chef Tam Kwok Fung conduz uma experiência que combina técnicas clássicas e serviço de alta gastronomia."
+  ],
+  "cuisine": {
+    "style": "Cozinha cantonesa contemporânea",
+    "paragraphs": [
+      "Frutos do mar, caldos e produtos selecionados variam conforme a estação."
+    ]
+  },
+  "chef": {
+    "name": "Tam Kwok Fung"
+  },
+  "dishes": [
+    {
+      "name": "Caranguejo vermelho frio com lichia",
+      "desc": "Carne de caranguejo acompanhada por gelatina de fruta durante a estação de lichias.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 73º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "chef-tams-seasons",
+  "rank": 73
+}

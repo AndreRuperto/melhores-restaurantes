@@ -1,0 +1,62 @@
+{
+  "lede": "O Saint Peter, em Sydney, pesquisa maneiras de aproveitar quase integralmente os peixes que chegam à cozinha.",
+  "history": [
+    "Fundado por Josh Niland em 2016, o restaurante mudou em 2024 para o Grand National Hotel, em Paddington, mantendo o foco na redução de desperdício.",
+    "Josh Niland inaugurou o Saint Peter em 2016 e mudou a casa para o Grand National Hotel, em Paddington, em 2024. A ideia de usar todas as partes possíveis do peixe orienta o restaurante desde sua fundação."
+  ],
+  "cuisine": {
+    "style": "Cozinha australiana de peixes, da escama à cauda",
+    "paragraphs": [
+      "O menu trabalha maturação de peixes, charcutaria marinha e preparações feitas com partes do pescado normalmente descartadas.",
+      "A equipe prepara charcutaria marinha, como chouriço de bacalhau Murray, e explora maturação, caldos de ossos e preparos de pele. O trabalho envolve pescadores e produtores australianos."
+    ]
+  },
+  "chef": {
+    "name": "Josh Niland",
+    "bio": "Josh Niland é chef e fundador do Saint Peter e tornou conhecido o conceito de aproveitamento integral de pescados, da escama à cauda."
+  },
+  "dishes": [
+    {
+      "name": "Embutido de bacalhau Murray",
+      "desc": "Exemplo de charcutaria feita com peixe.",
+      "photo": null
+    },
+    {
+      "name": "Macarrão de espinha de peixe",
+      "desc": "Preparação servida em caldo delicado de frutos do mar.",
+      "photo": null
+    },
+    {
+      "name": "Patê de fígado de peixe-são-pedro",
+      "desc": "Exemplo de charcutaria marinha desenvolvida pela casa.",
+      "photo": null
+    },
+    {
+      "name": "Sorvete de alga",
+      "desc": "Sobremesa que leva ingredientes marinhos.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 50º lugar no ranking mundial"
+    },
+    {
+      "year": 2026,
+      "title": "Melhor restaurante da Oceania em 2026 (The 50 Best)"
+    }
+  ],
+  "practical": {
+    "address": "161 Underwood Street, Paddington NSW 2021, Sydney, Austrália",
+    "website": "https://www.saintpeter.com.au"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/saint-peter.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "saint-peter",
+  "rank": 50,
+  "founded": 2016
+}

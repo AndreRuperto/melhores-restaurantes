@@ -1,0 +1,23 @@
+{
+  "lede": "Em Mérida, o Huniik interpreta a gastronomia de Yucatán com ingredientes regionais.",
+  "history": [
+    "O restaurante foi concebido para explorar a herança maia e as tradições culinárias da península mexicana."
+  ],
+  "cuisine": {
+    "style": "Cozinha yucateca contemporânea",
+    "paragraphs": [
+      "Produtos locais, milho, técnicas de cocção tradicionais e ingredientes da região compõem a proposta."
+    ]
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 79º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "huniik",
+  "rank": 79
+}

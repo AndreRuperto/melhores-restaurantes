@@ -1,0 +1,33 @@
+{
+  "lede": "O Uliassi é uma casa familiar à beira do Adriático, em Senigallia, conhecida por reinterpretar os sabores do mar italiano.",
+  "history": [
+    "Mauro Uliassi construiu o restaurante a partir de uma pequena estrutura na praia, preservando o caráter familiar."
+  ],
+  "cuisine": {
+    "style": "Frutos do mar italianos e cozinha contemporânea",
+    "paragraphs": [
+      "A cozinha trabalha pescados, mariscos, memórias da costa e combinações entre mar e terra."
+    ]
+  },
+  "chef": {
+    "name": "Mauro Uliassi"
+  },
+  "dishes": [
+    {
+      "name": "Massa defumada com amêijoas",
+      "desc": "Receita ligada à lembrança dos grelhados de frutos do mar nas praias de Rimini.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 51º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "uliassi",
+  "rank": 51
+}

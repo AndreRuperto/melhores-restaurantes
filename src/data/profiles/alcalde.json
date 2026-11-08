@@ -1,0 +1,26 @@
+{
+  "lede": "Em Guadalajara, o Alcalde reinterpreta a tradição de Jalisco com técnicas de cozinha contemporânea.",
+  "history": [
+    "Francisco Ruano consolidou uma cozinha ligada aos produtos do estado natal depois de experiências em restaurantes internacionais."
+  ],
+  "cuisine": {
+    "style": "Cozinha mexicana contemporânea de Jalisco",
+    "paragraphs": [
+      "Ingredientes e preparações regionais recebem apresentação moderna, com influências técnicas europeias."
+    ]
+  },
+  "chef": {
+    "name": "Francisco 'Paco' Ruano"
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 55º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "alcalde",
+  "rank": 55
+}

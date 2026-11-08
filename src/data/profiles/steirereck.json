@@ -1,0 +1,60 @@
+{
+  "lede": "O Steirereck, no Stadtpark de Viena, apresenta a tradição austríaca em versões atuais e com atenção a ingredientes pouco conhecidos.",
+  "history": [
+    "O restaurante familiar é conduzido por Heinz Reitbauer na cozinha e Birgit Reitbauer no salão. Funciona em uma construção histórica ampliada por uma estrutura contemporânea de vidro no parque.",
+    "A construção histórica do Steirereck remonta a 1904, mas hoje convive com uma extensão contemporânea envidraçada no Stadtpark. Birgit Reitbauer coordena o salão e a experiência de hospitalidade da casa familiar."
+  ],
+  "cuisine": {
+    "style": "Cozinha austríaca contemporânea",
+    "paragraphs": [
+      "Plantas, variedades locais de frutas, peixes de água doce e produtos sazonais compõem menus que valorizam a biodiversidade da Áustria.",
+      "Parte de ervas e vegetais cresce no próprio telhado, onde também há colmeias. O serviço de pães apresenta cerca de vinte e cinco variedades austríacas, ilustrando o trabalho de recuperação de ingredientes e tradições locais."
+    ]
+  },
+  "chef": {
+    "name": "Heinz Reitbauer",
+    "bio": "Heinz Reitbauer assumiu a cozinha do restaurante da família e desenvolveu uma pesquisa culinária com variedades pouco conhecidas de pescados, plantas e frutas austríacas."
+  },
+  "dishes": [
+    {
+      "name": "Truta de montanha com vagem, alcaparra e nectarina",
+      "desc": "Combinação sazonal citada no menu degustação.",
+      "photo": null
+    },
+    {
+      "name": "Carrinho de pães austríacos",
+      "desc": "Serviço que apresenta diferentes receitas de panificação do país.",
+      "photo": null
+    },
+    {
+      "name": "Costeletas de cabrito com pimenta, sabugueiro e toranja",
+      "desc": "Exemplo de combinação sazonal registrada na descrição oficial do menu.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 30º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "website": "https://www.steirereck.at",
+    "address": "Am Heumarkt 2A, Stadtpark, 1030 Viena, Áustria"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/steirereck.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "steirereck",
+  "rank": 30,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg?width=1200",
+    "page": "https://commons.wikimedia.org/wiki/File:Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "caption": "Exterior do restaurante Steirereck, no Stadtpark de Viena, em janeiro de 2020",
+    "illustrative": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "lede": "O Eatanic Garden, em Seul, usa a natureza e as estações como referências para reinterpretar pratos coreanos.",
+  "history": [
+    "O restaurante funciona em um espaço elevado cercado de plantas, combinando vistas da cidade e uma proposta de cozinha autoral."
+  ],
+  "cuisine": {
+    "style": "Cozinha coreana contemporânea",
+    "paragraphs": [
+      "Ingredientes tradicionais aparecem em apresentações que remetem a paisagens e ciclos naturais."
+    ]
+  },
+  "dishes": [
+    {
+      "name": "Carne hanwoo em três preparos",
+      "desc": "Servida com couve-flor fermentada e vegetais brancos de inverno.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 72º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "eatanic-garden",
+  "rank": 72
+}
