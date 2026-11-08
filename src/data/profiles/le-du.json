@@ -1,0 +1,36 @@
+{
+  "lede": "O Le Du, em Bangkok, atualiza a cozinha tailandesa com produtos e técnicas aprendidas em diferentes tradições.",
+  "history": [
+    "Thitid 'Ton' Tassanakajohn criou a casa depois de estudar e trabalhar em cozinhas de Nova York.",
+    "Thitid 'Ton' Tassanakajohn estudou no Culinary Institute of America e trabalhou em cozinhas como Eleven Madison Park e Jean-Georges antes de criar o Le Du."
+  ],
+  "cuisine": {
+    "style": "Cozinha tailandesa contemporânea",
+    "paragraphs": [
+      "Menus sazonais reinterpretam pratos tradicionais tailandeses em várias etapas.",
+      "Há degustações de quatro ou seis etapas; a cozinha reinterpreta receitas tailandesas de verão como o khao chae com sorvete de jasmim."
+    ]
+  },
+  "chef": {
+    "name": "Thitid 'Ton' Tassanakajohn",
+    "bio": "Thitid Tassanakajohn estudou e trabalhou nos Estados Unidos antes de voltar a Bangkok e desenvolver seu repertório tailandês contemporâneo."
+  },
+  "dishes": [
+    {
+      "name": "Khao chae reinterpretado",
+      "desc": "Versão do prato de verão com camarão, patê de porco, rabanete conservado e sorvete de jasmim.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 74º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "le-du",
+  "rank": 74
+}

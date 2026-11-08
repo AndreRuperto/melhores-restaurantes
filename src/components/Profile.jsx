@@ -184,6 +184,14 @@ export function Practical({ p }) {
             <dd className="leading-relaxed text-ink-2">{v}</dd>
           </div>
         ))}
+        {x.reservationUrl && (
+          <div className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
+            <dt className="smallcaps pt-1 text-wine">Reservar</dt>
+            <dd>
+              <a href={x.reservationUrl} target="_blank" rel="noreferrer" className="link-u text-ink">Abrir página de reservas ↗</a>
+            </dd>
+          </div>
+        )}
         {x.website && (
           <div className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
             <dt className="smallcaps pt-1 text-wine">Site</dt>

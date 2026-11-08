@@ -1,0 +1,56 @@
+{
+  "lede": "O Schloss Schauenstein recebe visitantes em um castelo de Fürstenau e interpreta a paisagem suíça de Graubünden.",
+  "history": [
+    "Andreas Caminada transformou o castelo em um destino gastronômico. Parte da cozinha é abastecida pela horta do próprio restaurante, que influencia o menu diário.",
+    "Andreas Caminada abriu o restaurante no castelo em 2003. A construção medieval abriga espaços de refeição e hospedagem, mas a proposta culinária está ligada principalmente à paisagem de Graubünden."
+  ],
+  "cuisine": {
+    "style": "Cozinha suíça contemporânea",
+    "paragraphs": [
+      "Peixes de rio, cogumelos, vegetais, ervas e flores comestíveis ilustram a ligação entre os pratos e a região alpina.",
+      "A horta dentro da propriedade fornece ervas, flores e vegetais; o que está pronto para a colheita ajuda a determinar os pratos do dia."
+    ]
+  },
+  "chef": {
+    "name": "Andreas Caminada",
+    "bio": "Andreas Caminada estabeleceu uma cozinha de alta gastronomia suíça que combina ingredientes de Graubünden, memória local e precisão técnica."
+  },
+  "dishes": [
+    {
+      "name": "Vegetais e ervas da horta do castelo",
+      "desc": "Ingredientes colhidos no próprio terreno e usados conforme a estação.",
+      "photo": null
+    },
+    {
+      "name": "Tortellini de vitela e espuma de manteiga de nozes",
+      "desc": "Clássico da casa servido desde 2003 e disponível à la carte.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 39º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Obergass 15, 7414 Fürstenau, Suíça",
+    "website": "https://www.schauenstein.ch"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/schloss-stauenstein.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "schloss-schauenstein",
+  "rank": 39,
+  "founded": 2003,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SchlossSchauenstein.JPG?width=1200",
+    "page": "https://commons.wikimedia.org/wiki/File:SchlossSchauenstein.JPG",
+    "author": "Peter Berger",
+    "license": "CC BY-SA 3.0",
+    "caption": "O castelo Schloss Schauenstein, em Fürstenau, fotografado em 2007",
+    "illustrative": false
+  }
+}

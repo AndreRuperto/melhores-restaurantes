@@ -1,0 +1,33 @@
+{
+  "lede": "O FZN, em Dubai, é um projeto de alta gastronomia do chef Björn Frantzén.",
+  "history": [
+    "A casa leva ao Oriente Médio uma proposta internacional de degustação com referências nórdicas e asiáticas.",
+    "O FZN funciona no Atlantis The Royal, em Dubai, com projeto gastronômico idealizado por Björn Frantzén e executado por Torsten Vildgaard e sua equipe."
+  ],
+  "cuisine": {
+    "style": "Cozinha nórdica contemporânea com influências japonesas",
+    "paragraphs": [
+      "O menu combina técnicas precisas, molhos e produtos selecionados em várias etapas.",
+      "As etapas integram alta gastronomia europeia moderna e ingredientes de inspiração japonesa. O restaurante recebeu três estrelas Michelin no primeiro ano, segundo a apresentação do ranking."
+    ]
+  },
+  "chef": {
+    "name": "Torsten Vildgaard (equipe de Björn Frantzén)",
+    "bio": "Torsten Vildgaard lidera a equipe do FZN, criado pelo chef sueco Björn Frantzén."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 88º lugar no ranking mundial"
+    },
+    {
+      "year": 2026,
+      "title": "Três estrelas Michelin no primeiro ano de funcionamento (The 50 Best)"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "fzn",
+  "rank": 88
+}

@@ -1,0 +1,41 @@
+{
+  "lede": "O Onjium, em Seul, funciona como restaurante e espaço de estudo da história alimentar coreana.",
+  "history": [
+    "Ligado a um instituto de preservação cultural, o Food Studio pesquisa receitas, técnicas de fermentação e repertórios das cozinhas regionais e da corte de Joseon.",
+    "O Onjium integra um instituto de preservação cultural e funciona no quarto andar de sua sede, diante do palácio Gyeongbokgung. O Food Studio pesquisa textos históricos e técnicas de fermentação."
+  ],
+  "cuisine": {
+    "style": "Cozinha histórica coreana reinterpretada",
+    "paragraphs": [
+      "A equipe de Cho Eun-hee e Park Sung-bae recria técnicas e ingredientes documentados no passado para compor refeições contemporâneas.",
+      "As refeições combinam receitas da corte da dinastia Joseon, tradições regionais, ingredientes de estação e pesquisa sobre o passado alimentar coreano."
+    ]
+  },
+  "chef": {
+    "name": "Cho Eun-hee e Park Sung-bae",
+    "bio": "Cho Eun-hee e Park Sung-bae conduzem uma equipe que pesquisa receitas históricas e adapta métodos tradicionais para uma experiência contemporânea."
+  },
+  "dishes": [
+    {
+      "name": "Menu inspirado na cozinha da corte Joseon",
+      "desc": "Seleção de pratos de época reinterpretados a partir de pesquisa histórica.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 41º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "49 Hyoja-ro, 4º andar, Jongno-gu, Seul, Coreia do Sul"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/onjium.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "onjium",
+  "rank": 41
+}

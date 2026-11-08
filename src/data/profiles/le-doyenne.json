@@ -1,0 +1,36 @@
+{
+  "lede": "O Le Doyenné ocupa uma propriedade rural em Saint-Vrain, ao sul de Paris, e aproxima a mesa do cultivo.",
+  "history": [
+    "O projeto dos chefs James Henry e Shaun Kelly reúne restaurante, horticultura e hospedagem em um ambiente campestre.",
+    "O Le Doyenné ocupa as antigas cavalariças de uma propriedade da família Mortemart, restauradas para abrigar restaurante e hospedagem."
+  ],
+  "cuisine": {
+    "style": "Cozinha francesa de fazenda",
+    "paragraphs": [
+      "O menu segue o que é colhido na propriedade e de produtores próximos.",
+      "A horta e o abastecimento da propriedade moldam o cardápio; já foram servidos peixe-são-pedro com vagem e tomate e galinha-d'angola grelhada."
+    ]
+  },
+  "chef": {
+    "name": "James Henry e Shaun Kelly",
+    "bio": "James Henry e Shaun Kelly dirigem uma cozinha em Saint-Vrain ligada à produção agrícola do próprio terreno."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 84º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "le-doyenne",
+  "rank": 84,
+  "dishes": [
+    {
+      "name": "Peixe-são-pedro com vagem e tomate",
+      "desc": "Preparação sazonal citada entre os menus anteriores.",
+      "photo": null
+    }
+  ]
+}

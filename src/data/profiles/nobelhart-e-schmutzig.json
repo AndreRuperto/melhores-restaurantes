@@ -1,0 +1,41 @@
+{
+  "lede": "O Nobelhart & Schmutzig, em Berlim, põe ingredientes regionais e produtores no centro da experiência.",
+  "history": [
+    "O restaurante desenvolveu um modelo de cozinha aberta e refeições que valorizam a procedência do alimento.",
+    "O Nobelhart & Schmutzig limita sua despensa a ingredientes de Berlim e do entorno regional, vinculando a proposta à produção agrícola local."
+  ],
+  "cuisine": {
+    "style": "Cozinha regional alemã contemporânea",
+    "paragraphs": [
+      "As etapas seguem a disponibilidade sazonal de ingredientes da região de Berlim e Brandemburgo.",
+      "Menus de seis ou oito etapas trabalham vegetais e laticínios em pratos com poucos componentes, como batata com pepino braseado e endro, e mirtilos com zimbro."
+    ]
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 76º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "nobelhart-e-schmutzig",
+  "rank": 76,
+  "chef": {
+    "name": "Micha Schäfer",
+    "bio": "Micha Schäfer lidera a cozinha; a casa integra produtores locais à proposta de uma refeição centrada na região."
+  },
+  "dishes": [
+    {
+      "name": "Batata, pepino braseado e endro",
+      "desc": "Prato com poucos ingredientes e conservação sazonal.",
+      "photo": null
+    },
+    {
+      "name": "Mirtilos e zimbro",
+      "desc": "Combinação que usa ingredientes locais e métodos de conservação.",
+      "photo": null
+    }
+  ]
+}

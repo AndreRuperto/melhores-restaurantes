@@ -1,0 +1,29 @@
+{
+  "lede": "O Mil, no Vale Sagrado próximo a Cusco, pesquisa produtos andinos em altitude elevada.",
+  "history": [
+    "Integrado ao trabalho de pesquisa de Virgilio Martínez, o restaurante se localiza perto do sítio inca de Moray, a aproximadamente 3.600 metros de altitude.",
+    "O Mil se localiza a aproximadamente 3.600 metros de altitude, perto das ruínas incas de Moray, no Vale Sagrado."
+  ],
+  "cuisine": {
+    "style": "Cozinha andina de ecossistemas locais",
+    "paragraphs": [
+      "O menu utiliza ingredientes da região próxima, com estudo de agricultores e comunidades andinas.",
+      "Virgilio Martínez e sua equipe pesquisam os produtos das comunidades próximas e utilizam ingredientes obtidos no próprio ecossistema, em vez de combinar recursos de todo o Peru."
+    ]
+  },
+  "chef": {
+    "name": "Virgilio Martínez",
+    "bio": "Virgilio Martínez desenvolveu o Mil como projeto ligado à pesquisa de ingredientes e conhecimentos alimentares andinos."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 95º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "mil",
+  "rank": 95
+}

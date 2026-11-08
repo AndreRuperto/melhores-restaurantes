@@ -1,0 +1,52 @@
+{
+  "lede": "Em Londres, o Ikoyi combina ingredientes britânicos e especiarias globais em uma cozinha que resiste a rótulos regionais fixos.",
+  "history": [
+    "Criado em 2017 por Jeremy Chan e Iré Hassan-Odukale, o restaurante mudou para um espaço maior no Strand mantendo a proposta de pesquisa de sabores.",
+    "Jeremy Chan e Iré Hassan-Odukale fundaram o Ikoyi em 2017. Em 2021, a casa recebeu o prêmio One to Watch e depois mudou para um espaço maior na região de Strand, em Londres."
+  ],
+  "cuisine": {
+    "style": "Cozinha autoral com especiarias africanas e asiáticas",
+    "paragraphs": [
+      "O menu usa ingredientes de produtores britânicos e preparações aromáticas intensas, com fermentações e molhos complexos.",
+      "A cozinha combina produtos britânicos com especiarias da África e da Ásia. O arroz jollof defumado é um dos pratos mais reconhecidos, embora seu preparo mude conforme a estação."
+    ]
+  },
+  "chef": {
+    "name": "Jeremy Chan",
+    "bio": "Jeremy Chan, chef de formação internacional, cria os pratos; Iré Hassan-Odukale é cofundador e participa da direção do serviço do Ikoyi."
+  },
+  "dishes": [
+    {
+      "name": "Arroz jollof defumado",
+      "desc": "Prato assinatura que varia de apresentação com a estação.",
+      "photo": null
+    },
+    {
+      "name": "Rodovalho com salada de caranguejo",
+      "desc": "Exemplo de combinação descrita pela organização.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 48º lugar no ranking mundial"
+    },
+    {
+      "year": 2021,
+      "title": "One to Watch Award em 2021 (The World's 50 Best Restaurants)"
+    }
+  ],
+  "practical": {
+    "address": "180 The Strand, Londres WC2R 1EA, Reino Unido",
+    "website": "https://ikoyilondon.com"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/ikoyi.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "ikoyi",
+  "rank": 48,
+  "founded": 2017
+}

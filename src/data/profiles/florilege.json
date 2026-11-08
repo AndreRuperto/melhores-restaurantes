@@ -1,0 +1,41 @@
+{
+  "lede": "O Florilège, em Tóquio, privilegia vegetais e a relação entre produtores e cozinha contemporânea.",
+  "history": [
+    "Hiroyasu Kawate desenvolveu uma abordagem própria a partir de referências francesas, com foco em produtos japoneses.",
+    "O Florilège combina uma cozinha aberta a uma estação de empratamento que também exibe arranjos de flores japoneses. O chef Hiroyasu Kawate dialoga com experiências na França e no Japão."
+  ],
+  "cuisine": {
+    "style": "Cozinha japonesa contemporânea de inspiração francesa",
+    "paragraphs": [
+      "Vegetais, fermentações e ingredientes sazonais se destacam no menu.",
+      "Nomes minimalistas de pratos, como 'Camarão-listrado', 'Abóbora' e 'Equilibrar', revelam pouco do que será servido, mas antecipam a importância dos vegetais."
+    ]
+  },
+  "chef": {
+    "name": "Hiroyasu Kawate",
+    "bio": "Hiroyasu Kawate traz para o Florilège uma trajetória entre cozinhas francesas e japonesas, com ênfase em produtos vegetais."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 61º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "florilege",
+  "rank": 61,
+  "dishes": [
+    {
+      "name": "Camarão-listrado",
+      "desc": "Preparação batizada com o ingrediente central, citada na apresentação do menu.",
+      "photo": null
+    },
+    {
+      "name": "Abóbora",
+      "desc": "Etapa vegetal com título simples, cujo preparo varia conforme a estação.",
+      "photo": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "lede": "Nas encostas do Himalaia, perto de Kasauli, o Naar transforma ingredientes e memórias do norte da Índia em um menu sazonal.",
+  "history": [
+    "O chef Prateek Sadhu escolheu uma casa cercada de pinheiros e organiza a refeição em torno das seis estações tradicionalmente reconhecidas na região.",
+    "O Naar fica em uma área de pinheiros nas encostas do Himalaia, acessível por estradas de montanha. Seu nome significa fogo em caxemir e remete à origem familiar do chef Prateek Sadhu."
+  ],
+  "cuisine": {
+    "style": "Cozinha himalaia contemporânea com fogo",
+    "paragraphs": [
+      "O nome 'Naar' significa fogo em caxemir; brasas, produtos de montanha e técnicas locais orientam o menu.",
+      "O menu segue seis estações reconhecidas pela tradição local e emprega fogo vivo, ingredientes de montanha e preparações de diferentes comunidades himalaias."
+    ]
+  },
+  "chef": {
+    "name": "Prateek Sadhu",
+    "bio": "Prateek Sadhu nasceu na região da Caxemira e criou o Naar para pesquisar e apresentar tradições culinárias do Himalaia."
+  },
+  "dishes": [
+    {
+      "name": "Askalu com queijo de iaque defumado",
+      "desc": "Pão semelhante a uma panqueca recheada, citado no menu.",
+      "photo": null
+    },
+    {
+      "name": "Pine Pine Pine",
+      "desc": "Sobremesa com sorvete de pinhão, óleo e xarope de pinheiro.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 49º lugar no ranking mundial"
+    },
+    {
+      "year": 2026,
+      "title": "Sustainable Restaurant Award 2026 (The 50 Best)"
+    }
+  ],
+  "practical": {
+    "address": "Amaya, VPO Darwa, Kasauli, Himachal Pradesh 173236, Índia",
+    "website": "https://restaurantnaar.com"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/naar.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "naar",
+  "rank": 49
+}

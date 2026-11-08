@@ -1,0 +1,29 @@
+{
+  "lede": "O SingleThread une restaurante, fazenda e hospedagem em Healdsburg, na Califórnia.",
+  "history": [
+    "Kyle Connaughton estrutura o menu a partir da fazenda conduzida por Katina Connaughton, com influências japonesas.",
+    "Kyle Connaughton estrutura as refeições a partir da fazenda de cerca de vinte e quatro acres conduzida por Katina Connaughton, próxima ao restaurante."
+  ],
+  "cuisine": {
+    "style": "Cozinha californiana inspirada no kaiseki japonês",
+    "paragraphs": [
+      "Frutas, vegetais e flores cultivados na própria fazenda orientam o menu de dez etapas.",
+      "A degustação de dez etapas se inspira no kaiseki japonês e utiliza frutas, verduras e flores cultivadas na fazenda, com foco em reduzir desperdícios."
+    ]
+  },
+  "chef": {
+    "name": "Kyle Connaughton",
+    "bio": "Kyle Connaughton conduz a cozinha; Katina Connaughton dirige o cultivo de produtos usados no menu de degustação."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 93º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "singlethread",
+  "rank": 93
+}

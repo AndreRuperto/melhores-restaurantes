@@ -1,0 +1,82 @@
+{
+  "lede": "No Trèsind Studio, em Dubai, a Índia é apresentada como uma viagem por regiões, sabores e referências culturais em um menu de degustação encenado.",
+  "history": [
+    "O chef Himanshu Saini abriu o projeto em 2018, depois de criar o Trèsind. O espaço em Palm Jumeirah opera com cerca de vinte lugares e usa cenografia ligada a cada etapa da refeição.",
+    "Himanshu Saini trabalhou no Indian Accent, em Nova Délhi, antes de se estabelecer em Dubai. O Trèsind Studio, inaugurado em 2018 e hoje instalado em Palm Jumeirah, recebe apenas cerca de vinte pessoas por serviço. Elementos de cenografia acompanham cada parte da refeição.",
+    "A trajetória de reconhecimentos inclui a premiação de hospitalidade regional em 2022 e a conquista de três estrelas Michelin em 2025. Em 2026, a casa chegou à 28ª posição mundial e foi reconhecida como a melhor do Oriente Médio pelo ranking The 50 Best."
+  ],
+  "cuisine": {
+    "style": "Cozinha indiana contemporânea",
+    "paragraphs": [
+      "O menu Rising India percorre regiões do subcontinente e reinterpreta preparações e ingredientes indianos com técnicas modernas.",
+      "No menu Rising India, as etapas percorrem regiões como o planalto de Decão e as planícies do norte. A progressão é marcada por mapas e objetos que situam geograficamente a origem das ideias e dos ingredientes."
+    ]
+  },
+  "chef": {
+    "name": "Himanshu Saini",
+    "bio": "Formado na prática em cozinhas de Nova Délhi, incluindo o Indian Accent, Saini levou sua interpretação da gastronomia indiana para Dubai; abriu o Trèsind em 2014 e o Trèsind Studio em 2018."
+  },
+  "dishes": [
+    {
+      "name": "Cenoura, sambal de pimenta guntur e caldo koshimbir",
+      "desc": "Etapa inspirada no planalto de Decão, citada no menu descrito pela organização.",
+      "photo": null
+    },
+    {
+      "name": "Tortellini, raita de queijo de cabra e curry de nabo",
+      "desc": "Preparação associada à etapa dedicada às planícies do norte da Índia.",
+      "photo": null
+    },
+    {
+      "name": "Parfait de praliné de avelã e sorvete de maçã-preta",
+      "desc": "Sobremesa associada à etapa sobre os Himalaias, com um elemento em formato de galho de alcachofra.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2022,
+      "title": "Middle East & North Africa's 50 Best Restaurants: Art of Hospitality Award"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 13º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 27º lugar e melhor restaurante do Oriente Médio"
+    },
+    {
+      "year": 2025,
+      "title": "Guia Michelin Dubai: conquista da terceira estrela"
+    },
+    {
+      "year": 2026,
+      "title": "Middle East & North Africa's 50 Best Restaurants: 3º lugar"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 28º lugar e melhor restaurante do Oriente Médio"
+    }
+  ],
+  "practical": {
+    "website": "https://tresindstudio.com",
+    "address": "St. Regis Gardens, Entrance B, The Palm Jumeirah, Dubai, Emirados Árabes Unidos",
+    "price": "Menu-degustação: AED 1.350 por pessoa (site oficial, consultado em novembro de 2026). Confirmar possíveis taxas e condições na reserva.",
+    "reservation": "Reserva pelo formulário oficial para dois turnos, às 18h e 21h15, de segunda a sábado. O estabelecimento solicita pagamento antecipado de AED 1.350 por pessoa; cancelamentos com pelo menos 48 horas de antecedência têm reembolso integral, segundo a política publicada. Grupos maiores que cinco pessoas devem contactar a equipe.",
+    "reservationUrl": "https://tresindstudio.com/reservation/"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/tresind-studio.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://tresindstudio.com/",
+    "https://tresindstudio.com/reservation/",
+    "https://tresindstudio.com/reservation-policy/",
+    "https://www.the50.com/discovery/Establishments/United-Arab-Emirates/Dubai/Tr%C3%A8sind-Studio.html",
+    "https://www.eater.com/24171671/worlds-50-best-restaurants-2024-the-full-list-of-winners"
+  ],
+  "slug": "tresind-studio",
+  "rank": 28,
+  "founded": 2018
+}

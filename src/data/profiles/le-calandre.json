@@ -1,0 +1,48 @@
+{
+  "lede": "O Le Calandre, em Rubano, alia o legado da família Alajmo a uma cozinha italiana inventiva.",
+  "history": [
+    "Massimiliano Alajmo e seu irmão Raffaele assumiram o restaurante dos pais em 1994. A casa oferece menus que alternam clássicos e criações sazonais.",
+    "Os irmãos Massimiliano e Raffaele Alajmo assumiram o restaurante dos pais em 1994 e fizeram dele o núcleo de um grupo de casas na Itália e em outros países. O salão é marcado por mesas de madeira sem toalhas."
+  ],
+  "cuisine": {
+    "style": "Cozinha italiana contemporânea",
+    "paragraphs": [
+      "A gastronomia da família combina memória culinária italiana, texturas inesperadas e apresentações inspiradas em artes visuais.",
+      "Há três degustações principais: uma com clássicos da casa e duas que variam com as estações. O Cappuccino Murrina revisita uma receita de sépia de 1997."
+    ]
+  },
+  "chef": {
+    "name": "Massimiliano Alajmo",
+    "bio": "Massimiliano Alajmo comanda a criação culinária; seu irmão Raffaele participa da direção e do serviço. A dupla transformou um restaurante familiar em referência italiana de cozinha inventiva."
+  },
+  "dishes": [
+    {
+      "name": "Cappuccino Murrina",
+      "desc": "Creme de batata, sépia e ouriço-do-mar, com cores que lembram vidro veneziano.",
+      "photo": null
+    },
+    {
+      "name": "Risotto Passi d'Oro",
+      "desc": "Risoto de açafrão e alcaçuz inspirado em uma escultura.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 43º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Via Liguria 1, 35030 Rubano (PD), Itália",
+    "website": "https://alajmo.it"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/le-calandre.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "le-calandre",
+  "rank": 43,
+  "founded": 1994
+}

@@ -1,0 +1,59 @@
+{
+  "lede": "O Uliassi é uma casa familiar à beira do Adriático, em Senigallia, conhecida por reinterpretar os sabores do mar italiano.",
+  "history": [
+    "Mauro Uliassi construiu o restaurante a partir de uma pequena estrutura na praia, preservando o caráter familiar.",
+    "A pequena casa de praia onde o Uliassi começou cresceu sem abandonar a estrutura familiar. Mauro Uliassi trabalha com a relação entre lembranças, aroma e sabor, frequentemente a partir de experiências vividas na costa adriática."
+  ],
+  "cuisine": {
+    "style": "Frutos do mar italianos e cozinha contemporânea",
+    "paragraphs": [
+      "A cozinha trabalha pescados, mariscos, memórias da costa e combinações entre mar e terra.",
+      "Os cardápios da casa são divididos em propostas clássicas, laboratório criativo e receitas de caça. A técnica de frutos do mar convive com massas e preparações de sabor ligado à costa de Marche."
+    ]
+  },
+  "chef": {
+    "name": "Mauro Uliassi",
+    "bio": "Mauro Uliassi comanda a cozinha do restaurante familiar de Senigallia e transforma memórias da vida à beira-mar em receitas contemporâneas."
+  },
+  "dishes": [
+    {
+      "name": "Massa defumada com amêijoas",
+      "desc": "Receita ligada à lembrança dos grelhados de frutos do mar nas praias de Rimini.",
+      "photo": null
+    },
+    {
+      "name": "Espaguete defumado com amêijoas e tomates datterino",
+      "desc": "Massa inspirada em lembranças dos grelhados de praia; aparece no menu clássico da casa.",
+      "photo": null
+    },
+    {
+      "name": "Linguado com alface e bergamota",
+      "desc": "Prato do cardápio oficial dedicado a Piergiorgio Parini.",
+      "photo": null
+    },
+    {
+      "name": "Camarão-vermelho com laranja e canela",
+      "desc": "Combinação registrada no menu clássico de degustação.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 51º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://uliassi.com/menu/",
+    "https://uliassi.com/contatti/"
+  ],
+  "slug": "uliassi",
+  "rank": 51,
+  "practical": {
+    "website": "https://uliassi.com",
+    "address": "Via Banchina di Levante 6, 60019 Senigallia (Ancona), Itália",
+    "reservation": "Reservas pelo site ou telefone; o restaurante informa funcionamento de quarta a domingo, de abril a dezembro, com almoço e jantar.",
+    "price": "Menu degustação Classico ou Lab: € 280 por pessoa, conforme cardápio oficial consultado em novembro de 2026; sujeito a alterações."
+  }
+}

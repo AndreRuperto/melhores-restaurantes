@@ -1,0 +1,25 @@
+{
+  "lede": "O The Jane, em Antuérpia, combina cozinha de autor e um ambiente arquitetônico marcante.",
+  "history": [
+    "O restaurante ganhou destaque ao unir uma experiência visual forte a menus de alta gastronomia.",
+    "Após fechar o endereço anterior, The Jane reabriu em outro espaço em Antuérpia. A mudança de arquitetura marcou uma etapa de renovação da experiência."
+  ],
+  "cuisine": {
+    "style": "Cozinha contemporânea internacional",
+    "paragraphs": [
+      "A proposta valoriza ingredientes sazonais e apresentações elaboradas.",
+      "O menu atual privilegia menos componentes por prato e utiliza fermentação, produtos sazonais e influências japonesas para valorizar sabores originais."
+    ]
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 63º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "the-jane",
+  "rank": 63
+}

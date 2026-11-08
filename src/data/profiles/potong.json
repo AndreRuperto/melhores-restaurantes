@@ -1,0 +1,87 @@
+{
+  "lede": "O Potong ocupa um antigo prédio da família da chef Pam no bairro chinês de Bangkok e explora encontros entre cozinhas tailandesa e chinesa.",
+  "history": [
+    "Aberto em 2021, o restaurante recuperou um edifício de cinco andares usado pela família desde 1910. Pichaya Soontornyanakij transformou memórias familiares em um percurso gastronômico.",
+    "O restaurante ocupa o edifício de cinco pavimentos em que a família de Chef Pam mantinha um negócio de ervas medicinais desde 1910. A reforma preservou parte da memória do local, incluindo desenhos antigos de tigres.",
+    "Aberto em 2021, o Potong ganhou sua primeira estrela Michelin em 2022. Em 2025 estreou na lista mundial em 13º lugar, recebendo o Highest New Entry Award; em 2026 ficou em 25º na Ásia e em 32º no ranking mundial."
+  ],
+  "cuisine": {
+    "style": "Cozinha tailandesa-chinesa progressiva",
+    "paragraphs": [
+      "A chef estrutura os pratos em torno de sal, acidez, especiarias, textura e reações de caramelização e tostagem, com uso de ingredientes tradicionais.",
+      "O menu organiza lembranças familiares em etapas com nomes próprios e destaca sal, acidez, especiarias, textura e reações de tostagem. A experiência liga técnicas novas a referências tailandesas e chinesas."
+    ]
+  },
+  "chef": {
+    "name": "Pichaya 'Pam' Soontornyanakij",
+    "bio": "Pichaya Soontornyanakij cresceu em Bangkok e trabalhou no Jean-Georges em Nova York. Recebeu o prêmio Asia's Best Female Chef em 2024 e World's Best Female Chef em 2025."
+  },
+  "dishes": [
+    {
+      "name": "Lula marinada com tinta de lula",
+      "desc": "Uma das etapas do menu descrito pelo 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Caranguejo com coentro e capim-limão",
+      "desc": "Criação ligada ao repertório familiar da chef.",
+      "photo": null
+    },
+    {
+      "name": "Preserving",
+      "desc": "Presunto curado e gordura de porco com caldo de vegetais.",
+      "photo": null
+    },
+    {
+      "name": "Celebrate",
+      "desc": "Bexiga natatória de peixe com arroz de nove grãos e cogumelos morel.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2022,
+      "title": "Guia Michelin Tailândia: primeira estrela"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: estreia em 13º lugar e Highest New Entry Award"
+    },
+    {
+      "year": 2025,
+      "title": "Pichaya 'Pam' Soontornyanakij: The World's Best Female Chef"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants: 25º lugar"
+    },
+    {
+      "year": 2026,
+      "title": "Guia Michelin Tailândia: uma estrela"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 32º lugar"
+    }
+  ],
+  "practical": {
+    "website": "https://www.restaurantpotong.com",
+    "address": "422 Vanich 1 Road, Samphanthawong, Bangkok 10100, Tailândia",
+    "price": "Menu-degustação 5 Senses, 5 Elements: THB 6.700++ por pessoa, sem IVA de 7% e taxa de serviço de 10% (site oficial, novembro de 2026).",
+    "reservation": "Reserva online na página oficial. O restaurante exige depósito de THB 1.000 por pessoa, abatido da conta. Alterações devem ser comunicadas com pelo menos 48 horas de antecedência para não perder o depósito. Fecha às quartas-feiras; telefone +66 82 979 3950.",
+    "reservationUrl": "https://www.restaurantpotong.com/reservation"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/potong.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.restaurantpotong.com/reservation",
+    "https://www.restaurantpotong.com/journey",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Potong.html",
+    "https://guide.michelin.com/my/en/article/michelin-guide-ceremony/full-list-michelin-stars-michelin-guide-thailand-2026",
+    "https://www.theworlds50best.com/the-list/11-20/potong.html"
+  ],
+  "slug": "potong",
+  "rank": 32,
+  "founded": 2021
+}

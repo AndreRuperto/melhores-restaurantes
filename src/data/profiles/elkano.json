@@ -1,0 +1,52 @@
+{
+  "lede": "No Elkano, em Getaria, o peixe fresco é protagonista: a grelha basca é a técnica central da casa.",
+  "history": [
+    "Pedro Arregui transformou o comércio da família em um bar com grelha na rua e aperfeiçoou o preparo de peixes inteiros. O legado é mantido por seu filho Aitor Arregui.",
+    "Pedro Arregui instalou uma grelha ao lado do antigo comércio da mãe. Ao assar um rodovalho grande inteiro, com pele, ajudou a transformar a forma como a casa trabalha peixes. O filho Aitor Arregui mantém esse legado."
+  ],
+  "cuisine": {
+    "style": "Peixes e frutos do mar na brasa, à moda basca",
+    "paragraphs": [
+      "O que chega à mesa depende da pesca do dia, com preparações simples que procuram preservar sabor e textura.",
+      "O menu acompanha a pesca diária. Além do rodovalho, podem aparecer kokotxas, salmonetes, crustáceos e vegetais de agricultores locais."
+    ]
+  },
+  "chef": {
+    "name": "Aitor Arregui",
+    "bio": "Aitor Arregui conduz a casa iniciada pelo pai Pedro e preserva o trabalho de grelha basca aplicado a pescado inteiro e frutos do mar."
+  },
+  "dishes": [
+    {
+      "name": "Rodovalho inteiro na brasa",
+      "desc": "Especialidade que ajudou a tornar a casa conhecida.",
+      "photo": null
+    },
+    {
+      "name": "Kokotxas",
+      "desc": "Bochechas de peixe, preparação tradicional do País Basco.",
+      "photo": null
+    },
+    {
+      "name": "Salmonete na brasa",
+      "desc": "Peixe do dia que pode integrar a degustação, dependendo da pesca.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 33º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "website": "https://www.restauranteelkano.com",
+    "address": "Herrerieta Kalea 2, Getaria 20808, Gipuzkoa, Espanha"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/elkano.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "elkano",
+  "rank": 33
+}

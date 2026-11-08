@@ -1,0 +1,29 @@
+{
+  "lede": "Na região costeira belga, Willem Hiele valoriza a paisagem do mar do Norte e os produtos locais.",
+  "history": [
+    "O chef Willem Hiele desenvolveu uma cozinha muito associada à pesca, à panificação e ao trabalho artesanal.",
+    "A cozinha de Willem Hiele começou na antiga casa de pescadores da família na costa belga. Mais tarde, mudou-se para uma casa de arquitetura marcante na área rural."
+  ],
+  "cuisine": {
+    "style": "Cozinha costeira flamenga contemporânea",
+    "paragraphs": [
+      "Peixes, crustáceos, algas e produtos agrícolas próximos orientam um menu sazonal.",
+      "Apesar da mudança de endereço, o mar do Norte continua central: pescados e crustáceos são combinados a produtos agrícolas dos campos próximos."
+    ]
+  },
+  "chef": {
+    "name": "Willem Hiele",
+    "bio": "Willem Hiele desenvolveu a casa a partir da tradição de uma família ligada à costa da Bélgica e mantém a atenção à pesca e à panificação."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 66º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "willem-hiele",
+  "rank": 66
+}

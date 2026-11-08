@@ -1,0 +1,29 @@
+{
+  "lede": "Em Mérida, o Huniik interpreta a gastronomia de Yucatán com ingredientes regionais.",
+  "history": [
+    "O restaurante foi concebido para explorar a herança maia e as tradições culinárias da península mexicana.",
+    "Roberto Solís criou o Huniik como segundo restaurante, depois de trabalhar em casas como Per Se, em Nova York, e The Fat Duck, no Reino Unido. O nome remete a um espírito singular na língua maia."
+  ],
+  "cuisine": {
+    "style": "Cozinha yucateca contemporânea",
+    "paragraphs": [
+      "Produtos locais, milho, técnicas de cocção tradicionais e ingredientes da região compõem a proposta.",
+      "A cozinha revisita tradições da península de Yucatán, com técnicas contemporâneas e produtos regionais."
+    ]
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 79º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "huniik",
+  "rank": 79,
+  "chef": {
+    "name": "Roberto Solís",
+    "bio": "Roberto Solís lidera o Huniik e tem experiência em cozinhas internacionais antes de voltar-se às tradições yucatecas."
+  }
+}

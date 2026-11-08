@@ -5,7 +5,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "serve -s dist -l ${PORT:-3000}"
+    "start": "serve -s dist -l ${PORT:-3000}",
+    "check:profiles": "node scripts/validate-profiles.mjs"
   },
   "dependencies": {
     "d3-geo": "^3.1.1",

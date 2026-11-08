@@ -1,0 +1,42 @@
+{
+  "lede": "Em Bogotá, o El Chato trabalha ingredientes colombianos com técnicas que o chef Álvaro Clavijo desenvolveu em cozinhas internacionais.",
+  "history": [
+    "A casa ganhou espaço na cena gastronômica do bairro Quinta Camacho e mantém relações com produtores, pescadores e coletores de diferentes regiões da Colômbia.",
+    "Álvaro Clavijo trabalhou com Joël Robuchon e Thomas Keller antes de consolidar sua proposta em Bogotá. O restaurante cresceu de uma casa de bairro para um endereço de degustação conhecido internacionalmente."
+  ],
+  "cuisine": {
+    "style": "Cozinha colombiana autoral",
+    "paragraphs": [
+      "Tubérculos andinos, produtos do Pacífico, frutas e ervas pouco usadas em restaurantes aparecem em composições contemporâneas.",
+      "A equipe valoriza ingredientes que muitas vezes ficam fora dos menus de alta gastronomia, como vísceras, ervas pouco usadas e frutas nativas, além de pescados do Pacífico."
+    ]
+  },
+  "chef": {
+    "name": "Álvaro Clavijo",
+    "bio": "Álvaro Clavijo trabalhou em cozinhas internacionais e usa técnicas aprendidas fora do país para reinterpretar produtos colombianos."
+  },
+  "dishes": [
+    {
+      "name": "Preparações com tubérculos andinos",
+      "desc": "A cozinha valoriza variedades tradicionais de raízes da Colômbia.",
+      "photo": null
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 46º lugar no ranking mundial"
+    }
+  ],
+  "practical": {
+    "address": "Calle 65 #4-76, Chapinero Alto, Bogotá, Colômbia",
+    "website": "https://www.elchato.co"
+  },
+  "sources": [
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/el-chato.html",
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+  ],
+  "slug": "el-chato",
+  "rank": 46
+}

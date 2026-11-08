@@ -1,0 +1,29 @@
+{
+  "lede": "O Neolokal, em Istambul, revisita receitas e ingredientes tradicionais da Turquia.",
+  "history": [
+    "Instalado no centro cultural Salt Galata, o restaurante trabalha com a paisagem culinária do país e vista para o Chifre de Ouro.",
+    "O Neolokal funciona dentro do centro cultural Salt Galata e oferece vista para o Chifre de Ouro, em Istambul."
+  ],
+  "cuisine": {
+    "style": "Cozinha turca contemporânea",
+    "paragraphs": [
+      "Vegetais, grãos, conservas e receitas familiares entram em pratos de apresentação moderna.",
+      "A cozinha de Maksut Aşkar revisita vegetais, grãos e receitas tradicionais turcas, articulando técnicas modernas e preservação de repertórios locais."
+    ]
+  },
+  "chef": {
+    "name": "Maksut Aşkar",
+    "bio": "Maksut Aşkar dirige o Neolokal e trabalha com a equipe para reinterpretar ingredientes e preparações turcas."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 94º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "neolokal",
+  "rank": 94
+}

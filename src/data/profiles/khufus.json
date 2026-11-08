@@ -1,0 +1,29 @@
+{
+  "lede": "O Khufu's, em Gizé, serve cozinha egípcia com vista direta para as pirâmides.",
+  "history": [
+    "A casa destaca receitas tradicionais e apresentações contemporâneas em uma localização junto ao complexo arqueológico.",
+    "O Khufu's fica diante das pirâmides de Gizé, com vista para uma das Sete Maravilhas do Mundo Antigo."
+  ],
+  "cuisine": {
+    "style": "Cozinha egípcia contemporânea",
+    "paragraphs": [
+      "O menu reinterpreta preparações e ingredientes do Egito.",
+      "O chef Mostafa Seif prepara menus inspirados em pratos tradicionais egípcios, com apresentações contemporâneas."
+    ]
+  },
+  "chef": {
+    "name": "Mostafa Seif",
+    "bio": "Mostafa Seif é o chef responsável pelos menus de tradição egípcia do Khufu's."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 97º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "khufus",
+  "rank": 97
+}

@@ -1,0 +1,46 @@
+{
+  "lede": "O Seroja, em Singapura, pesquisa as cozinhas do arquipélago malaio e os ingredientes da região.",
+  "history": [
+    "Kevin Wong estruturou um menu que percorre referências gastronômicas de diferentes comunidades do Sudeste Asiático.",
+    "Kevin Wong abriu o Seroja em 2022 no Duo Galleria, em Singapura. A casa de cerca de vinte e quatro lugares toma como referência os diferentes territórios do arquipélago malaio."
+  ],
+  "cuisine": {
+    "style": "Cozinha do arquipélago malaio contemporânea",
+    "paragraphs": [
+      "Produtos do mar, especiarias e técnicas tradicionais são apresentados em menus de degustação.",
+      "Receitas como cordeiro percik, grelhado com molho de coco e tamarindo, e roti paung com manteiga tradicional são reinterpretadas em menus de almoço e jantar."
+    ]
+  },
+  "chef": {
+    "name": "Kevin Wong",
+    "bio": "Natural de Port Klang, na Malásia, Kevin Wong usa o Seroja para pesquisar sabores e técnicas do arquipélago malaio."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 64º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://seroja.sg/reservations"
+  ],
+  "slug": "seroja",
+  "rank": 64,
+  "dishes": [
+    {
+      "name": "Cordeiro percik",
+      "desc": "Carne grelhada com molho de coco e tamarindo, interpretação de preparação malaia.",
+      "photo": null
+    },
+    {
+      "name": "Roti paung com manteiga johoriana",
+      "desc": "Pão macio tradicional do arquipélago malaio.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://seroja.sg",
+    "reservation": "Reservas online pelo site oficial, abertas com 60 dias de antecedência. A casa pede aviso sobre restrições alimentares na reserva."
+  }
+}

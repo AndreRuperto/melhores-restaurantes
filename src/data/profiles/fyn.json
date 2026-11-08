@@ -1,0 +1,36 @@
+{
+  "lede": "O Fyn, na Cidade do Cabo, aproxima a produção sul-africana da precisão de técnicas japonesas.",
+  "history": [
+    "A casa desenvolveu uma cozinha de encontros culturais apoiada em ingredientes e produtores locais.",
+    "Peter Tempelhoff construiu uma proposta que interpreta ingredientes sul-africanos por meio da técnica do Japão. O serviço pode começar com pequenas preparações em caixas inspiradas no bento."
+  ],
+  "cuisine": {
+    "style": "Cozinha sul-africana contemporânea de inspiração japonesa",
+    "paragraphs": [
+      "Peixes, vegetais, ervas e outros produtos regionais são combinados em pequenas etapas.",
+      "Exemplos de degustações incluem camarão cru com maionese de dashi, pimenta shishito grelhada, nori crocante e gengibre cristalizado."
+    ]
+  },
+  "chef": {
+    "name": "Peter Tempelhoff",
+    "bio": "Peter Tempelhoff dirige uma cozinha que aproxima produtos sul-africanos da precisão das técnicas japonesas."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 65º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "fyn",
+  "rank": 65,
+  "dishes": [
+    {
+      "name": "Crudo de camarão com maionese de dashi",
+      "desc": "Pequena entrada que pode ser servida no formato inspirado no bento.",
+      "photo": null
+    }
+  ]
+}

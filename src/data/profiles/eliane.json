@@ -1,0 +1,30 @@
+{
+  "lede": "O Eliane, em Bruxelas, aposta em um menu que muda diariamente conforme os ingredientes disponíveis.",
+  "history": [
+    "Aberto em dezembro de 2024, é comandado por Kobe Desramaults, que privilegia vegetais, pescados e frutos do mar.",
+    "Kobe Desramaults abriu o Eliane em dezembro de 2024, depois de projetos como In de Wulf e Chambre Séparée."
+  ],
+  "cuisine": {
+    "style": "Cozinha belga contemporânea e sazonal",
+    "paragraphs": [
+      "O menu tem aproximadamente dezoito etapas; carne aparece com parcimônia.",
+      "As cerca de dezoito etapas mudam diariamente segundo o abastecimento e dão grande espaço a vegetais, peixes e frutos do mar, enquanto carnes aparecem em menor quantidade."
+    ]
+  },
+  "chef": {
+    "name": "Kobe Desramaults",
+    "bio": "Kobe Desramaults dirige a cozinha do Eliane e adapta a degustação aos ingredientes disponíveis a cada dia."
+  },
+  "awards": [
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 86º lugar no ranking mundial"
+    }
+  ],
+  "sources": [
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+  ],
+  "slug": "eliane",
+  "rank": 86,
+  "founded": 2024
+}
