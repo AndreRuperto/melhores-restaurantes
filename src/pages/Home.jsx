@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { restaurants, CONTINENTS, COUNTRIES, countBy, bySlug } from '../data/restaurants'
 import { Header, Footer, Chapter, Em, Flag, Ornament, Tags } from '../components/ui'
 import WorldMap, { TIER_COLOR } from '../components/WorldMap'
+import CountryDropdown from '../components/CountryDropdown'
 import RankingTable from '../components/RankingTable'
 import MenuOpening from '../components/MenuOpening'
 
@@ -102,6 +103,7 @@ function MapSection() {
   // Só mostra países presentes no continente escolhido; nomes em ordem alfabética.
   const countries = countBy(restaurants.filter((r) => !cont || r.continent === cont), 'country')
     .sort(([a], [b]) => a.localeCompare(b, 'pt-BR'))
+    .map(([name, total]) => ({ name, total, code: codeOf(name) }))
   const items = restaurants.filter(
     (r) => (!cont || r.continent === cont) && (!country || r.country === country) && (tier === 'all' || r.tier === tier),
   )
@@ -116,25 +118,15 @@ function MapSection() {
       <Chapter id="mapa" n={1} kicker="O mapa" sub="Cada ponto é um restaurante. Passe o cursor ou toque num ponto para ver o nome, e clique para abrir a página. Filtre por continente e país, use + e − ou arraste para explorar.">
         Cem mesas, <Em>{nCities} cidades</Em>
       </Chapter>
-      <div className="mb-3 flex flex-wrap items-center justify-center gap-2">
+      <div className="mb-4 flex flex-wrap items-center justify-center gap-2">
         <button className="pill" aria-pressed={!cont && !country} onClick={() => changeContinent('')}>Todos</button>
         {CONTINENTS.map((c) => (
           <button key={c} className="pill" aria-pressed={cont === c} onClick={() => changeContinent(cont === c ? '' : c)}>{c}</button>
         ))}
-        <span className="mx-1 hidden h-6 w-px bg-rule sm:block" aria-hidden="true" />
-        <label htmlFor="map-country" className="smallcaps text-ink-2">País</label>
-        <select
-          id="map-country"
-          className={`pill max-w-full cursor-pointer bg-paper ${country ? 'border-wine text-ink' : ''}`}
-          value={country}
-          onChange={(e) => setCountry(e.target.value)}
-          aria-label="Filtrar restaurantes do mapa por país"
-        >
-          <option value="">Todos os países</option>
-          {countries.map(([name, total]) => (
-            <option key={name} value={name}>{name} ({total})</option>
-          ))}
-        </select>
+      </div>
+      <div className="relative z-30 mb-4 flex flex-wrap items-center justify-center gap-3">
+        <span className="smallcaps text-ink-2">Filtrar por país</span>
+        <CountryDropdown options={countries} value={country} onChange={setCountry} />
       </div>
       <p className="mb-4 text-center text-sm italic text-muted" role="status" aria-live="polite">
         {items.length} {items.length === 1 ? 'restaurante' : 'restaurantes'} no mapa
