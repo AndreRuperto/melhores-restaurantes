@@ -15,7 +15,7 @@ export const TIER_COLOR = { top50: 'var(--c-wine)', ext: 'var(--c-muted)' }
 const HIT_PX = 11
 
 // Mapa em estilo gravura: papel, contorno a tinta, pontos vinho (1–50) e sépia (51–100).
-export default function WorldMap({ items, focus = null, className = 'aspect-[960/470]', interactive = true }) {
+export default function WorldMap({ items, focus = null, className = 'aspect-[960/470]', interactive = true, spreadOverlapping = false }) {
   const navigate = useNavigate()
   const svgRef = useRef(null)
   const [hover, setHover] = useState(null) // mouse: ponto sob o cursor
@@ -42,10 +42,38 @@ export default function WorldMap({ items, focus = null, className = 'aspect-[960
   const sphere = useMemo(() => path({ type: 'Sphere' }), [path])
   const grat = useMemo(() => path(geoGraticule10()), [path])
   const countries = useMemo(() => land.features.map((f) => path(f)), [path])
-  const points = useMemo(
-    () => items.map((r) => ({ r, p: projection([r.lng, r.lat]) })).sort((a, b) => b.r.rank - a.r.rank),
-    [items, projection],
-  )
+  const points = useMemo(() => {
+    const projected = items.map((r) => ({ r, p: projection([r.lng, r.lat]), anchor: null }))
+
+    if (spreadOverlapping && !focus) {
+      // Vários restaurantes podem ocupar a mesma cidade (ex.: 3 em São Paulo).
+      // Separa os pontos visualmente, mantendo linhas até a coordenada aproximada.
+      // A distância é em pixels de tela, mesmo ao alterar zoom ou tamanho do mapa.
+      const groups = new Map()
+      projected.forEach((pt) => {
+        const cityKey = `${pt.r.code}:${pt.r.city}`
+        if (!groups.has(cityKey)) groups.set(cityKey, [])
+        groups.get(cityKey).push(pt)
+      })
+      groups.forEach((group) => {
+        if (group.length <= 1) return
+        group.sort((a, b) => a.r.rank - b.r.rank)
+        const anchor = [
+          group.reduce((sum, pt) => sum + pt.p[0], 0) / group.length,
+          group.reduce((sum, pt) => sum + pt.p[1], 0) / group.length,
+        ]
+        const radiusPx = group.length === 2 ? 16 : Math.min(44, Math.max(19, group.length * 4.2))
+        const radius = radiusPx / (ppu * zoom)
+        group.forEach((pt, i) => {
+          const angle = -Math.PI / 2 + (i * 2 * Math.PI) / group.length
+          pt.anchor = anchor
+          pt.p = [anchor[0] + Math.cos(angle) * radius, anchor[1] + Math.sin(angle) * radius]
+        })
+      })
+    }
+
+    return projected.sort((a, b) => b.r.rank - a.r.rank)
+  }, [items, projection, spreadOverlapping, focus, zoom, ppu])
 
   // Se o ponto escolhido ou sob o cursor saiu do filtro, esconda a etiqueta.
   useEffect(() => {
@@ -92,7 +120,8 @@ export default function WorldMap({ items, focus = null, className = 'aspect-[960
     open(pt.r)
   }
 
-  const tip = hover || picked
+  // Resolve o ponto atual para reposicionar a etiqueta após zoom ou redimensionamento.
+  const tip = points.find((pt) => pt.r === (hover?.r || picked?.r))
   const hp = tip && { x: tx + tip.p[0] * zoom, y: ty + tip.p[1] * zoom }
   const below = hp && hp.y < H * 0.3 // perto do topo, a etiqueta desce para não ser cortada
 
@@ -126,6 +155,15 @@ export default function WorldMap({ items, focus = null, className = 'aspect-[960
             const vr = k(isF || isP ? 6.5 : r.tier === 'top50' ? 4 : 3.2)
             return (
               <g key={r.slug}>
+                {pt.anchor && (
+                  <line
+                    x1={pt.anchor[0]} y1={pt.anchor[1]}
+                    x2={p[0]} y2={p[1]}
+                    stroke="var(--m-border)" strokeOpacity="0.75"
+                    strokeWidth={0.8 / zoom}
+                    pointerEvents="none"
+                  />
+                )}
                 <circle
                   cx={p[0]}
                   cy={p[1]}

@@ -132,7 +132,37 @@ function MapSection() {
         {items.length} {items.length === 1 ? 'restaurante' : 'restaurantes'} no mapa
         {country ? ` · ${country}` : cont ? ` · ${cont}` : ''}
       </p>
-      <WorldMap items={items} />
+      <WorldMap items={items} spreadOverlapping={!!country} />
+      {country && (
+        <div className="mt-4 border border-rule bg-paper-2/40 px-4 py-4 sm:px-6">
+          <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
+            <h3 className="display text-xl text-ink">Restaurantes em {country}</h3>
+            <span className="smallcaps text-muted">{items.length} {items.length === 1 ? 'endereço' : 'endereços'} no mapa</span>
+          </div>
+          {items.length ? (
+            <div className="grid gap-2 sm:grid-cols-2">
+              {items.map((r) => (
+                <Link
+                  key={r.slug}
+                  to={`/restaurante/${r.slug}`}
+                  className="group flex min-w-0 items-center gap-3 border border-rule bg-paper px-3 py-2.5 transition-colors hover:border-wine focus-visible:outline-2 focus-visible:outline-wine"
+                >
+                  <span className="display w-11 flex-none text-right text-2xl italic text-wine">{r.rank}º</span>
+                  <Flag code={r.code} />
+                  <span className="min-w-0 flex-1">
+                    <span className="display block truncate text-lg font-semibold text-ink group-hover:text-wine">{r.name}</span>
+                    <span className="block text-xs italic text-muted">{r.city}</span>
+                  </span>
+                  <span aria-hidden="true" className="text-muted group-hover:text-wine">↗</span>
+                </Link>
+              ))}
+            </div>
+          ) : (
+            <p className="text-sm italic text-muted">Nenhum restaurante deste país na faixa selecionada.</p>
+          )}
+          <p className="mt-3 text-xs italic text-muted">Quando vários restaurantes ficam na mesma cidade, os pontos são separados visualmente e ligados à localização aproximada.</p>
+        </div>
+      )}
       <div className="mt-3 flex flex-wrap items-center justify-center gap-5 text-sm italic text-ink-2">
         {[['top50', '1 a 50'], ['ext', '51 a 100']].map(([k, l]) => (
           <button key={k} onClick={() => setTier(tier === k ? 'all' : k)} className={`flex items-center gap-2 ${tier !== 'all' && tier !== k ? 'opacity-40' : ''}`}>
