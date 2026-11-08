@@ -26,7 +26,9 @@
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://commons.wikimedia.org/wiki/File:Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg",
+    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hi%C5%A1a_Franko,_summer_2022_01.jpg"
   ],
   "slug": "hisa-franko",
   "rank": 60,
@@ -40,6 +42,24 @@
       "name": "Batata assada sob crosta de feno",
       "desc": "Preparação que aproxima técnica culinária e paisagem rural eslovena.",
       "photo": null
+    }
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg",
+    "author": "Lars Plougmann",
+    "license": "CC BY-SA 2.0",
+    "caption": "Edifício do restaurante e hotel Hiša Franko, em foto de 2006",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dinner_at_Hi%C5%A1a_Franko,_summer_2022_01.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Dinner_at_Hi%C5%A1a_Franko,_summer_2022_01.jpg",
+      "author": "Dclemens1971",
+      "license": "CC BY 4.0",
+      "caption": "Pratos servidos no Hiša Franko em 2022: pastrami de língua e água de tomate fermentado",
+      "illustrative": false
     }
   ]
 }

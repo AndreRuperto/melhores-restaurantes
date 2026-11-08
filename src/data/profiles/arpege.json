@@ -22,7 +22,8 @@
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://commons.wikimedia.org/wiki/File:Arp%C3%A8ge.jpg"
   ],
   "slug": "arpege",
   "rank": 67,
@@ -37,5 +38,14 @@
       "desc": "Combinação centrada em vegetais e frutas.",
       "photo": null
     }
-  ]
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Arp%C3%A8ge.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Arp%C3%A8ge.jpg",
+    "author": "NIeFH",
+    "license": "CC BY-SA 2.0",
+    "caption": "Identificação do restaurante Arpège, na rue de Varenne, Paris, em 2013",
+    "illustrative": false
+  },
+  "gallery": []
 }

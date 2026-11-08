@@ -50,8 +50,28 @@
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/don.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
+    "https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg"
   ],
   "slug": "don-julio",
-  "rank": 44
+  "rank": 44,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Julio_02.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
+    "author": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "caption": "Parrilla Don Julio, no bairro Palermo de Buenos Aires, em 2024",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Julio_01.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg",
+      "author": "Roberto Fiadone",
+      "license": "CC BY 4.0",
+      "caption": "Outro ângulo do Don Julio, em dezembro de 2024",
+      "illustrative": false
+    }
+  ]
 }
