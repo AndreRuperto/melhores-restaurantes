@@ -1,53 +1,171 @@
 {
-  "lede": "O Atelier Moessmer ocupa uma antiga vila ligada à indústria têxtil em Brunico e apresenta a filosofia Cook the Mountain de Norbert Niederkofler.",
+  "lede": "Na histórica Villa Moessmer, em Brunico, Norbert Niederkofler transformou seu manifesto Cook the Mountain em uma experiência gastronômica dedicada aos Alpes. Aberto em julho de 2023, o Atelier combina uma casa do século XIX, cozinha envidraçada e ingredientes de pequenos produtores do Tirol do Sul; conquistou três estrelas Michelin e a estrela verde poucos meses após a abertura.",
   "history": [
-    "Aberto nessa sede em 2023, o restaurante sucedeu o trabalho do chef no St. Hubertus. Hoje, Mauro Siega coordena a cozinha do dia a dia, mantendo a pesquisa sobre ingredientes alpinos.",
-    "Norbert Niederkofler transferiu sua operação do St. Hubertus para uma vila ligada à indústria têxtil Moessmer em 2023. O chef Mauro Siega lidera a cozinha cotidiana, acompanhado por uma equipe jovem."
+    "Norbert Niederkofler nasceu em Lutago, no Vale Aurina, e passou os primeiros anos perto das montanhas e dos produtos da região. Depois da formação em hotelaria, trabalhou em diferentes cozinhas europeias e nos Estados Unidos, incluindo passagens com Eckart Witzigmann e David Bouley. Voltou ao Tirol do Sul em 1994 para trabalhar no hotel Rosa Alpina, em San Cassiano. Dois anos depois abriu ali o St. Hubertus, que se tornaria uma referência da gastronomia alpina e chegaria a três estrelas Michelin na edição de 2018.",
+    "Com o tempo, Niederkofler abandonou a ideia de reproduzir grandes clássicos internacionais com produtos importados e desenvolveu Cook the Mountain, uma filosofia centrada no ambiente de montanha, na sazonalidade e na relação com agricultores, criadores e coletores da região. Quando o St. Hubertus encerrou sua operação em 2023, durante a transformação do hotel Rosa Alpina, o chef decidiu abrir uma nova casa, independente do antigo endereço.",
+    "O novo Atelier Moessmer abriu em julho de 2023 na Villa Moessmer, edifício histórico do século XIX relacionado à fábrica têxtil fundada em 1894 e ligado ao empresário Paul Oberrauch. O projeto preservou a vila e incorporou uma extensão contemporânea de vidro para a cozinha aberta. A propriedade fica em um parque de aproximadamente 6.000 m²; os convidados podem iniciar o percurso em um salão, circular por outros ambientes da casa e acompanhar uma etapa no balcão da cozinha.",
+    "Em novembro de 2023, apenas quatro meses após a abertura, o Atelier recebeu três estrelas e a estrela verde Michelin, distinções publicadas na edição italiana de 2024 do guia. Em 2024 entrou em 52º lugar na lista estendida dos melhores restaurantes do mundo; em 2025 alcançou o 20º posto, e em 2026 ficou em 38º. A operação diária é liderada por Mauro Siega, com Lukas Gerges responsável pelo salão e pelos serviços de bebidas; Niederkofler segue como chef fundador e orientador da proposta gastronômica."
   ],
   "cuisine": {
-    "style": "Cozinha alpina de origem local",
+    "style": "Cozinha alpina contemporânea e regenerativa — Cook the Mountain",
     "paragraphs": [
-      "A seleção de ingredientes privilegia produtos do Tirol e das montanhas próximas, numa proposta ligada à sazonalidade e ao aproveitamento dos recursos locais.",
-      "A filosofia Cook the Mountain concentra a despensa em ingredientes locais do Tirol. As etapas podem ser servidas em ambientes diferentes, incluindo o jardim e o balcão da cozinha."
+      "Cook the Mountain restringe deliberadamente a escolha de ingredientes à paisagem alpina próxima, especialmente o Vale Pusteria e outras áreas do Tirol do Sul. A cozinha evita produtos marítimos e ingredientes importados que não dialogam com a proposta, trabalhando com peixes de água doce, carnes locais, raízes, cereais, laticínios e vegetais da estação. O restaurante mantém relações com produtores e coletores e adapta a criação ao que está disponível na região.",
+      "Para ampliar a variedade durante os meses frios, a equipe utiliza fermentação, secagem, conservação e aproveitamento integral dos produtos. A apresentação reúne a tradição local e técnicas contemporâneas: a refeição pode começar com pequenos bocados e prosseguir com pratos de nomes descritivos, como truta defumada, salada de verão, risoto, peixe de montanha char e ovo com aspargos. O menu demonstrativo publicado pela casa em 2026 evidencia essa sequência, mas esclarece que as preparações mudam com as estações.",
+      "A identidade da casa também se expressa nos clássicos de Niederkofler, especialmente os gnocchi de beterraba e a tarte Tatin, apresentados como adicionais opcionais à degustação. O percurso pode passar por diferentes cômodos, pelo jardim e pelo balcão da cozinha, mantendo um ambiente de hospitalidade residencial. Embora o menu seja estritamente local e sazonal, não é inteiramente vegetariano e o restaurante informa que não consegue oferecer versão vegana."
     ]
   },
   "chef": {
-    "name": "Mauro Siega (com direção de Norbert Niederkofler)",
-    "bio": "Mauro Siega lidera o trabalho diário sob a orientação de Norbert Niederkofler, chef associado à filosofia Cook the Mountain e a projetos de sustentabilidade gastronômica."
+    "name": "Norbert Niederkofler (chef fundador) e Mauro Siega (chef executivo)",
+    "bio": "Nascido em 1961 em Lutago, no Vale Aurina, Norbert Niederkofler foi criado no Tirol do Sul e estudou hotelaria antes de trabalhar em cozinhas na Alemanha, Suíça, Inglaterra e Estados Unidos. Entre seus mestres estiveram Eckart Witzigmann e David Bouley. Retornou à região em 1994, assumiu a cozinha do Rosa Alpina e abriu o St. Hubertus em 1996, onde conquistou três estrelas Michelin. Sua proposta Cook the Mountain passou a defender a biodiversidade alpina, o fornecimento responsável e a valorização de produtores locais. Em julho de 2023 abriu o Atelier Moessmer, onde atua como chef fundador. Mauro Siega é o chef executivo responsável pelo funcionamento diário da cozinha, segundo o próprio restaurante e o The 50 Best; Lukas Gerges coordena o salão e a direção de bebidas, e Alessio Billeci aparece no The 50 Best como chef de confeitaria."
   },
   "dishes": [
     {
-      "name": "Salada de primavera",
-      "desc": "Preparação citada pela organização como exemplo da cozinha sazonal.",
+      "name": "Salada de verão (Summer Salad)",
+      "desc": "Etapa vegetal sazonal citada no cardápio demonstrativo oficial de 2026. O restaurante não publica a composição de todos os ingredientes, que varia conforme a colheita.",
       "photo": null
     },
     {
-      "name": "Bolo de queijo da montanha",
-      "desc": "Sobremesa apresentada entre os exemplos do menu.",
+      "name": "Truta defumada (Smoked Trout)",
+      "desc": "Peixe de água doce defumado, listado no menu oficial de 2026. O uso de peixes regionais exemplifica o compromisso de trabalhar com recursos dos rios e lagos de montanha.",
+      "photo": null
+    },
+    {
+      "name": "Risoto alpino",
+      "desc": "Etapa denominada Risotto no cardápio sazonal de 2026. Os grãos, caldos e acompanhamentos são definidos pela disponibilidade da estação; não há lista detalhada na carta pública.",
+      "photo": null
+    },
+    {
+      "name": "Char — peixe de montanha",
+      "desc": "Preparação de char, salmonídeo de água doce, citada no cardápio de 2026. A proposta privilegia espécies da região em lugar de peixes de origem marítima.",
+      "photo": null
+    },
+    {
+      "name": "Ovo e aspargos",
+      "desc": "Etapa chamada Egg and Asparagus na carta de 2026, construída em torno de ingredientes sazonais. A forma de preparo não é detalhada no menu público.",
       "photo": null
     },
     {
       "name": "Gnocchi de beterraba",
-      "desc": "Uma das preparações históricas do chef Niederkofler que pode complementar o menu sazonal.",
+      "desc": "Um dos pratos emblemáticos associados à cozinha de Niederkofler. Consta entre os 'Big Classics' do menu de 2026, como adicional opcional de €40 por pessoa, não como etapa garantida.",
+      "photo": null
+    },
+    {
+      "name": "Tarte Tatin",
+      "desc": "Sobremesa clássica reinterpretada no repertório do chef, disponibilizada como 'Big Classic' opcional na carta de 2026. O menu consultado indica adicional de €40 por pessoa, solicitado para a mesa.",
+      "photo": null
+    },
+    {
+      "name": "Moessmer Ringo",
+      "desc": "Sobremesa com nome ligado à identidade da casa, documentada no cardápio de 2026. Os ingredientes da versão sazonal não são descritos na carta publicada.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2023,
+      "title": "Guia Michelin Itália 2024 (premiação anunciada em novembro de 2023): três estrelas concedidas ao Atelier Moessmer"
+    },
+    {
+      "year": 2023,
+      "title": "Guia Michelin Itália 2024: estrela verde pela proposta de sustentabilidade"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 52º lugar na lista estendida"
+    },
+    {
+      "year": 2024,
+      "title": "Gambero Rosso, guia Ristoranti d'Italia 2025: Tre Forchette e 95/100 pontos"
+    },
+    {
+      "year": 2024,
+      "title": "Gambero Rosso: prêmio Tradizione Futura para o Atelier Moessmer"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 20º lugar, estreia entre os cinquenta primeiros"
+    },
+    {
+      "year": 2025,
+      "title": "Guia Michelin Itália 2026 (anunciado em 2025): manutenção das três estrelas"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 38º lugar no ranking mundial"
+      "title": "Guia Michelin Itália, edição vigente de 2026: três estrelas e estrela verde"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 38º lugar mundial"
     }
   ],
   "practical": {
-    "address": "Via Walther von der Vogelweide, Brunico 39031, Itália",
-    "website": "https://ateliernorbertniederkofler.com"
+    "website": "https://ateliernorbertniederkofler.com/en/",
+    "address": "Via Walther von der Vogelweide, 17, 39031 Brunico (Bruneck), Tirol do Sul, Itália",
+    "price": "Menu único 'Cook the Mountain': €320 por pessoa, sem bebidas (reservas oficiais consultadas em 8/11/2026). Não há menu à la carte. A carta-modelo de 2026 oferece opcionais clássicos, como gnocchi de beterraba e tarte Tatin, por €40 por pessoa. Os pratos variam conforme a estação; confirme valores na reserva.",
+    "reservation": "Reserva pelo formulário oficial, com cartão de crédito e confirmação por e-mail. Funciona quarta, quinta e sexta apenas no jantar (18h30–20h30); sábado almoço (12h–13h30) e jantar; domingo apenas almoço. Fechado segunda e terça. Reservas online para até seis pessoas; grupos maiores devem escrever para reservations@ateliernorbertniederkofler.com. Até 30 convidados por serviço. Cancelamento gratuito com pelo menos 72 horas de antecedência; depois disso, a política publicada prevê cobrança de €320 por pessoa. A equipe solicita informar alergias até dois dias antes da visita, não oferece menu vegano e não admite animais. Telefone: +39 0474 646629.",
+    "reservationUrl": "https://moessmer.prenota-web.it/prenotazioni/?lang=en"
   },
   "sources": [
+    "https://ateliernorbertniederkofler.com/en/",
+    "https://ateliernorbertniederkofler.com/images/menu/AMNNK_menu_EN.pdf",
+    "https://moessmer.prenota-web.it/prenotazioni/?lang=en",
     "https://www.the50.com/restaurants/best-in-the-world/the-list/atelier-moessmer-norbert-niederkofler.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html",
+    "https://www.the50.com/discovery/Establishments/Italy/Brunico/Atelier-Moessmer-Norbert-Niederkofler.html",
+    "https://guide.michelin.com/it/it/notizia/michelin-guide-ceremony/guida-michelin-italia-2024-tutte-le-nuove-stelle",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/a-new-3-star-restaurant-in-the-michelin-guide-italy-2026",
+    "https://guide.michelin.com/us/en/trentino-alto-adige/brunico/restaurant/atelier-moessmer-norbert-niederkofler",
+    "https://www.gamberorossointernational.com/news/the-52-best-restaurants-in-italy-2025-according-to-gambero-rosso/",
+    "https://www.gamberorosso.it/luoghi/locali/ristorante/atelier-moessmer-norbert-niederkofler/",
+    "https://thebestchefawards.com/chefs/norbert-niederkofler/",
+    "https://norbertniederkofler.com/en",
+    "https://www.kronplatz.com/de/entdecken/cook-the-mountain",
+    "https://www.dolomitisuperski.com/en/experiences/services/dolomites-a-z/Plan-de-Corones/Atelier-Moessmer-Norbert-Niederkofler",
+    "https://commons.wikimedia.org/wiki/File:Villa_Moessmer.jpg",
+    "https://commons.wikimedia.org/wiki/File:Bruneck_vom_Kronplatz.jpg",
+    "https://commons.wikimedia.org/wiki/File:Val_Pusteria.jpg",
+    "https://commons.wikimedia.org/wiki/File:Kronplatz_von_Bruneck,_2.jpeg"
   ],
   "slug": "atelier-moessmer-norbert-niederkofler",
   "rank": 38,
-  "founded": 2023
+  "founded": 2023,
+  "founders": [
+    "Norbert Niederkofler (chef e fundador)",
+    "Paul Oberrauch (parceiro no projeto da Villa Moessmer)"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Moessmer.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Villa_Moessmer.jpg",
+    "author": "Alletto",
+    "license": "CC BY-SA 3.0",
+    "caption": "A própria Villa Moessmer em Brunico, fotografada em abril de 2014, antes da adaptação e da extensão contemporânea do restaurante inaugurado em 2023.",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruneck_vom_Kronplatz.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Bruneck_vom_Kronplatz.jpg",
+      "author": "Marco Almbauer",
+      "license": "Domínio público",
+      "caption": "Vista de Brunico a partir do Kronplatz, em 2016. Fotografia contextual da cidade, não do salão do Atelier.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Val_Pusteria.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Val_Pusteria.jpg",
+      "author": "Enrico Buscaroli",
+      "license": "CC BY-SA 4.0",
+      "caption": "Paisagem do Vale Pusteria, fotografada em 2012. Ilustra o território alpino que inspira a cozinha, não o próprio restaurante.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kronplatz_von_Bruneck%2C_2.jpeg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Kronplatz_von_Bruneck,_2.jpeg",
+      "author": "Renardo la vulpo",
+      "license": "CC BY-SA 4.0",
+      "caption": "Panorama do Kronplatz visto de Brunico em 2017, com neve e equipamentos de montanha. Foto da região, não do Atelier Moessmer.",
+      "illustrative": true
+    }
+  ]
 }
