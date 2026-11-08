@@ -1,40 +1,52 @@
 {
-  "lede": "Em Cartagena, o Celele usa pesquisas sobre o Caribe colombiano para criar pratos com ingredientes regionais pouco conhecidos.",
+  "lede": "Numa casa de fachada azul no bairro Getsemaní, em Cartagena, o Celele usa a biodiversidade alimentar do Caribe colombiano para criar pratos que dificilmente aparecem fora da região. Jaime Rodríguez transformou anos de viagens, conversas com comunidades e pesquisa sobre ingredientes em uma cozinha contemporânea que recebeu o prêmio de sustentabilidade do The World's 50 Best em 2025.",
   "history": [
-    "Jaime Rodríguez desenvolveu com Sebastián Pinzón o Proyecto Caribe Lab, dedicado a registrar preparações e ingredientes da costa caribenha. A pesquisa permanece na base do restaurante, hoje conduzido por Rodríguez.",
-    "Jaime Rodríguez e o antigo sócio Sebastián Pinzón viajaram pelo Caribe colombiano para documentar ingredientes, receitas e modos de preparo ameaçados pelo esquecimento. O levantamento, chamado Proyecto Caribe Lab, continua orientando o restaurante.",
-    "Fundado em 2018, o Celele passou a receber prêmios latino-americanos, incluindo One To Watch em 2019 e Art of Hospitality em 2021. No ranking mundial, entrou em 48º lugar em 2025, quando recebeu o prêmio de sustentabilidade, e avançou para o 31º em 2026."
+    "A história começou antes da abertura do restaurante. Nascido em Boyacá, no interior montanhoso da Colômbia, Jaime David Rodríguez chegou à costa caribenha para trabalhar em restaurantes e hotéis, inclusive na equipe de Jorge Rausch. Ao visitar mercados de Cartagena, descobriu espécies e combinações que raramente apareciam nos cardápios de alta gastronomia da cidade. Resolveu então sair do emprego para investigar o patrimônio alimentar da região.",
+    "Ao lado do então parceiro Sebastián Pinzón, desenvolveu o Proyecto Caribe Lab. Durante aproximadamente dois anos e meio, organizou pequenas refeições experimentais para financiar viagens a lugares como Barranquilla e Santa Marta, conversou com cozinheiras, agricultores, pescadores, biólogos e historiadores e começou a registrar receitas e produtos em risco de esquecimento. O Celele abriu em dezembro de 2018 na tradicional casa azul do bairro Getsemaní.",
+    "A pesquisa passou a orientar tanto a compra de ingredientes quanto os pratos. A equipe trabalha com associações de produtores e coletores, incluindo famílias da região de Montes de María, e com iniciativas de hortas urbanas em Cartagena. A filosofia de aproveitamento integral dos produtos é descrita pelo chef como 'da semente à casca': sementes, cascas e aparas podem ter usos culinários ou em tinturas, reduzindo perdas e criando valor para comunidades fornecedoras.",
+    "O projeto ganhou o prêmio latino-americano One To Watch em 2019 e o Art of Hospitality em 2021. A lista regional registrou sua ascensão do 49º lugar em 2020 ao 6º em 2024. Na lista mundial, o Celele entrou em 48º em 2025, recebendo no mesmo ano o Sustainable Restaurant Award, e avançou para 31º em novembro de 2026. O restaurante continua a relacionar reconhecimento internacional e trabalho local, sem abandonar os ingredientes do Caribe como tema principal."
   ],
   "cuisine": {
-    "style": "Cozinha caribenha colombiana contemporânea",
+    "style": "Cozinha caribenha colombiana contemporânea, coleta responsável e fermentação",
     "paragraphs": [
-      "O menu à la carte inclui pescados, frutas, sementes e vegetais de produtores e extrativistas da região; a apresentação combina técnicas atuais e tradições locais.",
-      "Segundo a apresentação do 50 Best, aproximadamente 90% dos produtos usados vêm do Caribe e boa parte é obtida por coleta. O trabalho inclui sementes de orejero, guáimaro, frutas pomarrosa e jumbalee."
+      "No Celele, os pratos começam por ingredientes de diferentes ecossistemas do Caribe colombiano, incluindo o bosque seco tropical, o litoral, as ilhas e o interior. Entre as matérias-primas pesquisadas estão as sementes de orejero, guáimaro, camajón, milho de variedades locais e frutas como pomarrosa e mamey. Flores e folhas aromáticas também entram nas receitas, frequentemente em preparações que combinam técnicas contemporâneas com referências indígenas, afro-colombianas e populares.",
+      "Segundo um perfil da The World's 50 Best de 2025, cerca de 90% dos produtos usados no menu provinham da região caribenha, e aproximadamente 70% eram obtidos por coleta. A equipe considera a origem, a época e o impacto ambiental de cada ingrediente. Jaime Rodríguez relata o uso de todas as partes possíveis de peixes, raízes e frutas, evitando jogar fora porções que podem transformar-se em caldos, conservas ou outros componentes.",
+      "O restaurante ganhou notoriedade com pratos como a terrine Celele de Cerdo, salada de flores e castanha-de-caju, salpicón de pescado com inhame e coco, além de sorvetes de coco e ylang-ylang. O cardápio tradicional era à la carte, mas ofertas especiais podem mudar essa regra: a experiência temporária 'Volver al Origen', publicada na plataforma de reservas em novembro de 2026, é um menu de oito etapas sem opção à la carte. A disponibilidade de cada prato precisa ser confirmada antes da visita."
     ]
   },
   "chef": {
-    "name": "Jaime Rodríguez",
-    "bio": "Jaime Rodríguez lidera a cozinha e integra a pesquisa de campo sobre as tradições culinárias do Caribe colombiano ao menu do Celele."
+    "name": "Jaime David Rodríguez Camacho",
+    "bio": "Nascido em Boyacá, Jaime Rodríguez aprendeu cedo a cozinhar observando a mãe, que trabalhava com panificação e serviços de alimentação, enquanto o pai cultivava alimentos. Depois de estudar culinária, trabalhou em cozinhas de Bogotá e com Jorge Rausch no Panamá e em Cartagena. Na costa colombiana, passou a pesquisar a diversidade gastronômica caribenha e, com Sebastián Pinzón, criou o Proyecto Caribe Lab. Em 2018 fundou o Celele, onde dirige a pesquisa, a criação de pratos e a relação com produtores locais. Recebeu o reconhecimento The Best Chef Terroir em 2024 e está associado ao prêmio Sustainable Restaurant Award concedido ao restaurante em 2025."
   },
   "dishes": [
     {
-      "name": "Robalo defumado com quiabo lactofermentado",
-      "desc": "Servido com homus de orejero e caldo de gergelim nativo.",
+      "name": "Celele de Cerdo — terrine de porco confitado",
+      "desc": "Um dos pratos mais identificados com a casa: carne de porco cozida lentamente com pimentões conservados, feijões caribenhos, repolho e caldo do próprio porco. Citado na apresentação oficial do The 50 Best.",
       "photo": null
     },
     {
-      "name": "Celele de Cerdo",
-      "desc": "Terrine de porco confitado com pimentões conservados, feijões caribenhos e caldo.",
+      "name": "Salada de flores caribenhas e castanha-de-caju",
+      "desc": "Folhas frescas e flores com castanhas em conserva e tostadas, creme de castanha e vinagrete aromático de flor de gengibre e maracujá. Descrita pelo The 50 Best em 2025.",
+      "photo": null
+    },
+    {
+      "name": "Salpicón de pescado com inhame e coco",
+      "desc": "Preparação que aproveita diferentes partes do peixe, acompanhada de molho à base de inhame, coco e crocante de queijo local. Exemplo da pesquisa sobre aproveitamento integral.",
+      "photo": null
+    },
+    {
+      "name": "Robalo defumado com quiabo lactofermentado",
+      "desc": "Peixe com quiabo fermentado, homus de sementes de orejero e caldo aromatizado com gergelim nativo. Prato documentado em apresentações do restaurante, sujeito à sazonalidade.",
       "photo": null
     },
     {
       "name": "Lula com arroz de camarão seco e curry de canistel",
-      "desc": "Prato com ingrediente caribenho que lembra a batata-doce.",
+      "desc": "Etapa de frutos do mar com curry de fruta tropical canistel, conhecida por textura semelhante à batata-doce, citada no repertório da casa.",
       "photo": null
     },
     {
-      "name": "Sobremesa Mango Season",
-      "desc": "Três apresentações de manga, incluindo sorvete, polpa e óleo da folha.",
+      "name": "Sorvete de coco e ylang-ylang",
+      "desc": "Sobremesa regional com sorvete de coco aromatizado por flores de ylang-ylang, indicada na apresentação oficial do The 50 Best. A composição pode variar com a temporada.",
       "photo": null
     }
   ],
@@ -65,11 +77,19 @@
     },
     {
       "year": 2024,
-      "title": "The Best Chef Awards: The Best Chef Terroir para Jaime Rodríguez"
+      "title": "Jaime Rodríguez: três facas e distinção The Best Chef Terroir no The Best Chef Awards"
     },
     {
       "year": 2025,
-      "title": "The World's 50 Best Restaurants: 48º lugar e Sustainable Restaurant Award"
+      "title": "Latin America's 50 Best Restaurants: 5º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 48º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: Sustainable Restaurant Award"
     },
     {
       "year": 2026,
@@ -77,20 +97,58 @@
     }
   ],
   "practical": {
-    "website": "https://celelerestaurante.com",
-    "address": "Carrera 10C #29-200, Calle del Espíritu Santo, Getsemaní, Cartagena, Colômbia",
-    "price": "Cardápio sazonal com opções de degustação; consultar valores e composição atual do menu no sistema de reservas indicado pelo restaurante.",
-    "reservation": "Reservas pela plataforma Mesa 24/7 indicada no site oficial do Celele. Também é possível confirmar disponibilidade, restrições e opções de menu pelo telefone +57 301 742 0389.",
-    "reservationUrl": "https://celele.mesa247.la/reservas/celele"
+    "website": "https://celelerestaurante.com/",
+    "address": "Carrera 10C nº 29-200, Calle del Espíritu Santo, bairro Getsemaní, Cartagena de Indias, Colômbia",
+    "price": "A experiência temporária 'Volver al Origen', anunciada na plataforma Mesa 24/7 e consultada em 8/11/2026, oferece menu de 8 etapas por COP 465.000 por pessoa, sem acompanhamento de bebidas. Esse valor é exclusivo da experiência anunciada e não deve ser considerado preço permanente do restaurante.",
+    "reservation": "Reservas na plataforma Mesa 24/7 acessível pelo site oficial do Celele ou pelo telefone +57 301 742 0389. A experiência temporária 'Volver al Origen' é limitada a 25 pessoas por serviço, sem menu à la carte; as informações da página de reservas indicam um terceiro andar sem elevador, com limitação de acesso para pessoas com mobilidade reduzida. Verifique qual experiência está em funcionamento e suas condições antes de reservar.",
+    "reservationUrl": "https://www.mesa247.co/bol%C3%ADvar/restaurante/celele"
   },
   "sources": [
-    "https://www.the50.com/restaurants/best-in-the-world/the-list/celele.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
     "https://celelerestaurante.com/",
-    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html",
-    "https://www.mesa247.co/bol%C3%ADvar/restaurante/celele"
+    "https://www.the50.com/restaurants/best-in-latin-america/the-list/Celele.html",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/celele.html",
+    "https://www.the50.com/stories/News/celele-jaime-rodriguez-interview-sustainable-restaurant-award-2025.html",
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.mesa247.co/bol%C3%ADvar/restaurante/celele",
+    "https://experiencias.mesa247.co/experiencias/celele/celele-volver-al-origen-sin-maridaje-en-celele-Vq26Rma5mkVewyYWgXz9",
+    "https://www.elcolombiano.com/cultura/gastronomia/jaime-rodriguez-chef-colombiano-world50-mundo-medellin-wake-boro-FG36659396",
+    "https://www.elespectador.com/gastronomia-y-recetas/jaime-rodriguez-el-chef-detras-de-la-creatividad-y-el-ingenio-de-celele/?outputType=amp",
+    "https://www.cancilleria.gov.co/libros/ColombianCuisineForTheWorld.pdf",
+    "https://commons.wikimedia.org/wiki/File:Barrio_getsemani.jpg",
+    "https://commons.wikimedia.org/wiki/File:Callej%C3%B3n_Angosto,_Getseman%C3%AD,_Cartagena.jpg",
+    "https://commons.wikimedia.org/wiki/File:Calle_del_Guerrero,_Getseman%C3%AD,_Cartagena.jpg"
   ],
   "slug": "celele",
-  "rank": 31
+  "rank": 31,
+  "founded": 2018,
+  "founders": [
+    "Jaime David Rodríguez Camacho",
+    "Sebastián Pinzón (parceiro na fase inicial)"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Barrio_getsemani.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Barrio_getsemani.jpg",
+    "author": "Free tours",
+    "license": "CC BY-SA 4.0",
+    "caption": "Imagem contextual: uma rua do bairro Getsemaní, em Cartagena, fotografada em 2021. NÃO é uma fotografia do restaurante Celele.",
+    "illustrative": true
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Callej%C3%B3n_Angosto%2C_Getseman%C3%AD%2C_Cartagena.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Callej%C3%B3n_Angosto,_Getseman%C3%AD,_Cartagena.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "caption": "O Callejón Angosto em Getsemaní, fotografado em 2020. Ilustra o bairro onde fica o restaurante, não o interior do Celele.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle_del_Guerrero%2C_Getseman%C3%AD%2C_Cartagena.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Calle_del_Guerrero,_Getseman%C3%AD,_Cartagena.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "caption": "Uma rua do bairro Getsemaní, em Cartagena, fotografada em 2020. Imagem de contexto, não da casa.",
+      "illustrative": true
+    }
+  ]
 }
