@@ -1,56 +1,238 @@
 {
-  "lede": "O Schloss Schauenstein recebe visitantes em um castelo de Fürstenau e interpreta a paisagem suíça de Graubünden.",
+  "lede": "Em Fürstenau, no cantão suíço de Graubünden, Andreas Caminada e Marcel Skibba transformaram o Schloss Schauenstein num destino gastronômico de cozinha alpina. O restaurante abriu em 5 de dezembro de 2003 num castelo histórico, conquistou três estrelas Michelin em 2010 e regressou ao top 50 mundial em 2026, na 39ª posição. Jardins, produtores regionais, técnica e hospitalidade formam o centro da experiência.",
   "history": [
-    "Andreas Caminada transformou o castelo em um destino gastronômico. Parte da cozinha é abastecida pela horta do próprio restaurante, que influencia o menu diário.",
-    "Andreas Caminada abriu o restaurante no castelo em 2003. A construção medieval abriga espaços de refeição e hospedagem, mas a proposta culinária está ligada principalmente à paisagem de Graubünden."
+    "O Schloss Schauenstein recebeu seus primeiros clientes em 5 de dezembro de 2003. Andreas Caminada, então com 26 anos, arrendou o castelo histórico na pequena cidade de Fürstenau e começou a trabalhar com uma equipe de cerca de quatro pessoas. O objetivo era criar uma experiência que unisse a cozinha ao edifício, à paisagem e ao acolhimento. As salas com painéis de madeira, janelas voltadas ao jardim e poucos elementos contemporâneos preservaram o caráter intimista do lugar.",
+    "A ascensão foi rápida: uma estrela Michelin em 2004, duas em 2007 e três em 2010; em 2009 a casa alcançou 19 pontos no Gault&Millau. No mesmo ano em que recebeu a terceira estrela, estreou em 30º lugar no The World's 50 Best Restaurants e ganhou o prêmio de maior nova entrada. No ano seguinte subiu para 23º. A notoriedade internacional transformou a cidade e incentivou Caminada a expandir as atividades além do restaurante principal.",
+    "Ao longo das duas décadas seguintes, o grupo desenvolveu hospedagem no castelo, a Casa Caminada e o restaurante vegetal Oz, com a produção da horta de permacultura. Andreas e Sarah Caminada criaram também a Fundaziun Uccelin, programa de formação e intercâmbio de jovens profissionais de cozinha e serviço. Em 2022, a Caminada Group e o grupo hoteleiro The Living Circle adquiriram conjuntamente o castelo e outros imóveis da região, consolidando o projeto em Fürstenau.",
+    "Marcel Skibba, parceiro de longa data e chef de cozinha, assumiu responsabilidades ampliadas na operação e se tornou sócio do projeto. A cozinha passou a incorporar ainda mais ingredientes de Graubünden, ervas, flores e vegetais cultivados pela equipe. O Schloss Schauenstein foi reconhecido com a estrela verde Michelin em 2022; na lista mundial, ficou em 26º em 2023, 47º em 2024, 52º em 2025 e retornou aos cinquenta melhores em 2026, no 39º lugar, como único restaurante suíço do grupo principal."
   ],
   "cuisine": {
-    "style": "Cozinha suíça contemporânea",
+    "style": "Alta cozinha alpina de Graubünden, técnicas francesas e horta própria",
     "paragraphs": [
-      "Peixes de rio, cogumelos, vegetais, ervas e flores comestíveis ilustram a ligação entre os pratos e a região alpina.",
-      "A horta dentro da propriedade fornece ervas, flores e vegetais; o que está pronto para a colheita ajuda a determinar os pratos do dia."
+      "O Schloss Schauenstein combina a precisão da alta cozinha de matriz francesa com ingredientes do cantão de Graubünden. A equipe prioriza peixes de lagos e rios, vegetais, caça quando sazonal e produtos da agricultura próxima. A horta de permacultura fornece ervas, flores comestíveis e variedades menos comuns; a colheita diária ajuda a determinar o menu. Em vez de depender apenas de ingredientes associados ao luxo internacional, a casa procura expressar as montanhas suíças pelo sabor e pela textura.",
+      "O serviço de degustação se organiza em etapas, geralmente precedidas de uma sucessão de pequenos bocados. A carta oficial apresenta três, quatro ou cinco etapas. Algumas preparações viraram referências de longa duração, como os tortellini de vitela com espuma de manteiga de nozes, servidos desde a abertura em 2003 e citados pelo The 50 Best como clássico à la carte. Outras combinações variam com a época, entre elas peito de pato levemente defumado e gyoza de coxa de pato com beterraba, documentados pelo Guia Michelin.",
+      "Em entrevista publicada em 2026, Caminada e Skibba descreveram pequenas preparações de cenoura com raiz-forte e alcaparras, couve-rábano com flores e aspargos, e lúcio-perca com tomate, brotos e frutas da horta. Essas receitas mostram a evolução para sabores mais frescos, mais acidez e maior protagonismo vegetal. O restaurante revê os menus periodicamente; os exemplos documentados não devem ser interpretados como garantia do que estará disponível numa data específica."
     ]
   },
   "chef": {
-    "name": "Andreas Caminada",
-    "bio": "Andreas Caminada estabeleceu uma cozinha de alta gastronomia suíça que combina ingredientes de Graubünden, memória local e precisão técnica."
+    "name": "Andreas Caminada (fundador) e Marcel Skibba (chef de cozinha e sócio)",
+    "bio": "Andreas Caminada nasceu em 1977 no cantão suíço de Graubünden. Formou-se no Hotel Signina, em Laax, e aperfeiçoou suas técnicas em cozinhas como Walserhof, Wiesengrund e Bareiss, na Alemanha. Em 2003, aos 26 anos, assumiu o Schloss Schauenstein para criar um restaurante próprio. Ganhou uma estrela Michelin em 2004, duas em 2007 e três em 2010; recebeu o prêmio Mentor do Guia Michelin em 2020. Ao lado de Sarah Caminada criou a Fundaziun Uccelin e ampliou o projeto de gastronomia e hospitalidade em Fürstenau. Marcel Skibba é chef de cozinha, colaborador de longa data e sócio no Schloss Schauenstein. Juntos, defendem uma gastronomia baseada em produtores de Graubünden, uma horta de permacultura e a formação contínua da equipe. O site oficial identifica Elise Czakó e Lara Kasteel como codiretoras do salão."
   },
   "dishes": [
     {
-      "name": "Vegetais e ervas da horta do castelo",
-      "desc": "Ingredientes colhidos no próprio terreno e usados conforme a estação.",
+      "name": "Tortellini de vitela com espuma de manteiga de nozes",
+      "desc": "Clássico do Schloss Schauenstein desde 2003, citado pelo The 50 Best em 2026. A combinação de massa recheada com espuma de manteiga de nozes permanece uma assinatura e costuma estar disponível à la carte; confirme na reserva.",
       "photo": null
     },
     {
-      "name": "Tortellini de vitela e espuma de manteiga de nozes",
-      "desc": "Clássico da casa servido desde 2003 e disponível à la carte.",
+      "name": "Peito de pato levemente defumado, gyoza de coxa e beterraba",
+      "desc": "Prato descrito pelo Guia Michelin: peito de pato com leve nota defumada, acompanhado de massa cozida no vapor com a coxa braseada e beterraba aromática. Exemplo de menu, não oferta permanente.",
+      "photo": null
+    },
+    {
+      "name": "Lúcio-perca com tomate, brotos e frutas da horta",
+      "desc": "Peixe de água doce acompanhado de tomate, brotos e pequenas frutas cultivadas pela equipe; preparado como exemplo de cozinha vegetal e lacustre numa entrevista publicada em 2026.",
+      "photo": null
+    },
+    {
+      "name": "Cenoura, raiz-forte e alcaparras",
+      "desc": "Pequeno bocado sazonal descrito pelos chefs em 2026, equilibrando a doçura da cenoura com o frescor picante da raiz-forte e o salgado das alcaparras.",
+      "photo": null
+    },
+    {
+      "name": "Couve-rábano, flores, aspargos e gema",
+      "desc": "Preparação vegetal sazonal registrada numa visita de 2026, com produtos da horta e contraste entre folhas, flores e elementos cremosos. A reportagem também menciona lardo como um dos componentes.",
+      "photo": null
+    },
+    {
+      "name": "Tartelete de tomate com queijo fresco",
+      "desc": "Aperitivo da sequência sazonal de 2026, com tomate e queijo fresco. Prato citado em entrevista gastronômica com a equipe do Schloss Schauenstein.",
+      "photo": null
+    },
+    {
+      "name": "Folha de videira em conserva, pimentão e uva",
+      "desc": "Pequeno bocado em que a acidez da conserva se une ao frescor de uva e pimentão; documentado em 2026, sujeito à rotação do menu.",
+      "photo": null
+    },
+    {
+      "name": "Alface, endro e ervas frescas",
+      "desc": "Etapa vegetal descrita pela equipe como combinação de salada verde e ervas do jardim, representativa da filosofia de aproximar o prato das colheitas.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2004,
+      "title": "Guia Michelin: primeira estrela para Schloss Schauenstein"
+    },
+    {
+      "year": 2004,
+      "title": "Gault&Millau: Descoberta do Ano, 15 pontos"
+    },
+    {
+      "year": 2006,
+      "title": "Gault&Millau: Revelação do Ano, 17 pontos"
+    },
+    {
+      "year": 2007,
+      "title": "Guia Michelin: segunda estrela"
+    },
+    {
+      "year": 2007,
+      "title": "Andreas Caminada: Chef do Ano no Gault&Millau, 18 pontos"
+    },
+    {
+      "year": 2009,
+      "title": "Andreas Caminada: Chef do Ano no Gault&Millau e 19 pontos"
+    },
+    {
+      "year": 2010,
+      "title": "Guia Michelin: terceira estrela"
+    },
+    {
+      "year": 2010,
+      "title": "The World's 50 Best Restaurants: estreia em 30º lugar e Highest New Entry Award"
+    },
+    {
+      "year": 2011,
+      "title": "The World's 50 Best Restaurants: 23º lugar"
+    },
+    {
+      "year": 2013,
+      "title": "The World's 50 Best Restaurants: 42º lugar"
+    },
+    {
+      "year": 2014,
+      "title": "The World's 50 Best Restaurants: 43º lugar"
+    },
+    {
+      "year": 2016,
+      "title": "The World's 50 Best Restaurants: 47º lugar"
+    },
+    {
+      "year": 2018,
+      "title": "OAD Top European Restaurants: primeiro lugar"
+    },
+    {
+      "year": 2018,
+      "title": "The World's 50 Best Restaurants: 47º lugar"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants: 50º lugar e Sustainable Restaurant Award, conforme cronologia oficial do restaurante"
+    },
+    {
+      "year": 2020,
+      "title": "Andreas Caminada: Mentor Award do Guia Michelin"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants: 59º lugar"
+    },
+    {
+      "year": 2022,
+      "title": "Guia Michelin: estrela verde pelo compromisso com sustentabilidade"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants: 40º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: 26º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 47º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 52º lugar e Falstaff: 100 pontos"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 39º lugar no ranking mundial"
+      "title": "OAD Top European Restaurants: 5º lugar"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 39º lugar mundial, único representante da Suíça no top 50"
     }
   ],
   "practical": {
-    "address": "Obergass 15, 7414 Fürstenau, Suíça",
-    "website": "https://www.schauenstein.ch"
+    "website": "https://www.schauenstein.ch/restaurant",
+    "address": "Obergass 15, CH-7414 Fürstenau, Graubünden, Suíça",
+    "price": "Preços oficiais consultados em 8/11/2026: menu de 3 etapas CHF 266; 4 etapas CHF 298; 5 etapas CHF 318, por pessoa. Os valores são de comida e incluem contribuição de CHF 2 à Fundaziun Uccelin. Extras e condições de serviço devem ser confirmados ao reservar.",
+    "reservation": "Reservas pelo formulário oficial do Schloss Schauenstein, aceitas com até oito meses de antecedência, ou pelo telefone +41 81 632 10 80 e e-mail kontakt@schauenstein.ch. Almoço de quinta a domingo a partir de 11h45; jantar de quarta a domingo a partir de 18h45. A casa anuncia fechamento de 19/10 a 10/11/2026, de 21 a 25/12/2026 e de 4 a 26/01/2027. Confirmar a confirmação de mesa, as condições de alteração e a disponibilidade diretamente com a equipe. Animais de estimação não entram nas salas do restaurante.",
+    "reservationUrl": "https://www.schauenstein.ch/reservierung"
   },
   "sources": [
+    "https://www.schauenstein.ch/restaurant",
+    "https://www.schauenstein.ch/reservierung",
+    "https://www.schauenstein.ch/awards",
+    "https://www.schauenstein.ch/team",
     "https://www.the50.com/restaurants/best-in-the-world/the-list/schloss-stauenstein.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.andreascaminada.com/schloss-schauenstein",
+    "https://www.andreascaminada.com/medienbereich",
+    "https://www.andreascaminada.com/caminada-group-about",
+    "https://www.andreascaminada.com/newsroom/schloss-schauenstein-50-best",
+    "https://www.andreascaminada.com/ac-auszeichnungen",
+    "https://guide.michelin.com/de/de/graubunden/frstenau/restaurant/schloss-schauenstein",
+    "https://www.thestaffcanteen.com/amp/Featured-Chef/andreas-caminada-marcel-skibba-schloss-schauenstein",
+    "https://www.srf.ch/news/gesellschaft/schloss-schauenstein-ein-schweizer-restaurant-steht-auf-der-bestenliste-der-welt",
+    "https://www.hotellerie-gastronomie.ch/de/artikel/ein-buch-laesst-hinter-die-kulissen-von-schloss-schauenstein-blicken",
+    "https://commons.wikimedia.org/wiki/File:Schauenstein_Ostseite.jpeg",
+    "https://commons.wikimedia.org/wiki/File:Schauenstein_Salon.jpg",
+    "https://commons.wikimedia.org/wiki/File:Unteres_Schloss_F%C3%BCrstenau_Garten.jpg",
+    "https://commons.wikimedia.org/wiki/File:Unteres_Schloss_F%C3%BCrstenau_Front.jpg",
+    "https://commons.wikimedia.org/wiki/File:SchlossSchauenstein.JPG"
   ],
   "slug": "schloss-schauenstein",
   "rank": 39,
   "founded": 2003,
   "hero": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SchlossSchauenstein.JPG?width=1200",
-    "page": "https://commons.wikimedia.org/wiki/File:SchlossSchauenstein.JPG",
-    "author": "Peter Berger",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Schauenstein_Ostseite.jpeg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Schauenstein_Ostseite.jpeg",
+    "author": "Adrian Michael",
     "license": "CC BY-SA 3.0",
-    "caption": "O castelo Schloss Schauenstein, em Fürstenau, fotografado em 2007",
+    "caption": "Vista real do Schloss Schauenstein em Fürstenau, fotografado em julho de 2023.",
     "illustrative": false
-  }
+  },
+  "founders": [
+    "Andreas Caminada"
+  ],
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Schauenstein_Salon.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Schauenstein_Salon.jpg",
+      "author": "Adrian Michael",
+      "license": "CC BY-SA 1.0",
+      "caption": "Salão interior do Schloss Schauenstein, registrado em abril de 2011. Fotografia do ambiente real; a decoração pode ter mudado.",
+      "illustrative": false
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Unteres_Schloss_F%C3%BCrstenau_Garten.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Unteres_Schloss_F%C3%BCrstenau_Garten.jpg",
+      "author": "Adrian Michael",
+      "license": "CC BY-SA 1.0",
+      "caption": "Terraços do jardim do castelo em Fürstenau, fotografados em abril de 2011.",
+      "illustrative": false
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Unteres_Schloss_F%C3%BCrstenau_Front.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Unteres_Schloss_F%C3%BCrstenau_Front.jpg",
+      "author": "Adrian Michael",
+      "license": "CC BY-SA 1.0",
+      "caption": "Fachada do Schloss Schauenstein vista de frente, em abril de 2011.",
+      "illustrative": false
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SchlossSchauenstein.JPG?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:SchlossSchauenstein.JPG",
+      "author": "Peter Berger",
+      "license": "CC BY-SA 3.0",
+      "caption": "Fotografia histórica do próprio castelo, feita em agosto de 2005, dois anos após a abertura do restaurante.",
+      "illustrative": false
+    }
+  ]
 }
