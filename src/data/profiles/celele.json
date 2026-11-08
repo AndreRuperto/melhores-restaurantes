@@ -2,7 +2,8 @@
   "lede": "Em Cartagena, o Celele usa pesquisas sobre o Caribe colombiano para criar pratos com ingredientes regionais pouco conhecidos.",
   "history": [
     "Jaime Rodríguez desenvolveu com Sebastián Pinzón o Proyecto Caribe Lab, dedicado a registrar preparações e ingredientes da costa caribenha. A pesquisa permanece na base do restaurante, hoje conduzido por Rodríguez.",
-    "Jaime Rodríguez e o antigo sócio Sebastián Pinzón viajaram pelo Caribe colombiano para documentar ingredientes, receitas e modos de preparo ameaçados pelo esquecimento. O levantamento, chamado Proyecto Caribe Lab, continua orientando o restaurante."
+    "Jaime Rodríguez e o antigo sócio Sebastián Pinzón viajaram pelo Caribe colombiano para documentar ingredientes, receitas e modos de preparo ameaçados pelo esquecimento. O levantamento, chamado Proyecto Caribe Lab, continua orientando o restaurante.",
+    "Fundado em 2018, o Celele passou a receber prêmios latino-americanos, incluindo One To Watch em 2019 e Art of Hospitality em 2021. No ranking mundial, entrou em 48º lugar em 2025, quando recebeu o prêmio de sustentabilidade, e avançou para o 31º em 2026."
   ],
   "cuisine": {
     "style": "Cozinha caribenha colombiana contemporânea",
@@ -39,18 +40,56 @@
   ],
   "awards": [
     {
+      "year": 2019,
+      "title": "Latin America's 50 Best Restaurants: Miele One To Watch Award"
+    },
+    {
+      "year": 2020,
+      "title": "Latin America's 50 Best Restaurants: 49º lugar"
+    },
+    {
+      "year": 2021,
+      "title": "Latin America's 50 Best Restaurants: Art of Hospitality Award"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants: 19º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants: 16º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants: 6º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "The Best Chef Awards: The Best Chef Terroir para Jaime Rodríguez"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 48º lugar e Sustainable Restaurant Award"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 31º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants: 31º lugar"
     }
   ],
   "practical": {
     "website": "https://celelerestaurante.com",
-    "address": "Calle del Espíritu Santo, Carrera 10C #29–200, Getsemaní, Cartagena, Colômbia"
+    "address": "Carrera 10C #29-200, Calle del Espíritu Santo, Getsemaní, Cartagena, Colômbia",
+    "price": "Cardápio sazonal com opções de degustação; consultar valores e composição atual do menu no sistema de reservas indicado pelo restaurante.",
+    "reservation": "Reservas pela plataforma Mesa 24/7 indicada no site oficial do Celele. Também é possível confirmar disponibilidade, restrições e opções de menu pelo telefone +57 301 742 0389.",
+    "reservationUrl": "https://celele.mesa247.la/reservas/celele"
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/celele.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://celelerestaurante.com/",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html",
+    "https://www.mesa247.co/bol%C3%ADvar/restaurante/celele"
   ],
   "slug": "celele",
   "rank": 31

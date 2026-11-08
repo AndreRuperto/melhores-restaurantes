@@ -13,7 +13,7 @@
   },
   "chef": {
     "name": "Heinz Reitbauer",
-    "bio": "Heinz Reitbauer assumiu a cozinha do restaurante da família e desenvolveu uma pesquisa culinária com variedades pouco conhecidas de pescados, plantas e frutas austríacas."
+    "bio": "Heinz Reitbauer assumiu a cozinha do restaurante da família e desenvolveu uma pesquisa culinária com variedades pouco conhecidas de pescados, plantas e frutas austríacas. A operação gastronômica também conta com Michael Bauböck, identificado pelo Guia Michelin como chef à frente da equipe de cozinha."
   },
   "dishes": [
     {
@@ -34,18 +34,44 @@
   ],
   "awards": [
     {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 22º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 33º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "Guia Michelin Áustria: conquista de três estrelas"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 30º lugar no ranking mundial"
+      "title": "Guia Michelin Áustria: manutenção das três estrelas"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 30º lugar"
     }
   ],
   "practical": {
     "website": "https://www.steirereck.at",
-    "address": "Am Heumarkt 2A, Stadtpark, 1030 Viena, Áustria"
+    "address": "Am Heumarkt 2A, Stadtpark, 1030 Viena, Áustria",
+    "price": "Opções de menu degustação de 6 ou 7 etapas e à la carte; o Guia Michelin menciona também menus mais curtos no almoço. Valor atualizado: confirmar com o restaurante.",
+    "reservation": "Reservas online pelo site oficial ou pelo telefone +43 1 713 31 68. A casa serve almoço e jantar de segunda a sexta-feira; para grupos com mais de seis pessoas, deve-se consultar a equipe diretamente.",
+    "reservationUrl": "https://www.steirereck.at/steirereck-tisch.html"
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/steirereck.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.steirereck.at/steirereck-tisch.html",
+    "https://www.steirereck.at/steirereck.en.html",
+    "https://www.the50.com/discovery/Establishments/Austria/Vienna/Steirereck.html",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/steirereck-in-vienna-is-austria-s-new-3-michelin-star-restaurant",
+    "https://www.michelin.com/en/publications/products-and-services/michelin-guide-austria-2026",
+    "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_a.jpg",
+    "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_b.jpg"
   ],
   "slug": "steirereck",
   "rank": 30,
@@ -56,5 +82,23 @@
     "license": "CC BY-SA 4.0",
     "caption": "Exterior do restaurante Steirereck, no Stadtpark de Viena, em janeiro de 2020",
     "illustrative": false
-  }
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_03_Steirereck_a.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_a.jpg",
+      "author": "Gugerell (Peter Gugerell)",
+      "license": "CC0 1.0",
+      "caption": "Vista externa do Steirereck, no Stadtpark de Viena, em junho de 2021.",
+      "illustrative": false
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_03_Steirereck_b.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_b.jpg",
+      "author": "Gugerell (Peter Gugerell)",
+      "license": "CC0 1.0",
+      "caption": "Outro ângulo da fachada do Steirereck, fotografado em 2021.",
+      "illustrative": false
+    }
+  ]
 }

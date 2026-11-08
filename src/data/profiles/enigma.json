@@ -2,7 +2,8 @@
   "lede": "Em Barcelona, o Enigma é o laboratório gastronômico de Albert Adrià, com pequenas etapas que mudam conforme a estação.",
   "history": [
     "Depois de sua trajetória no elBulli, Albert Adrià concentrou no Enigma um projeto autoral de pesquisa culinária. O espaço foi concebido com arquitetura do escritório RCR Arquitectes.",
-    "Albert Adrià passou mais de duas décadas no elBulli e concentrou décadas de pesquisa no Enigma. O espaço, criado pelo escritório RCR Arquitectes, foi pensado para acolher tanto ideias culinárias simples como experiências técnicas complexas."
+    "Albert Adrià passou mais de duas décadas no elBulli e concentrou décadas de pesquisa no Enigma. O espaço, criado pelo escritório RCR Arquitectes, foi pensado para acolher tanto ideias culinárias simples como experiências técnicas complexas.",
+    "Inaugurado em 2017, o Enigma ganhou uma primeira estrela Michelin em 2018 e uma segunda em 2025. No ranking mundial, avançou do 82º lugar em 2023 para o 59º em 2024, o 34º em 2025 e o 29º em 2026. A trajetória está registrada na biografia oficial de Albert Adrià."
   ],
   "cuisine": {
     "style": "Cozinha de pesquisa e menu degustação contemporâneo",
@@ -34,18 +35,54 @@
   ],
   "awards": [
     {
+      "year": 2018,
+      "title": "Guia Michelin: primeira estrela para o Enigma"
+    },
+    {
+      "year": 2019,
+      "title": "The World's 50 Best Restaurants: 82º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: 82º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 59º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 34º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "Guia Michelin: segunda estrela para o Enigma"
+    },
+    {
+      "year": 2025,
+      "title": "Albert Adrià: Chefs' Choice Award, concedido pelo The World's 50 Best"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 29º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants: 29º lugar"
     }
   ],
   "practical": {
     "website": "https://enigmaconcept.es",
-    "address": "Carrer de Sepúlveda 38, Sant Antoni, Barcelona, Espanha"
+    "address": "Carrer de Sepúlveda 38–40, 08015 Barcelona, Espanha",
+    "price": "Menu-degustação de cerca de 20 a 25 etapas: € 280 por pessoa, sem bebidas (site oficial, novembro de 2026).",
+    "reservation": "Reserva antecipada obrigatória pelo site oficial, com agenda normalmente aberta com 60 dias de antecedência e lista de espera. Cancelamentos ou mudanças exigem pelo menos 72 horas para evitar penalidades de € 280 por pessoa; dúvidas e cancelamentos de última hora podem ser consultados pelo WhatsApp +34 616 69 63 22.",
+    "reservationUrl": "https://enigmaconcept.es/reserva/"
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/enigma.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://enigmaconcept.es/reserva/",
+    "https://enigmaconcept.es/information/",
+    "https://enigmaconcept.es/carta/",
+    "https://albertadria.com/en/albert-adria/",
+    "https://www.the50.com/restaurants/best-in-the-world/awards/best-of-the-best/el-bulli.html"
   ],
   "slug": "enigma",
   "rank": 29
