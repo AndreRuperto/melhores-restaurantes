@@ -10,7 +10,9 @@
     "illustrative": false
   },
   "founded": 2021,
-  "founders": ["Vicky Cheng"],
+  "founders": [
+    "Vicky Cheng"
+  ],
   "chef": {
     "name": "Vicky Cheng",
     "bio": "Nascido em Hong Kong e criado no Canadá, Vicky Cheng estudou culinária no George Brown College, em Toronto, e trabalhou no Restaurant Daniel, de Daniel Boulud, em Nova York. De volta a Hong Kong em 2011, abriu o Vea, que une técnica francesa a ingredientes chineses e recebeu uma estrela Michelin em 2016. Aprendeu a cozinha chinesa por conta própria e depois com os chefs Tam Kwok Fung (Chef Tam's Seasons, Macau) e Adam Wong (Forum, Hong Kong)."
@@ -76,17 +78,50 @@
     }
   ],
   "awards": [
-    {"year": 2022, "title": "Asia's 50 Best Restaurants: nº 34 (estreia)"},
-    {"year": 2022, "title": "The World's 50 Best Restaurants (51–100): nº 100"},
-    {"year": 2023, "title": "Asia's 50 Best Restaurants: nº 37"},
-    {"year": 2023, "title": "The World's 50 Best Restaurants (51–100): nº 90"},
-    {"year": 2024, "title": "Asia's 50 Best Restaurants: nº 5 e Highest Climber Award (maior escalada)"},
-    {"year": 2024, "title": "The World's 50 Best Restaurants: nº 20 e Highest New Entry Award (estreia mais alta)"},
-    {"year": 2024, "title": "Tatler Dining Awards (Hong Kong): Chef of the Year para Vicky Cheng"},
-    {"year": 2025, "title": "Asia's 50 Best Restaurants: nº 3 e Inedit Damm Chefs' Choice Award para Vicky Cheng"},
-    {"year": 2025, "title": "The World's 50 Best Restaurants: nº 11 e Gin Mare Art of Hospitality Award"},
-    {"year": 2026, "title": "Asia's 50 Best Restaurants: nº 2"},
-    {"year": 2026, "title": "The World's 50 Best Restaurants: nº 5"}
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants: nº 34 (estreia)"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants (51–100): nº 100"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants: nº 37"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants (51–100): nº 90"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants: nº 5 e Highest Climber Award (maior escalada)"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: nº 20 e Highest New Entry Award (estreia mais alta)"
+    },
+    {
+      "year": 2024,
+      "title": "Tatler Dining Awards (Hong Kong): Chef of the Year para Vicky Cheng"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants: nº 3 e Inedit Damm Chefs' Choice Award para Vicky Cheng"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 11 e Gin Mare Art of Hospitality Award"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants: nº 2"
+    },
+    {
+      "year": 2026,
+      "title": "The World's 50 Best Restaurants: nº 5"
+    }
   ],
   "practical": {
     "price": "Dois menus degustação, de HK$ 1.980 e HK$ 2.980 por pessoa, mais 10% de serviço e taxa obrigatória de chá e água de HK$ 88 por pessoa (site oficial, 2026)",
@@ -95,14 +130,6 @@
     "address": "29/F, The Wellington, 198 Wellington Street, Central, Hong Kong"
   },
   "gallery": [
-    {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg/1920px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg",
-      "author": "Ta Laya Miukoo Tuk",
-      "license": "CC BY-SA 4.0",
-      "caption": "Fachada do edifício The Wellington (184–198 Wellington Street), onde o Wing ocupa o 29º andar, em foto de 2016",
-      "illustrative": false
-    },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wellington_Street%2C_Hong_Kong%2C_2006_%2801%29.jpg/1920px-Wellington_Street%2C_Hong_Kong%2C_2006_%2801%29.jpg",
       "page": "https://commons.wikimedia.org/wiki/File:Wellington_Street,_Hong_Kong,_2006_(01).jpg",
@@ -129,6 +156,16 @@
     "https://www.tatlerasia.com/dining/food/hong-kong-chef-vicky-cheng-cantonese-restaurant-wing-cassia-singapore-may-2024",
     "https://www.travelsforstars.com/blog/2025/02/18/wing-hong-kong",
     "https://wingrestaurant.hk/",
-    "https://wingrestaurant.hk/menu"
-  ]
+    "https://wingrestaurant.hk/menu",
+    "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg"
+  ],
+  "rank": 5,
+  "facade": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg/1920px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_facade_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_October_2016_DSC.jpg",
+    "author": "Ta Laya Miukoo Tuk",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fachada do edifício The Wellington (184–198 Wellington Street), onde o Wing ocupa o 29º andar, em foto de 2016",
+    "illustrative": false
+  }
 }

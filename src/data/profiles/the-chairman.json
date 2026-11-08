@@ -147,14 +147,6 @@
   },
   "gallery": [
     {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg/1920px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg",
-      "author": "Ta Laya Miukoo Tuk",
-      "license": "CC BY-SA 4.0",
-      "caption": "Entrada do edifício The Wellington, na Wellington Street, onde o restaurante funciona no terceiro andar desde 2022 (foto de 2016)",
-      "illustrative": false
-    },
-    {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shaoxing_Rice_Wine%2C_Huadiao%2C_10ys%2C_bottle_and_glass.jpg/1920px-Shaoxing_Rice_Wine%2C_Huadiao%2C_10ys%2C_bottle_and_glass.jpg",
       "page": "https://commons.wikimedia.org/wiki/File:Shaoxing_Rice_Wine,_Huadiao,_10ys,_bottle_and_glass.jpg",
       "author": "Bernt Rostad",
@@ -180,6 +172,16 @@
     "https://www.thestar.com.my/news/regional/2020/03/24/these-are-asias-50-best-restaurants-but-you-just-cant-visit-them-all-right-now",
     "https://says.com/my/news/hong-kong-the-chairman-restaurant-not-affliated-to-kl-restaurant",
     "https://restaurantsforkings.com/city/hong-kong/the-chairman.html",
-    "https://100toptables.scmp.com/restaurants-profile-2024/the-chairman"
-  ]
+    "https://100toptables.scmp.com/restaurants-profile-2024/the-chairman",
+    "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg"
+  ],
+  "rank": 6,
+  "facade": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg/1920px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_The_Wellington_%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97_184-198%E8%99%9F_Wellington_Street_Queen%27s_Road_Central_October_2016_Hong_Kong_Jewellery_Building.jpg",
+    "author": "Ta Laya Miukoo Tuk",
+    "license": "CC BY-SA 4.0",
+    "caption": "Entrada do edifício The Wellington, na Wellington Street, onde o restaurante funciona no terceiro andar desde 2022 (foto de 2016)",
+    "illustrative": false
+  }
 }

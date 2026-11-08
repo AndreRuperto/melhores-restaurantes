@@ -10,7 +10,9 @@
     "illustrative": false
   },
   "founded": 2021,
-  "founders": ["Arnaud Donckele"],
+  "founders": [
+    "Arnaud Donckele"
+  ],
   "chef": {
     "name": "Arnaud Donckele",
     "bio": "Nascido em Rouen em 1977 e criado em Mantes-la-Jolie, onde os pais tinham uma charcutaria, formou-se na École Ferrandi e passou por Michel Guérard (Les Prés d'Eugénie), pelo Louis XV de Alain Ducasse em Mônaco e pelo Lasserre, em Paris, como subchef de Jean-Louis Nomicos. Em 2004, aos 27 anos, assumiu La Vague d'Or, em Saint-Tropez, que chegou às três estrelas Michelin em 2013. Foi eleito cozinheiro do ano pelo Gault&Millau na edição de 2020."
@@ -76,14 +78,38 @@
     }
   ],
   "awards": [
-    {"year": 2022, "title": "Três estrelas Michelin (anunciadas em 22 de março de 2022, pouco mais de seis meses após a abertura)"},
-    {"year": 2023, "title": "The World's 50 Best Restaurants — 36º lugar (estreia na lista)"},
-    {"year": 2024, "title": "The World's 50 Best Restaurants — 18º lugar"},
-    {"year": 2024, "title": "Art of Hospitality Award, The World's 50 Best Restaurants"},
-    {"year": 2025, "title": "The World's 50 Best Restaurants — 14º lugar"},
-    {"year": 2025, "title": "Best Pastry Chef Award (The World's 50 Best Restaurants) para Maxime Frédéric, chef pâtissier do Plénitude"},
-    {"year": 2026, "title": "Gault&Millau — 19/20 e cinco toques"},
-    {"year": 2026, "title": "The 50 Best Restaurants — 10º lugar"}
+    {
+      "year": 2022,
+      "title": "Três estrelas Michelin (anunciadas em 22 de março de 2022, pouco mais de seis meses após a abertura)"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — 36º lugar (estreia na lista)"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — 18º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "Art of Hospitality Award, The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — 14º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "Best Pastry Chef Award (The World's 50 Best Restaurants) para Maxime Frédéric, chef pâtissier do Plénitude"
+    },
+    {
+      "year": 2026,
+      "title": "Gault&Millau — 19/20 e cinco toques"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — 10º lugar"
+    }
   ],
   "practical": {
     "price": "Menus-degustação de € 475 (\"Fuguons ensemble\") a € 495 (\"Symphonie\") por pessoa, sem bebidas (Gault&Millau, 2026)",
@@ -129,6 +155,16 @@
     "https://www.sortiraparis.com/en/where-to-eat-in-paris/food-events/guides/170388-the-world-s-50-best-restaurants-2025-the-ranking-of-the-world-s-50-best-restaurants-revealed",
     "https://blog.resy.com/2023/06/worlds-50-best-restaurants-list-2023/",
     "https://aap.com.au/aapreleases/cision20240418ae69285/",
-    "https://www.andyhayler.com/restaurant/plenitude"
-  ]
+    "https://www.andyhayler.com/restaurant/plenitude",
+    "https://commons.wikimedia.org/wiki/File:Paris_1er_La_Samaritaine_150.jpg"
+  ],
+  "rank": 10,
+  "facade": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Paris_1er_La_Samaritaine_150.jpg/1920px-Paris_1er_La_Samaritaine_150.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_1er_La_Samaritaine_150.jpg",
+    "author": "GFreihalter",
+    "license": "CC BY-SA 4.0",
+    "caption": "O prédio da La Samaritaine (Magasin 2), onde funciona o hotel Cheval Blanc Paris, visto do outro lado do Sena, em outubro de 2021",
+    "illustrative": false
+  }
 }

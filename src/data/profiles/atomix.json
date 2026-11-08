@@ -166,6 +166,16 @@
     "https://www.refinery29.com/en-us/2018/11/216303/michelin-star-restaurants-nyc-2019",
     "https://www.thestaffcanteen.com/News/two-restaurants-get-two-star-status-in-new-york-michelin-guide-2020",
     "https://www.theinfatuation.com/new-york/guides/most-expensive-tasting-menus-nyc",
-    "https://www.exploretock.com/atomixnyc/"
-  ]
+    "https://www.exploretock.com/atomixnyc/",
+    "https://commons.wikimedia.org/wiki/File:Atomix_NYC.jpg"
+  ],
+  "rank": 11,
+  "facade": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Atomix_NYC.jpg/1920px-Atomix_NYC.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Atomix_NYC.jpg",
+    "author": "Transpoman",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fachada do Atomix no número 104 da East 30th Street, em Nova York (novembro de 2023)",
+    "illustrative": false
+  }
 }

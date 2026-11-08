@@ -112,7 +112,8 @@
     "https://guide.michelin.com/fr/fr/article/michelin-guide-ceremony/la-liste-complete-des-etoiles-du-guide-michelin-france-2026",
     "https://www.lechef.com/trophees-le-chef-2025-hugo-roellinger-sacre-chef-de-lannee/",
     "https://commons.wikimedia.org/wiki/File:Hu%C3%AEtres_%C3%A0_Cancale.jpg",
-    "https://commons.wikimedia.org/wiki/File:Cancale_-_2026-08-13_-_March%C3%A9_aux_Hu%C3%AEtres_-_oyster_beach_medium.jpg"
+    "https://commons.wikimedia.org/wiki/File:Cancale_-_2026-08-13_-_March%C3%A9_aux_Hu%C3%AEtres_-_oyster_beach_medium.jpg",
+    "https://commons.wikimedia.org/wiki/File:Le_chateau_richeux_a_st_meloir_des_ondes_-_panoramio.jpg"
   ],
   "slug": "le-coquillage",
   "rank": 34,
@@ -162,5 +163,13 @@
   "founders": [
     "Jane Roellinger",
     "Olivier Roellinger"
-  ]
+  ],
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_chateau_richeux_a_st_meloir_des_ondes_-_panoramio.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_chateau_richeux_a_st_meloir_des_ondes_-_panoramio.jpg",
+    "author": "chisloup",
+    "license": "CC BY 3.0",
+    "caption": "Vista real do Château Richeux, edifício que abriga o Le Coquillage, em novembro de 2014. A fachada e os jardins podem ter mudado desde então.",
+    "illustrative": false
+  }
 }
