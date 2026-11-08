@@ -1,16 +1,19 @@
 {
   "lede": "Em Paris, o Arpège é conhecido pela atenção às verduras e hortaliças na alta gastronomia francesa.",
   "history": [
-    "Alain Passard construiu uma identidade culinária em torno de hortas próprias e vegetais tratados como protagonistas."
+    "Alain Passard construiu uma identidade culinária em torno de hortas próprias e vegetais tratados como protagonistas.",
+    "Alain Passard abriu o Arpège em 1986, depois de assumir o endereço de Alain Senderens. Em julho de 2025 anunciou uma cozinha sem produtos animais, com exceção do mel."
   ],
   "cuisine": {
     "style": "Cozinha francesa contemporânea centrada em vegetais",
     "paragraphs": [
-      "O menu explora maturação, cocção, textura e sazonalidade de produtos vegetais."
+      "O menu explora maturação, cocção, textura e sazonalidade de produtos vegetais.",
+      "Pratos recentes incluem tomates com flor de laranjeira e perfume de folha de figo, além de berinjela com melão e capim-limão."
     ]
   },
   "chef": {
-    "name": "Alain Passard"
+    "name": "Alain Passard",
+    "bio": "Alain Passard dirige o Arpège desde 1986 e tornou o trabalho com hortaliças e a produção em hortas parte de sua identidade gastronômica."
   },
   "awards": [
     {
@@ -22,5 +25,17 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "arpege",
-  "rank": 67
+  "rank": 67,
+  "dishes": [
+    {
+      "name": "Tomate com flor de laranjeira e folha de figo",
+      "desc": "Preparação vegetal destacada na linha mais recente do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Berinjela com melão e capim-limão",
+      "desc": "Combinação centrada em vegetais e frutas.",
+      "photo": null
+    }
+  ]
 }

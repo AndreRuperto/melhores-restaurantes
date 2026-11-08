@@ -1,16 +1,19 @@
 {
   "lede": "O Mosu, em Seul, explora ingredientes coreanos com uma abordagem de pesquisa culinária.",
   "history": [
-    "O chef Sung Anh desenvolveu o restaurante a partir de uma trajetória internacional e de trabalho com produtos locais."
+    "O chef Sung Anh desenvolveu o restaurante a partir de uma trajetória internacional e de trabalho com produtos locais.",
+    "O nome Mosu faz referência à flor cosmos, presente no jardim da infância de Sung Anh. A ideia de memória influencia seus pratos."
   ],
   "cuisine": {
     "style": "Cozinha coreana autoral contemporânea",
     "paragraphs": [
-      "O menu de degustação muda com a estação e utiliza técnicas de fermentação e extração."
+      "O menu de degustação muda com a estação e utiliza técnicas de fermentação e extração.",
+      "Sabores coreanos conhecidos reaparecem por meio de técnicas internacionais e apresentação cuidadosa, em um menu de degustação sazonal."
     ]
   },
   "chef": {
-    "name": "Sung Anh"
+    "name": "Sung Anh",
+    "bio": "Sung Anh dirige o Mosu e desenvolve uma cozinha coreana influenciada por experiências internacionais."
   },
   "awards": [
     {

@@ -1,16 +1,19 @@
 {
   "lede": "O Lamdre, em Pequim, usa apenas ingredientes vegetais para desenvolver uma cozinha chinesa de alta gastronomia.",
   "history": [
-    "A proprietária Zhao Jia e o chef Dai Jun trabalham com heranças regionais chinesas e apresentações contemporâneas."
+    "A proprietária Zhao Jia e o chef Dai Jun trabalham com heranças regionais chinesas e apresentações contemporâneas.",
+    "O Lamdre é conduzido pela proprietária Zhao Jia e pelo chef Dai Jun, ligados à evolução da cozinha de alta gastronomia vegetal em Pequim."
   ],
   "cuisine": {
     "style": "Cozinha chinesa vegetal contemporânea",
     "paragraphs": [
-      "Vegetais, fungos e ingredientes locais recebem tratamento técnico e apresentações de degustação."
+      "Vegetais, fungos e ingredientes locais recebem tratamento técnico e apresentações de degustação.",
+      "A cozinha usa exclusivamente ingredientes vegetais, associando tradições regionais da China a apresentações contemporâneas."
     ]
   },
   "chef": {
-    "name": "Dai Jun"
+    "name": "Dai Jun",
+    "bio": "Dai Jun lidera a cozinha, em parceria com Zhao Jia, e trabalha interpretações vegetais da tradição chinesa."
   },
   "awards": [
     {

@@ -1,16 +1,19 @@
 {
   "lede": "O Koan, em Copenhague, cruza ingredientes nórdicos com referências da herança coreana do chef.",
   "history": [
-    "A casa se desenvolveu a partir da experiência do chef Kristian Baumann em restaurantes escandinavos e de seu interesse pelas próprias origens."
+    "A casa se desenvolveu a partir da experiência do chef Kristian Baumann em restaurantes escandinavos e de seu interesse pelas próprias origens.",
+    "Antes de consolidar o Koan, Kristian Baumann visitou cozinhas, templos e mercados da Coreia para estudar desde refeições de rua até tradições da corte real."
   ],
   "cuisine": {
     "style": "Cozinha nórdica com influências coreanas",
     "paragraphs": [
-      "Fermentações, vegetais sazonais e produtos do mar compõem menus de degustação."
+      "Fermentações, vegetais sazonais e produtos do mar compõem menus de degustação.",
+      "O menu de cerca de dezessete etapas combina produtos nórdicos e repertório coreano, incluindo fermentações, preparações de churrasco e referências da cozinha de templos."
     ]
   },
   "chef": {
-    "name": "Kristian Baumann"
+    "name": "Kristian Baumann",
+    "bio": "Kristian Baumann trabalhou em cozinhas escandinavas e pesquisou a culinária coreana para aproximá-la dos produtos disponíveis na Dinamarca."
   },
   "awards": [
     {

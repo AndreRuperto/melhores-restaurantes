@@ -1,16 +1,19 @@
 {
   "lede": "No Nelita, em São Paulo, a chef Tássia Magalhães apresenta uma cozinha autoral em um salão com balcão aberto para a equipe.",
   "history": [
-    "Aberto em 2021, o restaurante consolidou uma equipe de cozinha feminina e entrou na lista mundial estendida em 2026."
+    "Aberto em 2021, o restaurante consolidou uma equipe de cozinha feminina e entrou na lista mundial estendida em 2026.",
+    "Tássia Magalhães conduz uma equipe feminina diante de um balcão aberto de mármore, incentivando a proximidade entre cozinha e visitantes. A chef relaciona sua cozinha a memórias familiares do Vale do Paraíba."
   ],
   "cuisine": {
     "style": "Cozinha brasileira contemporânea de referências italianas",
     "paragraphs": [
-      "A casa trabalha pratos à la carte e menus degustação com combinações sazonais."
+      "A casa trabalha pratos à la carte e menus degustação com combinações sazonais.",
+      "Há menu à la carte e degustações com cinco ou onze etapas; as referências italianas se combinam a ingredientes locais e preparações ligadas à história da chef."
     ]
   },
   "chef": {
-    "name": "Tássia Magalhães"
+    "name": "Tássia Magalhães",
+    "bio": "Tássia Magalhães nasceu na região do Vale do Paraíba e desenvolveu no Nelita uma cozinha de referências italianas com ingredientes brasileiros e equipe feminina."
   },
   "dishes": [
     {
@@ -31,8 +34,14 @@
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://nelitarestaurante.com.br/"
   ],
   "slug": "nelita",
-  "rank": 54
+  "rank": 54,
+  "practical": {
+    "website": "https://nelitarestaurante.com.br",
+    "address": "Rua Ferreira de Araújo 330, São Paulo, SP, Brasil",
+    "reservation": "Para menu degustação, a casa informa necessidade de reserva; para menu fixo, mantém lugares para visitas sem agendamento, sujeitos à disponibilidade."
+  }
 }

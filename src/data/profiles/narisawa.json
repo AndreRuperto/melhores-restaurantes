@@ -1,16 +1,19 @@
 {
   "lede": "O Narisawa, em Tóquio, transforma a paisagem e a biodiversidade japonesas em uma linguagem culinária própria.",
   "history": [
-    "Yoshihiro Narisawa desenvolveu o conceito de gastronomia ligada à natureza e à sustentabilidade da floresta japonesa."
+    "Yoshihiro Narisawa desenvolveu o conceito de gastronomia ligada à natureza e à sustentabilidade da floresta japonesa.",
+    "Yoshihiro Narisawa organiza o menu como uma experiência variável, inspirada pelas comunidades de produtores, coletores e agricultores do Japão. A sequência pode mudar diariamente."
   ],
   "cuisine": {
     "style": "Cozinha japonesa contemporânea de inspiração natural",
     "paragraphs": [
-      "Ingredientes de diferentes ecossistemas japoneses são trabalhados em pratos que dialogam com solo, floresta e estações."
+      "Ingredientes de diferentes ecossistemas japoneses são trabalhados em pratos que dialogam com solo, floresta e estações.",
+      "O Bread of the Forest é um exemplo da proposta: a massa cresce diante dos convidados e é servida com manteiga que remete ao musgo."
     ]
   },
   "chef": {
-    "name": "Yoshihiro Narisawa"
+    "name": "Yoshihiro Narisawa",
+    "bio": "Yoshihiro Narisawa fundou o restaurante e conduz uma cozinha voltada aos ecossistemas japoneses e a métodos de cultivo e coleta regionais."
   },
   "awards": [
     {
@@ -22,5 +25,20 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "narisawa",
-  "rank": 59
+  "rank": 59,
+  "dishes": [
+    {
+      "name": "Bread of the Forest",
+      "desc": "Massa que cresce à mesa por calor indireto, servida com manteiga inspirada no ambiente da floresta.",
+      "photo": null
+    }
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Narisawa_restaurant.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Narisawa_restaurant.jpg",
+    "author": "Pocsywe",
+    "license": "CC BY-SA 4.0",
+    "caption": "Restaurante Narisawa em Tóquio, fotografado em 2017",
+    "illustrative": false
+  }
 }

@@ -1,16 +1,19 @@
 {
   "lede": "O Le Du, em Bangkok, atualiza a cozinha tailandesa com produtos e técnicas aprendidas em diferentes tradições.",
   "history": [
-    "Thitid 'Ton' Tassanakajohn criou a casa depois de estudar e trabalhar em cozinhas de Nova York."
+    "Thitid 'Ton' Tassanakajohn criou a casa depois de estudar e trabalhar em cozinhas de Nova York.",
+    "Thitid 'Ton' Tassanakajohn estudou no Culinary Institute of America e trabalhou em cozinhas como Eleven Madison Park e Jean-Georges antes de criar o Le Du."
   ],
   "cuisine": {
     "style": "Cozinha tailandesa contemporânea",
     "paragraphs": [
-      "Menus sazonais reinterpretam pratos tradicionais tailandeses em várias etapas."
+      "Menus sazonais reinterpretam pratos tradicionais tailandeses em várias etapas.",
+      "Há degustações de quatro ou seis etapas; a cozinha reinterpreta receitas tailandesas de verão como o khao chae com sorvete de jasmim."
     ]
   },
   "chef": {
-    "name": "Thitid 'Ton' Tassanakajohn"
+    "name": "Thitid 'Ton' Tassanakajohn",
+    "bio": "Thitid Tassanakajohn estudou e trabalhou nos Estados Unidos antes de voltar a Bangkok e desenvolver seu repertório tailandês contemporâneo."
   },
   "dishes": [
     {

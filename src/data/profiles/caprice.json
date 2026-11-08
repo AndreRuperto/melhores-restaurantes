@@ -1,16 +1,19 @@
 {
   "lede": "O Caprice, em Hong Kong, trabalha o repertório clássico francês com vista para o porto Victoria.",
   "history": [
-    "A casa fica no Four Seasons Hotel e se tornou conhecida pela combinação entre cozinha francesa e ingredientes selecionados."
+    "A casa fica no Four Seasons Hotel e se tornou conhecida pela combinação entre cozinha francesa e ingredientes selecionados.",
+    "O Caprice está localizado no Four Seasons de Hong Kong, com vista para o porto Victoria. O salão combina serviço formal e detalhes como lustres de cristal."
   ],
   "cuisine": {
     "style": "Alta cozinha francesa contemporânea",
     "paragraphs": [
-      "Molhos, frutos do mar e produtos clássicos franceses orientam os menus."
+      "Molhos, frutos do mar e produtos clássicos franceses orientam os menus.",
+      "Pratos contemporâneos adicionam ingredientes internacionais a bases da cozinha francesa; um exemplo é tártaro de wagyu e ostra com caviar."
     ]
   },
   "chef": {
-    "name": "Guillaume Galliot"
+    "name": "Guillaume Galliot",
+    "bio": "Guillaume Galliot conduz a cozinha do Caprice, unindo tradição francesa a produtos de diferentes regiões."
   },
   "awards": [
     {
@@ -22,5 +25,12 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "caprice",
-  "rank": 77
+  "rank": 77,
+  "dishes": [
+    {
+      "name": "Tártaro de wagyu e ostra",
+      "desc": "Preparação com caviar, citada na apresentação da casa.",
+      "photo": null
+    }
+  ]
 }

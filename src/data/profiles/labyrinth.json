@@ -1,16 +1,19 @@
 {
   "lede": "O Labyrinth, em Singapura, reinterpreta pratos conhecidos da cidade-estado a partir de técnicas contemporâneas.",
   "history": [
-    "Han Liguang abriu o restaurante em 2014 e migrou de uma proposta mais marcada pela gastronomia molecular para uma cozinha ligada às memórias culinárias locais."
+    "Han Liguang abriu o restaurante em 2014 e migrou de uma proposta mais marcada pela gastronomia molecular para uma cozinha ligada às memórias culinárias locais.",
+    "Han Liguang abriu o Labyrinth em 2014, inicialmente com uma abordagem muito ligada à gastronomia molecular."
   ],
   "cuisine": {
     "style": "Cozinha singapuriana contemporânea",
     "paragraphs": [
-      "Sabores familiares da culinária de Singapura são recriados com técnicas e apresentações autorais."
+      "Sabores familiares da culinária de Singapura são recriados com técnicas e apresentações autorais.",
+      "Hoje, a casa parte sobretudo dos sabores conhecidos de Singapura e combina produtos internacionais com técnicas modernas para reinterpretá-los."
     ]
   },
   "chef": {
-    "name": "Han Liguang"
+    "name": "Han Liguang",
+    "bio": "Han Liguang dirige o Labyrinth e investiga como referências culinárias singapurianas podem ser traduzidas para a alta gastronomia."
   },
   "awards": [
     {
@@ -22,5 +25,6 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "labyrinth",
-  "rank": 98
+  "rank": 98,
+  "founded": 2014
 }

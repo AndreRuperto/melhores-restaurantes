@@ -1,16 +1,19 @@
 {
   "lede": "O Kol, em Londres, revisita sabores mexicanos usando principalmente produtos sazonais britânicos.",
   "history": [
-    "Santiago Lastra concebeu o restaurante como uma ponte entre técnicas mexicanas e a despensa do Reino Unido."
+    "Santiago Lastra concebeu o restaurante como uma ponte entre técnicas mexicanas e a despensa do Reino Unido.",
+    "O Kol recria o espírito de receitas mexicanas a partir de ingredientes cultivados ou pescados no Reino Unido. A experiência inclui etapas em ambientes diferentes da casa."
   ],
   "cuisine": {
     "style": "Cozinha mexicana com ingredientes britânicos",
     "paragraphs": [
-      "Milho, tortilhas, molhos e marinadas mexicanas são adaptados aos produtos locais."
+      "Milho, tortilhas, molhos e marinadas mexicanas são adaptados aos produtos locais.",
+      "Entre os exemplos estão tacos de lagostim, tamal de truta com salsa macha e sope de beterraba cristalizada e vinagre de framboesa."
     ]
   },
   "chef": {
-    "name": "Santiago Lastra"
+    "name": "Santiago Lastra",
+    "bio": "Santiago Lastra criou o Kol para interpretar tradições mexicanas com a despensa sazonal britânica."
   },
   "dishes": [
     {
@@ -21,6 +24,11 @@
     {
       "name": "Tamal de truta com salsa macha",
       "desc": "Adaptação de uma preparação mexicana com peixe local.",
+      "photo": null
+    },
+    {
+      "name": "Sope de beterraba e vinagre de framboesa",
+      "desc": "Base de massa de milho frita coberta com ingredientes sazonais.",
       "photo": null
     }
   ],

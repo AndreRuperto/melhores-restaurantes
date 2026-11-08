@@ -1,12 +1,14 @@
 {
   "lede": "O Fauna, no Vale de Guadalupe, valoriza os ingredientes de Baja California em uma região vinícola.",
   "history": [
-    "Aberto em 2017, passou a integrar a estrutura da vinícola Bruma, que inclui horta, padaria e hospedagem."
+    "Aberto em 2017, passou a integrar a estrutura da vinícola Bruma, que inclui horta, padaria e hospedagem.",
+    "Aberto em 2017, o Fauna passou a integrar a propriedade da vinícola Bruma, que também abriga horta, padaria e hospedagem."
   ],
   "cuisine": {
     "style": "Cozinha contemporânea de Baja California",
     "paragraphs": [
-      "O menu acompanha produtos do vale, vegetais da horta e ingredientes da costa próxima."
+      "O menu acompanha produtos do vale, vegetais da horta e ingredientes da costa próxima.",
+      "O menu destaca produtos e sabores do Vale de Guadalupe, em uma proposta marcada pelo abastecimento regional."
     ]
   },
   "awards": [
@@ -19,5 +21,6 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "fauna",
-  "rank": 99
+  "rank": 99,
+  "founded": 2017
 }

@@ -1,16 +1,19 @@
 {
   "lede": "O Evvai, em São Paulo, combina técnicas italianas com ingredientes brasileiros em uma proposta autoral.",
   "history": [
-    "Luiz Filipe Souza desenvolveu uma cozinha que coloca a herança italiana em diálogo com a diversidade de produtos do Brasil."
+    "Luiz Filipe Souza desenvolveu uma cozinha que coloca a herança italiana em diálogo com a diversidade de produtos do Brasil.",
+    "Luiz Filipe Souza abriu o Evvai em 2017 no bairro dos Jardins, em São Paulo. Antes, trabalhou em cozinhas italianas como o Reale, em Castel di Sangro."
   ],
   "cuisine": {
     "style": "Cozinha ítalo-brasileira contemporânea",
     "paragraphs": [
-      "O menu degustação reúne preparações que reinterpretam tradições italianas com ingredientes nacionais."
+      "O menu degustação reúne preparações que reinterpretam tradições italianas com ingredientes nacionais.",
+      "A degustação Oriundi, em cerca de treze etapas, aborda o encontro entre cultura italiana e brasileira. O chef também desenvolve ilustrações para contextualizar os pratos."
     ]
   },
   "chef": {
-    "name": "Luiz Filipe Souza"
+    "name": "Luiz Filipe Souza",
+    "bio": "Luiz Filipe Souza criou no Evvai uma cozinha de descendência italiana ligada a ingredientes brasileiros, após experiência em restaurantes na Itália."
   },
   "awards": [
     {
@@ -19,8 +22,27 @@
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://guide.michelin.com/br/pt_BR/sao-paulo-region/sao-paulo/restaurant/evvai",
+    "https://www.evvai.com.br/book-online"
   ],
   "slug": "evvai",
-  "rank": 68
+  "rank": 68,
+  "dishes": [
+    {
+      "name": "Moqueca branca de lula e pupunha",
+      "desc": "Prato da degustação Oriundi descrito pelo Guia Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Bomba de vieira",
+      "desc": "Preparação recorrente do Evvai, renovada entre versões do menu.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.evvai.com.br",
+    "address": "Rua Joaquim Antunes 108, São Paulo, SP 05415-000, Brasil",
+    "reservation": "Reservas pelo site e contato direto com a casa; condições e horários devem ser conferidos antes da visita."
+  }
 }

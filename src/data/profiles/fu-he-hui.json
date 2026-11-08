@@ -1,16 +1,19 @@
 {
   "lede": "O Fu He Hui, em Xangai, dedica-se a menus vegetarianos que reinterpretam a tradição culinária chinesa.",
   "history": [
-    "A casa se tornou conhecida pela alta cozinha sem carne, centrada na pesquisa de vegetais, cogumelos e chás."
+    "A casa se tornou conhecida pela alta cozinha sem carne, centrada na pesquisa de vegetais, cogumelos e chás.",
+    "No bairro da antiga Concessão Francesa de Xangai, o Fu He Hui ocupa três pavimentos com salas reservadas. A casa organiza menus totalmente vegetais."
   ],
   "cuisine": {
     "style": "Alta cozinha vegetariana chinesa",
     "paragraphs": [
-      "Diferentes texturas vegetais e preparações da cozinha budista chinesa são combinadas a técnicas modernas."
+      "Diferentes texturas vegetais e preparações da cozinha budista chinesa são combinadas a técnicas modernas.",
+      "Tony Lu recorre a técnicas e conhecimentos culinários das dinastias Ming e Qing para desenvolver pratos contemporâneos com legumes, cogumelos e outros produtos de origem vegetal."
     ]
   },
   "chef": {
-    "name": "Tony Lu"
+    "name": "Tony Lu",
+    "bio": "Tony Lu é chef e fundador do Fu He Hui, onde pesquisa o repertório vegetal da tradição chinesa."
   },
   "awards": [
     {

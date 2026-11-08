@@ -1,21 +1,28 @@
 {
   "lede": "O Coda, em Berlim, transforma técnicas de confeitaria em linguagem de menu degustação.",
   "history": [
-    "René Frank desenvolveu uma proposta que rompe com a divisão tradicional entre pratos salgados e sobremesas."
+    "René Frank desenvolveu uma proposta que rompe com a divisão tradicional entre pratos salgados e sobremesas.",
+    "René Frank criou no Coda uma degustação que elimina a divisão habitual entre salgado e doce. Em 2022, foi reconhecido como World's Best Pastry Chef."
   ],
   "cuisine": {
     "style": "Cozinha experimental inspirada na confeitaria",
     "paragraphs": [
-      "Fermentações, cacau, vegetais e frutas são usados em sequências que exploram sabor e textura."
+      "Fermentações, cacau, vegetais e frutas são usados em sequências que exploram sabor e textura.",
+      "O cardápio tem cerca de quinze etapas e dispensa açúcar refinado; ingredientes naturalmente doces, como beterraba e cenoura, equilibram umami, acidez, amargor e sal."
     ]
   },
   "chef": {
-    "name": "René Frank"
+    "name": "René Frank",
+    "bio": "René Frank é o chef do Coda e desenvolve técnicas de confeitaria para ingredientes que normalmente aparecem em pratos salgados."
   },
   "awards": [
     {
       "year": 2026,
       "title": "The 50 Best Restaurants — 82º lugar no ranking mundial"
+    },
+    {
+      "year": 2022,
+      "title": "The World's Best Pastry Chef 2022"
     }
   ],
   "sources": [

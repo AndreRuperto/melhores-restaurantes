@@ -1,21 +1,29 @@
 {
   "lede": "Em Osaka, o La Cime aproxima a técnica francesa de ingredientes japoneses e de referências à memória culinária.",
   "history": [
-    "Yusuke Takada organiza sua cozinha em torno da ideia de aprender com o passado para orientar o presente."
+    "Yusuke Takada organiza sua cozinha em torno da ideia de aprender com o passado para orientar o presente.",
+    "Yusuke Takada organiza o restaurante em torno do conceito japonês keikoshoukon, que propõe aprender com o passado para atuar no presente. O espaço combina técnicas francesas e ingredientes japoneses."
   ],
   "cuisine": {
     "style": "Cozinha franco-japonesa contemporânea",
     "paragraphs": [
-      "O menu usa ingredientes sazonais do Japão, molhos e técnicas da tradição francesa."
+      "O menu usa ingredientes sazonais do Japão, molhos e técnicas da tradição francesa.",
+      "A degustação é estruturada em cerca de treze etapas, com interpretações como tempura de caranguejo com pó de bertalha e o Boudin Dog, cuja massa escura leva carvão comestível."
     ]
   },
   "chef": {
-    "name": "Yusuke Takada"
+    "name": "Yusuke Takada",
+    "bio": "Yusuke Takada é o chef do La Cime e trabalha a tradição francesa em diálogo com técnicas e produtos japoneses."
   },
   "dishes": [
     {
       "name": "Boudin Dog",
       "desc": "Criação com boudin noir envolto em massa escura de carvão vegetal comestível.",
+      "photo": null
+    },
+    {
+      "name": "Tempura de caranguejo",
+      "desc": "Preparação sazonal com pó de bertalha, mencionada pela organização.",
       "photo": null
     }
   ],

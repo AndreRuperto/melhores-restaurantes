@@ -1,16 +1,19 @@
 {
   "lede": "O Frantzén, em Estocolmo, apresenta uma refeição em diferentes ambientes da casa, combinando técnicas de várias tradições.",
   "history": [
-    "Björn Frantzén estabeleceu uma cozinha que aproxima repertórios francês, nórdico e japonês."
+    "Björn Frantzén estabeleceu uma cozinha que aproxima repertórios francês, nórdico e japonês.",
+    "A experiência gastronômica se estende por diferentes cômodos e andares; grupos de cerca de vinte e três convidados percorrem etapas da refeição em ambientes distintos."
   ],
   "cuisine": {
     "style": "Alta cozinha contemporânea nórdica, francesa e japonesa",
     "paragraphs": [
-      "O menu trabalha produtos sazonais, molhos complexos e serviço em etapas."
+      "O menu trabalha produtos sazonais, molhos complexos e serviço em etapas.",
+      "A cozinha articula técnicas nórdicas e asiáticas, com vinagres, fermentações e ingredientes sazonais em aproximadamente dez etapas."
     ]
   },
   "chef": {
-    "name": "Björn Frantzén"
+    "name": "Björn Frantzén",
+    "bio": "Björn Frantzén desenvolveu o restaurante de Estocolmo como experiência de menu degustação que cruza tradições escandinavas e asiáticas."
   },
   "awards": [
     {

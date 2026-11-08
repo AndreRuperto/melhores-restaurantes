@@ -1,21 +1,29 @@
 {
   "lede": "O Den, em Tóquio, combina tradição japonesa com humor e acolhimento.",
   "history": [
-    "Zaiyu Hasegawa desenvolveu uma versão lúdica da refeição kaiseki, sem perder o foco nos ingredientes sazonais."
+    "Zaiyu Hasegawa desenvolveu uma versão lúdica da refeição kaiseki, sem perder o foco nos ingredientes sazonais.",
+    "Zaiyu Hasegawa reinventou a formalidade do kaiseki, trazendo humor ao serviço sem abandonar a atenção aos ingredientes e às estações."
   ],
   "cuisine": {
     "style": "Kaiseki japonês contemporâneo",
     "paragraphs": [
-      "Pratos tradicionais são reinterpretados em apresentações informais e surpreendentes."
+      "Pratos tradicionais são reinterpretados em apresentações informais e surpreendentes.",
+      "Entre os clássicos estão frango recheado com cogumelos em embalagem que parodia comida rápida e sanduíches de wafer com foie gras."
     ]
   },
   "chef": {
-    "name": "Zaiyu Hasegawa"
+    "name": "Zaiyu Hasegawa",
+    "bio": "Zaiyu Hasegawa é chef e proprietário do Den, conhecido pela interpretação bem-humorada da tradição japonesa."
   },
   "dishes": [
     {
       "name": "Dentucky Fried Chicken",
       "desc": "Frango recheado com cogumelos, apresentado em uma caixa que brinca com o fast-food.",
+      "photo": null
+    },
+    {
+      "name": "Wafer com foie gras",
+      "desc": "Sanduíche doce-salgado mencionado entre os pratos clássicos da casa.",
       "photo": null
     }
   ],

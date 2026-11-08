@@ -1,16 +1,19 @@
 {
   "lede": "O Burnt Ends, em Singapura, estrutura a cozinha ao redor do forno a lenha e da grelha.",
   "history": [
-    "A casa desenvolveu uma proposta descontraída que combina defumação, cocção em fogo vivo e ingredientes selecionados."
+    "A casa desenvolveu uma proposta descontraída que combina defumação, cocção em fogo vivo e ingredientes selecionados.",
+    "O Burnt Ends utiliza um forno de cerca de quatro toneladas, com dois compartimentos, e quatro grelhas de altura ajustável para preparar os ingredientes."
   ],
   "cuisine": {
     "style": "Cozinha contemporânea na brasa",
     "paragraphs": [
-      "Carnes, peixes e vegetais são preparados com diferentes intensidades de calor."
+      "Carnes, peixes e vegetais são preparados com diferentes intensidades de calor.",
+      "Dave Pynt relaciona a filosofia da casa à aprendizagem que teve com Bittor Arguinzoniz, do Asador Etxebarri, durante sua formação."
     ]
   },
   "chef": {
-    "name": "Dave Pynt"
+    "name": "Dave Pynt",
+    "bio": "Dave Pynt conduz o Burnt Ends e construiu uma cozinha centrada no fogo, influenciada pelo período que passou no Asador Etxebarri."
   },
   "awards": [
     {

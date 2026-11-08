@@ -1,16 +1,19 @@
 {
   "lede": "O Belcanto, em Lisboa, interpreta tradições portuguesas com técnicas contemporâneas.",
   "history": [
-    "José Avillez construiu o restaurante como vitrine da cozinha portuguesa de autor, usando ingredientes locais."
+    "José Avillez construiu o restaurante como vitrine da cozinha portuguesa de autor, usando ingredientes locais.",
+    "O Belcanto ocupa um salão de dimensões contidas no centro histórico de Lisboa, com cerca de quarenta e cinco lugares."
   ],
   "cuisine": {
     "style": "Cozinha portuguesa contemporânea",
     "paragraphs": [
-      "Peixes, mariscos, vegetais e doces tradicionais aparecem em apresentações atuais."
+      "Peixes, mariscos, vegetais e doces tradicionais aparecem em apresentações atuais.",
+      "Clássicos como leitão e cozido à portuguesa convivem com criações mais experimentais, incluindo uma sobremesa inspirada em conto de fadas."
     ]
   },
   "chef": {
-    "name": "José Avillez"
+    "name": "José Avillez",
+    "bio": "José Avillez é chef e responsável pela cozinha portuguesa de autor do Belcanto."
   },
   "awards": [
     {
@@ -22,5 +25,12 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "belcanto",
-  "rank": 75
+  "rank": 75,
+  "dishes": [
+    {
+      "name": "O jardim da galinha dos ovos de ouro",
+      "desc": "Criação inspirada em uma narrativa de conto de fadas.",
+      "photo": null
+    }
+  ]
 }

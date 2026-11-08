@@ -1,16 +1,19 @@
 {
   "lede": "Em Barcelona, o Cocina Hermanos Torres organiza toda a experiência em torno de uma cozinha aberta monumental.",
   "history": [
-    "Os irmãos Sergio e Javier Torres conduzem o restaurante, aproximando clientes dos processos de preparo."
+    "Os irmãos Sergio e Javier Torres conduzem o restaurante, aproximando clientes dos processos de preparo.",
+    "Os irmãos Sergio e Javier Torres projetaram o restaurante em torno de uma cozinha aberta monumental, que também funciona como centro visual do salão."
   ],
   "cuisine": {
     "style": "Cozinha espanhola contemporânea",
     "paragraphs": [
-      "A dupla trabalha ingredientes mediterrâneos, produtos sazonais e receitas afetivas em apresentações técnicas."
+      "A dupla trabalha ingredientes mediterrâneos, produtos sazonais e receitas afetivas em apresentações técnicas.",
+      "A degustação Menú Revolución pode incluir lula curada, consommé de aves e caviar em versões contemporâneas de combinações de mar e terra."
     ]
   },
   "chef": {
-    "name": "Sergio e Javier Torres"
+    "name": "Sergio e Javier Torres",
+    "bio": "Sergio e Javier Torres administram juntos a casa de Barcelona e desenvolvem receitas espanholas em uma cozinha aberta ao salão."
   },
   "awards": [
     {
@@ -22,5 +25,12 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "cocina-hermanos-torres",
-  "rank": 69
+  "rank": 69,
+  "dishes": [
+    {
+      "name": "Lula curada e consommé de aves",
+      "desc": "Combinação descrita entre as possíveis etapas do Menú Revolución.",
+      "photo": null
+    }
+  ]
 }

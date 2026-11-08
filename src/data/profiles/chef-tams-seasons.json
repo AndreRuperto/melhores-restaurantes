@@ -1,16 +1,19 @@
 {
   "lede": "No Wynn Palace de Macau, o Chef Tam's Seasons valoriza a cozinha cantonesa por meio de ingredientes sazonais.",
   "history": [
-    "O chef Tam Kwok Fung conduz uma experiência que combina técnicas clássicas e serviço de alta gastronomia."
+    "O chef Tam Kwok Fung conduz uma experiência que combina técnicas clássicas e serviço de alta gastronomia.",
+    "Dentro do Wynn Palace, em Macau, o Chef Tam's Seasons apresenta técnicas clássicas cantonesas e um serviço organizado em torno das estações."
   ],
   "cuisine": {
     "style": "Cozinha cantonesa contemporânea",
     "paragraphs": [
-      "Frutos do mar, caldos e produtos selecionados variam conforme a estação."
+      "Frutos do mar, caldos e produtos selecionados variam conforme a estação.",
+      "A equipe considera a época dos ingredientes e o desejo dos visitantes. Na temporada de lichia, uma entrada fria pode combinar caranguejo vermelho e geleia da fruta."
     ]
   },
   "chef": {
-    "name": "Tam Kwok Fung"
+    "name": "Tam Kwok Fung",
+    "bio": "Tam Kwok Fung conduz a cozinha cantonesa do Chef Tam's Seasons e é conhecido pelo trabalho com produtos sazonais."
   },
   "dishes": [
     {

@@ -1,16 +1,19 @@
 {
   "lede": "O The Ledbury, em Londres, combina precisão técnica com produtos britânicos sazonais.",
   "history": [
-    "Brett Graham consolidou a casa em Notting Hill e desenvolveu relações próximas com criadores e produtores."
+    "Brett Graham consolidou a casa em Notting Hill e desenvolveu relações próximas com criadores e produtores.",
+    "Brett Graham dirige um salão íntimo de cerca de quarenta e cinco lugares e trabalha principalmente produtos britânicos, com ingredientes japoneses selecionados."
   ],
   "cuisine": {
     "style": "Cozinha britânica contemporânea de influência francesa",
     "paragraphs": [
-      "Carnes, vegetais e peixes recebem preparações sazonais e molhos de alta cozinha."
+      "Carnes, vegetais e peixes recebem preparações sazonais e molhos de alta cozinha.",
+      "A cozinha usa técnicas francesas clássicas para destacar carnes, vegetais e pescados sazonais, com serviço de alta precisão."
     ]
   },
   "chef": {
-    "name": "Brett Graham"
+    "name": "Brett Graham",
+    "bio": "Brett Graham é chef e responsável pelo The Ledbury, onde integra produtos britânicos e técnicas francesas."
   },
   "awards": [
     {

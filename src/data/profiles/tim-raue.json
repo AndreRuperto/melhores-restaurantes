@@ -1,16 +1,19 @@
 {
   "lede": "O Tim Raue, em Berlim, usa referências asiáticas em uma cozinha marcada por sabores intensos.",
   "history": [
-    "O chef Tim Raue desenvolveu sua linguagem a partir de encontros entre gastronomia alemã e tradições asiáticas."
+    "O chef Tim Raue desenvolveu sua linguagem a partir de encontros entre gastronomia alemã e tradições asiáticas.",
+    "Marie-Anne Wild participa da direção do restaurante, enquanto Tim Raue coordena a cozinha. A proposta aposta em sabores marcantes e apresentações originais."
   ],
   "cuisine": {
     "style": "Cozinha asiática contemporânea em Berlim",
     "paragraphs": [
-      "O restaurante oferece menus com referências à cidade, à Ásia e uma proposta vegetariana."
+      "O restaurante oferece menus com referências à cidade, à Ásia e uma proposta vegetariana.",
+      "Há três menus de degustação: um em homenagem a Berlim, outro de influências asiáticas e uma opção vegetariana/vegana."
     ]
   },
   "chef": {
-    "name": "Tim Raue"
+    "name": "Tim Raue",
+    "bio": "Tim Raue desenvolveu uma cozinha contemporânea com referências asiáticas; Marie-Anne Wild é sócia na operação do restaurante."
   },
   "awards": [
     {

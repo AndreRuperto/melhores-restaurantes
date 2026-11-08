@@ -1,16 +1,19 @@
 {
   "lede": "O Sazenka, em Tóquio, combina tradição chinesa e sensibilidades da gastronomia japonesa.",
   "history": [
-    "O restaurante trabalha uma proposta em que sabores chineses são apresentados com precisão e atenção às estações japonesas."
+    "O restaurante trabalha uma proposta em que sabores chineses são apresentados com precisão e atenção às estações japonesas.",
+    "Tomoya Kawada criou um restaurante que acompanha as pequenas mudanças de estação observadas no Japão. O serviço utiliza louças pintadas e recipientes tradicionais para destacar os ingredientes."
   ],
   "cuisine": {
     "style": "Cozinha chinesa contemporânea no Japão",
     "paragraphs": [
-      "Caldos, chás, vegetais e preparações técnicas aproximam a cozinha chinesa do formato japonês de degustação."
+      "Caldos, chás, vegetais e preparações técnicas aproximam a cozinha chinesa do formato japonês de degustação.",
+      "Um dos pratos recorrentes é Yun Bai Rou Pian, combinação de lâminas finas de porco e berinjela, com óleo de pimenta e molho de soja."
     ]
   },
   "chef": {
-    "name": "Tomoya Kawada"
+    "name": "Tomoya Kawada",
+    "bio": "Tomoya Kawada desenvolveu o Sazenka como encontro entre gastronomia chinesa e atenção japonesa à sazonalidade e à apresentação."
   },
   "awards": [
     {
@@ -22,5 +25,12 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "sazenka",
-  "rank": 56
+  "rank": 56,
+  "dishes": [
+    {
+      "name": "Yun Bai Rou Pian",
+      "desc": "Espiral de lâminas finas de porco e berinjela, com óleo de pimenta, soja temperada e togarashi.",
+      "photo": null
+    }
+  ]
 }

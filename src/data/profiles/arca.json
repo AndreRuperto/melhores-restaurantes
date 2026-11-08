@@ -1,16 +1,19 @@
 {
   "lede": "Em Tulum, o Arca explora a cozinha mexicana com foco em fogo, produtos regionais e contrastes de sabor.",
   "history": [
-    "O restaurante desenvolveu uma identidade ligada à paisagem tropical e à cozinha aberta."
+    "O restaurante desenvolveu uma identidade ligada à paisagem tropical e à cozinha aberta.",
+    "José Luis Hinostroza Buenrostro, natural de Tijuana, desenvolve uma cozinha marcada pela relação entre comida de rua mexicana e ingredientes de Yucatán."
   ],
   "cuisine": {
     "style": "Cozinha mexicana contemporânea",
     "paragraphs": [
-      "Ingredientes de Yucatán, pimentas, marinadas e técnicas na brasa compõem o menu."
+      "Ingredientes de Yucatán, pimentas, marinadas e técnicas na brasa compõem o menu.",
+      "O menu pode incluir tutano assado no fogo com salsa de pimenta serrano e tlayuda de wagyu mexicano com carnitas de rabada."
     ]
   },
   "chef": {
-    "name": "José Luis Hinostroza"
+    "name": "José Luis Hinostroza",
+    "bio": "José Luis Hinostroza Buenrostro dirige o Arca em Tulum e trabalha referências mexicanas em preparações com técnicas modernas."
   },
   "awards": [
     {
@@ -22,5 +25,17 @@
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "arca",
-  "rank": 87
+  "rank": 87,
+  "dishes": [
+    {
+      "name": "Tutano assado com salsa serrano",
+      "desc": "Servido com pão de fermentação natural grelhado e glacê de pimenta pasilla.",
+      "photo": null
+    },
+    {
+      "name": "Tlayuda de wagyu mexicano",
+      "desc": "Preparação com carne grelhada e carnitas de rabada.",
+      "photo": null
+    }
+  ]
 }

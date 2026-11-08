@@ -1,26 +1,45 @@
 {
   "lede": "No vale do Soča, na Eslovênia, o Hiša Franko interpreta ingredientes alpinos e produtos de pequenos produtores.",
   "history": [
-    "A chef Ana Roš tornou a antiga casa de campo da família um dos principais destinos gastronômicos da região."
+    "A chef Ana Roš tornou a antiga casa de campo da família um dos principais destinos gastronômicos da região.",
+    "A chef Ana Roš tornou o Hiša Franko uma referência internacional da cozinha eslovena do vale do Soča. Em 2017, recebeu o título World's Best Female Chef."
   ],
   "cuisine": {
     "style": "Cozinha eslovena contemporânea",
     "paragraphs": [
-      "O menu muda com as estações e valoriza queijos, ervas, rios, florestas e criações locais."
+      "O menu muda com as estações e valoriza queijos, ervas, rios, florestas e criações locais.",
+      "Alguns pratos se tornaram clássicos da casa, como beignet de milho com queijo fresco fermentado e batata assada sob uma crosta de feno seco."
     ]
   },
   "chef": {
-    "name": "Ana Roš"
+    "name": "Ana Roš",
+    "bio": "Ana Roš dirige o Hiša Franko e desenvolveu uma cozinha profundamente ligada aos produtores e à geografia do vale do Soča."
   },
   "awards": [
     {
       "year": 2026,
       "title": "The 50 Best Restaurants — 60º lugar no ranking mundial"
+    },
+    {
+      "year": 2017,
+      "title": "The World's Best Female Chef 2017"
     }
   ],
   "sources": [
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "hisa-franko",
-  "rank": 60
+  "rank": 60,
+  "dishes": [
+    {
+      "name": "Beignet de milho e queijo fresco fermentado",
+      "desc": "Um dos pratos emblemáticos da cozinha de Ana Roš.",
+      "photo": null
+    },
+    {
+      "name": "Batata assada sob crosta de feno",
+      "desc": "Preparação que aproxima técnica culinária e paisagem rural eslovena.",
+      "photo": null
+    }
+  ]
 }

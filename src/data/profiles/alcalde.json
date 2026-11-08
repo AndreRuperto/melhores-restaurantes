@@ -1,16 +1,19 @@
 {
   "lede": "Em Guadalajara, o Alcalde reinterpreta a tradição de Jalisco com técnicas de cozinha contemporânea.",
   "history": [
-    "Francisco Ruano consolidou uma cozinha ligada aos produtos do estado natal depois de experiências em restaurantes internacionais."
+    "Francisco Ruano consolidou uma cozinha ligada aos produtos do estado natal depois de experiências em restaurantes internacionais.",
+    "Francisco Ruano trabalhou em cozinhas europeias como El Celler de Can Roca, Mugaritz e Noma. Em Guadalajara, traduz essa formação para uma cozinha centrada em Jalisco."
   ],
   "cuisine": {
     "style": "Cozinha mexicana contemporânea de Jalisco",
     "paragraphs": [
-      "Ingredientes e preparações regionais recebem apresentação moderna, com influências técnicas europeias."
+      "Ingredientes e preparações regionais recebem apresentação moderna, com influências técnicas europeias.",
+      "O salão tem cozinha aberta, e o repertório de ingredientes de Jalisco convive com técnicas de matriz europeia."
     ]
   },
   "chef": {
-    "name": "Francisco 'Paco' Ruano"
+    "name": "Francisco 'Paco' Ruano",
+    "bio": "Francisco 'Paco' Ruano trabalha receitas e ingredientes de seu estado natal, Jalisco, influenciado por passagens por restaurantes europeus."
   },
   "awards": [
     {
