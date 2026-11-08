@@ -96,19 +96,50 @@ export default function Home() {
 
 function MapSection() {
   const [cont, setCont] = useState('')
+  const [country, setCountry] = useState('')
   const [tier, setTier] = useState('all')
-  const items = restaurants.filter((r) => (!cont || r.continent === cont) && (tier === 'all' || r.tier === tier))
+
+  // Só mostra países presentes no continente escolhido; nomes em ordem alfabética.
+  const countries = countBy(restaurants.filter((r) => !cont || r.continent === cont), 'country')
+    .sort(([a], [b]) => a.localeCompare(b, 'pt-BR'))
+  const items = restaurants.filter(
+    (r) => (!cont || r.continent === cont) && (!country || r.country === country) && (tier === 'all' || r.tier === tier),
+  )
+
+  const changeContinent = (next) => {
+    setCont(next)
+    setCountry('') // não mantém um país incompatível ao trocar de continente
+  }
+
   return (
     <section className="pt-28">
-      <Chapter id="mapa" n={1} kicker="O mapa" sub="Cada ponto é um restaurante. Passe o cursor ou toque num ponto para ver o nome, e clique para abrir a página. Use + e − ou arraste para explorar.">
+      <Chapter id="mapa" n={1} kicker="O mapa" sub="Cada ponto é um restaurante. Passe o cursor ou toque num ponto para ver o nome, e clique para abrir a página. Filtre por continente e país, use + e − ou arraste para explorar.">
         Cem mesas, <Em>{nCities} cidades</Em>
       </Chapter>
-      <div className="mb-5 flex flex-wrap items-center justify-center gap-2">
-        <button className="pill" aria-pressed={!cont} onClick={() => setCont('')}>Todos</button>
+      <div className="mb-3 flex flex-wrap items-center justify-center gap-2">
+        <button className="pill" aria-pressed={!cont && !country} onClick={() => changeContinent('')}>Todos</button>
         {CONTINENTS.map((c) => (
-          <button key={c} className="pill" aria-pressed={cont === c} onClick={() => setCont(cont === c ? '' : c)}>{c}</button>
+          <button key={c} className="pill" aria-pressed={cont === c} onClick={() => changeContinent(cont === c ? '' : c)}>{c}</button>
         ))}
+        <span className="mx-1 hidden h-6 w-px bg-rule sm:block" aria-hidden="true" />
+        <label htmlFor="map-country" className="smallcaps text-ink-2">País</label>
+        <select
+          id="map-country"
+          className={`pill max-w-full cursor-pointer bg-paper ${country ? 'border-wine text-ink' : ''}`}
+          value={country}
+          onChange={(e) => setCountry(e.target.value)}
+          aria-label="Filtrar restaurantes do mapa por país"
+        >
+          <option value="">Todos os países</option>
+          {countries.map(([name, total]) => (
+            <option key={name} value={name}>{name} ({total})</option>
+          ))}
+        </select>
       </div>
+      <p className="mb-4 text-center text-sm italic text-muted" role="status" aria-live="polite">
+        {items.length} {items.length === 1 ? 'restaurante' : 'restaurantes'} no mapa
+        {country ? ` · ${country}` : cont ? ` · ${cont}` : ''}
+      </p>
       <WorldMap items={items} />
       <div className="mt-3 flex flex-wrap items-center justify-center gap-5 text-sm italic text-ink-2">
         {[['top50', '1 a 50'], ['ext', '51 a 100']].map(([k, l]) => (

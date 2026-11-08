@@ -47,10 +47,11 @@ export default function WorldMap({ items, focus = null, className = 'aspect-[960
     [items, projection],
   )
 
-  // se o ponto escolhido saiu do filtro, some a etiqueta
+  // Se o ponto escolhido ou sob o cursor saiu do filtro, esconda a etiqueta.
   useEffect(() => {
     if (picked && !items.includes(picked.r)) setPicked(null)
-  }, [items, picked])
+    if (hover && !items.includes(hover.r)) setHover(null)
+  }, [items, picked, hover])
 
   const center = focus ? projection([focus.lng, focus.lat]) : [W / 2, H / 2]
   const tx = W / 2 - center[0] * zoom + pan.x
