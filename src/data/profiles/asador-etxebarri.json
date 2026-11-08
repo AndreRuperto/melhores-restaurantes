@@ -169,14 +169,6 @@
   },
   "gallery": [
     {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Across_the_square_to_Asador_Etxebarri_%2817910009633%29.jpg/1920px-Across_the_square_to_Asador_Etxebarri_%2817910009633%29.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Across_the_square_to_Asador_Etxebarri_(17910009633).jpg",
-      "author": "Winniepix",
-      "license": "CC BY 2.0",
-      "caption": "A casa de pedra do Asador Etxebarri, vista do outro lado da praça de Axpe, em junho de 2015.",
-      "illustrative": false
-    },
-    {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Entrance_of_Asador_Etxebarri_%2818342772348%29.jpg/1920px-Entrance_of_Asador_Etxebarri_%2818342772348%29.jpg",
       "page": "https://commons.wikimedia.org/wiki/File:Entrance_of_Asador_Etxebarri_(18342772348).jpg",
       "author": "Winniepix",
@@ -218,6 +210,15 @@
     "https://jospergrill.com/?p=40096",
     "https://www.directoalpaladar.com/actualidad-1/danes-noma-vuelve-a-ser-mejor-restaurante-mundo-50-best-asador-etxebarri-tambien-repite-tercera-posicion/amp",
     "https://www.foodswinesfromspain.com/en/food/news/2023/june/50best-2023-list",
-    "https://www.theolivepress.es/spain-news/2026/11/05/asador-etxebarri-worlds-best-restaurant/"
-  ]
+    "https://www.theolivepress.es/spain-news/2026/11/05/asador-etxebarri-worlds-best-restaurant/",
+    "https://commons.wikimedia.org/wiki/File:Across_the_square_to_Asador_Etxebarri_(17910009633).jpg"
+  ],
+  "facade": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Across_the_square_to_Asador_Etxebarri_%2817910009633%29.jpg/1920px-Across_the_square_to_Asador_Etxebarri_%2817910009633%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Across_the_square_to_Asador_Etxebarri_(17910009633).jpg",
+    "author": "Winniepix",
+    "license": "CC BY 2.0",
+    "caption": "A casa de pedra do Asador Etxebarri, vista do outro lado da praça de Axpe, em junho de 2015.",
+    "illustrative": false
+  }
 }

@@ -143,14 +143,6 @@
   },
   "gallery": [
     {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_03_Steirereck_a.jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_a.jpg",
-      "author": "Gugerell (Peter Gugerell)",
-      "license": "CC0 1.0",
-      "caption": "Vista externa do Steirereck, no Stadtpark de Viena, em junho de 2021.",
-      "illustrative": false
-    },
-    {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_03_Steirereck_b.jpg?width=960",
       "page": "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_b.jpg",
       "author": "Gugerell (Peter Gugerell)",
@@ -171,5 +163,13 @@
   "founders": [
     "Heinz Reitbauer (pai)",
     "Margarethe Reitbauer"
-  ]
+  ],
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_03_Steirereck_a.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_a.jpg",
+    "author": "Gugerell (Peter Gugerell)",
+    "license": "CC0 1.0",
+    "caption": "Vista externa do Steirereck, no Stadtpark de Viena, em junho de 2021.",
+    "illustrative": false
+  }
 }

@@ -167,5 +167,13 @@
       "caption": "Panorama do Kronplatz visto de Brunico em 2017, com neve e equipamentos de montanha. Foto da região, não do Atelier Moessmer.",
       "illustrative": true
     }
-  ]
+  ],
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Moessmer.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Villa_Moessmer.jpg",
+    "author": "Alletto",
+    "license": "CC BY-SA 3.0",
+    "caption": "A própria Villa Moessmer em Brunico, fotografada em abril de 2014, antes da adaptação e da extensão contemporânea do restaurante inaugurado em 2023.",
+    "illustrative": false
+  }
 }

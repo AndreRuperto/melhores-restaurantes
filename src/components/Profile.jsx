@@ -9,6 +9,13 @@ const host = (url) => {
   try { return new URL(url).hostname.replace(/^www\./, '') } catch { return url }
 }
 
+const licenseUrl = (name) => {
+  if (!name) return null
+  if (name.startsWith('CC0')) return 'https://creativecommons.org/publicdomain/zero/1.0/'
+  const match = name.match(/^CC (BY(?:-SA)?) (\d\.\d)$/)
+  return match ? `https://creativecommons.org/licenses/${match[1].toLowerCase()}/${match[2]}/` : null
+}
+
 // quando a legenda não aparece (cards de prato), o crédito avisa que a imagem é ilustrativa
 export function Credit({ photo, className = '', flag = false }) {
   if (!photo) return null
@@ -19,7 +26,9 @@ export function Credit({ photo, className = '', flag = false }) {
       <a href={photo.page} target="_blank" rel="noreferrer" className="link-u hover:text-ink-2">
         {photo.author || 'autor desconhecido'}
       </a>
-      {photo.license && <> · {photo.license}</>}
+      {photo.license && <> · {licenseUrl(photo.license) ? (
+        <a href={licenseUrl(photo.license)} target="_blank" rel="noreferrer" className="link-u hover:text-ink-2">{photo.license}</a>
+      ) : photo.license}</>}
     </span>
   )
 }
@@ -161,6 +170,21 @@ export function Gallery({ p }) {
         {photos.map((g, i) => (
           <Photo key={g.src} photo={g} ratio={photos.length % 2 && i === 0 ? 'aspect-[16/9]' : 'aspect-[4/3]'} className={photos.length % 2 && i === 0 ? 'sm:col-span-2' : ''} />
         ))}
+      </div>
+    </section>
+  )
+}
+
+// Foto de fachada opcional: apenas quando o arquivo tem atribuição e licença verificadas.
+// Se a mesma foto já é a capa, não a repetimos; a capa recebe uma identificação própria.
+export function Facade({ p }) {
+  const image = p.facade
+  if (!image?.src || image.src === p.hero?.src) return null
+  return (
+    <section className="pt-20" id="fachada">
+      <Kicker kicker="O lugar" title="A fachada" center />
+      <div className="mx-auto mt-9 max-w-3xl">
+        <Photo photo={image} ratio="aspect-[4/3] sm:aspect-[16/10]" />
       </div>
     </section>
   )

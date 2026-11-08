@@ -219,14 +219,6 @@
       "illustrative": false
     },
     {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Unteres_Schloss_F%C3%BCrstenau_Front.jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Unteres_Schloss_F%C3%BCrstenau_Front.jpg",
-      "author": "Adrian Michael",
-      "license": "CC BY-SA 1.0",
-      "caption": "Fachada do Schloss Schauenstein vista de frente, em abril de 2011.",
-      "illustrative": false
-    },
-    {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SchlossSchauenstein.JPG?width=960",
       "page": "https://commons.wikimedia.org/wiki/File:SchlossSchauenstein.JPG",
       "author": "Peter Berger",
@@ -234,5 +226,13 @@
       "caption": "Fotografia histórica do próprio castelo, feita em agosto de 2005, dois anos após a abertura do restaurante.",
       "illustrative": false
     }
-  ]
+  ],
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Unteres_Schloss_F%C3%BCrstenau_Front.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Unteres_Schloss_F%C3%BCrstenau_Front.jpg",
+    "author": "Adrian Michael",
+    "license": "CC BY-SA 1.0",
+    "caption": "Fachada do Schloss Schauenstein vista de frente, em abril de 2011.",
+    "illustrative": false
+  }
 }

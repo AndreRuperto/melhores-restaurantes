@@ -174,5 +174,13 @@
       "caption": "Outra vista do lago Gentofte Sø em julho de 2010. Fotografia contextual, não do restaurante.",
       "illustrative": true
     }
-  ]
+  ],
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentofte_Hotel.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Gentofte_Hotel.jpg",
+    "author": "PaigePhault",
+    "license": "CC0 1.0",
+    "caption": "Fotografia real do Gentofte Hotel, edifício que abriga o Jordnær, em junho de 2025. A imagem mostra o hotel, não o salão do restaurante.",
+    "illustrative": false
+  }
 }
