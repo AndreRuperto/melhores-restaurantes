@@ -1,51 +1,153 @@
 {
-  "lede": "Situado em um jardim botânico de Hangzhou, o Ru Yuan revisita receitas clássicas da cozinha regional hangbang.",
+  "lede": "Em um edifício discreto de três andares, cercado pelas árvores do Jardim Botânico de Hangzhou, o Ru Yuan recupera o repertório da cozinha hangbang: peixe do Lago Oeste ao vinagre, camarões com chá Longjing e uma torre de barriga de porco delicadamente fatiada. À frente da casa, Fu Yueliang fez da preservação das técnicas de Zhejiang um projeto contemporâneo, premiado com duas estrelas Michelin e a 36ª posição mundial em 2026.",
   "history": [
-    "O chef Fu Yueliang tem décadas de experiência com a tradição gastronômica de Hangzhou. A casa procura preservar preparações históricas e apresentá-las para o público atual.",
-    "O chef Fu Yueliang dedica mais de quatro décadas à tradição culinária de Hangzhou. A casa fica junto ao Jardim Botânico da cidade, em um edifício atual que faz referência à arquitetura histórica da dinastia Song do Sul."
+    "A culinária de Hangzhou está ligada ao Lago Oeste, ao Grande Canal e ao período em que a cidade foi capital da dinastia Song do Sul. Fu Yueliang, nascido na região, passou mais de três décadas pesquisando esse repertório. Quando criou o Ru Yuan no início da década de 2020, a proposta não era transformar os pratos históricos em uma cozinha de fusão, mas recuperar seus métodos com precisão e apresentá-los a públicos locais e internacionais.",
+    "A casa fica na área do Jardim Botânico de Hangzhou, na rua Yuquan, e ocupa um prédio contemporâneo de três andares em meio à vegetação. A arquitetura de madeira, as janelas voltadas para árvores e a decoração de poucos elementos remetem à serenidade de pavilhões clássicos da região. O térreo abriga a área principal de refeições, enquanto os pisos superiores reúnem salas reservadas; a intimidade da experiência é parte do projeto.",
+    "O chef estudou a tradição com Dong Shunxiang, mestre da culinária de Zhejiang, e trabalhou no restaurante Hubin 28 do Hyatt de Hangzhou. Numa entrevista ao jornal Hangzhou Daily em abril de 2026, contou que começou a profissão em 1992 e que passou um período de aprendizado numa cozinha de Shanghai para observar outras formas de organização de equipe. De volta à cozinha regional, adotou a ideia de aperfeiçoar receitas chinesas com técnicas chinesas, em vez de reproduzir modelos estrangeiros.",
+    "O reconhecimento se acelerou em 2025, quando o Ru Yuan se tornou o primeiro restaurante de Hangzhou a receber duas estrelas Michelin. Em janeiro de 2026 veio a classificação de dois diamantes do guia chinês Black Pearl. Em março, a casa entrou diretamente na 10ª posição da lista Asia's 50 Best Restaurants, conquistando o Highest New Entry Award. Em novembro de 2026, alcançou o 36º lugar no ranking mundial, a primeira entrada de um restaurante de Hangzhou entre os 50 primeiros."
   ],
   "cuisine": {
-    "style": "Cozinha tradicional de Hangzhou refinada",
+    "style": "Cozinha hangbang de Zhejiang, preservação de receitas e técnica refinada",
     "paragraphs": [
-      "Peixes dos rios da região, camarões, chá Longjing e vegetais de Zhejiang aparecem em receitas baseadas na herança culinária local.",
-      "O repertório regional inclui peixe do Lago Oeste ao vinagre, camarão de rio com folhas de chá Longjing e o porco braseado dobrado em uma torre de lâminas finas."
+      "A filosofia de Fu Yueliang é de restauração mais do que de ruptura. Ingredientes de Zhejiang, como peixes de água doce, camarões de rio, folhas de chá Longjing, porco de Jinhua e raízes de lótus, aparecem em preparações tradicionais revisitadas com atenção ao corte, aos aromas e ao tempo de cozimento. O objetivo declarado é recuperar formas de preparo que se simplificaram ao longo das décadas, sem perder o sabor característico de Hangzhou.",
+      "A barriga de porco 'Medalha de Ouro' é um exemplo dessa ideia. Uma longa lâmina fina de carne e gordura é dobrada como uma pequena pagoda, criando um contraste visual e de texturas. Outra receita importante é o peixe do Lago Oeste ao vinagre: segundo uma reportagem local publicada em novembro de 2026, a equipe já havia aperfeiçoado a preparação em 76 versões. O Guia Michelin também destaca os camarões de rio trabalhados com folhas de chá Longjing e a sutileza de seus molhos.",
+      "O repertório inclui ainda bolinhos de peixe em caldo leve, os delicados dumplings de quatro felicidades e uma interpretação de raiz de lótus recheada de arroz glutinoso. O restaurante trabalha tanto porções à la carte quanto refeições em ambientes reservados, segundo os guias consultados. As preparações listadas são exemplos documentados da casa e podem variar com a estação e o cardápio."
     ]
   },
   "chef": {
-    "name": "Fu Yueliang",
-    "bio": "Natural de Hangzhou, Fu Yueliang é conhecido por preservar e refinar receitas tradicionais da cozinha hangbang, sem descaracterizá-las."
+    "name": "Fu Yueliang (傅月良)",
+    "bio": "Natural de Hangzhou, Fu Yueliang começou a trabalhar em cozinhas profissionais em 1992 e se formou na tradição do mestre Dong Shunxiang, por sua vez discípulo de Hu Zhongying, referência da culinária hangbang. Atuou no restaurante Hubin 28, ligado ao Hyatt de Hangzhou, onde ajudou a projetar a cozinha regional para visitantes chineses e estrangeiros. Depois de estudar o funcionamento de uma cozinha de alto padrão em Shanghai, passou a valorizar mais a coordenação de equipe e a precisão dos métodos. No Ru Yuan, busca proteger as técnicas de Zhejiang e fazê-las dialogar com o presente, recuperando preparos que considera excessivamente simplificados. Em 2026, viu a casa chegar ao 10º lugar da lista asiática e ao 36º lugar mundial."
   },
   "dishes": [
     {
-      "name": "Porco braseado Medalha de Ouro",
-      "desc": "Banha e carne de porco em lâminas finas dobradas em formato de torre.",
+      "name": "Gold Medal Braised Pork — barriga de porco em forma de pagoda",
+      "desc": "Barriga de porco de Jinhua cortada em uma fita muito fina e dobrada como torre. O prato retoma uma receita clássica, com guarnições sazonais e acidez para equilibrar a gordura; está entre as assinaturas destacadas pelo The 50 Best e Michelin.",
       "photo": null
     },
     {
-      "name": "Camarões de rio com chá Longjing",
-      "desc": "Prato associado à cozinha clássica de Hangzhou.",
+      "name": "Peixe do Lago Oeste ao vinagre (Xihu cuyu)",
+      "desc": "Peixe de água doce preparado com molho equilibrado entre acidez e doçura. Segundo reportagem do Hangzhou Daily de novembro de 2026, a receita da casa havia sido reformulada 76 vezes para refinar textura e sabor.",
       "photo": null
     },
     {
-      "name": "Peixe do Lago Oeste ao vinagre",
-      "desc": "Prato tradicional da gastronomia de Hangzhou, preparado com técnica cuidadosa.",
+      "name": "Camarões de rio com chá Longjing (Longjing xiaren)",
+      "desc": "Camarões descascados à mão preparados com óleo extraído das cascas e acompanhados de preparações aromatizadas com o chá verde Longjing, produto tradicional de Hangzhou.",
+      "photo": null
+    },
+    {
+      "name": "Bolinhos de peixe em caldo de cozimento duplo",
+      "desc": "Bolinhos delicados de peixe servidos num caldo límpido e concentrado. O The 50 Best descreve uma textura de aparência leve, quase como neve.",
+      "photo": null
+    },
+    {
+      "name": "Dumplings das quatro felicidades (Si Xi Jiao)",
+      "desc": "Pequenos dumplings de quatro compartimentos, associados a votos de sorte, prosperidade, longevidade e felicidade. O Ru Yuan recupera uma apresentação complexa pouco encontrada nos menus atuais.",
+      "photo": null
+    },
+    {
+      "name": "Raiz de lótus com arroz glutinoso e osmanthus",
+      "desc": "Releitura de uma sobremesa típica de Hangzhou, alternando pedaços de lótus crocantes e recheados, arroz doce e aroma de flor de osmanthus.",
+      "photo": null
+    },
+    {
+      "name": "Sopa de ervilhas verdes com bolinho de arroz",
+      "desc": "Preparação ilustrada no acervo gastronômico do The 50 Best Discovery: caldo verde de ervilhas com bolinho de arroz no centro, finalizado com um elemento crocante.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2025,
+      "title": "Guia Michelin: Ru Yuan torna-se o primeiro restaurante de Hangzhou a receber duas estrelas"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 36º lugar no ranking mundial"
+      "title": "Guia Michelin Shanghai, Jiangsu e Zhejiang: manutenção de duas estrelas"
+    },
+    {
+      "year": 2026,
+      "title": "Black Pearl Restaurant Guide: classificação de dois diamantes"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants: estreia em 10º lugar"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants: Highest New Entry Award"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 36º lugar mundial, primeira casa de Hangzhou no top 50"
     }
   ],
   "practical": {
-    "address": "11 Yuquan Road, Xihu, Hangzhou, China"
+    "address": "11 Yuquan Road (玉泉路11号), distrito de Xihu, área do Jardim Botânico de Hangzhou, Zhejiang, China",
+    "price": "O Guia Michelin classifica o Ru Yuan na faixa de preço ¥¥¥, sem divulgar valores de cardápio. A plataforma Ctrip/Trip.com informa gasto médio relatado por visitantes de aproximadamente CNY 718 por pessoa (consulta em 08/11/2026); trata-se de uma média de avaliações, NÃO de menu ou preço oficial garantido.",
+    "reservation": "O Guia Michelin informa que o próprio restaurante administra as reservas: telefone +86 571 8707 9088 (dentro da China: 0571 8707 9088). O guia de viagens SilverKris relata abertura de agenda no dia 1º de cada mês; confirme a janela e a disponibilidade diretamente com a equipe. O Ctrip indica almoço das 11h30 às 14h e jantar das 17h30 às 21h, sujeitos a alterações. Não foi verificado um link público de reserva direta; não considere as páginas de avaliação como confirmação de mesa."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/ru-yuan.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Ru-Yuan.html",
+    "https://www.the50.com/discovery/Establishments/China/Hangzhou/Ru-Yuan.html",
+    "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ru-yuan",
+    "https://www.michelin.com.cn/news/2026/0409.html",
+    "https://zjnews.zjol.com.cn/zjnews/202611/t20261106_32010982.shtml?mode=m2pc",
+    "https://mdaily.hangzhou.com.cn/hzrb/2026/04/07/article_detail_1_20260407A061.html",
+    "https://jrsh.hangzhou.com.cn/content/2026-01/29/content_9170576.html",
+    "https://www.ehangzhou.gov.cn/2026-03/27/c_297119.htm",
+    "https://www.micselect.com/cn/restaurants/ruyuan",
+    "https://silverkris.singaporeair.com/guide/china/hgh/eat-hangzhou/ru-yuan/",
+    "https://gs.ctrip.com/html5/you/foods/fooddetail/14/144301678.html",
+    "https://thebestchefawards.com/chefs/fu-yue/",
+    "https://commons.wikimedia.org/wiki/File:20241105_Hangzhou_Zhiwuyuan.jpg",
+    "https://commons.wikimedia.org/wiki/File:Plum_blossoms_near_the_entrance_of_the_Hangzhou_botanical_Garden.jpg",
+    "https://commons.wikimedia.org/wiki/File:Longjing_tea_village_Hangzhou.jpg",
+    "https://commons.wikimedia.org/wiki/File:Longjing_tea.jpg",
+    "https://commons.wikimedia.org/wiki/File:WestLake_-_Hangzhou.jpg"
   ],
   "slug": "ru-yuan",
-  "rank": 36
+  "rank": 36,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20241105_Hangzhou_Zhiwuyuan.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:20241105_Hangzhou_Zhiwuyuan.jpg",
+    "author": "Yumeto",
+    "license": "CC BY-SA 4.0",
+    "caption": "Imagem contextual: Jardim Botânico de Hangzhou, onde fica o Ru Yuan, fotografado em novembro de 2024. NÃO é fotografia do restaurante.",
+    "illustrative": true
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plum_blossoms_near_the_entrance_of_the_Hangzhou_botanical_Garden.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Plum_blossoms_near_the_entrance_of_the_Hangzhou_botanical_Garden.jpg",
+      "author": "CatOnMars",
+      "license": "CC BY-SA 4.0",
+      "caption": "Flores de ameixeira no Jardim Botânico de Hangzhou, em fevereiro de 2023. Imagem do entorno, não do interior do restaurante.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Longjing_tea_village_Hangzhou.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Longjing_tea_village_Hangzhou.jpg",
+      "author": "Niklas Dougherty",
+      "license": "CC BY-SA 4.0",
+      "caption": "Paisagem de cultivo de chá Longjing em Hangzhou, fotografada em 2017. Imagem da origem de um ingrediente regional; não mostra o Ru Yuan.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Longjing_tea.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Longjing_tea.jpg",
+      "author": "Difference engine",
+      "license": "CC BY-SA 4.0",
+      "caption": "Folhas de chá verde Longjing, fotografadas em 2017. Imagem do ingrediente tradicional, não de um prato preparado no Ru Yuan.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/WestLake_-_Hangzhou.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:WestLake_-_Hangzhou.jpg",
+      "author": "Vanvelthem Cédric",
+      "license": "CC BY-SA 4.0",
+      "caption": "Vegetação às margens do Lago Oeste, em Hangzhou, em 2014. Referência à paisagem da cozinha regional, não à sede do restaurante.",
+      "illustrative": true
+    }
+  ]
 }
