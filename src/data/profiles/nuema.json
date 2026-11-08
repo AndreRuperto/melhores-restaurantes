@@ -1,52 +1,184 @@
 {
-  "lede": "Em Quito, o Nuema pesquisa ingredientes do Equador, do litoral ao território andino e à Amazônia.",
+  "lede": "Em Quito, Alejandro Chamorro e Pía Salazar transformaram a biodiversidade do Equador em um menu degustação que cruza os Andes, a costa do Pacífico, a Amazônia e as Galápagos. Fundado em 2014, o Nuema apresenta uma cozinha de ingredientes nativos e sobremesas que desafiam a fronteira entre doce e salgado; em 2026, tornou-se o primeiro restaurante equatoriano entre os 50 melhores do mundo, na 37ª posição.",
   "history": [
-    "O restaurante foi fundado em 2014 e é conduzido pela dupla Alejandro Chamorro e Pía Salazar, que trabalha com pequenos produtores e ingredientes nativos.",
-    "Fundado em 2014, o Nuema parte da diversidade do Equador: paisagens andinas, florestas amazônicas, costa do Pacífico e ilhas. O casal de chefs trabalha com pequenos agricultores e pescadores."
+    "O Nuema nasceu em Quito em 2014, quando os chefs Alejandro Chamorro e Pía Salazar decidiram criar uma casa própria para mostrar a diversidade alimentar do Equador. Os dois se conheceram trabalhando no Astrid y Gastón de Quito. Segundo Salazar, a decisão tomou forma quando encontrou um imóvel disponível para alugar; a ideia inicial era abrir um bistrô, mas evoluiu para um menu degustação determinado pelos produtos que pequenos fornecedores poderiam entregar.",
+    "O nome Nuema é formado pela combinação dos nomes dos três filhos dos chefs: Nuria, Emilio e Martín. O projeto passou a explorar ingredientes pouco conhecidos fora do país, com relações diretas com agricultores, pescadores e coletores das quatro grandes regiões equatorianas. A dupla defende duas prioridades — preservação cultural e sustentabilidade — e adapta as receitas à sazonalidade, em vez de seguir uma carta imutável.",
+    "A cozinha de Chamorro e a confeitaria de Salazar desenvolveram identidades complementares. Ele pesquisa formas geométricas e a apresentação dos ingredientes; ela começou com sobremesas feitas de rabanete e nabo, depois criou preparações com ervilhas, camomila, moringa, frutas nativas e ervas. Salazar recebeu o prêmio latino-americano de melhor chef de confeitaria em 2022 e o mundial em 2023, ajudando a tornar o restaurante conhecido internacionalmente.",
+    "O Nuema entrou na lista Latin America's 50 Best Restaurants em 2020, na 48ª posição; em 2022 subiu para 24º e em 2023 e 2024 alcançou o 11º lugar. Em 2025 chegou ao 10º posto latino-americano e recebeu novamente o reconhecimento de melhor restaurante do Equador. Na lista mundial ficou em 61º em 2024 e 2025; em 4 de novembro de 2026 avançou para 37º, tornando-se o primeiro restaurante equatoriano a entrar no top 50 global. Em 2025, Chamorro recebeu também o Chefs' Choice Award latino-americano."
   ],
   "cuisine": {
-    "style": "Cozinha equatoriana contemporânea",
+    "style": "Cozinha equatoriana contemporânea, biodiversidade nativa e confeitaria vegetal",
     "paragraphs": [
-      "A proposta aproxima técnicas atuais da biodiversidade e das tradições agrícolas do país, incluindo doces que usam vegetais e ervas.",
-      "A confeitaria de Pía Salazar utiliza vegetais, como rabanetes, nabos e alho-poró, em propostas que rompem a separação tradicional entre prato e sobremesa."
+      "O menu degustação reúne produtos dos Andes, da Amazônia, da costa do Pacífico e das Galápagos. Entre os ingredientes citados por fontes da casa e do The 50 Best estão a mashua, tubérculo andino; a nepia, pasta fermentada de mandioca e pimenta; camarões de rio de Manabí; sacha inchi, oleaginosa amazônica; variedades de cacau e u'kuisi, fruta amazônica de pigmentação intensa. A equipe procura preservar saberes agrícolas, usar produtos sazonais e dar protagonismo aos fornecedores.",
+      "Na cozinha salgada de Alejandro Chamorro, os pratos exploram contrastes de textura, acidez e cor, com montagens geométricas. Preparações documentadas incluem ceviche de atum com sacha inchi, medula com lentilhas e um doce salgado de concha negra, além de uma apresentação de atum com pequenas pétalas de oxalis. São exemplos de temporadas anteriores — as combinações servidas numa visita podem ser diferentes.",
+      "A confeitaria de Pía Salazar usa raízes, verduras e ervas como elementos centrais, não apenas como guarnições. Uma sobremesa de ervilhas, camomila e moringa foi inspirada na sopa de ervilhas que a avó preparava; outra trabalha wafers, arroz-doce e nougat com ervilhas salgadas e desidratadas, sorvete de mel e maçã. O serviço normalmente percorre cerca de doze etapas, segundo The 50 Best Discovery, em um salão de cozinha aberta e decoração contemporânea discreta."
     ]
   },
   "chef": {
     "name": "Alejandro Chamorro e Pía Salazar",
-    "bio": "Alejandro Chamorro chefia a cozinha salgada em parceria com Pía Salazar, responsável pela confeitaria e vencedora do World's Best Pastry Chef Award de 2023."
+    "bio": "Alejandro Chamorro estudou gastronomia e trabalhou no Astrid y Gastón, no Peru, além de passar pelo Noma, na Dinamarca — uma experiência que o The 50 Best apresenta como pioneira entre chefs equatorianos. De volta a Quito, criou com a chef Pía Salazar o Nuema, em 2014, para valorizar a biodiversidade do país. Em 2025, recebeu o Chefs' Choice Award da lista latino-americana, concedido por colegas de profissão. Pía Salazar nasceu em Cuenca e estudou culinária no Equador e no México; trabalhou na unidade do Astrid y Gastón em Quito e desenvolveu uma confeitaria de ingredientes locais, muitas vezes vegetais. Foi eleita Latin America's Best Pastry Chef em 2022 e The World's Best Pastry Chef em 2023 pelo The 50 Best; em 2025 recebeu o Best Pastry Award do The Best Chef Awards. A dupla foi reconhecida com três facas no The Best Chef Awards 2025."
   },
   "dishes": [
     {
       "name": "Ceviche de atum com sacha inchi",
-      "desc": "Criação mencionada entre os pratos de diferentes temporadas.",
+      "desc": "Ceviche de atum combinado com a semente amazônica sacha inchi, também conhecida como amendoim inca. Registrado pelo The 50 Best entre os pratos de temporadas anteriores.",
       "photo": null
     },
     {
-      "name": "Medula com lentilhas e doce salgado de concha negra",
-      "desc": "Combinação de ingredientes equatorianos citada no menu da casa.",
+      "name": "Medula, lentilhas e doce salgado de concha negra",
+      "desc": "Prato salgado que reúne medula óssea e lentilhas com uma preparação agridoce de conchas negras. Descrito no perfil oficial do ranking de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Atum com pétalas de oxalis",
+      "desc": "Composição de atum com folhas e pétalas de oxalis organizadas em desenho geométrico. O The 50 Best Discovery destaca essa apresentação como exemplo da identidade visual da casa.",
+      "photo": null
+    },
+    {
+      "name": "Ervilhas, camomila e moringa",
+      "desc": "Sobremesa de Pía Salazar inspirada numa sopa de ervilhas da infância, com doçura natural das ervilhas e aromas de camomila e moringa. Documentada em entrevista publicada pelo The 50 Best em 2023.",
+      "photo": null
+    },
+    {
+      "name": "Wafers, arroz-doce, nougat e ervilhas crocantes",
+      "desc": "Sobremesa de arroz-doce e nougat com ervilhas salgadas, desidratadas e crocantes, sorvete de mel e maçã, descrita no perfil latino-americano oficial de 2025.",
+      "photo": null
+    },
+    {
+      "name": "Rabanete e nabo em sobremesa",
+      "desc": "Criação inicial de Pía Salazar, que ajudou a definir sua proposta de confeitaria vegetal. É um prato histórico citado pela chef, não necessariamente disponível no menu atual.",
+      "photo": null
+    },
+    {
+      "name": "Morangos, horchata de ervas e flores",
+      "desc": "Combinação de frutas e infusão floral regional descrita pelo The 50 Best Discovery como exemplo do repertório de sobremesas da casa.",
       "photo": null
     }
   ],
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 37º lugar no ranking mundial"
+      "year": 2020,
+      "title": "Latin America's 50 Best Restaurants: estreia em 48º lugar, primeiro restaurante equatoriano no ranking"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants: 24º lugar"
+    },
+    {
+      "year": 2022,
+      "title": "Pía Salazar: Latin America's Best Pastry Chef, prêmio do The 50 Best"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants: 11º lugar e melhor restaurante do Equador"
+    },
+    {
+      "year": 2023,
+      "title": "Pía Salazar: The World's Best Pastry Chef, prêmio mundial do The 50 Best"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: estreia na lista ampliada, em 76º lugar, segundo retrospectiva oficial do The 50 Best"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants: 11º lugar e melhor restaurante do Equador"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: 61º lugar na lista ampliada"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants: 10º lugar, melhor restaurante do Equador"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 61º lugar na lista ampliada"
+    },
+    {
+      "year": 2025,
+      "title": "Alejandro Chamorro: Chefs' Choice Award do Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "Pía Salazar: Best Pastry Award no The Best Chef Awards"
+    },
+    {
+      "year": 2025,
+      "title": "Alejandro Chamorro e Pía Salazar: três facas no The Best Chef Awards"
     },
     {
       "year": 2026,
-      "title": "Pía Salazar eleita World's Best Pastry Chef em 2023"
+      "title": "The 50 Best Restaurants: 37º lugar, primeira entrada equatoriana no top 50 mundial"
     }
   ],
   "practical": {
-    "website": "https://nuema.ec",
-    "address": "Bello Horizonte E11-12, Quito, Equador"
+    "website": "https://nuema.ec/",
+    "address": "Bello Horizonte E11-12 y Coruña, Quito 170517, Equador",
+    "price": "O The 50 Best Discovery informa menu degustação a partir de US$ 85 por pessoa; trata-se de uma referência publicada pelo guia, não de tabela oficial atualizada para novembro de 2026. Outro serviço de recomendações indica cerca de US$ 50–100 por pessoa. Preço exato, número de etapas e eventuais taxas devem ser confirmados diretamente com o Nuema.",
+    "reservation": "Reservas pela seção 'Reservaciones' do site oficial, que incorpora uma plataforma externa de agendamento, ou por contato com a equipe: +593 99 250 9160, +593 99 850 2726 e reservas@nuema.ec. O The 50 Best Discovery indica almoço e jantar de terça a sábado. A disponibilidade e eventuais condições de cancelamento não puderam ser verificadas; confirme com o restaurante antes de visitar.",
+    "reservationUrl": "https://nuema.ec/reservas.html"
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/nuema.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-latin-america/the-list/nuema.html",
+    "https://www.the50.com/discovery/Establishments/Ecuador/Quito/Nuema.html",
+    "https://www.the50.com/stories/News/latin-americas-50-best-restaurants-2024-list-revealed.html",
+    "https://www.the50.com/stories/News/latin-americas-50-best-restaurants-2023-the-list-in-pictures.html",
+    "https://www.the50.com/stories/News/latin-americas-50-best-restaurants-2025-alejandro-chamorro-chefs-choice.html",
+    "https://www.the50.com/stories/News/pia-salazar-nuema-ecuador-worlds-best-pastry-chef.html",
+    "https://www.the50.com/stories/News/latin-america-best-pastry-chef-2022-pia-salazar.html",
+    "https://thebestchefawards.com/chefs/alejandro-chamorro-pia-salazar/",
+    "https://nuema.ec/",
+    "https://nuema.ec/reservas.html",
+    "https://nuema.ec/contacto.html",
+    "https://nuema.ec/menudegustacion.html",
+    "https://www.vistazo.com/negocios/empresas/2026-11-05-nuema-convierte-primer-restaurante-ecuatoriano-lista-50-mejores-mundo-KD11304608",
+    "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Cima_de_La_Libertad,_Ecuador_Andes_Mountains,_Quito.jpg",
+    "https://commons.wikimedia.org/wiki/File:Centro_Historico_Quito_Ecuador_1506.jpg",
+    "https://commons.wikimedia.org/wiki/File:Cocoa_Pod%C2%B4s_in_Ecuador_South_America.jpg",
+    "https://commons.wikimedia.org/wiki/File:Andes_Quito_Ecuador_1489.jpg"
   ],
   "slug": "nuema",
   "rank": 37,
-  "founded": 2014
+  "founded": 2014,
+  "founders": [
+    "Alejandro Chamorro",
+    "Pía Salazar"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Panoramic_view_of_Cima_de_La_Libertad%2C_Ecuador_Andes_Mountains%2C_Quito.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Cima_de_La_Libertad,_Ecuador_Andes_Mountains,_Quito.jpg",
+    "author": "David Adam Kess",
+    "license": "CC BY-SA 4.0",
+    "caption": "Imagem contextual: vista panorâmica da região andina de Quito, em 2019. NÃO mostra o restaurante Nuema.",
+    "illustrative": true
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Centro_Historico_Quito_Ecuador_1506.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Centro_Historico_Quito_Ecuador_1506.jpg",
+      "author": "Arabsalam",
+      "license": "CC BY-SA 4.0",
+      "caption": "Centro Histórico de Quito, fotografado em 2022. Foto da cidade, não do salão do Nuema.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cocoa_Pod%C2%B4s_in_Ecuador_South_America.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Cocoa_Pod%C2%B4s_in_Ecuador_South_America.jpg",
+      "author": "David Adam Kess",
+      "license": "CC BY-SA 4.0",
+      "caption": "Fruto de cacau fotografado no Equador em 2019, ilustrando a biodiversidade local. NÃO é fotografia de um prato servido no Nuema.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Andes_Quito_Ecuador_1489.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Andes_Quito_Ecuador_1489.jpg",
+      "author": "Arabsalam",
+      "license": "CC BY-SA 4.0",
+      "caption": "Paisagem dos Andes na região de Quito. Imagem contextual das origens geográficas de ingredientes equatorianos.",
+      "illustrative": true
+    }
+  ]
 }
