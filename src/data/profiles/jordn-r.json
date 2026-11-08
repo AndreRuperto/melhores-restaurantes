@@ -1,57 +1,178 @@
 {
-  "lede": "Acima do Hotel Gentofte, na região de Copenhague, o Jordnær serve uma cozinha centrada em frutos do mar e hospitalidade informal.",
+  "lede": "No Gentofte Hotel, ao norte de Copenhague, Eric e Tina Kragh Vildgaard criaram um restaurante de alta gastronomia onde a hospitalidade acolhedora se une à precisão técnica. Aberto em 2017, o Jordnær — nome que remete a ter os pés no chão — especializou-se em peixes, frutos do mar e vegetais, conquistou três estrelas Michelin em 2024 e alcançou o 40º lugar mundial em 2026.",
   "history": [
-    "O restaurante é conduzido por Eric Vildgaard na cozinha e Tina Vildgaard no acolhimento dos clientes. O nome sugere algo próximo de 'pé no chão'.",
-    "O Jordnær funciona sobre o saguão do Gentofte Hotel. Eric Vildgaard dirige a cozinha e Tina Vildgaard coordena o acolhimento, marcando a experiência com um serviço próximo e sem formalidade excessiva."
+    "Tina e Eric Kragh Vildgaard abriram o Jordnær em 2017, dentro do histórico Gentofte Hotel, na localidade de Gentofte, perto de Copenhague. O espaço foi renovado para receber uma experiência gastronômica própria, e o casal começou o projeto sem apoio financeiro de grandes investidores. A palavra Jordnær significa aproximadamente 'pé no chão', expressão escolhida para representar uma refeição refinada sem formalidades exageradas.",
+    "Antes do restaurante, Eric trabalhou durante cerca de três anos no Noma com René Redzepi e participou da cozinha do Almanak, em Copenhague. Conheceu Tina no Fredensborg Store Kro, onde ela atuava na gestão. Os dois decidiram criar uma casa que valorizasse tanto a equipe de cozinha quanto o contato com os convidados. Eric ficou responsável pelos pratos e Tina assumiu a recepção e a experiência do salão, reconhecida pelo atendimento próximo e atento.",
+    "Em 2018, apenas dez meses após a abertura, o Jordnær recebeu a primeira estrela Michelin. A segunda veio em fevereiro de 2020, quando Tina também ganhou o Michelin Nordic Countries Welcome & Service Award pelo trabalho de hospitalidade. Em 2022, a casa apareceu pela primeira vez no grupo principal do The World's 50 Best Restaurants, em 38º lugar. Em 2023 recebeu o título de Restaurante do Ano na Dinamarca, concedido pela Den Danske Spiseguide.",
+    "Em 27 de maio de 2024, o Jordnær tornou-se o terceiro restaurante dinamarquês com três estrelas Michelin. Eric também foi classificado entre os principais chefs do mundo no The Best Chef Awards de 2024. Na classificação global, a casa ficou em 56º em 2025, antes de retornar ao top 50 em 4 de novembro de 2026, com o 40º lugar. A edição nórdica do Guia Michelin de 2026 manteve suas três estrelas."
   ],
   "cuisine": {
-    "style": "Frutos do mar com técnicas francesas e japonesas",
+    "style": "Alta cozinha de frutos do mar, técnica francesa e sabores japoneses",
     "paragraphs": [
-      "Lagostins, caranguejos e outros produtos do mar recebem preparos precisos que podem usar dashi, ponzu e wasabi.",
-      "A cozinha usa mariscos e peixes do norte da Europa, mas o repertório técnico combina França e Japão. Ingredientes como dashi, ponzu e wasabi acompanham frutos do mar sazonais."
+      "A cozinha de Eric Vildgaard parte de ingredientes marinhos de alta qualidade — lagostins, caranguejo-rei, lagosta, vieiras, ostras e peixes de temporada — além de vegetais e frutas. A abordagem não segue rigidamente a tradição New Nordic: embora trabalhe produtos nórdicos, utiliza técnicas francesas e elementos japoneses como dashi, ponzu, wasabi, yuzu, sansho e chawanmushi. O serviço busca realçar o sabor do ingrediente principal com precisão, sem sobrecarregar a apresentação.",
+      "O menu oficial de 2026 organiza uma sequência de pequenas etapas, incluindo ovas com mandarina Jabara e trigo-sarraceno; caranguejo-rei com sudachi; lagosta com yuzu e sansho; atum-azul otoro com myoga e caviar Kaluga; waffle de roseta com camarões do fiorde e caviar Baerii; vieiras com groselha e rosas; essência de lagostim com tomate e baunilha; hamachi com ponzu e wasabi; e chawanmushi com caranguejo-rei e galanga.",
+      "A carta muda conforme a estação e pode sofrer ajustes no próprio dia. As preparações abaixo representam o menu divulgado em 2026, não uma promessa de disponibilidade futura. A casa não oferece opções de degustação vegetarianas ou veganas; algumas outras necessidades alimentares podem ser avaliadas se forem comunicadas e confirmadas com a equipe pelo menos 48 horas antes da reserva."
     ]
   },
   "chef": {
-    "name": "Eric Vildgaard",
-    "bio": "Eric Vildgaard passou pelo Noma e construiu o Jordnær com Tina Vildgaard, responsável pelo serviço e pela relação com os visitantes."
+    "name": "Eric Kragh Vildgaard (cozinha) e Tina Kragh Vildgaard (hospitalidade)",
+    "bio": "Eric Kragh Vildgaard é um chef dinamarquês que ganhou experiência em cozinhas como Noma, onde permaneceu por cerca de três anos na equipe de René Redzepi, e Almanak, em Copenhague. Ele conheceu Tina Kragh Vildgaard no Fredensborg Store Kro, onde ela atuava na gestão. O casal fundou o Jordnær em 2017. Eric lidera o desenvolvimento de pratos centrados em frutos do mar e técnicas francesas e japonesas; Tina é coproprietária e responsável pelo salão, recebendo o prêmio de hospitalidade Michelin dos países nórdicos em fevereiro de 2020. O restaurante recebeu sua terceira estrela Michelin em 2024; Eric ficou em 12º no The Best Chef Awards de 2023 e em 3º no de 2024."
   },
   "dishes": [
     {
-      "name": "Lagostins noruegueses",
-      "desc": "Frutos do mar valorizados entre os ingredientes centrais da cozinha.",
+      "name": "Lagosta com yuzu e sansho",
+      "desc": "Lagosta temperada com o cítrico japonês yuzu e a pimenta aromática sansho; composição citada no menu oficial de 2026.",
       "photo": null
     },
     {
-      "name": "Caranguejo-rei",
-      "desc": "Produto trabalhado em diferentes composições do menu degustação.",
+      "name": "Caranguejo-rei, sudachi e Jabasco",
+      "desc": "Caranguejo-rei combinado ao cítrico sudachi e a um condimento chamado Jabasco. A carta oficial confirma os três componentes, sem divulgar todos os detalhes do preparo.",
       "photo": null
     },
     {
-      "name": "Vieiras com groselha e rosa",
-      "desc": "Preparação sazonal registrada entre os exemplos do menu.",
+      "name": "Atum-azul otoro, myoga e caviar Kaluga",
+      "desc": "Corte gorduroso de atum com gengibre japonês myoga e caviar Kaluga. Prato registrado entre as etapas do menu de 2026.",
       "photo": null
     },
     {
-      "name": "Lagosta com yuzu e pimenta sansho",
-      "desc": "Combinação de frutos do mar nórdicos com notas japonesas.",
+      "name": "Waffle de roseta, camarão do fiorde e caviar Baerii",
+      "desc": "Pequeno waffle em formato floral com camarões de fiorde e caviar Baerii, em um contraste de delicadeza e textura.",
+      "photo": null
+    },
+    {
+      "name": "Vieiras, groselha e rosas",
+      "desc": "Vieiras associadas à acidez da groselha e a notas florais de rosa. O The 50 Best também descreve a combinação como característica da casa.",
+      "photo": null
+    },
+    {
+      "name": "Essência de lagostim com tomate e baunilha",
+      "desc": "Preparação em forma de essência ou caldo concentrado de lagostim, completado por tomate e baunilha, conforme o menu de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Hamachi, ponzu e wasabi",
+      "desc": "Peixe hamachi apresentado com ponzu e wasabi. O Guia Michelin destaca a precisão e simplicidade aparente dessa preparação.",
+      "photo": null
+    },
+    {
+      "name": "Chawanmushi com caranguejo-rei e galanga",
+      "desc": "Creme salgado japonês de ovos no vapor, com caranguejo-rei e galanga. Exemplo da técnica detalhada reconhecida pelos inspetores Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Pavlova, manga Miyazaki e creme de ovelha",
+      "desc": "Sobremesa da sequência de 2026 com manga de Miyazaki, creme de leite de ovelha e base de pavlova.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2018,
+      "title": "Guia Michelin Nordic Countries: primeira estrela cerca de dez meses após a abertura"
+    },
+    {
+      "year": 2020,
+      "title": "Guia Michelin Nordic Countries: segunda estrela"
+    },
+    {
+      "year": 2020,
+      "title": "Tina Kragh Vildgaard: Michelin Nordic Countries Welcome & Service Award"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants: estreia no top 50 em 38º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: 57º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "Den Danske Spiseguide: restaurante do ano na Dinamarca"
+    },
+    {
+      "year": 2023,
+      "title": "Eric Vildgaard: 12º lugar no The Best Chef Awards"
+    },
+    {
+      "year": 2024,
+      "title": "Guia Michelin Nordic Countries: terceira estrela concedida em maio"
+    },
+    {
+      "year": 2024,
+      "title": "Eric Vildgaard: terceiro lugar no The Best Chef Awards"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 56º lugar na lista estendida"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 40º lugar no ranking mundial"
+      "title": "Guia Michelin Nordic Countries: manutenção de três estrelas"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 40º lugar, retorno à lista principal"
     }
   ],
   "practical": {
-    "address": "Gentoftegade 29, 2820 Gentofte, Dinamarca",
-    "website": "https://restaurantjordnaer.dk"
+    "website": "https://restaurantjordnaer.dk/",
+    "address": "Gentoftegade 29, 2820 Gentofte, perto de Copenhague, Dinamarca (no Gentofte Hotel)",
+    "price": "Menu degustação Jordnær 2026: DKK 4.500 por pessoa, segundo o cardápio oficial consultado em 8 de novembro de 2026. Serviços e acompanhamentos opcionais são cobrados separadamente; há aviso sobre tarifas adicionais para determinados cartões de crédito. Confirme o preço ao reservar.",
+    "reservation": "Reservas por meio do botão 'Book et bord' no site oficial, que encaminha à plataforma Superb Experience. A casa funciona de terça a sexta a partir das 18h e oferece almoço no primeiro sábado de cada mês a partir das 13h. Informa fechamento nas semanas 7, 28 a 30, 42 e 51 a 52. Telefone +45 22 40 80 20; e-mail info@restaurantjordnaer.dk. Algumas restrições alimentares exigem aviso e confirmação pelo menos 48 horas antes; não há menu vegetariano ou vegano. A política de cancelamento não foi confirmada em fonte oficial aberta: leia as condições antes de reservar.",
+    "reservationUrl": "https://jordnaer.superbexperience.com/reserve/experience"
   },
   "sources": [
+    "https://restaurantjordnaer.dk/",
+    "https://restaurantjordnaer.dk/evening-menu/",
+    "https://restaurantjordnaer.dk/kontakt/",
+    "https://jordnaer.superbexperience.com/reserve/experience",
     "https://www.the50.com/restaurants/best-in-the-world/the-list/jordnaer.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+    "https://guide.michelin.com/en/capital-region/gentofte_1373269/restaurant/jordnaer",
+    "https://guide.michelin.com/dk/en/article/news-and-views/michelin-nordic-guide-2020-stars-and-awards-announced",
+    "https://guide.michelin.com/gb/en/article/news-and-views/michelin-nordic-countries-welcome-and-service-award-2020-tina-kragh-vildgaard-of-jordnaer",
+    "https://guide.michelin.com/dk/en/article/michelin-guide-ceremony/2-new-three-star-restaurants-in-the-michelin-guide-nordic-countries-2024",
+    "https://guide.michelin.com/se/en/article/michelin-guide-ceremony/full-list-of-michelin-star-restaurants-in-the-nordic-countries",
+    "https://www.visitdenmark.com/denmark/plan-your-trip/restaurant-jordnaer-gdk1098985",
+    "https://lex.dk/Restaurant_Jordn%C3%A6r",
+    "https://www.gastromasa.com/gastromasa-2025-to-host-eric-vildgaard-a-chef-transforming-nordic-fine-dining-with-genuine-passion/",
+    "https://commons.wikimedia.org/wiki/File:Gentofte_Hotel.jpg",
+    "https://commons.wikimedia.org/wiki/File:Gentofte_S%C3%B8.jpg",
+    "https://commons.wikimedia.org/wiki/File:Gentofte_S%C3%B8_(Denmark).jpg"
   ],
   "slug": "jordn-r",
-  "rank": 40
+  "rank": 40,
+  "founded": 2017,
+  "founders": [
+    "Eric Kragh Vildgaard",
+    "Tina Kragh Vildgaard"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentofte_Hotel.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Gentofte_Hotel.jpg",
+    "author": "PaigePhault",
+    "license": "CC0 1.0",
+    "caption": "Fotografia real do Gentofte Hotel, edifício que abriga o Jordnær, em junho de 2025. A imagem mostra o hotel, não o salão do restaurante.",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentofte_S%C3%B8.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Gentofte_S%C3%B8.jpg",
+      "author": "Karin Helene Pagter Duparc",
+      "license": "CC BY-SA 3.0",
+      "caption": "Lago Gentofte Sø, visto do lado norte em abril de 2007. Fotografia contextual da região, não do Jordnær.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentofte_S%C3%B8_%28Denmark%29.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Gentofte_S%C3%B8_(Denmark).jpg",
+      "author": "Hunter Desportes",
+      "license": "CC BY 2.0",
+      "caption": "Outra vista do lago Gentofte Sø em julho de 2010. Fotografia contextual, não do restaurante.",
+      "illustrative": true
+    }
+  ]
 }
