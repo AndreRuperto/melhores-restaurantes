@@ -1,49 +1,99 @@
 {
-  "lede": "O Steirereck, no Stadtpark de Viena, apresenta a tradição austríaca em versões atuais e com atenção a ingredientes pouco conhecidos.",
+  "lede": "No Stadtpark, em Viena, o Steirereck ocupa uma antiga leiteria de 1904 transformada em restaurante de arquitetura contemporânea. Fundado pela família Reitbauer em 1970, hoje apresenta uma cozinha austríaca que combina a diversidade agrícola do país, técnicas de pesquisa e um serviço reconhecido internacionalmente; conquistou três estrelas Michelin em 2025.",
   "history": [
-    "O restaurante familiar é conduzido por Heinz Reitbauer na cozinha e Birgit Reitbauer no salão. Funciona em uma construção histórica ampliada por uma estrutura contemporânea de vidro no parque.",
-    "A construção histórica do Steirereck remonta a 1904, mas hoje convive com uma extensão contemporânea envidraçada no Stadtpark. Birgit Reitbauer coordena o salão e a experiência de hospitalidade da casa familiar."
+    "O Steirereck nasceu em 1º de janeiro de 1970, quando Heinz e Margarethe Reitbauer abriram um restaurante no terceiro distrito de Viena. No início, serviam pratos da Estíria a preços populares, como sopa de legumes e o bolinho doce germknödel. A casa foi ganhando ambição gastronômica: recebeu um toque do guia Gault&Millau em 1983, dois em 1986 e quatro em 1992.",
+    "A segunda geração deu novos rumos ao negócio. Heinz Reitbauer, filho dos fundadores, estudou hotelaria na Baviera e passou por cozinhas austríacas e europeias, incluindo o trabalho com Alain Chapel na França e Anton Mosimann em Londres. Em 1996, participou da abertura da pousada e restaurante Steirereck am Pogusch, na Estíria. A partir de 2001, ele e Birgit Reitbauer assumiram a operação principal em Viena.",
+    "Em 2005, o restaurante mudou-se da Rasumofskygasse para uma construção do início do século XX no Stadtpark, antiga leiteria de uso público conhecida como Meierei. Uma intervenção arquitetônica entre 2013 e 2014 acrescentou volumes envidraçados com grandes painéis que se abrem para o jardim no tempo quente. O contraste entre o edifício histórico e os módulos contemporâneos tornou-se parte da identidade visual da casa.",
+    "Enquanto Heinz define o repertório e a pesquisa gastronômica, Birgit lidera a hospitalidade e o salão. A cozinha trabalha com produtores de toda a Áustria e com a fazenda da família em Pogusch. Em 2025, o Steirereck conquistou sua terceira estrela Michelin; em março de 2026 manteve as três estrelas. Na lista mundial The 50 Best ficou em 33º em 2025 e subiu para 30º em novembro de 2026."
   ],
   "cuisine": {
-    "style": "Cozinha austríaca contemporânea",
+    "style": "Alta cozinha austríaca contemporânea, produtos raros e pesquisa agrícola",
     "paragraphs": [
-      "Plantas, variedades locais de frutas, peixes de água doce e produtos sazonais compõem menus que valorizam a biodiversidade da Áustria.",
-      "Parte de ervas e vegetais cresce no próprio telhado, onde também há colmeias. O serviço de pães apresenta cerca de vinte e cinco variedades austríacas, ilustrando o trabalho de recuperação de ingredientes e tradições locais."
+      "A cozinha do Steirereck busca ingredientes pouco usuais da Áustria: antigas variedades de frutas, verduras e cereais, peixes de água doce e espécies criadas por produtores locais. Ervas crescem no jardim do telhado; cítricos podem vir da antiga Orangerie de Schönbrunn e outras matérias-primas da propriedade familiar em Pogusch. Mais do que seguir receitas fixas, a equipe procura apresentar cada ingrediente na estação em que ele faz sentido.",
+      "O prato é frequentemente organizado em torno de uma matéria-prima austríaca e alguns contrastes. No cardápio divulgado em 2026 aparecem truta de montanha com pastinaca, amora e espinheiro-marítimo; mexilhões Bouchot com maçã Topaz e verbena; berinjela com couve-rábano e limão; e barriga ou outros cortes em combinações com vegetais de temporada. O restaurante oferece menus degustação e serviço à la carte, além de opções de almoço mais curtas.",
+      "O atendimento também é parte da experiência. Um carrinho de pães reúne diversas variedades feitas por padeiros austríacos, e a apresentação de queijos da Meierei liga o restaurante à tradição leiteira do edifício. O Guia Michelin destaca a integração entre a cozinha de Heinz Reitbauer, a equipe comandada por Michael Bauböck e a hospitalidade de Birgit Reitbauer."
     ]
   },
   "chef": {
-    "name": "Heinz Reitbauer",
-    "bio": "Heinz Reitbauer assumiu a cozinha do restaurante da família e desenvolveu uma pesquisa culinária com variedades pouco conhecidas de pescados, plantas e frutas austríacas. A operação gastronômica também conta com Michael Bauböck, identificado pelo Guia Michelin como chef à frente da equipe de cozinha."
+    "name": "Heinz Reitbauer (direção culinária) e Michael Bauböck (chef de cozinha)",
+    "bio": "Heinz Reitbauer nasceu em Viena em 1970, no mesmo ano em que seus pais fundaram o Steirereck. Estudou hotelaria na Baviera e fez estágios no restaurante da família, com os irmãos Obauer na Áustria e com chefs como Alain Chapel e Anton Mosimann. Em 1996 abriu a operação em Pogusch; em 2005 passou a comandar a cozinha da sede no Stadtpark. Seu trabalho está ligado à recuperação de ingredientes regionais e à relação com agricultores. O Guia Michelin Áustria 2026 identifica Michael Bauböck como responsável pela equipe de cozinha, enquanto Birgit Reitbauer dirige a experiência de hospitalidade."
   },
   "dishes": [
     {
-      "name": "Truta de montanha com vagem, alcaparra e nectarina",
-      "desc": "Combinação sazonal citada no menu degustação.",
+      "name": "Truta de montanha com pastinaca, amora e espinheiro-marítimo",
+      "desc": "Peixe de água doce com vegetal de raiz, fruta silvestre e notas ácidas de espinheiro-marítimo. Preparação documentada no menu oficial disponibilizado em 2026.",
       "photo": null
     },
     {
-      "name": "Carrinho de pães austríacos",
-      "desc": "Serviço que apresenta diferentes receitas de panificação do país.",
+      "name": "Mexilhões Bouchot com cenoura, maçã Topaz e verbena",
+      "desc": "Combinação de marisco com cenoura, maçã de variedade específica e erva aromática, presente no cardápio de degustação divulgado pela casa.",
       "photo": null
     },
     {
-      "name": "Costeletas de cabrito com pimenta, sabugueiro e toranja",
-      "desc": "Exemplo de combinação sazonal registrada na descrição oficial do menu.",
+      "name": "Berinjela com couve-rábano, erva-do-gelo e limão",
+      "desc": "Etapa centrada em vegetais e contrastes de textura e acidez, registrada no menu oficial; demonstra o interesse do restaurante por ingredientes pouco convencionais.",
+      "photo": null
+    },
+    {
+      "name": "Peixe-gato com milho-doce, pepino em conserva, sabugueiro e calêndula",
+      "desc": "Prato de peixe acompanhado de ingredientes vegetais de temporada, documentado no cardápio oficial divulgado pelo restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Flor de margarida: nêspera, limão Meyer, verbena e merengue",
+      "desc": "Sobremesa floral e cítrica presente no menu degustação oficial, com nêspera e notas de verbena.",
+      "photo": null
+    },
+    {
+      "name": "Carrinho de pães artesanais austríacos",
+      "desc": "Serviço característico do Steirereck, com diferentes receitas de pães do país. O The 50 Best descreve cerca de 25 variedades, apresentadas pela equipe à mesa.",
       "photo": null
     }
   ],
   "awards": [
+    {
+      "year": 1983,
+      "title": "Guia Gault&Millau: primeiro toque para o Steirereck"
+    },
+    {
+      "year": 1986,
+      "title": "Guia Gault&Millau: segundo toque"
+    },
+    {
+      "year": 1992,
+      "title": "Guia Gault&Millau: quatro toques"
+    },
+    {
+      "year": 2013,
+      "title": "The World's 50 Best Restaurants: 9º lugar"
+    },
+    {
+      "year": 2020,
+      "title": "Heinz e Birgit Reitbauer: EY Entrepreneur of the Year Áustria, categoria Comércio e Serviços"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants: 12º lugar"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants: 13º lugar"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: 18º lugar"
+    },
     {
       "year": 2024,
       "title": "The World's 50 Best Restaurants: 22º lugar"
     },
     {
       "year": 2025,
-      "title": "The World's 50 Best Restaurants: 33º lugar"
+      "title": "Guia Michelin Áustria: conquista da terceira estrela"
     },
     {
       "year": 2025,
-      "title": "Guia Michelin Áustria: conquista de três estrelas"
+      "title": "The World's 50 Best Restaurants: 33º lugar"
     },
     {
       "year": 2026,
@@ -55,23 +105,31 @@
     }
   ],
   "practical": {
-    "website": "https://www.steirereck.at",
-    "address": "Am Heumarkt 2A, Stadtpark, 1030 Viena, Áustria",
-    "price": "Opções de menu degustação de 6 ou 7 etapas e à la carte; o Guia Michelin menciona também menus mais curtos no almoço. Valor atualizado: confirmar com o restaurante.",
-    "reservation": "Reservas online pelo site oficial ou pelo telefone +43 1 713 31 68. A casa serve almoço e jantar de segunda a sexta-feira; para grupos com mais de seis pessoas, deve-se consultar a equipe diretamente.",
+    "website": "https://www.steirereck.at/steirereck.en.html",
+    "address": "Am Heumarkt 2a, Stadtpark, 1030 Viena, Áustria",
+    "price": "No cardápio oficial de jantar consultado em novembro de 2026: menu de 6 etapas por €255 e de 7 etapas por €275, sem bebidas. A casa divulga versões sazonais do menu, e os valores podem mudar; confirmar na reserva. Existem opções à la carte e menus de almoço mais curtos.",
+    "reservation": "Reservas pelo site oficial ou pelo telefone +43 (1) 713 31 68. Funciona de segunda a sexta: almoço a partir das 11h30 (último horário de reserva às 12h45) e jantar a partir de 18h30 (último horário de reserva às 21h). Fecha aos fins de semana e feriados nacionais. Crianças a partir de 6 anos são bem-vindas. Confirmar requisitos e política de cancelamento no momento da reserva.",
     "reservationUrl": "https://www.steirereck.at/steirereck-tisch.html"
   },
   "sources": [
-    "https://www.the50.com/restaurants/best-in-the-world/the-list/steirereck.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
-    "https://www.steirereck.at/steirereck-tisch.html",
     "https://www.steirereck.at/steirereck.en.html",
-    "https://www.the50.com/discovery/Establishments/Austria/Vienna/Steirereck.html",
-    "https://guide.michelin.com/en/article/michelin-guide-ceremony/steirereck-in-vienna-is-austria-s-new-3-michelin-star-restaurant",
+    "https://www.steirereck.at/steirereck-tisch.html",
+    "https://www.steirereck.at/upload/speisekarten/evening_at_steirereck.pdf",
+    "https://steirereck.net/pdf/speisekarten/lunch_at_steirereck.pdf",
+    "https://guide.michelin.com/at/en/article/michelin-guide-ceremony/101-michelin-starred-restaurants-in-austria-2026",
+    "https://guide.michelin.com/en/vienna/wien/restaurant/steirereck-im-stadtpark",
     "https://www.michelin.com/en/publications/products-and-services/michelin-guide-austria-2026",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/steirereck.html",
+    "https://www.gaultmillau.at/news/steirereck-erneut-unter-den-50-besten-der-welt",
+    "https://www.the50.com/stories/News/50-best-talks-bring-the-magic-birgit-reitbauer.html",
+    "https://thebestchefawards.com/chefs/heinz-reitbauer/",
+    "https://www.news.steiermark.at/cms/beitrag/12854372/154271055/",
+    "https://www.ey.com/de_at/entrepreneur-of-the-year-oesterreich/hall-of-fame/2020/reitbauer",
+    "https://www.austria.info/en-gb/locations/restaurant-steirereck/",
+    "https://commons.wikimedia.org/wiki/File:Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg",
     "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_a.jpg",
-    "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_b.jpg"
+    "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_b.jpg",
+    "https://commons.wikimedia.org/wiki/File:201510_Steirereck_am_Abend.jpg"
   ],
   "slug": "steirereck",
   "rank": 30,
@@ -99,6 +157,19 @@
       "license": "CC0 1.0",
       "caption": "Outro ângulo da fachada do Steirereck, fotografado em 2021.",
       "illustrative": false
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/201510_Steirereck_am_Abend.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:201510_Steirereck_am_Abend.jpg",
+      "author": "HatschiKa",
+      "license": "CC BY-SA 4.0",
+      "caption": "Edifício da antiga Meierei no Stadtpark ao anoitecer, em outubro de 2015; fotografia do local do Steirereck.",
+      "illustrative": false
     }
+  ],
+  "founded": 1970,
+  "founders": [
+    "Heinz Reitbauer (pai)",
+    "Margarethe Reitbauer"
   ]
 }
