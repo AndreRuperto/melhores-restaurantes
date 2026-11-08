@@ -97,7 +97,7 @@ export default function Restaurant() {
             </div>
             <figcaption className="mt-2 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-0.5 px-0 sm:px-8">
               {profile.hero.caption && <span className="text-sm italic text-ink-2">{profile.hero.caption}</span>}
-              <Credit photo={profile.hero} />
+              <Credit photo={profile.hero} flag />
             </figcaption>
           </figure>
         )}
