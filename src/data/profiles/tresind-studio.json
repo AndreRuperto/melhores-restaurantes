@@ -1,42 +1,70 @@
 {
-  "lede": "No Trèsind Studio, em Dubai, a Índia é apresentada como uma viagem por regiões, sabores e referências culturais em um menu de degustação encenado.",
+  "lede": "Nascido como um laboratório de seis mesas em Dubai, o Trèsind Studio leva a culinária de diferentes regiões da Índia a uma experiência de degustação no Palm Jumeirah. À frente da cozinha, Himanshu Saini conduz um percurso de sabores, ingredientes, memória e apresentação teatral que recebeu três estrelas Michelin.",
   "history": [
-    "O chef Himanshu Saini abriu o projeto em 2018, depois de criar o Trèsind. O espaço em Palm Jumeirah opera com cerca de vinte lugares e usa cenografia ligada a cada etapa da refeição.",
-    "Himanshu Saini trabalhou no Indian Accent, em Nova Délhi, antes de se estabelecer em Dubai. O Trèsind Studio, inaugurado em 2018 e hoje instalado em Palm Jumeirah, recebe apenas cerca de vinte pessoas por serviço. Elementos de cenografia acompanham cada parte da refeição.",
-    "A trajetória de reconhecimentos inclui a premiação de hospitalidade regional em 2022 e a conquista de três estrelas Michelin em 2025. Em 2026, a casa chegou à 28ª posição mundial e foi reconhecida como a melhor do Oriente Médio pelo ranking The 50 Best."
+    "O Trèsind Studio surgiu em 2018 como uma extensão experimental do Trèsind, restaurante que Himanshu Saini havia aberto em Dubai em 2014. Inicialmente limitado a seis mesas, o Studio foi concebido para testar preparações e contar histórias da culinária indiana em pequenas sequências. O nome Trèsind nasce de uma expressão francesa que remete a algo 'muito indiano'.",
+    "Em 2022, o projeto passou a ocupar um endereço próprio nos St. Regis Gardens, na Palm Jumeirah. A sala intimista, com cerca de vinte lugares, funciona diante de uma cozinha aberta. Os convidados acompanham os cozinheiros e, em determinadas etapas, a apresentação se transforma com objetos, mapas, mudanças de luz e deslocamentos pelo ambiente.",
+    "A primeira estrela Michelin chegou em 2022; em 2023, o restaurante recebeu a segunda. Em maio de 2025, o Guia Michelin concedeu a terceira estrela, tornando-o o primeiro restaurante de culinária indiana a conquistar a distinção máxima. Em outubro de 2026, a casa manteve as três estrelas na seleção de Dubai.",
+    "No ranking The 50 Best, o Studio alcançou a 13ª posição mundial em 2024, a 27ª em 2025 e a 28ª em 2026, ano em que recebeu o reconhecimento de melhor restaurante do Oriente Médio na lista global. Na premiação específica do Oriente Médio e Norte da África, ficou em terceiro em 2026. Saini também recebeu nesse ano o prêmio Chefs' Choice regional, votado por outros profissionais de cozinha."
   ],
   "cuisine": {
-    "style": "Cozinha indiana contemporânea",
+    "style": "Cozinha indiana contemporânea, interpretada por regiões e estações",
     "paragraphs": [
-      "O menu Rising India percorre regiões do subcontinente e reinterpreta preparações e ingredientes indianos com técnicas modernas.",
-      "No menu Rising India, as etapas percorrem regiões como o planalto de Decão e as planícies do norte. A progressão é marcada por mapas e objetos que situam geograficamente a origem das ideias e dos ingredientes."
+      "O menu de degustação Rising India organiza sabores em torno de paisagens e tradições do subcontinente, como o deserto do Thar, o planalto de Decão, as planícies costeiras, as planícies do norte e o Himalaia. O objetivo não é servir uma sucessão de receitas tradicionais intactas: cada região inspira novas combinações de especiarias, vegetais, fermentações, caldos e texturas.",
+      "O restaurante privilegia a identidade de cada ingrediente. Saini cresceu em uma família ligada à agricultura e mantém atenção a hortaliças, flores, ervas e produtos de pequenos fornecedores dos Emirados Árabes Unidos. A equipe trabalha com opções vegetarianas e não vegetarianas. Em uma refeição descrita pelo Guia Michelin em 2025, ingredientes como caranguejo assado em ghee, rodovalho com dahl de trufas e frutas em conserva apareciam em preparações ligadas a tradições de diferentes regiões da Índia.",
+      "A apresentação participa da narrativa. Mapas indicam a origem de cada etapa; objetos e mudanças de iluminação ajudam a situar os pratos. A equipe explica os ingredientes e o contexto cultural em um serviço inspirado na expressão indiana atithi devo bhava — a ideia de que o convidado deve ser acolhido como uma divindade. As receitas mudam conforme a estação, de modo que pratos históricos não são necessariamente servidos em visitas futuras."
     ]
   },
   "chef": {
     "name": "Himanshu Saini",
-    "bio": "Formado na prática em cozinhas de Nova Délhi, incluindo o Indian Accent, Saini levou sua interpretação da gastronomia indiana para Dubai; abriu o Trèsind em 2014 e o Trèsind Studio em 2018."
+    "bio": "Nascido em Nova Délhi, Himanshu Saini estudou gastronomia e trabalhou com Manish Mehrotra no Indian Accent. Participou também das equipes de abertura do Masala Library e do Farzi Cafe antes de seguir para Dubai, onde abriu o Trèsind em 2014. Vindo de uma família com ligação à agricultura, costuma iniciar suas criações pela diversidade de vegetais, especiarias e sabores regionais. Em 2018 idealizou o Trèsind Studio; em 2026 recebeu o Chefs' Choice Award da lista regional do Oriente Médio e Norte da África. A confeitaria do restaurante é identificada pelo The 50 Best de 2026 com o nome de Love Gupta."
   },
   "dishes": [
     {
-      "name": "Cenoura, sambal de pimenta guntur e caldo koshimbir",
-      "desc": "Etapa inspirada no planalto de Decão, citada no menu descrito pela organização.",
+      "name": "Cenoura, sambal de pimenta Guntur, rojak bhel e caldo koshimbir",
+      "desc": "Etapa do menu Rising India de 2026 inspirada no planalto de Decão. Reúne cenoura, pimenta da região de Guntur, notas crocantes e um caldo associado à salada koshimbir.",
       "photo": null
     },
     {
       "name": "Tortellini, raita de queijo de cabra e curry de nabo",
-      "desc": "Preparação associada à etapa dedicada às planícies do norte da Índia.",
+      "desc": "Preparação da etapa dedicada às planícies do norte, com massa recheada, raita de queijo de cabra e curry de nabo cozido lentamente. Citada pelo The 50 Best em 2026.",
       "photo": null
     },
     {
-      "name": "Parfait de praliné de avelã e sorvete de maçã-preta",
-      "desc": "Sobremesa associada à etapa sobre os Himalaias, com um elemento em formato de galho de alcachofra.",
+      "name": "Parfait de praliné de avelã, sorvete de maçã-preta e galho de alcachofra",
+      "desc": "Sobremesa inspirada na região do Himalaia, mencionada na apresentação oficial do menu em 2026. O prato explora contrastes entre cremosidade, frio e texturas.",
+      "photo": null
+    },
+    {
+      "name": "Rodovalho, couve-flor e dahl de trufas",
+      "desc": "Preparação descrita por um inspetor Michelin em 2025: peixe delicadamente cozido com couve-flor crocante, molho inspirado no varuval e dahl de trufas. Prato de temporada passada; presença atual não confirmada.",
+      "photo": null
+    },
+    {
+      "name": "Sadya — interpretação da festa de colheita do sul da Índia",
+      "desc": "Versão contemporânea de uma refeição festiva do Kerala, registrada pelo Guia Michelin em 2025. Incluía papadum, abacaxi em conserva, arroz fermentado, chutney e sorvete de coco. Prato histórico, sujeito à rotação do menu.",
       "photo": null
     }
   ],
   "awards": [
     {
       "year": 2022,
-      "title": "Middle East & North Africa's 50 Best Restaurants: Art of Hospitality Award"
+      "title": "Middle East & North Africa's 50 Best Restaurants: 4º lugar e Art of Hospitality Award"
+    },
+    {
+      "year": 2022,
+      "title": "Guia Michelin Dubai: primeira estrela"
+    },
+    {
+      "year": 2023,
+      "title": "Guia Michelin Dubai: promoção para duas estrelas"
+    },
+    {
+      "year": 2023,
+      "title": "Middle East & North Africa's 50 Best Restaurants: 2º lugar"
+    },
+    {
+      "year": 2024,
+      "title": "Middle East & North Africa's 50 Best Restaurants: 2º lugar"
     },
     {
       "year": 2024,
@@ -44,11 +72,19 @@
     },
     {
       "year": 2025,
-      "title": "The World's 50 Best Restaurants: 27º lugar e melhor restaurante do Oriente Médio"
+      "title": "Guia Michelin Dubai: conquista da terceira estrela — primeira para um restaurante indiano"
     },
     {
       "year": 2025,
-      "title": "Guia Michelin Dubai: conquista da terceira estrela"
+      "title": "Middle East & North Africa's 50 Best Restaurants: 2º lugar"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: 27º lugar e melhor restaurante do Oriente Médio"
+    },
+    {
+      "year": 2026,
+      "title": "Guia Michelin Dubai: manutenção das três estrelas"
     },
     {
       "year": 2026,
@@ -56,27 +92,78 @@
     },
     {
       "year": 2026,
-      "title": "The 50 Best Restaurants: 28º lugar e melhor restaurante do Oriente Médio"
+      "title": "Himanshu Saini: Chefs' Choice Award regional (MENA's 50 Best)"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: 28º lugar e melhor restaurante do Oriente Médio na lista mundial"
     }
   ],
   "practical": {
-    "website": "https://tresindstudio.com",
-    "address": "St. Regis Gardens, Entrance B, The Palm Jumeirah, Dubai, Emirados Árabes Unidos",
-    "price": "Menu-degustação: AED 1.350 por pessoa (site oficial, consultado em novembro de 2026). Confirmar possíveis taxas e condições na reserva.",
-    "reservation": "Reserva pelo formulário oficial para dois turnos, às 18h e 21h15, de segunda a sábado. O estabelecimento solicita pagamento antecipado de AED 1.350 por pessoa; cancelamentos com pelo menos 48 horas de antecedência têm reembolso integral, segundo a política publicada. Grupos maiores que cinco pessoas devem contactar a equipe.",
-    "reservationUrl": "https://tresindstudio.com/reservation/"
+    "price": "Menu degustação: AED 1.350 por pessoa, para a comida, de acordo com o site oficial consultado em 8/11/2026. O valor é cobrado antecipadamente para confirmar a reserva. Consulte possíveis alterações e serviços extras diretamente com o restaurante.",
+    "reservation": "Reservas pelo formulário no site oficial. Jantar de segunda a sábado, com turnos às 18h e às 21h15; a mesa é mantida por 15 minutos. Cancelamento com pelo menos 48 horas de antecedência dá direito a reembolso integral, segundo a política publicada; depois disso, não há reembolso. Para mais de cinco convidados, é necessário falar diretamente com a equipe pelo telefone +971 58 895 1272. A casa informa restrição de entrada para menores de 14 anos.",
+    "reservationUrl": "https://tresindstudio.com/reservation/",
+    "website": "https://tresindstudio.com/",
+    "address": "St. Regis Gardens, Entrance B, Palm Jumeirah, Dubai, Emirados Árabes Unidos"
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/tresind-studio.html",
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/the-list/Tresind-Studio.html",
+    "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/awards/chefs-choice-award.html",
+    "https://www.the50.com/stories/News/mena-restaurants-2022-list-in-pictures.html",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2024-the-list.html",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html",
+    "https://www.the50.com/discovery/Establishments/United-Arab-Emirates/Dubai/Tr%C3%A8sind-Studio.html",
+    "https://guide.michelin.com/ae-du/en/article/dining-out/the-michelin-guide-debuts-in-dubai-with-11-michelin-starred-restaurants--here-s-what-michelin-inspectors-said",
+    "https://guide.michelin.com/ie/en/article/news-and-views/the-michelin-guide-dubai-2023-new-stars-shine-in-this-culinary-hotspot-gbi",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/three-michelin-stars-dubai-2025",
+    "https://guide.michelin.com/ae-du/en/article/michelin-guide-ceremony/michelin-guide-restaurant-ceremony-dubai-highlights-2026",
+    "https://guide.michelin.com/ae-du/en/article/features/inside-tresind-studio-inspector-experience",
+    "https://guide.michelin.com/ae-du/en/article/dining-out/michelin-inspector-favorite-dishes-dubai-2025",
     "https://tresindstudio.com/",
     "https://tresindstudio.com/reservation/",
     "https://tresindstudio.com/reservation-policy/",
-    "https://www.the50.com/discovery/Establishments/United-Arab-Emirates/Dubai/Tr%C3%A8sind-Studio.html",
-    "https://www.eater.com/24171671/worlds-50-best-restaurants-2024-the-full-list-of-winners"
+    "https://www.dubaidet.gov.ae/en/research-and-insights/-/media/files/faqs/gastronomy-report-2024-det.pdf",
+    "https://commons.wikimedia.org/wiki/File:Palm_Jumeirah,_Dubai_(53384617618).jpg",
+    "https://commons.wikimedia.org/wiki/File:Traditional_Kerala_Sadya.jpg",
+    "https://commons.wikimedia.org/wiki/File:Indian_SPices.jpg",
+    "https://commons.wikimedia.org/wiki/File:Panipuri.jpg"
   ],
   "slug": "tresind-studio",
   "rank": 28,
-  "founded": 2018
+  "founded": 2018,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Palm_Jumeirah%2C_Dubai_%2853384617618%29.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Palm_Jumeirah,_Dubai_(53384617618).jpg",
+    "author": "Domenico Convertini",
+    "license": "CC BY-SA 2.0",
+    "caption": "Imagem contextual: paisagem de Palm Jumeirah, bairro onde fica o restaurante. Esta foto NÃO mostra o Trèsind Studio.",
+    "illustrative": true
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Traditional_Kerala_Sadya.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Traditional_Kerala_Sadya.jpg",
+      "author": "Jyoti Chiring",
+      "license": "CC BY 4.0",
+      "caption": "Imagem ilustrativa: sadya tradicional de Kerala, referência cultural de uma criação do restaurante. Não é um prato fotografado no Trèsind Studio.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_SPices.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Indian_SPices.jpg",
+      "author": "Maulpatel",
+      "license": "CC BY-SA 4.0",
+      "caption": "Imagem ilustrativa de especiarias da culinária indiana. Não representa os ingredientes ou a cozinha do restaurante.",
+      "illustrative": true
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Panipuri.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Panipuri.jpg",
+      "author": "Katyare",
+      "license": "CC BY-SA 3.0",
+      "caption": "Imagem ilustrativa: panipuri tradicional, preparação indiana que aparece no repertório histórico do restaurante. Não é foto de um prato servido ali.",
+      "illustrative": true
+    }
+  ]
 }

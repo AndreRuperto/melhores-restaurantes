@@ -40,7 +40,7 @@ export function Photo({ photo, className = '', ratio = 'aspect-[4/3]', caption =
       {caption && (
         <figcaption className="mt-2 flex flex-col gap-0.5">
           {photo.caption && <span className="text-sm italic text-ink-2">{photo.caption}</span>}
-          <Credit photo={photo} />
+          <Credit photo={photo} flag />
         </figcaption>
       )}
     </figure>
