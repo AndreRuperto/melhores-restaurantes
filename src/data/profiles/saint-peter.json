@@ -1,62 +1,118 @@
 {
-  "lede": "O Saint Peter, em Sydney, pesquisa maneiras de aproveitar quase integralmente os peixes que chegam à cozinha.",
+  "lede": "Em Paddington, Sydney, o Saint Peter mudou o modo como a alta cozinha australiana olha para o pescado. Josh e Julie Niland fizeram do restaurante um laboratório de maturação, conservação e aproveitamento integral do peixe, hoje instalado no histórico Grand National Hotel.",
   "history": [
-    "Fundado por Josh Niland em 2016, o restaurante mudou em 2024 para o Grand National Hotel, em Paddington, mantendo o foco na redução de desperdício.",
-    "Josh Niland inaugurou o Saint Peter em 2016 e mudou a casa para o Grand National Hotel, em Paddington, em 2024. A ideia de usar todas as partes possíveis do peixe orienta o restaurante desde sua fundação."
+    "Josh e Julie Niland abriram o Saint Peter em 2016 em Oxford Street, no bairro Paddington, em Sydney. O objetivo era dar a pescados australianos a mesma atenção que a alta gastronomia dedicava a cortes de carne e vegetais: buscar qualidade na origem, controlar maturação e usar o máximo possível de cada peixe.",
+    "Josh desenvolveu técnicas de conservação e transformação que ampliaram o repertório de pratos de mar. A cozinha ficou especialmente conhecida pela charcutaria de peixe, por experimentos de maturação e pelo trabalho com pescadores australianos, tornando-se referência em redução de desperdício.",
+    "Em agosto de 2024, o Saint Peter reabriu no Grand National Hotel, também em Paddington, com um salão maior, cozinha aberta e bar. Em janeiro de 2025, o projeto passou a oferecer hospedagem em 14 quartos no mesmo edifício. O novo espaço permite diferentes formatos de visita, do menu degustação ao bar com pratos à la carte.",
+    "Em 2025, recebeu o prêmio Restaurant of the Year da revista Gourmet Traveller. Em 2026, ano do décimo aniversário, entrou em 50º no ranking mundial The 50 Best Restaurants, recebeu o título de melhor restaurante da Oceania e manteve três chapéus no Good Food Guide."
   ],
   "cuisine": {
-    "style": "Cozinha australiana de peixes, da escama à cauda",
+    "style": "Cozinha australiana de pescados, aproveitamento integral e maturação",
     "paragraphs": [
-      "O menu trabalha maturação de peixes, charcutaria marinha e preparações feitas com partes do pescado normalmente descartadas.",
-      "A equipe prepara charcutaria marinha, como chouriço de bacalhau Murray, e explora maturação, caldos de ossos e preparos de pele. O trabalho envolve pescadores e produtores australianos."
+      "A ideia de 'scale-to-tail' — da escama à cauda — orienta o restaurante. A equipe utiliza partes do peixe geralmente pouco valorizadas em diferentes preparações culinárias, sempre com atenção à textura, ao sabor e à origem responsável dos produtos.",
+      "As técnicas incluem maturação controlada, conservação, caldos preparados a partir de partes do pescado e charcutaria marinha. Entre as criações registradas pelo 50 Best estão patê de fígado de peixe-são-pedro, embutido de bacalhau Murray, macarrão preparado com ossos de peixe e cavala-azul com tempero de sal e vinagre.",
+      "O jantar oferece um menu degustação sazonal de dez etapas, enquanto o almoço tem três etapas à escolha. O bar mantém uma seleção à la carte. Algumas sobremesas históricas usam ingredientes do mar, como algas, mas sua presença varia conforme a carta."
     ]
   },
   "chef": {
-    "name": "Josh Niland",
-    "bio": "Josh Niland é chef e fundador do Saint Peter e tornou conhecido o conceito de aproveitamento integral de pescados, da escama à cauda."
+    "name": "Josh Niland (chef) · Julie Niland (cofundadora)",
+    "bio": "Josh Niland é chef e cofundador do Saint Peter, reconhecido pela pesquisa de maturação, charcutaria e aproveitamento integral do pescado. Junto com Julie Niland, abriu a casa em 2016 e expandiu a experiência para o Grand National Hotel em 2024, mantendo uma cozinha vinculada a produtores e pescadores australianos."
   },
   "dishes": [
     {
       "name": "Embutido de bacalhau Murray",
-      "desc": "Exemplo de charcutaria feita com peixe.",
-      "photo": null
-    },
-    {
-      "name": "Macarrão de espinha de peixe",
-      "desc": "Preparação servida em caldo delicado de frutos do mar.",
+      "desc": "Preparação de charcutaria feita com pescado australiano, uma das assinaturas do repertório do chef.",
       "photo": null
     },
     {
       "name": "Patê de fígado de peixe-são-pedro",
-      "desc": "Exemplo de charcutaria marinha desenvolvida pela casa.",
+      "desc": "Especialidade de charcutaria marinha que aproveita partes menos habituais na cozinha clássica.",
       "photo": null
     },
     {
-      "name": "Sorvete de alga",
-      "desc": "Sobremesa que leva ingredientes marinhos.",
+      "name": "Macarrão de espinhas de peixe",
+      "desc": "Massa preparada a partir de partes do pescado, servida em versões com caldo de frutos do mar.",
+      "photo": null
+    },
+    {
+      "name": "Cavala-azul maturada",
+      "desc": "Peixe de pesca responsável apresentado com temperos que lembram sal e vinagre, em versão documentada pelo 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Sobremesa com algas",
+      "desc": "Sobremesas históricas do Saint Peter já combinaram sorvete de algas e outros ingredientes marinhos; não é confirmação do menu atual.",
       "photo": null
     }
   ],
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 50º lugar no ranking mundial"
+      "year": 2017,
+      "title": "Josh Niland — Best New Talent, Gourmet Traveller"
+    },
+    {
+      "year": 2025,
+      "title": "Restaurant of the Year — Gourmet Traveller"
     },
     {
       "year": 2026,
-      "title": "Melhor restaurante da Oceania em 2026 (The 50 Best)"
+      "title": "Três chapéus (Three Hats) — Sydney Good Food Guide"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 50, estreia no top 50"
+    },
+    {
+      "year": 2026,
+      "title": "The Best Restaurant in Oceania — The 50 Best Restaurants"
     }
   ],
   "practical": {
     "address": "161 Underwood Street, Paddington NSW 2021, Sydney, Austrália",
-    "website": "https://www.saintpeter.com.au"
+    "website": "https://www.saintpeter.com.au/",
+    "reservationUrl": "https://www.saintpeter.com.au/reservations",
+    "reservation": "Reservas da sala principal pelo site oficial, liberadas até seis meses antes. Almoço de quinta a domingo e jantar diariamente; o bar aceita visitantes sem reserva, sujeito a lugares. Para confirmar a mesa, o restaurante exige dados de cartão e informa regra de cancelamento de 48 horas. Telefone +61 2 9167 3703.",
+    "price": "Almoço de três etapas: AUD 195 por pessoa. Jantar degustação de dez etapas: AUD 395 por pessoa, conforme a página oficial consultada em novembro de 2026. Taxas e valores podem mudar."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/saint-peter.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.saintpeter.com.au/",
+    "https://www.saintpeter.com.au/reservations",
+    "https://www.saintpeter.com.au/menu/",
+    "https://www.saintpeter.com.au/contact-us",
+    "https://www.gourmettraveller.com.au/dining-out/food-news/saint-peter-10-years/",
+    "https://www.timeout.com/sydney/news/josh-nilands-saint-peter-will-reopen-this-july-in-the-grand-national-hotel-042524",
+    "https://commons.wikimedia.org/wiki/File:Paddington_Post_Office.JPG"
   ],
   "slug": "saint-peter",
   "rank": 50,
-  "founded": 2016
+  "founded": 2016,
+  "founders": [
+    "Josh Niland",
+    "Julie Niland"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Paddington_Post_Office.JPG?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Paddington_Post_Office.JPG",
+    "author": "J Bar",
+    "license": "CC BY 3.0",
+    "caption": "Antigo edifício dos Correios de Paddington na Oxford Street, Sydney, fotografado em 2007. É uma imagem contextual do bairro e NÃO mostra o Saint Peter nem o Grand National Hotel.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Saint Peter — site oficial",
+    "url": "https://www.saintpeter.com.au/",
+    "note": "Galerias do salão atual, pratos e espaços do Grand National Hotel na fonte oficial. A imagem publicada na capa do A Carta é apenas contextual, pois não foi confirmada licença para reproduzir fotos atuais da casa.",
+    "additionalSources": [
+      {
+        "publisher": "Gourmet Traveller — dez anos de Saint Peter",
+        "url": "https://www.gourmettraveller.com.au/dining-out/food-news/saint-peter-10-years/",
+        "note": "Histórico do restaurante e fotografias relacionadas ao projeto de Josh e Julie Niland."
+      }
+    ]
+  }
 }
