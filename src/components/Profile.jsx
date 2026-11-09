@@ -179,13 +179,35 @@ export function Gallery({ p }) {
 // Se a mesma foto já é a capa, não a repetimos; a capa recebe uma identificação própria.
 export function Facade({ p }) {
   const image = p.facade
-  if (!image?.src || image.src === p.hero?.src) return null
+  const reference = p.photoReference
+  // Evita duplicar fotos de fachadas que já aparecem na capa do perfil.
+  if (image?.src === p.hero?.src && image?.src) return null
+  if (!image?.src && !reference?.url) return null
+  const externalFacade = reference?.kind === 'fachada'
   return (
     <section className="pt-20" id="fachada">
-      <Kicker kicker="O lugar" title="A fachada" center />
-      <div className="mx-auto mt-9 max-w-3xl">
-        <Photo photo={image} ratio="aspect-[4/3] sm:aspect-[16/10]" />
-      </div>
+      <Kicker kicker="O lugar" title={image?.src || externalFacade ? 'A fachada' : 'O espaço'} center />
+      {image?.src ? (
+        <div className="mx-auto mt-9 max-w-3xl">
+          <Photo photo={image} ratio="aspect-[4/3] sm:aspect-[16/10]" />
+        </div>
+      ) : (
+        <div className="box mx-auto mt-9 flex max-w-3xl flex-col items-start gap-4 px-6 py-7 sm:px-10">
+          <div className="smallcaps text-wine">{externalFacade ? 'Fotografia externa disponível' : 'Fotografias disponíveis'}</div>
+          <p className="text-base leading-relaxed text-ink-2">{reference.note}</p>
+          <a
+            href={reference.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="link-u inline-flex items-center gap-1 font-medium text-ink hover:text-wine focus-visible:outline-2 focus-visible:outline-wine"
+          >
+            {externalFacade ? 'Ver fachada na fonte original ↗' : 'Ver fotos na fonte original ↗'}
+          </a>
+          <p className="text-xs italic leading-relaxed text-muted">
+            Publicação: {reference.publisher}. A imagem pertence à fonte ou ao titular dos direitos e não é reproduzida neste site.
+          </p>
+        </div>
+      )}
     </section>
   )
 }

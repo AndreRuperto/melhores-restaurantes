@@ -226,5 +226,11 @@
     "https://www.finedininglovers.com/article/asia-50-best-restaurants-2022-full-list",
     "https://www.finedininglovers.com/explore/articles/worlds-50-best-restaurants-51-100-list-2022",
     "https://www.finedininglovers.com/article/worlds-50-best-restaurants-2024-list"
-  ]
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Sühring (site oficial)",
+    "url": "https://restaurantsuhring.com/contact",
+    "note": "A página oficial mostra o exterior e a entrada da vila onde funciona o Sühring."
+  }
 }

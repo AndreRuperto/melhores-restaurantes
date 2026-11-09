@@ -86,21 +86,66 @@
     }
   ],
   "awards": [
-    { "year": 2019, "title": "Uma estrela Michelin (Guia Michelin Tailândia 2019)" },
-    { "year": 2019, "title": "Estreia no Asia's 50 Best Restaurants (nº 48)" },
-    { "year": 2020, "title": "Duas estrelas Michelin (Guia Michelin Tailândia 2020)" },
-    { "year": 2020, "title": "Asia's 50 Best Restaurants: nº 16 e Highest Climber Award" },
-    { "year": 2021, "title": "The World's 50 Best Restaurants: nº 63 (lista 51–100)" },
-    { "year": 2022, "title": "Asia's 50 Best Restaurants: nº 2 e melhor restaurante da Tailândia" },
-    { "year": 2022, "title": "The World's 50 Best Restaurants: nº 39" },
-    { "year": 2023, "title": "Asia's 50 Best Restaurants: nº 9" },
-    { "year": 2024, "title": "Asia's 50 Best Restaurants: nº 11" },
-    { "year": 2024, "title": "The World's 50 Best Restaurants: nº 38" },
-    { "year": 2025, "title": "Três estrelas Michelin (Guia Michelin Tailândia 2025), as primeiras da Tailândia" },
-    { "year": 2025, "title": "Asia's 50 Best Restaurants: nº 16" },
-    { "year": 2025, "title": "The World's 50 Best Restaurants: nº 17" },
-    { "year": 2026, "title": "Asia's 50 Best Restaurants: nº 12" },
-    { "year": 2026, "title": "The 50 Best Restaurants: nº 12" }
+    {
+      "year": 2019,
+      "title": "Uma estrela Michelin (Guia Michelin Tailândia 2019)"
+    },
+    {
+      "year": 2019,
+      "title": "Estreia no Asia's 50 Best Restaurants (nº 48)"
+    },
+    {
+      "year": 2020,
+      "title": "Duas estrelas Michelin (Guia Michelin Tailândia 2020)"
+    },
+    {
+      "year": 2020,
+      "title": "Asia's 50 Best Restaurants: nº 16 e Highest Climber Award"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants: nº 63 (lista 51–100)"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants: nº 2 e melhor restaurante da Tailândia"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants: nº 39"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants: nº 9"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants: nº 11"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants: nº 38"
+    },
+    {
+      "year": 2025,
+      "title": "Três estrelas Michelin (Guia Michelin Tailândia 2025), as primeiras da Tailândia"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants: nº 16"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants: nº 17"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants: nº 12"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants: nº 12"
+    }
   ],
   "practical": {
     "price": "Menu degustação a 7.200 bahts por pessoa, sem bebidas; harmonização de vinhos de 4.900 a 8.800 bahts (fevereiro de 2025). A página da 50 Best indica menu a partir de US$ 223 (2026).",
@@ -163,5 +208,11 @@
     "https://www.enprimeurclub.com/lists/2026-asias-50-best-restaurants",
     "https://www.travelsforstars.com/blog/2025/02/24/sorn-bangkok",
     "https://curlytales.com/this-restaurant-in-thailand-is-the-first-in-the-country-to-earn-three-michelin-stars/amp/"
-  ]
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Nation Thailand / The Star",
+    "url": "https://www.nationthailand.com/life/food/40044763",
+    "note": "A matéria mostra a entrada arborizada da casa em Sukhumvit 26."
+  }
 }
