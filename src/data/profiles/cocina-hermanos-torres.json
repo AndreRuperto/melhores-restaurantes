@@ -1,36 +1,121 @@
 {
-  "lede": "Em Barcelona, o Cocina Hermanos Torres organiza toda a experiência em torno de uma cozinha aberta monumental.",
+  "lede": "Em Barcelona, os irmãos gêmeos Sergio e Javier Torres colocaram a cozinha literalmente no centro do salão. O Cocina Hermanos Torres abriu em 2018 numa antiga nave industrial em Les Corts, onde três ilhas de trabalho permitem acompanhar uma gastronomia mediterrânea de técnica precisa, memória familiar e respeito ao produto.",
   "history": [
-    "Os irmãos Sergio e Javier Torres conduzem o restaurante, aproximando clientes dos processos de preparo.",
-    "Os irmãos Sergio e Javier Torres projetaram o restaurante em torno de uma cozinha aberta monumental, que também funciona como centro visual do salão."
+    "Os irmãos Sergio e Javier Torres cresceram em Barcelona e associam parte importante de seu interesse pela cozinha à avó Catalina. Apesar de trajetórias de formação diferentes, trabalharam em restaurantes renomados na Europa e reencontraram um projeto comum no Dos Cielos, aberto em 2008.",
+    "O Dos Cielos chegou a duas estrelas Michelin, mas a dupla decidiu encerrar a fase anterior para inaugurar em 2018 o Cocina Hermanos Torres, em uma antiga nave industrial do bairro Les Corts. A ideia foi criar não um salão com cozinha escondida, mas uma cozinha com mesas posicionadas à sua volta.",
+    "O espaço organiza três grandes ilhas culinárias no centro, onde os profissionais executam as etapas diante dos convidados. Essa proximidade transforma o preparo dos alimentos em parte da hospitalidade, reforçando a ligação entre quem produz, quem cozinha e quem visita.",
+    "Poucos meses após abrir, o restaurante recebeu duas estrelas para o Guia Michelin 2019. Em 22 de novembro de 2022, conquistou a terceira estrela na seleção de 2023. Em 2026, continuava na categoria máxima do guia e foi classificado em 69º no ranking mundial estendido The 50 Best Restaurants."
   ],
   "cuisine": {
-    "style": "Cozinha espanhola contemporânea",
+    "style": "Alta cozinha mediterrânea contemporânea, memória e técnica",
     "paragraphs": [
-      "A dupla trabalha ingredientes mediterrâneos, produtos sazonais e receitas afetivas em apresentações técnicas.",
-      "A degustação Menú Revolución pode incluir lula curada, consommé de aves e caviar em versões contemporâneas de combinações de mar e terra."
+      "A proposta combina sabores da cozinha catalã e mediterrânea com fundos e caldos elaborados lentamente, técnicas contemporâneas e produtos sazonais. Os ingredientes são tratados com a menor intervenção possível quando essa é a melhor maneira de preservar sua identidade.",
+      "O prato assinatura é a lula curada com consommé de ave e caviar, uma leitura de mar e montanha servida desde o início da casa. Em registros gastronômicos de 2026 também aparecem caranguejo e camarões costeiros, peixe maturado com algas e composições de leguminosas e vegetais.",
+      "O Menú Revolución é um único percurso degustação que muda conforme a estação; os chefs destacam produtores e a origem dos alimentos. As preparações descritas nesta página documentam diferentes momentos do restaurante e não asseguram presença em todas as visitas."
     ]
   },
   "chef": {
     "name": "Sergio e Javier Torres",
-    "bio": "Sergio e Javier Torres administram juntos a casa de Barcelona e desenvolvem receitas espanholas em uma cozinha aberta ao salão."
+    "bio": "Os gêmeos Sergio e Javier Torres formaram-se em cozinhas europeias e comandaram juntos o Dos Cielos antes de abrir o Cocina Hermanos Torres em 2018. Criaram uma experiência em que três ilhas de trabalho ficam no centro do salão e em que o produto e a memória familiar orientam o menu. A casa recebeu duas estrelas Michelin em 2019 e a terceira na edição 2023."
   },
   "awards": [
     {
+      "year": 2019,
+      "title": "Duas estrelas Michelin obtidas na primeira seleção após a inauguração"
+    },
+    {
+      "year": 2022,
+      "title": "Terceira estrela Michelin anunciada para o Guia Espanha & Portugal 2023"
+    },
+    {
+      "year": 2023,
+      "title": "Três estrelas Michelin e Estrela Verde — Guia Michelin Espanha"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 69º lugar no ranking mundial"
+      "title": "Três estrelas Michelin mantidas — Guia Michelin Espanha 2026"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 69 (lista mundial estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://cocinahermanostorres.com/es/reservar/",
+    "https://cocinahermanostorres.com/en/discover/",
+    "https://guide.michelin.com/gb/en/catalunya/barcelona/restaurant/cocina-hermanos-torres",
+    "https://guide.michelin.com/en/article/news-and-views/the-culinary-scene-of-spain-and-portugal-shines-bright-with-two-new-three-michelin-star-restaurants",
+    "https://guide.michelin.com/es/es/articulo/travel/barcelona-los-lugares-favoritos-de-los-hermanos-torres",
+    "https://www.deia.eus/gastronomia/2026/05/30/restaurante-cocina-hermanos-torres-capricho-11135907.html",
+    "https://commons.wikimedia.org/wiki/File:Streets_of_Les_Corts_(2)_(7400279584).jpg"
   ],
   "slug": "cocina-hermanos-torres",
   "rank": 69,
   "dishes": [
     {
-      "name": "Lula curada e consommé de aves",
-      "desc": "Combinação descrita entre as possíveis etapas do Menú Revolución.",
+      "name": "Lula curada, consommé de ave e caviar",
+      "desc": "Prato assinatura de mar e montanha, descrito pelo Guia Michelin e mantido pela casa em diferentes temporadas.",
+      "photo": null
+    },
+    {
+      "name": "Caranguejo, camarão costeiro e vegetais",
+      "desc": "Crustáceos do litoral com preparações vegetais, registrados em relatos de experiências de 2026; composição sazonal.",
+      "photo": null
+    },
+    {
+      "name": "Peixe maturado com algas",
+      "desc": "Peixe mediterrâneo tratado com maturação, algas, agrião e notas cítricas; preparação documentada em 2026.",
+      "photo": null
+    },
+    {
+      "name": "Trinxat de couve e batata",
+      "desc": "Releitura contemporânea de receita catalã tradicional com couve e batata e complemento de carne, descrita em crítica de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Ervilhas do Maresme",
+      "desc": "Primeira floração de ervilhas frescas de fornecedores da região, tratadas em passagens sazonais da degustação.",
+      "photo": null
+    },
+    {
+      "name": "Ravioli de maçã e aipo-rábano",
+      "desc": "Preparação vegetal de textura delicada, citada em entrevista dos chefs ao Guia Michelin.",
       "photo": null
     }
-  ]
+  ],
+  "founded": 2018,
+  "founders": [
+    "Sergio Torres",
+    "Javier Torres"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Streets%20of%20Les%20Corts%20%282%29%20%287400279584%29.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Streets_of_Les_Corts_(2)_(7400279584).jpg",
+    "author": "Oh-Barcelona.com",
+    "license": "CC BY 2.0",
+    "caption": "Rua do bairro Les Corts, Barcelona, fotografada em 2011. É um registro do bairro, NÃO da fachada nem do salão do Cocina Hermanos Torres, inaugurado em 2018.",
+    "illustrative": true
+  },
+  "practical": {
+    "address": "Carrer de Taquígraf Serra 20, 08029 Barcelona, Espanha",
+    "website": "https://cocinahermanostorres.com/es/",
+    "reservationUrl": "https://cocinahermanostorres.com/es/reservar/",
+    "reservation": "Reservas pelo formulário do site oficial, sujeitas a confirmação, ou pelo telefone +34 934 10 00 20 (atendimento telefônico das 10h às 12h e das 18h às 20h). Serviço de terça a sábado no almoço e jantar, segundo o Guia Michelin; fechado domingo e segunda.",
+    "price": "Menú Revolución: €330 por pessoa, com IVA incluído e bebidas não incluídas, conforme o site oficial consultado em novembro de 2026."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Cocina Hermanos Torres — site oficial",
+    "url": "https://cocinahermanostorres.com/es/",
+    "note": "Fotos do salão real de três ilhas, da equipe e de pratos. A fotografia de capa do A Carta é somente do bairro Les Corts, pois as imagens oficiais não apresentaram licença livre de republicação.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Cocina Hermanos Torres",
+        "url": "https://guide.michelin.com/gb/en/catalunya/barcelona/restaurant/cocina-hermanos-torres",
+        "note": "Fotografias reais do restaurante e detalhes dos preparos na cozinha central."
+      }
+    ]
+  }
 }
