@@ -161,7 +161,7 @@ export function Awards({ p }) {
 }
 
 export function Gallery({ p }) {
-  const photos = (p.gallery || []).filter((g) => g?.src)
+  const photos = (p.gallery || []).filter((g, i) => g?.src && i !== p.photoReference?.featuredGalleryIndex)
   if (!photos.length) return null
   return (
     <section className="pt-20">
@@ -175,36 +175,47 @@ export function Gallery({ p }) {
   )
 }
 
-// Foto de fachada opcional: apenas quando o arquivo tem atribuição e licença verificadas.
-// Se a mesma foto já é a capa, não a repetimos; a capa recebe uma identificação própria.
+// Fotos publicadas diretamente apenas com crédito e licença documentados.
+// Um registro de sede histórica/outra unidade pode ser destacado, desde que identificado
+// como tal, e é retirado da galeria para evitar duplicação visual.
 export function Facade({ p }) {
   const image = p.facade
   const reference = p.photoReference
-  // Evita duplicar fotos de fachadas que já aparecem na capa do perfil.
-  if (image?.src === p.hero?.src && image?.src) return null
-  if (!image?.src && !reference?.url) return null
+  const preview = Number.isInteger(reference?.featuredGalleryIndex)
+    ? p.gallery?.[reference.featuredGalleryIndex]
+    : null
+  if (image?.src && image.src === p.hero?.src) return null
+  if (!image?.src && !preview?.src && !reference?.url) return null
+
   const externalFacade = reference?.kind === 'fachada'
+  const photo = image?.src ? image : preview
+  const title = image?.src ? 'A fachada' : preview?.src
+    ? (reference?.previewTitle || 'O espaço')
+    : externalFacade ? 'A fachada' : 'O espaço'
+
   return (
     <section className="pt-20" id="fachada">
-      <Kicker kicker="O lugar" title={image?.src || externalFacade ? 'A fachada' : 'O espaço'} center />
-      {image?.src ? (
+      <Kicker kicker="O lugar" title={title} center />
+      {photo?.src ? (
         <div className="mx-auto mt-9 max-w-3xl">
-          <Photo photo={image} ratio="aspect-[4/3] sm:aspect-[16/10]" />
+          <Photo photo={photo} ratio="aspect-[4/3] sm:aspect-[16/10]" />
+          {preview?.src && reference?.previewContext && (
+            <p className="mt-4 border-l-2 border-wine pl-4 text-sm leading-relaxed text-ink-2">
+              {reference.previewContext}
+            </p>
+          )}
         </div>
-      ) : (
-        <div className="box mx-auto mt-9 flex max-w-3xl flex-col items-start gap-4 px-6 py-7 sm:px-10">
-          <div className="smallcaps text-wine">{externalFacade ? 'Fotografia externa disponível' : 'Fotografias disponíveis'}</div>
-          <p className="text-base leading-relaxed text-ink-2">{reference.note}</p>
-          <a
-            href={reference.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="link-u inline-flex items-center gap-1 font-medium text-ink hover:text-wine focus-visible:outline-2 focus-visible:outline-wine"
-          >
+      ) : null}
+      {reference?.url && (
+        <div className="box mx-auto mt-6 flex max-w-3xl flex-col items-start gap-3 px-6 py-6 sm:px-10">
+          <div className="smallcaps text-wine">{externalFacade ? 'Registro externo da fachada' : 'Imagens do espaço na fonte'}</div>
+          {reference.note && <p className="text-base leading-relaxed text-ink-2">{reference.note}</p>}
+          <a href={reference.url} target="_blank" rel="noopener noreferrer"
+            className="link-u inline-flex items-center gap-1 font-medium text-ink hover:text-wine focus-visible:outline-2 focus-visible:outline-wine">
             {externalFacade ? 'Ver fachada na fonte original ↗' : 'Ver fotos na fonte original ↗'}
           </a>
           <p className="text-xs italic leading-relaxed text-muted">
-            Publicação: {reference.publisher}. A imagem pertence à fonte ou ao titular dos direitos e não é reproduzida neste site.
+            Publicação: {reference.publisher}. Imagens de terceiros não são republicadas apenas com base no crédito da fonte.
           </p>
         </div>
       )}
@@ -247,6 +258,47 @@ export function Practical({ p }) {
           </div>
         )}
       </dl>
+    </section>
+  )
+}
+
+// Atribuições detalhadas ao fim do perfil, inclusive para referências externas.
+// Complementa os créditos junto às fotos e permite conferir a fonte e a licença.
+export function PhotoCredits({ p }) {
+  const photos = [p.hero, p.facade, ...(p.gallery || []), ...(p.dishes || []).map(d => d.photo)]
+    .filter(photo => photo?.src && photo?.page)
+  const unique = [...new Map(photos.map(photo => [photo.page, photo])).values()]
+  const reference = p.photoReference
+  if (!unique.length && !reference?.url) return null
+  return (
+    <section className="mx-auto mt-16 max-w-3xl border-t border-rule pt-8" id="creditos-fotograficos">
+      <div className="smallcaps text-muted">Créditos fotográficos</div>
+      <p className="mt-3 text-sm leading-relaxed text-ink-2">
+        Origem das imagens desta página. Clique no arquivo original para conferir autoria e licença;
+        fotografias de contexto não representam necessariamente a fachada ou um prato servido no restaurante.
+      </p>
+      <ul className="mt-5 grid gap-x-6 gap-y-3 text-sm text-ink-2 sm:grid-cols-2">
+        {unique.map(photo => (
+          <li key={photo.page} className="border-l border-rule pl-3">
+            <a className="link-u font-medium text-ink hover:text-wine" href={photo.page} target="_blank" rel="noopener noreferrer">
+              {photo.author || host(photo.page)}
+            </a>
+            <span className="text-muted"> · {host(photo.page)}</span>
+            {photo.license && <span> · {licenseUrl(photo.license) ? (
+              <a href={licenseUrl(photo.license)} className="link-u" target="_blank" rel="noopener noreferrer">{photo.license}</a>
+            ) : photo.license}</span>}
+            {photo.illustrative && <span className="italic text-muted"> · ilustrativa</span>}
+          </li>
+        ))}
+        {reference?.url && (
+          <li className="border-l border-rule pl-3">
+            <a href={reference.url} className="link-u font-medium text-ink hover:text-wine" target="_blank" rel="noopener noreferrer">
+              {reference.publisher || host(reference.url)}
+            </a>
+            <span className="text-muted"> · {host(reference.url)} · referência externa (sem republicação)</span>
+          </li>
+        )}
+      </ul>
     </section>
   )
 }
