@@ -1,47 +1,133 @@
 {
-  "lede": "No Nelita, em São Paulo, a chef Tássia Magalhães apresenta uma cozinha autoral em um salão com balcão aberto para a equipe.",
+  "lede": "No bairro de Pinheiros, em São Paulo, o Nelita une a formação italiana de Tássia Magalhães às memórias do Vale do Paraíba. A cozinha aberta, conduzida por uma equipe feminina, permite acompanhar de perto massas artesanais, ingredientes brasileiros e uma proposta de alta gastronomia intimista.",
   "history": [
-    "Aberto em 2021, o restaurante consolidou uma equipe de cozinha feminina e entrou na lista mundial estendida em 2026.",
-    "Tássia Magalhães conduz uma equipe feminina diante de um balcão aberto de mármore, incentivando a proximidade entre cozinha e visitantes. A chef relaciona sua cozinha a memórias familiares do Vale do Paraíba."
+    "Tássia Magalhães cresceu em Guaratinguetá, no Vale do Paraíba, e se formou em hotelaria e gastronomia no Senac de Campos do Jordão. Começou a carreira em confeitaria e depois se especializou em cozinha italiana, com estágios em restaurantes europeus como Kadeau, Amass e Geranium.",
+    "O Nelita abriu em 2021, em Pinheiros, com o objetivo de combinar a precisão de massas e preparações italianas com produtos e lembranças afetivas da chef. A abertura coincidiu com restrições sanitárias, e a casa precisou interromper as atividades pouco depois de iniciar o atendimento, retomando posteriormente o serviço.",
+    "O projeto foi estruturado com uma equipe de cozinha feminina e um balcão de mármore de frente para os preparos. O sócio Danyel Steinle responde pela hospitalidade e pela seleção da carta. O nome Nelita faz referência à mãe da chef, reforçando o caráter afetivo do restaurante.",
+    "A projeção cresceu rapidamente: o Nelita entrou no Latin America's 50 Best em 2022, subiu ao 12º lugar em 2025, e Tássia recebeu o Latin America's Best Female Chef Award em 2025. Em 2026, a casa estreou no ranking mundial estendido na 54ª posição. O grupo também criou a padaria Mag Market e o bar gastronômico Lita."
   ],
   "cuisine": {
-    "style": "Cozinha brasileira contemporânea de referências italianas",
+    "style": "Cozinha autoral brasileira de inspiração italiana",
     "paragraphs": [
-      "A casa trabalha pratos à la carte e menus degustação com combinações sazonais.",
-      "Há menu à la carte e degustações com cinco ou onze etapas; as referências italianas se combinam a ingredientes locais e preparações ligadas à história da chef."
+      "O Nelita desenvolve uma cozinha centrada na habilidade de fazer massas, nos ingredientes locais e nas lembranças culinárias da chef. O resultado combina técnicas de origem italiana com legumes, peixes, carnes e produtos brasileiros, num repertório que muda conforme a estação.",
+      "Segundo o Guia Michelin consultado em novembro de 2026, existem três caminhos para a refeição: a experiência de onze etapas no balcão da cozinha, uma degustação menor de seis etapas e pratos à la carte. O perfil do 50 Best de 2025 descrevia cinco ou onze etapas, o que evidencia mudanças entre as temporadas.",
+      "Entre as criações documentadas estão agnolotti de cabra com limão confit, alho-negro e mel, pappardelle com polvo e guanciale, codorna com chocolate e cebola, além de combinações de truta, cenoura e massa folhada. A composição atual deve ser confirmada no menu da casa."
     ]
   },
   "chef": {
     "name": "Tássia Magalhães",
-    "bio": "Tássia Magalhães nasceu na região do Vale do Paraíba e desenvolveu no Nelita uma cozinha de referências italianas com ingredientes brasileiros e equipe feminina."
+    "bio": "Nascida em Guaratinguetá, no Vale do Paraíba paulista, Tássia Magalhães formou-se no Senac e iniciou a carreira na confeitaria do Pomodori. Aprimorou sua técnica em cozinhas europeias, como Kadeau, Amass e Geranium. Foi incluída no Forbes 30 Under 30 Brasil em 2015, recebeu Chef do Ano da Prazeres da Mesa em 2022 e o prêmio Latin America's Best Female Chef em 2025. Fundou o Nelita em 2021."
   },
   "dishes": [
     {
-      "name": "Truta com cenoura e massa folhada",
-      "desc": "Combinação apresentada no repertório do restaurante.",
+      "name": "Agnolotti de cabra com limão confit",
+      "desc": "Massa fresca recheada, combinada com limão confit, alho-negro e mel, descrita no repertório do 50 Best.",
       "photo": null
     },
     {
-      "name": "Codorna, chocolate e cebola",
-      "desc": "Prato citado entre as combinações do menu.",
+      "name": "Pappardelle com polvo",
+      "desc": "Massa artesanal associada a polvo, guanciale e espinafre, destacada na apresentação editorial do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Codorna com chocolate e cebola",
+      "desc": "Combinação autoral que utiliza chocolate e cebola em um prato salgado de codorna.",
+      "photo": null
+    },
+    {
+      "name": "Truta com cenoura e massa folhada",
+      "desc": "Preparação citada entre as criações do Nelita, unindo peixe e vegetais com técnica de massa.",
+      "photo": null
+    },
+    {
+      "name": "Burrata com hortelã e macadâmia",
+      "desc": "Entrada descrita no perfil da casa no Latin America's 50 Best, sujeita a mudanças de carta.",
+      "photo": null
+    },
+    {
+      "name": "Torrada francesa com língua bovina",
+      "desc": "Pequena preparação de referência franco-italiana descrita pela organização do 50 Best.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2015,
+      "title": "Tássia Magalhães — Forbes 30 Under 30 Brasil"
+    },
+    {
+      "year": 2022,
+      "title": "Estreia no Latin America's 50 Best Restaurants — nº 39"
+    },
+    {
+      "year": 2022,
+      "title": "Tássia Magalhães — Chef do Ano, Prazeres da Mesa"
+    },
+    {
+      "year": 2024,
+      "title": "Tássia Magalhães — New Talent Award, La Liste"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 26"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 12"
+    },
+    {
+      "year": 2025,
+      "title": "Tássia Magalhães — Latin America's Best Female Chef Award"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 54º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 54, estreia no ranking mundial"
     }
   ],
   "sources": [
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
-    "https://nelitarestaurante.com.br/"
+    "https://nelitarestaurante.com.br/",
+    "https://guide.michelin.com/br/pt_BR/sao-paulo-region/sao-paulo/restaurant/nelita",
+    "https://www.the50.com/restaurants/best-in-latin-america/the-list/nelita.html",
+    "https://www.the50.com/restaurants/best-in-latin-america/Awards/best-female-chef.html",
+    "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
+    "https://www.bloomberglinea.com.br/estilo-de-vida/menu-de-r-790-e-reservas-em-alta-como-os-premios-impulsionaram-o-sucesso-do-nelita/",
+    "https://commons.wikimedia.org/wiki/File:Pinheiros,_Sao_Paulo.jpg"
   ],
   "slug": "nelita",
   "rank": 54,
   "practical": {
-    "website": "https://nelitarestaurante.com.br",
-    "address": "Rua Ferreira de Araújo 330, São Paulo, SP, Brasil",
-    "reservation": "Para menu degustação, a casa informa necessidade de reserva; para menu fixo, mantém lugares para visitas sem agendamento, sujeitos à disponibilidade."
+    "address": "Rua Ferreira de Araújo 330, Pinheiros, São Paulo - SP, 05428-000, Brasil",
+    "website": "https://nelitarestaurante.com.br/",
+    "reservationUrl": "https://nelitarestaurante.com.br/",
+    "reservation": "Para o menu degustação, reserve pelo canal indicado no site oficial; WhatsApp +55 11 99886-2384, telefone +55 11 2626-1496 e e-mail contato@eatgroup.com.br. O site informa possibilidade de atendimento sem agendamento em lugares limitados para outras opções. Segunda a sexta das 19h às 23h; sábado das 12h às 16h e 19h às 23h; domingo fechado.",
+    "price": "O menu degustação foi reportado por R$ 790 em reportagem publicada em outubro de 2026; a página institucional consultada não confirma preço atualizado. Verificar diretamente com o Nelita antes da reserva."
+  },
+  "founded": 2021,
+  "founders": [
+    "Tássia Magalhães",
+    "Danyel Steinle"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinheiros%2C%20Sao%20Paulo.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Pinheiros,_Sao_Paulo.jpg",
+    "author": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "caption": "Imagem de Pinheiros, São Paulo, fotografada em março de 2016. Foto contextual do bairro; NÃO mostra a fachada verde nem o interior do Nelita, aberto em 2021.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "The 50 Best — perfil do Nelita",
+    "url": "https://www.the50.com/restaurants/best-in-latin-america/the-list/nelita.html",
+    "note": "A publicação identifica uma fachada verde no bairro de Pinheiros e oferece fotos do salão e da chef; essas imagens não têm licença de republicação verificada. A capa do A Carta é somente uma imagem licenciada do bairro.",
+    "additionalSources": [
+      {
+        "publisher": "Nelita — site oficial",
+        "url": "https://nelitarestaurante.com.br/",
+        "note": "Fotografias da equipe, cozinha e informações oficiais para reservas."
+      }
+    ]
   }
 }
