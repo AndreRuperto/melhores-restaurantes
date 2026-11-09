@@ -396,11 +396,13 @@ Relatório detalhado: [auditoria inicial](lotes/fase-2-auditoria-inicial.md). In
 | 2.3 | Cabeçalho corrigido após teste falhar em 320/375 px; reteste passou nas cinco larguras; 30 casos de layout sem overflow | Firefox/Safari, zoom, teclado integral e acessibilidade manual |
 | 2.4 | Identificados dois websites ausentes e 29 perfis sem reservationUrl | Confirmar canais e dados voláteis nas fontes; não equivale a 29 reservas inexistentes |
 | 2.5 | 15 medições públicas; medianas de Performance: home 95, lista 98, Asador/Khufu’s/Aponiente 88 | Metas dos perfis, robots inválido, canonical ausente e metadados genéricos |
-| 2.6 | check:profiles e build com saída zero; dez avisos editoriais preservados | Homologação e conferência do deploy da correção; nenhuma fase integralmente homologada |
+| 2.6 | check:profiles e build com saída zero; dez avisos preservados; correção em SUCCESS no Railway e teste público aprovado | Homologação integral; nenhuma fase integralmente homologada |
 
 Os logs e medições identificam a base `9efc8eb0b4149a653c01e6a6541cca62081f9c97`; medições públicas ocorreram antes da publicação da correção mobile. Não reescrever os resultados históricos da abertura como se tivessem sido medidos naquela ocasião.
 
 **Decisão registrada:** antecipar apenas a correção estreita do cabeçalho compartilhado, pois o corte de links/tema foi reproduzido durante L0. A mudança preserva identidade e tem evidência antes/depois; não libera os demais lotes sem completar a auditoria. **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+**Publicação verificada:** commit [d08fab7](https://github.com/AndreRuperto/melhores-restaurantes/commit/d08fab7de5a6afe9698492df74548f9e1a689a70), deploy Railway `9c39bd01-fed1-470b-a193-ad81c91f2186` em SUCCESS. Teste público da lista em 320/375/768/1024/1440 aprovado, sem corte dos links/tema; [evidência](lotes/fase-2-evidencias/publicacao-L0.json). Registro de 09/11/2026, 18h08 BRT, referente à versão de código observada.
 
 **Registro de testes:** npm ci, check:profiles e build executados; presença estrutural dos 100 perfis e rotas locais conferida. Resultados e limites no [relatório L0](lotes/fase-2-auditoria-inicial.md). Fontes, direitos e fatos não verificados continuam pendentes; não foram enviadas solicitações de autorização nem realizadas reservas.
 

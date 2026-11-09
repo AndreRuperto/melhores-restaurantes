@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-11-09T21:08:37.404Z",
+  "commitSha": "d08fab7de5a6afe9698492df74548f9e1a689a70",
+  "deploymentId": "9c39bd01-fed1-470b-a193-ad81c91f2186",
+  "checks": [
+    {
+      "width": 320,
+      "httpStatus": 200,
+      "viewport": 320,
+      "scrollWidth": 320,
+      "headerWrap": "wrap",
+      "asset": "https://melhores-restaurantes.up.railway.app/assets/index-FMEapZmE.js",
+      "outside": [],
+      "pass": true
+    },
+    {
+      "width": 375,
+      "httpStatus": 200,
+      "viewport": 375,
+      "scrollWidth": 375,
+      "headerWrap": "wrap",
+      "asset": "https://melhores-restaurantes.up.railway.app/assets/index-FMEapZmE.js",
+      "outside": [],
+      "pass": true
+    },
+    {
+      "width": 768,
+      "httpStatus": 200,
+      "viewport": 768,
+      "scrollWidth": 768,
+      "headerWrap": "nowrap",
+      "asset": "https://melhores-restaurantes.up.railway.app/assets/index-FMEapZmE.js",
+      "outside": [],
+      "pass": true
+    },
+    {
+      "width": 1024,
+      "httpStatus": 200,
+      "viewport": 1024,
+      "scrollWidth": 1024,
+      "headerWrap": "nowrap",
+      "asset": "https://melhores-restaurantes.up.railway.app/assets/index-FMEapZmE.js",
+      "outside": [],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "httpStatus": 200,
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "headerWrap": "nowrap",
+      "asset": "https://melhores-restaurantes.up.railway.app/assets/index-FMEapZmE.js",
+      "outside": [],
+      "pass": true
+    }
+  ],
+  "scope": "Public list page, header and document width; desktop Chrome with mobile viewports; not full product homologation"
+}

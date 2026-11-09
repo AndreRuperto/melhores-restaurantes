@@ -96,7 +96,7 @@ Nenhuma irregularidade de direito autoral foi demonstrada nesta rodada; há **ve
 
 | ID | Prioridade | Escopo | Ação e critério de saída | Estado |
 | --- | --- | --- | --- | --- |
-| L0-MOBILE | P1 | Cabeçalho compartilhado | Zero overflow e links/tema acessíveis em 320/375/768/1024/1440 | Corrigido e validado localmente; conferir publicação |
+| L0-MOBILE | P1 | Cabeçalho compartilhado | Zero overflow e links/tema acessíveis em 320/375/768/1024/1440 | Corrigido; testes locais e públicos aprovados no deploy d08fab7 |
 | L0-SITES | P1 | Meet the Bund, Ru Yuan | Confirmar canal oficial, fonte e data; preencher ou explicar ausência | A fazer |
 | L0-CAPAS | P1 | 8 perfis sem hero | Foto autorizada ou fallback neutro deliberado e registrado | A fazer |
 | L0-CANAIS | P1 | 29 sem reservationUrl | Classificar online/telefone/e-mail/contato; não fabricar botão online | A fazer |
@@ -122,7 +122,7 @@ Responsável pelo próximo levantamento: Codex; revisão factual/direitos e acei
 - [x] Reproduzir e corrigir a falha de cabeçalho; teste antes/depois e regressão local.
 - [ ] Completar revisão factual e de licença/sujeito dos 100 perfis e 339 usos.
 - [ ] Completar matriz de navegação, imagens em scroll e acessibilidade.
-- [ ] Conferir o SHA publicado e Railway; registrar em checkpoint posterior, sem presumir o resultado futuro.
+- [x] Conferir o SHA publicado e Railway: d08fab7 em SUCCESS, com cabeçalho aprovado publicamente nas cinco larguras; ver registro de publicação abaixo.
 - [ ] Nomear revisor/aceite de produto; homologar L0 somente quando seus critérios integrais forem atendidos.
 
 **Próximo passo:** concluir a auditoria de imagens e canais começando pelo lote piloto (Asador, Steirereck, Den, Khufu’s e Aponiente), mantendo os perfis em revisão até que fatos e direitos tenham evidência. Este checkpoint não libera a expansão em massa como se L0 estivesse encerrado.
@@ -131,3 +131,9 @@ Responsável pelo próximo levantamento: Codex; revisão factual/direitos e acei
 
 Revisão técnica independente por agente: números e limites conferidos, sem achado importante na correção do cabeçalho. A evidência de filtros foi ampliada com os slugs esperados/observados e o texto de isolamento de rede foi esclarecido. Isso não substitui revisão factual, de direitos ou aceite de produto.
 
+
+## Publicação conferida — 09/11/2026, 18h08 BRT
+
+Commit de código e auditoria: [d08fab7de5a6afe9698492df74548f9e1a689a70](https://github.com/AndreRuperto/melhores-restaurantes/commit/d08fab7de5a6afe9698492df74548f9e1a689a70). Railway: deploy 9c39bd01-fed1-470b-a193-ad81c91f2186 em SUCCESS para esse SHA, ambiente production. O teste da lista pública confirmou status 200, cabeçalho com quebra em 320/375 e linha única em 768/1024/1440, sem links/botões fora da tela nem overflow do documento. [Evidência pública](fase-2-evidencias/publicacao-L0.json).
+
+Este registro documenta uma publicação já observada. Não equivale à homologação integral das 100 páginas e não altera as medições Lighthouse históricas da base anterior.
