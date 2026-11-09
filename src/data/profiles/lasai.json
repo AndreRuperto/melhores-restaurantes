@@ -210,5 +210,11 @@
     "https://www.bloomberglinea.com.br/2023/03/24/lasai/",
     "https://diariodorio.com/quanto-custa-comer-no-melhor-restaurante-do-rio-de-janeiro/",
     "https://www.portalin.com.br/?p=628905"
-  ]
+  ],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Guia Michelin",
+    "url": "https://guide.michelin.com/br/pt_BR/rio-de-janeiro-region/rio-de-janeiro/restaurant/lasai",
+    "note": "O guia anuncia mudança para dezembro de 2026. Não tratar a fachada antiga do Humaitá como entrada atual após a mudança."
+  }
 }

@@ -146,5 +146,11 @@
     "https://www.dagensps.se/weekend/restaurang/tva-svenska-restauranger-lyser-i-arets-hetaste-lista/",
     "https://news.michelin.se/articles/the-2026-edition-of-the-michelin-guide-nordic-countries-has-been-unveiled",
     "https://osterlen.se/en/vyn-restaurant-hotel/"
-  ]
+  ],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "FOJAB (arquitetura)",
+    "url": "https://fojab.se/en/project/vyn-restaurant-hotel-food-bar/",
+    "note": "Fotografias do projeto real de Daniel Berlin em Österlen, concluído em 2023; não é a casa homônima de Björnrike."
+  }
 }

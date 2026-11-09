@@ -176,5 +176,11 @@
     "https://www.cuneodice.it/varie/alba-e-langhe/guida-michelin-il-piazza-duomo-fa-il-pieno-di-stelle-premiato-anche-per-la-sostenibilita_67994.html",
     "https://www.scattidigusto.it/ristorante-piazza-duomo-tre-stelle-michelin-chef-enrico-crippa",
     "https://lesgrandestablesdumonde.com/en/restaurant/piazza-duomo/"
-  ]
+  ],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Guia Michelin",
+    "url": "https://guide.michelin.com/us/en/piemonte/alba/restaurant/piazza-duomo",
+    "note": "A descrição identifica a entrada pela porta vermelha. As imagens disponíveis na fonte não comprovam a fachada isolada."
+  }
 }

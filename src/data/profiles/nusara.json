@@ -79,16 +79,46 @@
     }
   ],
   "awards": [
-    { "year": 2021, "title": "Asia's 50 Best Restaurants – nº 20 (estreia)" },
-    { "year": 2022, "title": "Asia's 50 Best Restaurants – nº 10" },
-    { "year": 2023, "title": "Asia's 50 Best Restaurants – nº 3" },
-    { "year": 2024, "title": "Asia's 50 Best Restaurants – nº 6" },
-    { "year": 2024, "title": "Asia's 50 Best Restaurants – prêmio Art of Hospitality" },
-    { "year": 2025, "title": "Asia's 50 Best Restaurants – nº 6" },
-    { "year": 2025, "title": "The World's 50 Best Restaurants – nº 35 (estreia)" },
-    { "year": 2025, "title": "1 estrela Michelin (Guia Michelin Tailândia 2026, anunciado em novembro de 2025)" },
-    { "year": 2026, "title": "Asia's 50 Best Restaurants – nº 5" },
-    { "year": 2026, "title": "The 50 Best Restaurants – nº 18" }
+    {
+      "year": 2021,
+      "title": "Asia's 50 Best Restaurants – nº 20 (estreia)"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants – nº 10"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants – nº 3"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants – nº 6"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants – prêmio Art of Hospitality"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants – nº 6"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants – nº 35 (estreia)"
+    },
+    {
+      "year": 2025,
+      "title": "1 estrela Michelin (Guia Michelin Tailândia 2026, anunciado em novembro de 2025)"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants – nº 5"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants – nº 18"
+    }
   ],
   "practical": {
     "price": "Menu degustação a partir de US$ 185 por pessoa, sem bebidas (The 50 Best, informação consultada em 2026)",
@@ -144,5 +174,11 @@
     "https://www.bosshunting.com.au/lifestyle/eat/asia-50-best-restaurants-2025",
     "https://www.timeout.com/bangkok/news/michelin-stars-in-thailand-for-2026-announced-112725",
     "https://www.bkmagazine.com/food/restaurants/suhring-joins-sorn-to-become-the-second-3-star-michelin-restaurant-in-thailand-at-the-michelin-guide-ceremony-thailand-2026/"
-  ]
+  ],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Nusara (site oficial)",
+    "url": "https://www.nusarabkk.com/nusara",
+    "note": "Apresentação do espaço no bairro de Tha Tien; a fonte não identifica uma foto da fachada."
+  }
 }
