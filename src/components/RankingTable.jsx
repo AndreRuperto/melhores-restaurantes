@@ -2,6 +2,8 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { restaurants, CONTINENTS, countBy, matches } from '../data/restaurants'
 import { Flag, Search, Tags } from './ui'
+import FilterDropdown from './FilterDropdown'
+import CountryDropdown from './CountryDropdown'
 
 const TIERS = [
   ['all', 'Todos'],
@@ -41,7 +43,24 @@ export default function RankingTable({ initial = 20 }) {
   const [country, setCountry] = useState('')
   const [all, setAll] = useState(false)
 
-  const countries = useMemo(() => countBy(restaurants, 'country').map(([c]) => c).sort((a, b) => a.localeCompare(b, 'pt')), [])
+  const continents = useMemo(() => CONTINENTS.map((name) => ({
+    name,
+    total: restaurants.filter((r) => r.continent === name).length,
+  })), [])
+  const countries = useMemo(() => countBy(
+    restaurants.filter((r) => !continent || r.continent === continent), 'country',
+  ).sort(([a], [b]) => a.localeCompare(b, 'pt-BR'))
+    .map(([name, total]) => ({
+      name,
+      total,
+      code: restaurants.find((r) => r.country === name).code,
+    })), [continent])
+
+  const changeContinent = (next) => {
+    setContinent(next)
+    setCountry('')
+    setAll(false)
+  }
 
   const rows = useMemo(() => {
     return restaurants.filter(
@@ -64,14 +83,19 @@ export default function RankingTable({ initial = 20 }) {
           {TIERS.map(([k, label]) => (
             <button key={k} className="pill" aria-pressed={tier === k} onClick={() => setTier(k)}>{label}</button>
           ))}
-          <select className="pill appearance-none" value={continent} onChange={(e) => setContinent(e.target.value)} aria-label="Continente">
-            <option value="">Todos os continentes</option>
-            {CONTINENTS.map((c) => <option key={c}>{c}</option>)}
-          </select>
-          <select className="pill appearance-none" value={country} onChange={(e) => setCountry(e.target.value)} aria-label="País">
-            <option value="">Todos os países</option>
-            {countries.map((c) => <option key={c}>{c}</option>)}
-          </select>
+          <FilterDropdown
+            options={continents}
+            value={continent}
+            onChange={changeContinent}
+            allLabel="Todos os continentes"
+            ariaLabel="Filtrar por continente"
+            showCounts
+          />
+          <CountryDropdown
+            options={countries}
+            value={country}
+            onChange={(next) => { setCountry(next); setAll(false) }}
+          />
         </div>
         <p className="text-center text-sm italic text-muted">{rows.length} {rows.length === 1 ? 'restaurante' : 'restaurantes'}</p>
       </div>
