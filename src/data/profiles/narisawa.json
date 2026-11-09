@@ -1,35 +1,82 @@
 {
-  "lede": "O Narisawa, em Tóquio, transforma a paisagem e a biodiversidade japonesas em uma linguagem culinária própria.",
+  "lede": "No bairro Minami-Aoyama, em Tóquio, Yoshihiro Narisawa transforma a ideia japonesa de satoyama — a convivência entre aldeias, campos e florestas — em um menu de natureza e sustentabilidade. Seu restaurante tornou-se uma das referências da cozinha contemporânea do Japão por pratos como o Bread of the Forest e a Soil Soup.",
   "history": [
-    "Yoshihiro Narisawa desenvolveu o conceito de gastronomia ligada à natureza e à sustentabilidade da floresta japonesa.",
-    "Yoshihiro Narisawa organiza o menu como uma experiência variável, inspirada pelas comunidades de produtores, coletores e agricultores do Japão. A sequência pode mudar diariamente."
+    "Yoshihiro Narisawa cresceu em uma família de confeiteiros no Japão e partiu para a Europa aos 19 anos. Durante oito anos, estudou e trabalhou com chefs como Joël Robuchon e Paul Bocuse. Em 1996, de volta ao país, abriu o restaurante La Napoule, em Kanagawa.",
+    "Em 2003, mudou a experiência gastronômica para Minami-Aoyama, em Tóquio, sob o nome Les Créations de Narisawa. Em 2011, a casa adotou o nome Narisawa. A partir de ingredientes, paisagens e técnicas japonesas, o chef desenvolveu o conceito de Innovative Satoyama Cuisine.",
+    "O satoyama designa as áreas rurais onde montanhas, mata, lavouras e comunidades convivem em equilíbrio. Na cozinha, essa relação aparece em ingredientes colhidos, produtos preservados, elementos terrosos comestíveis e pratos que lembram a aparência de musgo e floresta. A equipe também participa de ações ambientais, como replantio em aldeias montanhosas.",
+    "Narisawa foi eleito o melhor restaurante da Ásia na primeira edição do Asia's 50 Best, em 2013. No ranking mundial, terminou 2025 em 21º e apareceu na lista estendida de 2026 em 59º, mantendo a identidade de uma cozinha japonesa que explora os limites entre natureza e cultura."
   ],
   "cuisine": {
-    "style": "Cozinha japonesa contemporânea de inspiração natural",
+    "style": "Innovative Satoyama Cuisine — cozinha japonesa contemporânea ligada à floresta",
     "paragraphs": [
-      "Ingredientes de diferentes ecossistemas japoneses são trabalhados em pratos que dialogam com solo, floresta e estações.",
-      "O Bread of the Forest é um exemplo da proposta: a massa cresce diante dos convidados e é servida com manteiga que remete ao musgo."
+      "O cardápio celebra produtos de agricultores, coletores e pescadores de diferentes regiões do Japão. Cada experiência é montada segundo a estação e o abastecimento, de modo que a sequência não pode ser descrita como uma carta fixa de pratos.",
+      "O Bread of the Forest é uma das criações históricas mais conhecidas: a massa cresce e termina de assar diante dos convidados, numa tigela de pedra aquecida, e é servida com uma manteiga que remete visualmente ao musgo. A Soil Soup desenvolve a ideia de uma sopa ligada à terra, com raiz de bardana e elementos comestíveis de aspecto terroso.",
+      "O restaurante usa louças e materiais tradicionais, como laca e papel washi, para completar a relação com o território japonês. O menu atual é omakase, isto é, fica a critério da cozinha, e pode receber ajustes por necessidade alimentar comunicada antecipadamente."
     ]
   },
   "chef": {
     "name": "Yoshihiro Narisawa",
-    "bio": "Yoshihiro Narisawa fundou o restaurante e conduz uma cozinha voltada aos ecossistemas japoneses e a métodos de cultivo e coleta regionais."
+    "bio": "Filho de uma família de confeiteiros, Yoshihiro Narisawa deixou o Japão aos 19 anos para passar oito anos em cozinhas europeias, inclusive as de Joël Robuchon e Paul Bocuse. Voltou em 1996, abriu La Napoule, mudou para Tóquio em 2003 e renomeou a casa Narisawa em 2011. Tornou-se conhecido pela Innovative Satoyama Cuisine e pelo compromisso em preservar ecossistemas rurais do Japão."
   },
   "awards": [
     {
+      "year": 2013,
+      "title": "Asia's 50 Best Restaurants — nº 1, melhor restaurante da Ásia"
+    },
+    {
+      "year": 2013,
+      "title": "Sustainable Restaurant Award — The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 21"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 59º lugar no ranking mundial"
+      "title": "Asia's 50 Best Restaurants — nº 37"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 59 (lista estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.narisawa-yoshihiro-en.com/",
+    "https://www.narisawa-yoshihiro-en.com/reservation",
+    "https://www.narisawa-yoshihiro.com/menu",
+    "https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/narisawa",
+    "https://www.theworlds50best.com/the-list/narisawa.html",
+    "https://www.the50.com/restaurants/best-in-asia/previous-list/2017",
+    "https://www.prnewswire.co.uk/news-releases/the-chairman-in-hong-kong-is-named-no1-in-the-list-of-asias-50-best-restaurants-2026-302725038.html",
+    "https://commons.wikimedia.org/wiki/File:Narisawa_restaurant.jpg"
   ],
   "slug": "narisawa",
   "rank": 59,
   "dishes": [
     {
       "name": "Bread of the Forest",
-      "desc": "Massa que cresce à mesa por calor indireto, servida com manteiga inspirada no ambiente da floresta.",
+      "desc": "Pão que cresce e termina de assar em um recipiente de pedra à mesa, acompanhado de manteiga inspirada na aparência do musgo; assinatura histórica.",
+      "photo": null
+    },
+    {
+      "name": "Soil Soup",
+      "desc": "Sopa conceitual de raiz de bardana e elementos terrosos comestíveis, evocando o aroma e a textura do solo; exemplo do repertório histórico.",
+      "photo": null
+    },
+    {
+      "name": "Satoyama Scenery",
+      "desc": "Paisagem comestível inspirada em musgo e vegetação de floresta, associada à filosofia ambiental do chef; composição muda entre versões.",
+      "photo": null
+    },
+    {
+      "name": "Ingredientes de montanha e horta",
+      "desc": "Preparações sazonais de raízes, ervas e vegetais colhidos no Japão, sem uma receita fixa anunciada pela casa.",
+      "photo": null
+    },
+    {
+      "name": "Pescados de estação",
+      "desc": "Peixes e frutos do mar selecionados segundo o abastecimento diário, tratados para expressar os ecossistemas do arquipélago.",
       "photo": null
     }
   ],
@@ -40,5 +87,31 @@
     "license": "CC BY-SA 4.0",
     "caption": "Restaurante Narisawa em Tóquio, fotografado em 2017",
     "illustrative": false
+  },
+  "founded": 2003,
+  "founders": [
+    "Yoshihiro Narisawa"
+  ],
+  "practical": {
+    "website": "https://www.narisawa-yoshihiro-en.com/",
+    "address": "2-6-15 Minamiaoyama, Minato-ku, Tóquio 107-0062, Japão",
+    "reservationUrl": "https://www.narisawa-yoshihiro-en.com/reservation",
+    "reservation": "Reservas online pela plataforma OMAKASE, acessada no site oficial. A página consultada informa abertura no primeiro dia útil do mês anterior, às 10h, com regras especiais de confirmação. Serviço de terça a sábado, no almoço e jantar; fechado domingo e segunda. A política prevê taxas de 50% de cinco a três dias antes e 100% de dois dias antes até a data da visita.",
+    "price": "Menu omakase único: ¥ 68.000 por pessoa no almoço ou jantar, impostos e serviço incluídos, conforme o site japonês oficial consultado em novembro de 2026."
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Narisawa_restaurant.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Narisawa_restaurant.jpg",
+    "author": "Pocsywe",
+    "license": "CC BY-SA 4.0",
+    "caption": "Registro real do restaurante Narisawa em Minami-Aoyama, Tóquio, fotografado em 2017. Imagem histórica da fachada; a aparência pode ter mudado.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "NARISAWA — site oficial",
+    "url": "https://www.narisawa-yoshihiro-en.com/",
+    "note": "Fotografias atuais dos preparos e ambientes do restaurante na fonte oficial, sem licença pública confirmada para republicação. A capa publicada é a foto real do restaurante de 2017 em Wikimedia Commons (CC BY-SA 4.0)."
   }
 }
