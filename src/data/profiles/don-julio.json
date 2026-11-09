@@ -1,58 +1,98 @@
 {
-  "lede": "O Don Julio, no bairro de Palermo em Buenos Aires, celebra a parrilla e os produtos agrícolas argentinos.",
+  "lede": "Na esquina de Guatemala com Gurruchaga, em Palermo, Buenos Aires, o Don Julio levou a parrilla de bairro ao cenário mundial. Pablo Rivero valorizou produtores argentinos, maturação de carnes e cultivo responsável, enquanto o chef Guido Tassi deu precisão contemporânea ao fogo e aos acompanhamentos.",
   "history": [
-    "Pablo Rivero abriu a casa como restaurante de bairro e desenvolveu uma rede de fornecedores e produção própria. Guido Tassi conduz a cozinha.",
-    "Pablo Rivero abriu o Don Julio em Palermo há cerca de vinte e cinco anos. A casa mantém sua natureza de parrilla de bairro, mas ampliou a relação com produção rural e agricultura regenerativa."
+    "Quando Pablo Rivero abriu o Don Julio no fim dos anos 1990, em Palermo Viejo, queria preservar o espírito das parrillas portenhas: cortes bem tratados, carvão, conversa à mesa e atendimento de casa de bairro. O restaurante cresceu no mesmo endereço, ocupando um edifício de esquina hoje reconhecido pelas fachadas avermelhadas e pelas toldos listrados.",
+    "Rivero vem de família ligada à pecuária e buscou construir vínculos diretos com quem produz. O projeto passou a acompanhar a seleção, o abate, a maturação e o preparo das carnes, especialmente de animais das raças Hereford e Angus, e incorporou hortas com vegetais de variedades tradicionais.",
+    "O chef executivo Guido Tassi participa da renovação do repertório sem abandonar o essencial: a parrilla em V, que direciona a gordura para longe da brasa, e os cortes feitos sobre carvão de quebracho. O ponto da carne, os molhos e o cuidado com os vegetais sazonais são tratados como partes igualmente importantes da experiência.",
+    "A projeção internacional do Don Julio foi crescendo com premiações gastronômicas: liderou o Latin America's 50 Best Restaurants em 2020 e 2024, recebeu uma estrela Michelin e uma estrela verde em 2024 e chegou ao 10º lugar mundial em 2025. Em 2026 aparece em 44º no ranking mundial."
   ],
   "cuisine": {
-    "style": "Parrilla argentina e vegetais de origem rastreável",
+    "style": "Parrilla argentina, carnes maturadas e agricultura regenerativa",
     "paragraphs": [
-      "Os cortes de carne passam por maturação e preparo na brasa, enquanto hortaliças sazonais também têm papel de destaque.",
-      "Parte importante da carne e das hortaliças vem de produção própria. Os cortes são preparados e maturados na casa; entre os vegetais há tomates de variedades tradicionais e hortaliças sazonais."
+      "A casa parte dos clássicos da parrilla: ojo de bife, bife ancho, entraña, cortes com osso, linguiças e outros preparos feitos lentamente sobre a grelha. A carne é selecionada e maturada sob controle da equipe; a churrasqueira em V procura reduzir fumaça indesejada produzida pela gordura que cai nas brasas.",
+      "O cardápio também valoriza uma coleção de vegetais cultivados com cuidado, entre eles tomates de variedades tradicionais, aspargos e abobrinhas sazonais. A produção rural é parte central do projeto de Pablo Rivero, que relaciona gastronomia, manejo de pastagens e recuperação dos solos.",
+      "O Don Julio não funciona como uma experiência de menu fixo: a proposta é escolher cortes e acompanhamentos à la carte. Pratos e disponibilidade variam conforme a estação e o abastecimento."
     ]
   },
   "chef": {
-    "name": "Guido Tassi",
-    "bio": "Guido Tassi é o chef executivo do Don Julio; Pablo Rivero dirige o projeto e a relação com produtores."
+    "name": "Guido Tassi (chef executivo) e Pablo Rivero (fundador)",
+    "bio": "Guido Tassi responde pela execução culinária do Don Julio e pelo diálogo entre a parrilla clássica e os acompanhamentos sazonais. Pablo Rivero, proprietário e idealizador, coordena o projeto de produtores, agricultura e hospitalidade. A proposta combina pesquisa do ingrediente com uma experiência de parrilla argentina tradicional."
   },
   "dishes": [
     {
-      "name": "Bife ancho na parrilla",
-      "desc": "Corte bovino preparado na grelha argentina.",
+      "name": "Ojo de bife na parrilla",
+      "desc": "Corte bovino da região do contrafilé, muito procurado no restaurante, preparado na brasa.",
       "photo": null
     },
     {
-      "name": "Salada de tomates de variedades tradicionais",
-      "desc": "Preparação feita com tomates de produção selecionada.",
+      "name": "Entraña",
+      "desc": "Corte de sabor intenso, marcado pelo fogo e servido como um dos clássicos da casa.",
       "photo": null
     },
     {
-      "name": "Entraña na parrilla",
-      "desc": "Corte tradicional argentino feito sobre brasas.",
+      "name": "Salada de tomates tradicionais",
+      "desc": "Tomates de variedades antigas produzidos por fornecedores e hortas vinculados ao projeto, servidos conforme a safra.",
       "photo": null
     },
     {
       "name": "Chouriço em espiral",
-      "desc": "Embutido de formato característico mencionado entre os favoritos da casa.",
+      "desc": "Embutido grelhado apresentado em formato espiral, citado entre as especialidades da parrilla.",
+      "photo": null
+    },
+    {
+      "name": "Bife com osso",
+      "desc": "Corte espesso preparado na grelha, em serviço à la carte, conforme a seleção disponível no dia.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2018,
+      "title": "Art of Hospitality Award — Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2020,
+      "title": "Latin America's 50 Best Restaurants — nº 1, melhor da América Latina"
+    },
+    {
+      "year": 2024,
+      "title": "Uma estrela Michelin — Guia Michelin Argentina"
+    },
+    {
+      "year": 2024,
+      "title": "Estrela Verde Michelin — reconhecimento de práticas de sustentabilidade"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 1, melhor da América Latina"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 10"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 44º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 44"
     }
   ],
   "practical": {
-    "address": "Guatemala 4691, Palermo Viejo, Buenos Aires, Argentina",
-    "website": "https://www.parrilladonjulio.com"
+    "address": "Guatemala 4699, esquina com Gurruchaga, Palermo Viejo, Buenos Aires, Argentina",
+    "website": "https://www.parrilladonjulio.com/",
+    "reservationUrl": "https://donjulio.meitre.com/",
+    "reservation": "Reservas pelo sistema Meitre, acessível no site oficial, ou pelo telefone +54 11 4507-9873. Serviço diário de 11h30 às 16h e das 19h à 1h, segundo o restaurante. A disponibilidade e eventuais garantias precisam ser confirmadas no momento da reserva.",
+    "price": "Cardápio à la carte; preços atuais não publicados de forma verificável no site institucional aberto. Consultar os valores diretamente com a casa."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/don.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
     "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
     "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
-    "https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg"
+    "https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg",
+    "https://www.parrilladonjulio.com/",
+    "https://donjulio.meitre.com/",
+    "https://guide.michelin.com/gb/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/don-julio",
+    "https://www.the50.com/stories/News/latin-americas-50-best-restaurants-2024-list-revealed.html",
+    "https://www.argentina.travel/pt/novidades/don-julio-o-corte-de-carne-que-voce-nao-pode-deixar-de-experimentar"
   ],
   "slug": "don-julio",
   "rank": 44,
@@ -73,5 +113,15 @@
       "caption": "Outro ângulo do Don Julio, em dezembro de 2024",
       "illustrative": false
     }
-  ]
+  ],
+  "founded": 1999,
+  "founders": [
+    "Pablo Rivero"
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Don Julio — registros Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
+    "note": "Fotografia real da entrada do Don Julio, já reproduzida na capa com crédito e licença CC BY 4.0. Outra foto da casa aparece na galeria."
+  }
 }
