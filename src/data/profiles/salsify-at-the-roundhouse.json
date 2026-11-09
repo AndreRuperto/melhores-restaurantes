@@ -1,40 +1,116 @@
 {
-  "lede": "O Salsify at the Roundhouse, em Camps Bay, combina vistas para o litoral da Cidade do Cabo com cozinha sul-africana contemporânea.",
+  "lede": "Instalado no histórico Roundhouse, acima de Camps Bay, o Salsify combina o litoral da Cidade do Cabo com pratos sul-africanos sazonais. Ryan Cole e Nina du Toit desenvolvem uma experiência de alta cozinha que relaciona pesca, vegetais, carnes regionais e a história de um edifício do século XVIII.",
   "history": [
-    "O restaurante ocupa o histórico Roundhouse e valoriza produtos do litoral e do interior do país.",
-    "No histórico Roundhouse, em Camps Bay, a paisagem costeira da Cidade do Cabo faz parte da experiência, mas o menu tem identidade própria."
+    "O Roundhouse, construção associada à história de Camps Bay, data de 1786 e reúne marcas de diferentes períodos de ocupação. Sua posição entre a encosta e o Atlântico tornou a casa um local singular para experiências de hospitalidade no Cabo.",
+    "O Salsify abriu as portas no edifício em 2018. A proposta, conduzida pelo chef Ryan Cole, foi unir serviço de alta gastronomia com sabores contemporâneos da África do Sul, fazendo da vista e da arquitetura partes do percurso de visita.",
+    "Em 2022, o salão foi redesenhado pelo designer Jean-François de Villiers, preservando características da construção e incorporando elementos de arte contemporânea. Ryan Cole atua como chef executivo e coproprietário; Nina du Toit participa da liderança culinária.",
+    "O restaurante avançou na cena internacional: conquistou o reconhecimento de Restaurante do Ano do Eat Out Woolworths Restaurant Awards em 2025, entrou na lista mundial estendida em 88º naquele ano e subiu a 71º em 2026. As distinções são datadas para não sugerir que o restaurante já detinha esses resultados desde a abertura."
   ],
   "cuisine": {
-    "style": "Cozinha sul-africana contemporânea",
+    "style": "Cozinha sul-africana contemporânea de mar e campo",
     "paragraphs": [
-      "Peixes, plantas costeiras e preparações de carnes aparecem em menus sazonais.",
-      "A seleção inclui pescados de linha com prenia e alho-poró confitado e combinações de língua e bochecha de boi com pimenta africana."
+      "O cardápio trabalha com pescados da costa, carnes e ingredientes cultivados na África do Sul. A equipe combina técnica moderna, fermentações, ervas, notas de fogo e preparos de inspiração local em menus de degustação sazonais.",
+      "O Chef's Menu divulgado pela casa inclui exemplos como pão de fermentação natural com alho-negro, mexilhões com atchar de limão, peixe de linha com prenia e alho-poró confitado e língua e bochecha de boi com pimenta africana.",
+      "Há também pratos com polvo grelhado, cordeiro do Karoo e sobremesas que utilizam frutas locais. A descrição corresponde à carta publicada durante a consulta, não constitui garantia de que todas as etapas estarão disponíveis em uma reserva futura."
     ]
   },
   "chef": {
-    "name": "Ryan Cole"
+    "name": "Ryan Cole (chef executivo) e Nina du Toit (liderança de cozinha)",
+    "bio": "Ryan Cole lidera o Salsify desde sua abertura, em 2018, e participa da propriedade da casa. Sua cozinha destaca produtos sul-africanos e sabores do litoral, apoiada por uma equipe na qual Nina du Toit também assume papel de liderança. Cole recebeu o prêmio de Chef do Ano do Eat Out em 2023."
   },
   "dishes": [
     {
-      "name": "Peixe de linha com prenia e alho-poró confitado",
-      "desc": "Prato com a planta costeira sul-africana prenia.",
+      "name": "Peixe de linha, prenia e alho-poró",
+      "desc": "Peixe costeiro com prenia, planta sul-africana, e alho-poró confitado; exemplo apresentado no menu oficial consultado.",
       "photo": null
     },
     {
-      "name": "Língua e bochecha de boi com pimenta africana",
-      "desc": "Prato citado entre as combinações da cozinha do Salsify.",
+      "name": "Língua e bochecha de boi",
+      "desc": "Cortes bovinos com pimenta africana e louro, numa combinação de técnica lenta e sabores intensos.",
+      "photo": null
+    },
+    {
+      "name": "Polvo assado no fogo",
+      "desc": "Polvo tostado acompanhado de tomate, amendoim e aipo, conforme versão do Chef's Menu publicado.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro do Karoo",
+      "desc": "Cordeiro com sour fig e molho de alho-silvestre, produto ligado à paisagem rural sul-africana.",
+      "photo": null
+    },
+    {
+      "name": "Morango, goiaba e camomila",
+      "desc": "Sobremesa frutada do percurso sazonal publicado, reunindo acidez e notas florais.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2023,
+      "title": "Ryan Cole — Chef do Ano, Eat Out Woolworths Restaurant Awards"
+    },
+    {
+      "year": 2024,
+      "title": "Africa's Best Landmark Restaurant — World Culinary Awards"
+    },
+    {
+      "year": 2025,
+      "title": "Restaurante do Ano — Eat Out Woolworths Restaurant Awards"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 88, lista estendida"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 71º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 71, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://salsify.co.za/home/",
+    "https://salsify.co.za/about/",
+    "https://salsify.co.za/menus/",
+    "https://salsify.co.za/reservations/",
+    "https://salsify.co.za/salsify-at-the-round-house-reimagined/",
+    "https://www.timeout.com/cape-town/news/cape-town-restaurants-soar-in-worlds-best-restaurants-rankings-102126",
+    "https://indagare.com/restaurant/salsify-at-the-roundhouse",
+    "https://commons.wikimedia.org/wiki/File:Camps_bay.jpg"
   ],
   "slug": "salsify-at-the-roundhouse",
-  "rank": 71
+  "rank": 71,
+  "founded": 2018,
+  "founders": [
+    "Ryan Cole e equipe do Salsify"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Camps%20bay.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Camps_bay.jpg",
+    "author": "Hein waschefort",
+    "license": "CC BY-SA 3.0",
+    "caption": "Vista de Camps Bay, Cidade do Cabo, em maio de 2006. Imagem ilustrativa da paisagem costeira; não mostra a fachada do Salsify.",
+    "illustrative": true
+  },
+  "practical": {
+    "website": "https://salsify.co.za/",
+    "address": "The Roundhouse, Roundhouse Road, Camps Bay, Cidade do Cabo 8005, África do Sul",
+    "reservationUrl": "https://salsify.co.za/reservations/",
+    "reservation": "Reservas na página oficial; a casa solicita depósito de ZAR 1.000 por pessoa para confirmar a mesa, com pagamento dentro de 24 horas. Jantar na segunda-feira; almoço e jantar de terça a sábado; fechado domingo. Contato: +27 21 010 6444. Verificar eventuais alterações de acesso viário descritas na página de reservas.",
+    "price": "Chef's Menu de dez etapas: ZAR 2.100 por pessoa; almoço especial anunciado: ZAR 1.090. Valores sujeitos a mudança e cobrança de serviço conforme a página oficial."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Indagare — Salsify at the Roundhouse",
+    "url": "https://indagare.com/restaurant/salsify-at-the-roundhouse",
+    "note": "Fotografia real da entrada circular do Salsify. O A Carta apresenta uma imagem licenciada de Camps Bay como contexto; não republica a foto de Indagare por ausência de licença livre.",
+    "additionalSources": [
+      {
+        "publisher": "Salsify — site oficial",
+        "url": "https://salsify.co.za/home/",
+        "note": "Registros da fachada, dos ambientes e dos pratos nas galerias do restaurante."
+      }
+    ]
+  }
 }
