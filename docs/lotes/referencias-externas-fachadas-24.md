@@ -20,6 +20,22 @@ Data: 8 de novembro de 2026
 - **Ainda faltam** fotos externas atuais e reutilizáveis nos 24 perfis anteriores. Mencionar a fonte abaixo da página não concede automaticamente licença de cópia ou incorporação.
 - Não houve execução local de `npm run check:profiles` ou `npm run build` nesta sessão por indisponibilidade de acesso ao repositório pela rede do ambiente de testes. Os commits foram feitos diretamente na `main`; verificar o build do deploy no Railway.
 
+## Novo lote de 5 perfis — fotografias editoriais em destaque (08/11/2026)
+
+A aplicação do mesmo componente de destaque já utilizado em Gaggan, Kadeau e Meet the Bund foi estendida às páginas abaixo. Em todos os casos a imagem já constava da galeria com autor, URL de origem e licença registrada no JSON. Ela agora aparece na seção **O lugar**, sem duplicação na galeria, e seus créditos continuam acessíveis no rodapé.
+
+| Posição | Perfil | Foto exibida no próprio A Carta | Restrição de identificação |
+|---:|---|---|---|
+| 7 | Kjolle | Pía León, Virgilio Martínez e Malena Martínez — Mater Iniciativa | Retrata pessoas ligadas ao restaurante, **não** sua fachada |
+| 12 | Sorn | Vagens de sato no mercado de Phuket | Fotografia da culinária regional, **não** a sede do restaurante |
+| 13 | Mérito | Fachadas do bairro Barranco, em Lima | Fotografia da região, **não** da fachada do Mérito |
+| 14 | Sühring | Passarela de Chong Nonsi, Bangcoc | Fotografia do entorno, **não** da vila do Sühring |
+| 16 | Tuju | Jardim Paulistano, São Paulo, em 2010 | Fotografia antiga do bairro, **não** a fachada atual do Tuju |
+
+**Resultado:** cinco perfis têm uma fotografia licenciada e creditada em destaque. A contagem de fachadas de estabelecimentos **permanece 16/40**: este lote **não** acrescentou fotografia verificada das fachadas que faltam.
+
+**Fontes de fachada pendentes:** RF Studio (Kjolle), Nation Thailand/The Star (Sorn), ArchDaily (Mérito — arquitetura), site oficial do Sühring e Folha de S.Paulo (Tuju). Os links continuam disponíveis nas páginas individuais. A atribuição no rodapé não autoriza copiar imagens dessas fontes sem licença.
+
 ## Inventário das fontes
 
 | Posição | Restaurante | Tipo | Publicação | Link |
