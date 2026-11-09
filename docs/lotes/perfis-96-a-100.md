@@ -47,7 +47,7 @@ Encerramento dos cinco últimos perfis do ranking mundial estendido 2026: **Rose
 
 - Fundado em **2017** pelos chefs **David Castro Hussong e Maribel Aldaco Silva**, com ingredientes regionais e pratos para compartilhar.
 - Repertório documentado pelo Michelin: repolho na brasa, cenouras com tutano e tortillas, vieiras com purê de berinjela, codorna defumada com chile e churro quente com goiaba e doce de leite.
-- **One To Watch Ásia? Não** — este prêmio foi do **Latin America's 50 Best, 2020**. Highest New Entry na **América Latina em 2022**, melhor restaurante do México na lista latino-americana em 2023, Maribel Aldaco — Latin America's Best Pastry Chef 2023. Nº 17 na América Latina em 2025 e **99º mundial estendido em 2026**, retorno à lista.
+- **Prêmios:** One To Watch do **Latin America's 50 Best (2020)**, Highest New Entry na América Latina em **2022** e melhor restaurante do México na edição latino-americana de **2023**. Maribel Aldaco recebeu o Latin America's Best Pastry Chef em 2023. A casa foi nº 17 na América Latina em 2025 e **99º mundial estendido em 2026**, retorno à lista.
 - **Guia Michelin:** restaurante **recomendado**, sem estrela Michelin confirmada. Não confundir a presença no guia com premiação estrelada.
 - **Reservas:** https://www.opentable.com.mx/r/fauna-ensenada ou telefone **+52 646 267 0774** informado pelo Michelin. Preço atual não confirmado na carta pública.
 - Fotos e fonte gastronômica: https://guide.michelin.com/us/en/baja-california/valle-de-guadalupe_7770290/restaurant/fauna-1208366 ; https://www.theworlds50best.com/latinamerica/en/the-list/fauna.html . Sem licença aberta de republicação demonstrada.
