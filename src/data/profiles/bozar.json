@@ -1,57 +1,112 @@
 {
-  "lede": "Dentro do centro de artes Bozar, em Bruxelas, o restaurante de Karen Torosyan dá destaque à precisão da cozinha clássica francesa.",
+  "lede": "Instalado no Palais des Beaux-Arts de Bruxelas, o Bozar transforma receitas francesas e belgas em exercícios de precisão. Karen Torosyan, mestre das massas recheadas e da pâtisserie salgada, usa pithiviers, pâté en croûte e Wellington para unir a arquitetura de Victor Horta à cozinha feita com tempo e rigor.",
   "history": [
-    "A casa integra o complexo cultural projetado por Victor Horta e transforma técnicas demoradas de panificação e confeitaria salgada em parte importante da experiência.",
-    "O restaurante está dentro do Centro de Belas-Artes de Bruxelas, projetado por Victor Horta. Karen Torosyan leva ao menu o mesmo cuidado técnico que caracteriza trabalhos artesanais complexos."
+    "O Bozar Restaurant faz parte do Palais des Beaux-Arts, o grande centro cultural de Bruxelas projetado por Victor Horta e construído entre 1922 e 1929. A proposta da casa aproveita a força arquitetônica do edifício: um ambiente em que exposições, música e refeição dividem a mesma paisagem cultural.",
+    "Karen Torosyan, de família armênia e nascido na Geórgia, mudou-se para a Bélgica ainda jovem. Desenvolveu sua carreira com profundo interesse pelo artesanato de cozinha: massas folhadas, terrinas e preparações que exigem muitos estágios de montagem e cocção. Seu trabalho no Bozar trouxe essas técnicas tradicionais para o centro de uma experiência contemporânea.",
+    "Na cozinha, Torosyan trabalha com a chef executiva Cassandre Ercolini e uma equipe que apresenta parte das peças de massa antes do forno. A experiência combina o espetáculo discreto de uma execução rigorosa com uma leitura pessoal de clássicos franceses e belgas, sem afastar o cliente do sabor dos ingredientes.",
+    "A notoriedade do restaurante consolidou-se com o reconhecimento do Guia Michelin, que lhe concedeu a segunda estrela em 2023. Torosyan foi escolhido Chef do Ano 2026 pelo Gault&Millau belga; no mesmo ano, o Bozar estreou em 42º no ranking mundial The 50 Best."
   ],
   "cuisine": {
-    "style": "Alta cozinha francesa clássica",
+    "style": "Francesa e belga moderna, com grande domínio de massas",
     "paragraphs": [
-      "A massa folhada é uma especialidade da casa, usada em preparações trabalhosas como pithiviers e versões de pratos tradicionais.",
-      "Pithiviers, pâté en croûte e outras receitas de massa folhada são centrais na proposta. O chef também desenvolveu durante dois anos um mille-feuille feito no momento do serviço."
+      "O ponto de partida da casa é o respeito às estruturas da cozinha clássica: massas crocantes de múltiplas camadas, recheios suculentos e molhos preparados para reforçar o sabor de cada produto. O pithivier e o pâté en croûte são manifestações emblemáticas dessa abordagem.",
+      "O menu oficial oferece percursos degustação e seleções de clássicos. Na carta consultada em novembro de 2026 constavam caranguejo da Bretanha com azedinha, lagosta-azul com guanciale e estragão, robalo ikejime com algas, vitela com vegetais e sobremesas sazonais.",
+      "Especialidades como pithivier e Granivore exigem reserva com pelo menos 48 horas, conforme a carta oficial. O boeuf Wellington e o mille-feuille montado no momento sintetizam o compromisso da cozinha com temperatura, textura e precisão."
     ]
   },
   "chef": {
     "name": "Karen Torosyan",
-    "bio": "Nascido na Armênia, Karen Torosyan especializou-se em preparações clássicas francesas que exigem camadas, tempo e precisão, especialmente na massa folhada."
+    "bio": "Nascido na Geórgia, em família de origem armênia, Karen Torosyan chegou a Bruxelas aos 18 anos. Desenvolveu uma identidade culinária centrada no trabalho manual e na precisão das massas clássicas, especialmente pâté en croûte, pithivier e Wellington. Trabalha com a chef executiva Cassandre Ercolini."
   },
   "dishes": [
     {
-      "name": "Pithivier",
-      "desc": "Torta de massa folhada com recheio salgado, montada com técnica precisa.",
+      "name": "Pithivier de pato",
+      "desc": "Massa folhada com pato, foie gras e molho do assado. Especialidade do menu de clássicos, com pedido antecipado de pelo menos 48 horas.",
       "photo": null
     },
     {
-      "name": "Boeuf Wellington",
-      "desc": "Carne envolta em massa folhada, uma das especialidades citadas pelo restaurante.",
-      "photo": null
-    },
-    {
-      "name": "Mille-feuille à la minute",
-      "desc": "Sobremesa de massa folhada montada no momento, após anos de aperfeiçoamento da receita.",
+      "name": "Wellington de boi da Galícia",
+      "desc": "Carne envolta em massa folhada, na versão da casa acompanhada por cogumelos girolles e lardo.",
       "photo": null
     },
     {
       "name": "Granivore",
-      "desc": "Preparação de pombo com foie gras, enguia defumada e crosta de sementes.",
+      "desc": "Criação autoral com pombo, foie gras e enguia defumada, apresentada como percurso especial que exige solicitação antecipada.",
       "photo": null
+    },
+    {
+      "name": "Mille-feuille à la minute",
+      "desc": "Sobremesa de massa folhada assada e finalizada no serviço, com baunilha do Taiti na versão consultada.",
+      "photo": null
+    },
+    {
+      "name": "Pâté en croûte",
+      "desc": "Clássico da charcutaria francesa que tornou conhecido o domínio técnico de Torosyan.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat%C3%A9_en_croute.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Pat%C3%A9_en_croute.jpg",
+        "author": "Arie M. den Toom",
+        "license": "CC BY-SA 4.0",
+        "caption": "Pâté en croûte tradicional, fotografado fora do Bozar. Imagem ilustrativa do tipo de preparo; não é prato servido no restaurante.",
+        "illustrative": true
+      }
     }
   ],
   "awards": [
     {
+      "year": 2023,
+      "title": "Segunda estrela Michelin — Guia Michelin Bélgica"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 42º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin — Guia Michelin Bélgica"
+    },
+    {
+      "year": 2026,
+      "title": "Karen Torosyan: Chef do Ano, Gault&Millau Bélgica"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 42, estreia no ranking mundial"
     }
   ],
   "practical": {
     "address": "Rue Baron Horta 3, 1000 Bruxelas, Bélgica",
-    "website": "https://www.bozar.be"
+    "website": "https://bozarrestaurant.be/en/",
+    "reservationUrl": "https://bozarrestaurant.be/en/reservation",
+    "price": "Menu Bozar: € 275 (7 etapas); Menu Horta: € 195 (5 etapas, dias selecionados); almoço degustação: € 115 (3 etapas), valores publicados no menu consultado em novembro de 2026.",
+    "reservation": "Reservas diretamente na página oficial. Pithiviers e Granivore exigem antecedência mínima de 48 horas; para grupos acima de 8 pessoas, escrever para info@bozarrestaurant.be. Normalmente fechado às segundas e domingos; confirmar o horário ao reservar."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/bozar.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://bozarrestaurant.be/en/",
+    "https://bozarrestaurant.be/en/menu",
+    "https://bozarrestaurant.be/en/contact",
+    "https://bozarrestaurant.be/en/reservation",
+    "https://guide.michelin.com/us/en/bruxelles-capitale/bruxelles/restaurant/bozar-restaurant",
+    "https://guide.michelin.com/en/article/dining-out/how-karen-torosyan-reinvented-the-tourte-at-bozar-restaurant-in-brussels",
+    "https://www.bozar.be/en/bozar-restaurant",
+    "https://www.visit.brussels/en/visitors/where-to-eat/gastronomic-restaurants-in-brussels",
+    "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Palais_des_Beaux-Arts_(3).jpg",
+    "https://commons.wikimedia.org/wiki/File:Pat%C3%A9_en_croute.jpg"
   ],
   "slug": "bozar",
-  "rank": 42
+  "rank": 42,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruxelles_-_Palais_des_Beaux-Arts_%283%29.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Palais_des_Beaux-Arts_(3).jpg",
+    "author": "Fred Romero",
+    "license": "CC BY 2.0",
+    "caption": "Entrada da área do restaurante no Palais des Beaux-Arts, complexo de Victor Horta em Bruxelas, fotografada em 2015.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Bozar Restaurant — site oficial",
+    "url": "https://bozarrestaurant.be/en/",
+    "note": "Fotografias atuais do salão, dos preparos e da equipe, sem licença livre confirmada para incorporação."
+  }
 }
