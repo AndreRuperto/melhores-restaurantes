@@ -1,29 +1,111 @@
 {
-  "lede": "O Fu He Hui, em Xangai, dedica-se a menus vegetarianos que reinterpretam a tradição culinária chinesa.",
+  "lede": "Em uma rua arborizada de Xangai, o Fu He Hui de Tony Lu transformou a cozinha vegetariana chinesa em alta gastronomia de pesquisa. Em salas discretas distribuídas por três andares, a casa serve degustações sazonais que valorizam vegetais, cogumelos, métodos antigos e chás de diferentes regiões.",
   "history": [
-    "A casa se tornou conhecida pela alta cozinha sem carne, centrada na pesquisa de vegetais, cogumelos e chás.",
-    "No bairro da antiga Concessão Francesa de Xangai, o Fu He Hui ocupa três pavimentos com salas reservadas. A casa organiza menus totalmente vegetais."
+    "O chef e fundador Tony Lu concebeu o Fu He Hui como um espaço de pesquisa da gastronomia vegetal chinesa. Em vez de imitar pratos com carne, a cozinha parte de alimentos que têm importância própria nas tradições agrícolas, em receitas domésticas e na culinária budista do país.",
+    "O restaurante ocupa três andares em 1037 Yuyuan Road, no distrito de Changning, perto das alamedas históricas de Xangai. Salas reservadas, materiais naturais e uma arquitetura de inspiração zen procuram criar um ritmo de refeição contemplativo, longe do movimento das ruas.",
+    "O trabalho de Tony Lu investiga técnicas registradas ao longo das dinastias Ming e Qing. A equipe mantém contato com agricultores em várias províncias para buscar berinjelas de Yunnan, daikon de Guangdong, bambu de Jiangxi, cogumelos, raízes e flores usados em sequências de degustação.",
+    "A projeção internacional tornou o Fu He Hui uma referência vegetariana na Ásia. Em novembro de 2024, o Guia Michelin anunciou sua promoção a duas estrelas para a seleção Xangai 2025. Na lista Asia's 50 Best, ficou em 15º em 2025 e em 11º em 2026; no ranking mundial estendido de 2026, apareceu em 62º."
   ],
   "cuisine": {
-    "style": "Alta cozinha vegetariana chinesa",
+    "style": "Alta cozinha vegetariana chinesa e técnica histórica",
     "paragraphs": [
-      "Diferentes texturas vegetais e preparações da cozinha budista chinesa são combinadas a técnicas modernas.",
-      "Tony Lu recorre a técnicas e conhecimentos culinários das dinastias Ming e Qing para desenvolver pratos contemporâneos com legumes, cogumelos e outros produtos de origem vegetal."
+      "O cardápio consiste em uma única degustação com cerca de onze etapas, reorganizada a cada trimestre para seguir as colheitas chinesas. Cada passagem procura tornar um vegetal, fruto, fungo ou flor o centro da experiência, sem necessidade de substitutos artificiais de carne.",
+      "Os chefs usam processos de desidratação, cocção prolongada e construção de caldos para valorizar texturas vegetais. As receitas resgatam técnicas atribuídas à tradição das dinastias Ming e Qing e combinam sabores e ingredientes de regiões distantes da China.",
+      "Entre as criações documentadas pelo Asia's 50 Best em 2026 aparecem pele de tofu com flor de cordyceps e outros vegetais, casca de pomelo com miolo de oliva e 'Oito Tesouros', composição de sementes, raízes, fungos e outras partes de plantas. O chá é parte importante do serviço e os pratos podem mudar por estação."
     ]
   },
   "chef": {
     "name": "Tony Lu",
-    "bio": "Tony Lu é chef e fundador do Fu He Hui, onde pesquisa o repertório vegetal da tradição chinesa."
+    "bio": "Tony Lu é chef e fundador do Fu He Hui, em Xangai. Sua pesquisa valoriza o repertório vegetariano da gastronomia chinesa, técnicas tradicionais e ingredientes de agricultores de diferentes províncias. A casa se consolidou como uma referência de degustação vegetal e conquistou a segunda estrela Michelin na edição Xangai 2025."
   },
   "awards": [
     {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants — nº 19"
+    },
+    {
+      "year": 2024,
+      "title": "Promoção a duas estrelas Michelin anunciada para o Guia Xangai 2025"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 15"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 62º lugar no ranking mundial"
+      "title": "Asia's 50 Best Restaurants — nº 11"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 62 (lista mundial estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Fu-He-Hui.html",
+    "https://www.the50.com/discovery/Establishments/China/Shanghai/Fu-He-Hui.html",
+    "https://guide.michelin.com/us/en/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+    "https://www.michelin.com/en/publications/products-and-services/michelin-guide-shanghai-selection-2025",
+    "https://www.the50.com/stories/News/asias-50-best-restaurants-2026-1-50-list.html",
+    "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
+    "https://commons.wikimedia.org/wiki/File:The_former_french_concession.jpg"
   ],
   "slug": "fu-he-hui",
-  "rank": 62
+  "rank": 62,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_former_french_concession.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:The_former_french_concession.jpg",
+    "author": "Bernessaw",
+    "license": "CC BY-SA 4.0",
+    "caption": "Ruas arborizadas da antiga Concessão Francesa de Xangai, fotografadas em 2017. Imagem contextual da região onde fica o Fu He Hui; NÃO representa sua fachada ou seus salões.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Pele de tofu com cordyceps",
+      "desc": "Pele de tofu com flor de cordyceps, fungo preto, botões de hemerocallis, quinoa, espinafre e alho-poró da Mongólia; referência do menu publicado pelo 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Casca de pomelo",
+      "desc": "Casca de pomelo apresentada com miolo de oliva, exemplo da pesquisa de texturas e do aproveitamento de vegetais.",
+      "photo": null
+    },
+    {
+      "name": "Oito Tesouros",
+      "desc": "Composição com goma vegetal, bambu, fungos, semente de coix, lótus, inhame e amêndoa, entre outros ingredientes tradicionais.",
+      "photo": null
+    },
+    {
+      "name": "Berinjela de Yunnan",
+      "desc": "Produto regional tratado com técnicas históricas chinesas; a apresentação específica varia conforme a estação.",
+      "photo": null
+    },
+    {
+      "name": "Cogumelos defumados",
+      "desc": "Cogumelos porcini defumados em recipiente fechado, um dos exemplos documentados da investigação de sabor da casa.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "address": "1037 Yuyuan Road, Changning, Xangai 200050, China",
+    "website": "https://guide.michelin.com/us/en/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+    "reservationUrl": "https://guide.michelin.com/us/en/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+    "reservation": "Reservas geridas diretamente pela casa; o Guia Michelin informa telefone +86 21 3980 9188, almoço de 11h às 13h e jantar de 17h30 às 21h diariamente. A página Michelin é uma referência para contato, não um checkout de reservas online. Recomenda-se consultar o restaurante para confirmar horários e condições.",
+    "price": "Menu degustação vegetal de cerca de onze etapas; preço atual em CNY não confirmado por fonte institucional consultada. A ficha do Guia Michelin classifica a casa na faixa ¥¥¥¥."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Asia's 50 Best Restaurants — Fu He Hui",
+    "url": "https://www.the50.com/restaurants/best-in-asia/the-list/Fu-He-Hui.html",
+    "note": "Fotografias reais do salão, dos pratos e do chef Tony Lu na publicação original. Direitos de reprodução não confirmados; a capa do A Carta é uma fotografia licenciada do entorno.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Fu He Hui",
+        "url": "https://guide.michelin.com/us/en/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+        "note": "Fotos reais e dados de endereço e contato do restaurante."
+      }
+    ]
+  }
 }
