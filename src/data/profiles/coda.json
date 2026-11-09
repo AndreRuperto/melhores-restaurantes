@@ -1,33 +1,121 @@
 {
-  "lede": "O Coda, em Berlim, transforma técnicas de confeitaria em linguagem de menu degustação.",
+  "lede": "Em Neukölln, Berlim, o CODA de René Frank utiliza confeitaria como método de construção de uma refeição completa, sem a separação tradicional entre doces e salgados. Fundado em 2016 como bar de sobremesas, transformou-se em restaurante de duas estrelas Michelin, com degustação que evita açúcar refinado.",
   "history": [
-    "René Frank desenvolveu uma proposta que rompe com a divisão tradicional entre pratos salgados e sobremesas.",
-    "René Frank criou no Coda uma degustação que elimina a divisão habitual entre salgado e doce. Em 2022, foi reconhecido como World's Best Pastry Chef."
+    "René Frank passou por cozinhas e laboratórios de confeitaria europeus e japoneses e trabalhou como chefe de pâtisserie no restaurante la vie, em Osnabrück. A experiência levou-o a questionar por que técnicas de confeitaria deveriam ser limitadas ao encerramento da refeição.",
+    "Em 2016, Frank fundou o CODA com Oliver Bischoff na Friedelstraße 47, em Neukölln, inicialmente como um bar especializado em sobremesas. O formato evoluiu para um restaurante de degustação em que acidez, sal, amargor, umami e doçura natural têm importância equivalente.",
+    "O CODA conquistou sua primeira estrela Michelin em 2019 e a segunda em 2020. A cozinha passou a trabalhar com aproximadamente treze a quinze pequenas etapas em uma sequência sem divisão rígida entre entrada, prato principal e sobremesa.",
+    "Em 2022, René Frank recebeu o prêmio The World's Best Pastry Chef, enquanto o CODA ganhou projeção em rankings internacionais. Foi 62º no mundo em 2024 e 82º na lista estendida de 2026. O ambiente minimalista mantém balcão voltado para a cozinha e um serviço informal de alta precisão."
   ],
   "cuisine": {
-    "style": "Cozinha experimental inspirada na confeitaria",
+    "style": "Alta gastronomia experimental a partir de técnicas de pâtisserie",
     "paragraphs": [
-      "Fermentações, cacau, vegetais e frutas são usados em sequências que exploram sabor e textura.",
-      "O cardápio tem cerca de quinze etapas e dispensa açúcar refinado; ingredientes naturalmente doces, como beterraba e cenoura, equilibram umami, acidez, amargor e sal."
+      "A filosofia culinária de René Frank aplica cristalização, fermentação, conservação e controle de textura a legumes, frutas, sementes, algas e outros ingredientes normalmente usados em preparos salgados. O menu evita açúcar refinado, mas não é uma sequência exclusivamente doce.",
+      "O Guia Michelin descreve buttercream de ameixa, noz e alga dulse, pêssego grelhado com pimenta e coentro e pequenas composições que equilibram elementos salgados e acidez. Há também releituras de raclette em waffle com kimchi e iogurte e cheesecake de queijo com aipo e café, registradas em menus de diferentes épocas.",
+      "Cada etapa costuma receber uma pequena bebida criada em diálogo com os sabores, com alternativa integralmente sem álcool disponível. Os ingredientes mudam ao longo do ano, de modo que estes exemplos são repertório histórico, não confirmação de um cardápio fixo em novembro de 2026."
     ]
   },
   "chef": {
-    "name": "René Frank",
-    "bio": "René Frank é o chef do Coda e desenvolve técnicas de confeitaria para ingredientes que normalmente aparecem em pratos salgados."
+    "name": "René Frank (chef) e Oliver Bischoff (cofundador)",
+    "bio": "René Frank foi chefe de confeitaria do la vie, em Osnabrück, e desenvolveu técnica em diferentes cozinhas europeias, no Japão e em escolas especializadas. Em 2016, abriu o CODA com Oliver Bischoff. Recebeu o título The World's Best Pastry Chef em 2022, e a casa conquistou duas estrelas Michelin em 2020."
   },
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 82º lugar no ranking mundial"
+      "year": 2019,
+      "title": "Primeira estrela Michelin — Guia Michelin Alemanha"
+    },
+    {
+      "year": 2020,
+      "title": "Segunda estrela Michelin — Guia Michelin Alemanha"
     },
     {
       "year": 2022,
-      "title": "The World's Best Pastry Chef 2022"
+      "title": "René Frank — The World's Best Pastry Chef"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 62 (lista estendida)"
+    },
+    {
+      "year": 2026,
+      "title": "Duas estrelas Michelin mantidas — Guia Michelin Alemanha"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 82 (lista mundial estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://coda-berlin.com/en/home/",
+    "https://coda-berlin.com/en/menu/",
+    "https://coda-berlin.com/en/faq-en/",
+    "https://coda-berlin.com/en/rene-frank-en/",
+    "https://coda-berlin.com/en/press/",
+    "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/coda-dessert-dining",
+    "https://guide.michelin.com/en/article/features/coda-berlin-10-years-rene-frank-chef-interview",
+    "https://commons.wikimedia.org/wiki/File:Friedelstraße_29_-_panoramio.jpg"
   ],
   "slug": "coda",
-  "rank": 82
+  "rank": 82,
+  "founded": 2016,
+  "founders": [
+    "René Frank",
+    "Oliver Bischoff"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Friedelstra%C3%9Fe%2029%20-%20panoramio.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Friedelstraße_29_-_panoramio.jpg",
+    "author": "mspr0",
+    "license": "CC BY 3.0",
+    "caption": "Edifício da Friedelstraße 29, em Neukölln, fotografado em 2010. Contexto da rua do CODA, que funciona no nº 47 desde 2016. NÃO é a fachada do restaurante.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Creme de manteiga de ameixa, noz e dulse",
+      "desc": "Composição de pâtisserie com elementos frutados, frutos secos e alga marinha; descrita pelo Guia Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Pêssego grelhado com pimenta e coentro",
+      "desc": "Preparação que explora fruta tostada, sabores vegetais e notas picantes, destacada no Guia Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Waffle de raclette, kimchi e iogurte",
+      "desc": "Exemplo de prato histórico que transporta uma técnica de confeitaria para um repertório salgado.",
+      "photo": null
+    },
+    {
+      "name": "Beterraba congelada, cranberry e tofu",
+      "desc": "Etapa de menu histórica com contrastes de temperatura, doçura natural e acidez.",
+      "photo": null
+    },
+    {
+      "name": "Cheesecake de queijo Cironé, café e aipo",
+      "desc": "Releitura do cheesecake com queijo, café e verdura, registrada no repertório da casa.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://coda-berlin.com/en/home/",
+    "address": "Friedelstraße 47, 12047 Berlim, Alemanha",
+    "reservationUrl": "https://coda-berlin.com/en/menu/",
+    "reservation": "Reservas exclusivamente pelo botão de agendamento online no site oficial, com cartão de garantia, sem cobrança antecipada. O cancelamento sem taxa é permitido até 48 horas antes; fora desse prazo, pode haver cobrança de €250 por pessoa. Para sete ou oito pessoas, solicitar diretamente por e-mail a table@coda-berlin.com. Serviço de quarta a sábado a partir das 19h.",
+    "price": "Menu degustação: a partir de €264 de quarta a sexta, e €294 aos sábados e vésperas/feriados, segundo a página oficial consultada em novembro de 2026. Os preços do menu incluem as pequenas bebidas de harmonização previstas e IVA."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "CODA — fotos oficiais para imprensa",
+    "url": "https://coda-berlin.com/en/press/",
+    "note": "O site fornece arquivos fotográficos do restaurante e pede crédito. A disponibilidade para download não foi interpretada como licença livre irrestrita para a republicação pelo A Carta; a capa usada é uma imagem contextual da Friedelstraße.",
+    "additionalSources": [
+      {
+        "publisher": "Lindstedt Studio — interiores do CODA",
+        "url": "https://www.lindstedt-studio.com/portfolio/coda-berlin-styling",
+        "note": "Imagens reais do salão e da fachada, com fotografia atribuída a Claudia Goedke, não copiadas por falta de licença confirmada."
+      }
+    ]
+  }
 }
