@@ -162,5 +162,11 @@
       "caption": "Vista histórica do mercado de Sant Antoni em 2008. A imagem ilustra a região, não a cozinha ou o interior do Enigma.",
       "illustrative": true
     }
-  ]
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Architectural Record",
+    "url": "https://www.architecturalrecord.com/articles/12938-enigma-restaurant-by-rcr-arquitectes-and-pau-llimona",
+    "note": "Foto do edifício e acesso ao Enigma em Barcelona, publicada com créditos fotográficos."
+  }
 }

@@ -149,5 +149,11 @@
       "caption": "Vegetação às margens do Lago Oeste, em Hangzhou, em 2014. Referência à paisagem da cozinha regional, não à sede do restaurante.",
       "illustrative": true
     }
-  ]
+  ],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Tatler Asia",
+    "url": "https://www.tatlerasia.com/dining/ru-yuan",
+    "note": "Fotografias do pátio, andar térreo e salões do Ru Yuan, no Jardim Botânico de Hangzhou."
+  }
 }

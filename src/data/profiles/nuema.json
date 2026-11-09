@@ -180,5 +180,11 @@
       "caption": "Paisagem dos Andes na região de Quito. Imagem contextual das origens geográficas de ingredientes equatorianos.",
       "illustrative": true
     }
-  ]
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Expreso",
+    "url": "https://www.expreso.ec/actualidad/economia/nuema-100-mejores-restaurantes-mundo-200939.html",
+    "note": "Reportagem de 2024 com imagem identificada expressamente como fachada do Nuema, cedida pelo restaurante."
+  }
 }

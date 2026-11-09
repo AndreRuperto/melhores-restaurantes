@@ -209,5 +209,11 @@
       "caption": "Pescadores recolhendo redes no porto de Getaria, em outubro de 2011. Imagem do trabalho pesqueiro, não do restaurante.",
       "illustrative": true
     }
-  ]
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Turismo Euskadi",
+    "url": "https://turismo.euskadi.eus/en/restaurants/elkano-restaurant/webtur00-content/en/",
+    "note": "O órgão de turismo da região identifica uma fotografia como exterior do Elkano, em Getaria."
+  }
 }

@@ -150,5 +150,11 @@
       "caption": "Uma rua do bairro Getsemaní, em Cartagena, fotografada em 2020. Imagem de contexto, não da casa.",
       "illustrative": true
     }
-  ]
+  ],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "CNN Brasil Viagem & Gastronomia",
+    "url": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/celele-e-mais-que-um-restaurante-e-a-alma-do-caribe-colombiano-a-mesa/",
+    "note": "Reportagem com foto identificada como fachada azul do Celele, em Cartagena."
+  }
 }

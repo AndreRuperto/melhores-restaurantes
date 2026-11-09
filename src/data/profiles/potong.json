@@ -156,5 +156,11 @@
       "caption": "Rua em Talad Noi, área histórica de Bangkok, em julho de 2026. Imagem de contexto; não retrata o restaurante.",
       "illustrative": true
     }
-  ]
+  ],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Potong (site oficial)",
+    "url": "https://www.restaurantpotong.com/aboutpotongbuilding",
+    "note": "História e fotografias do prédio centenário da família da chef Pam; fachada não isolada ou confirmada."
+  }
 }
