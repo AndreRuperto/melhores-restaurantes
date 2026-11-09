@@ -1,36 +1,124 @@
 {
-  "lede": "O Fyn, na Cidade do Cabo, aproxima a produção sul-africana da precisão de técnicas japonesas.",
+  "lede": "No centro da Cidade do Cabo, o Fyn traduz sabores africanos por meio da precisão e da filosofia sazonal japonesa. No quinto andar de Speaker's Corner, Peter Tempelhoff e Ashley Moss constroem uma degustação que percorre litoral, deserto, ervas do fynbos e pequenos produtores sul-africanos.",
   "history": [
-    "A casa desenvolveu uma cozinha de encontros culturais apoiada em ingredientes e produtores locais.",
-    "Peter Tempelhoff construiu uma proposta que interpreta ingredientes sul-africanos por meio da técnica do Japão. O serviço pode começar com pequenas preparações em caixas inspiradas no bento."
+    "O chef Peter Tempelhoff reuniu a experiência adquirida em restaurantes sul-africanos de destaque e seu interesse pela gastronomia japonesa para lançar o Fyn no centro da Cidade do Cabo. O nome é inspirado no fynbos, vegetação nativa particularmente diversa da região do Cabo.",
+    "O restaurante ocupa o quinto andar do edifício Speaker's Corner, na Parliament Street. A vista para a cidade, a cozinha aberta e a apresentação de pequenas etapas fazem parte do serviço. Tempelhoff trabalha com Ashley Moss, hoje diretor culinário, e com a diretora de hospitalidade Jennifer Hugé.",
+    "Os pratos são construídos a partir de alimentos da costa, das fazendas do Cabo, do interior seco do Karoo e das plantas nativas. A equipe aplica princípios de cozinha japonesa, como respeito ao produto e cortes cuidadosos, para contar histórias sul-africanas por meio de ingredientes locais.",
+    "O Fyn foi 37º no ranking mundial The World's 50 Best Restaurants em 2022 e recebeu o título de melhor restaurante da África naquele ano. Em 2023 ganhou o Sustainable Restaurant Award, por práticas com produtores e com a equipe. Em 2024 ficou em 60º, em 2025 em 82º e em 2026 alcançou a posição 65ª no ranking estendido."
   ],
   "cuisine": {
-    "style": "Cozinha sul-africana contemporânea de inspiração japonesa",
+    "style": "Alta cozinha sul-africana com filosofia culinária japonesa",
     "paragraphs": [
-      "Peixes, vegetais, ervas e outros produtos regionais são combinados em pequenas etapas.",
-      "Exemplos de degustações incluem camarão cru com maionese de dashi, pimenta shishito grelhada, nori crocante e gengibre cristalizado."
+      "A experiência é organizada como uma viagem entre ambientes ecológicos sul-africanos. A casa descreve seções dedicadas à Península do Cabo, plantas terrestres, plantas marinhas, caça africana, corrente marítima de Agulhas, fazendas do Cabo e ervas medicinais do fynbos.",
+      "No menu consultado em novembro de 2026 aparecem atum do Cabo tratado de forma integral, abóbora kuri com alcachofra-de-jerusalém e trufa do Drakensberg, algas e abalone, carnes de springbok e avestruz, lagostim de KwaZulu-Natal e cordeiro do Karoo.",
+      "A cozinha também apresenta um percurso vegetal. Pratos, composição e número de etapas podem mudar por estação. O restaurante pede que restrições alimentares sejam comunicadas antecipadamente e informa limitações para alergias graves e para pessoas que não podem consumir alho ou outras plantas da mesma família."
     ]
   },
   "chef": {
-    "name": "Peter Tempelhoff",
-    "bio": "Peter Tempelhoff dirige uma cozinha que aproxima produtos sul-africanos da precisão das técnicas japonesas."
+    "name": "Peter Tempelhoff (chef fundador) · Ashley Moss (direção culinária)",
+    "bio": "Peter Tempelhoff é o chef fundador do Fyn e desenvolveu uma proposta que combina produtos sul-africanos, produtores locais e técnica japonesa. Ashley Moss participa da criação culinária como diretor, enquanto Jennifer Hugé conduz a experiência de hospitalidade. A equipe ganhou destaque internacional pela cozinha e pelo trabalho de sustentabilidade."
   },
   "awards": [
     {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 92 (lista estendida)"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 37 e melhor restaurante da África"
+    },
+    {
+      "year": 2023,
+      "title": "Sustainable Restaurant Award — The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 75"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 60"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 82"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 65º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 65 (lista mundial estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.fynrestaurant.com/",
+    "https://www.fynrestaurant.com/menu",
+    "https://www.fynrestaurant.com/make-a-booking",
+    "https://www.the50.com/stories/News/fyn-cape-town-sustainable-restaurant-award.html",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+    "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
+    "https://commons.wikimedia.org/wiki/File:Cape_Town_City_Hall,_CBD.jpg"
   ],
   "slug": "fyn",
   "rank": 65,
   "dishes": [
     {
-      "name": "Crudo de camarão com maionese de dashi",
-      "desc": "Pequena entrada que pode ser servida no formato inspirado no bento.",
+      "name": "Atum do Cabo da cabeça à cauda",
+      "desc": "Preparações que exploram diferentes partes do atum pescado na Península do Cabo, segundo o menu oficial.",
+      "photo": null
+    },
+    {
+      "name": "Abóbora kuri e trufa do Drakensberg",
+      "desc": "Abóbora com alcachofra-de-jerusalém e trufa sul-africana, combinação da seção de plantas terrestres do menu.",
+      "photo": null
+    },
+    {
+      "name": "Kelp e abalone",
+      "desc": "Algas e molusco marinho combinados a ingredientes costeiros, com referências à cozinha japonesa.",
+      "photo": null
+    },
+    {
+      "name": "Springbok e avestruz",
+      "desc": "Carnes de caça africana trabalhadas em uma etapa da degustação, conforme a disponibilidade.",
+      "photo": null
+    },
+    {
+      "name": "Lagostim da costa de KwaZulu-Natal",
+      "desc": "Crustáceo da corrente marítima de Agulhas, acompanhado por elementos de origem marinha.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro do Karoo com buchu",
+      "desc": "Cordeiro de fazendas do Cabo apresentado com alho-buchu, erva aromática do fynbos.",
       "photo": null
     }
-  ]
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape_Town_City_Hall%2C_CBD.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_City_Hall,_CBD.jpg",
+    "author": "@weblearning",
+    "license": "CC BY 4.0",
+    "caption": "Prefeitura histórica na região central da Cidade do Cabo, fotografada em abril de 2026. Imagem contextual da área urbana, NÃO mostra a entrada do Fyn nem o edifício Speaker's Corner.",
+    "illustrative": true
+  },
+  "practical": {
+    "address": "5º andar, Speaker's Corner, 37 Parliament Street, Cidade do Cabo 8001, África do Sul",
+    "website": "https://www.fynrestaurant.com/",
+    "reservationUrl": "https://www.fynrestaurant.com/make-a-booking",
+    "reservation": "Reservas pelo site oficial, de segunda a sábado, com almoço entre 12h e 14h e jantar entre 18h e 20h30. A casa cobra sinal de ZAR 500 por pessoa no almoço ou ZAR 1.000 no jantar, abatido da conta; cancelamentos com menos de 48 horas podem perder o depósito. Telefone +27 21 286 2733, e-mail info@fynrestaurant.com.",
+    "price": "Menu Experience: ZAR 2.475 por pessoa, segundo a carta oficial consultada em novembro de 2026. Valor sujeito a alteração, sem bebidas."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Fyn — site oficial",
+    "url": "https://www.fynrestaurant.com/",
+    "note": "Fotografias reais do salão, pratos e edifício Speaker's Corner, com licença de republicação não identificada. A imagem reproduzida no A Carta é somente a Prefeitura da Cidade do Cabo, no centro, com autoria licenciada.",
+    "additionalSources": [
+      {
+        "publisher": "The 50 Best — Fyn",
+        "url": "https://www.the50.com/stories/News/fyn-cape-town-sustainable-restaurant-award.html",
+        "note": "Fotos do restaurante e histórico da equipe e de suas práticas ambientais, apresentados na publicação original."
+      }
+    ]
+  }
 }
