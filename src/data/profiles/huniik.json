@@ -1,29 +1,115 @@
 {
-  "lede": "Em Mérida, o Huniik interpreta a gastronomia de Yucatán com ingredientes regionais.",
+  "lede": "No bairro Santa Ana de Mérida, o Huniik de Roberto Solís apresenta uma leitura contemporânea da cozinha yucateca, com ingredientes regionais e serviço em torno de uma cozinha aberta. O espaço, desenhado por Jorge Pardo, remete às formas dos cenotes; em 2026 conquistou sua primeira estrela Michelin.",
   "history": [
-    "O restaurante foi concebido para explorar a herança maia e as tradições culinárias da península mexicana.",
-    "Roberto Solís criou o Huniik como segundo restaurante, depois de trabalhar em casas como Per Se, em Nova York, e The Fat Duck, no Reino Unido. O nome remete a um espírito singular na língua maia."
+    "O chef Roberto Solís desenvolveu uma das interpretações pioneiras da cozinha yucateca contemporânea em Mérida, depois de experiências em cozinhas internacionais como Per Se, em Nova York, e The Fat Duck, no Reino Unido. Seu trabalho em restaurantes como Néctar abriu caminho para projetos mais focados na experiência degustação.",
+    "O Huniik foi desenvolvido como uma pequena casa de menus autorais, com cozinha aberta e atenção ao diálogo entre chef e convidados. O artista cubano Jorge Pardo concebeu um espaço arquitetônico que evoca cenotes, com pedra, madeira e linhas orgânicas.",
+    "A equipe tornou a hospitalidade parte central da proposta: Rodrigo Caltenco Núñez assumiu a direção do serviço e estruturou uma experiência de degustação em que cada passagem apresenta ingredientes e histórias da península de Yucatán.",
+    "Em maio de 2026, o Huniik conquistou sua primeira estrela Michelin, enquanto Rodrigo Caltenco recebeu o prêmio de serviço do Guia Michelin México. No ranking mundial estendido de 2026, o restaurante ocupou o 79º lugar, consolidando a atenção internacional ao trabalho de Roberto Solís."
   ],
   "cuisine": {
-    "style": "Cozinha yucateca contemporânea",
+    "style": "Cozinha yucateca contemporânea, produtos locais e técnicas regionais",
     "paragraphs": [
-      "Produtos locais, milho, técnicas de cocção tradicionais e ingredientes da região compõem a proposta.",
-      "A cozinha revisita tradições da península de Yucatán, com técnicas contemporâneas e produtos regionais."
+      "A cozinha do Huniik investiga ingredientes de comunidades e fazendas próximas, ervas aromáticas, chiles, milho, frutos do mar e técnicas como o pibil. A equipe transforma referências domésticas em pequenas composições de alta gastronomia.",
+      "O Guia Michelin descreve aguachile de camarão curado com panceta crocante e ta'uch (sapoti-preto), cordeiro cozido lentamente ao estilo pibil e uma versão refrescante de xe'ec, salada tradicional de cítricos com habanero.",
+      "O menu publicado no OpenTable em julho de 2026 incluía preparações como flauta de atum com ponzu yucateco, papadzul de ovo de codorna, cogumelos marinados em pepita e um doce chamado Flor de Mayo. A composição varia conforme a safra e deve ser confirmada na reserva."
     ]
   },
   "awards": [
     {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 89 (lista estendida)"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 79º lugar no ranking mundial"
+      "title": "Primeira estrela Michelin — Guia Michelin México, região de Yucatán"
+    },
+    {
+      "year": 2026,
+      "title": "Rodrigo Caltenco Núñez — Michelin Service Award México"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 79 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.huniik.com/en/",
+    "https://guide.michelin.com/en/yucatan/merida_2068208/restaurant/huniik",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/huniik-merida-service-award-michelin-guide",
+    "https://guide.michelin.com/us/en/article/dining-out/roberto-solis-merida-huniik-michelin-guide",
+    "https://www.opentable.com/r/huniik-merida",
+    "https://www.relaischateaux.com/us/restaurant/huniik/",
+    "https://commons.wikimedia.org/wiki/File:Santa_Ana,_M%C3%A9rida_Yucat%C3%A1n.jpg"
   ],
   "slug": "huniik",
   "rank": 79,
   "chef": {
-    "name": "Roberto Solís",
-    "bio": "Roberto Solís lidera o Huniik e tem experiência em cozinhas internacionais antes de voltar-se às tradições yucatecas."
+    "name": "Roberto Solís (chef e proprietário) · Diana Medina (cozinha)",
+    "bio": "Roberto Solís é chef de Mérida e desenvolveu uma cozinha que investiga técnicas e produtos yucatecos após passagens por restaurantes internacionais. No Huniik, lidera um serviço de degustação de identidade regional. Diana Medina também é apresentada como chef executiva na ficha do OpenTable, e Rodrigo Caltenco Núñez coordena a experiência de sala, premiada pelo Guia Michelin México em 2026."
+  },
+  "founders": [
+    "Roberto Solís"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Ana%2C%20M%C3%A9rida%20Yucat%C3%A1n.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Santa_Ana,_M%C3%A9rida_Yucat%C3%A1n.jpg",
+    "author": "Mario Morales Rubí",
+    "license": "CC BY-SA 4.0",
+    "caption": "Igreja de Santa Ana, na Calle 60, em Mérida, fotografada em julho de 2015. Imagem do bairro em que fica o Huniik; NÃO retrata a fachada nem o interior do restaurante.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Aguachile de camarão, panceta e ta'uch",
+      "desc": "Camarão levemente curado com panceta crocante e sapoti-preto, citado pelo Guia Michelin como exemplo da leitura regional da casa.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro pibil",
+      "desc": "Cordeiro cozido lentamente com referências à técnica yucateca pibil, conforme descrição Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Xe'ec de cítricos e habanero",
+      "desc": "Reinterpretação refrescante de salada tradicional da península, com frutas cítricas e nota picante.",
+      "photo": null
+    },
+    {
+      "name": "Papadzul de ovo de codorna",
+      "desc": "Ovo de codorna com molho da tradição yucateca, apresentado no cardápio divulgado em julho de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Flauta de atum e ponzu yucateco",
+      "desc": "Atum com condimentos regionais e referências internacionais em preparo documentado pelo OpenTable.",
+      "photo": null
+    },
+    {
+      "name": "Flor de Mayo",
+      "desc": "Sobremesa com flor local e sorvete, registrada no menu divulgado pela plataforma de reservas em julho de 2026.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.huniik.com/en/",
+    "address": "Calle 60 nº 415-B, entre calles 45 e 47, Santa Ana, Centro, Mérida, Yucatán 97000, México",
+    "reservationUrl": "https://www.opentable.com/r/huniik-merida",
+    "reservation": "Reservas pelo OpenTable, vinculado no site oficial, ou informações pelo telefone +52 999 912 6244 e e-mail info@huniik.com.mx. Há divergência de horários entre o site oficial (terça a sábado, jantar) e o Guia Michelin (segunda a sábado, almoço e jantar); confirmar no módulo de reservas para a data escolhida.",
+    "price": "O OpenTable informou em 2026 degustação a MXN 2.830 por pessoa, sujeita a alterações, taxas e regras da plataforma. Confirmar o valor ao reservar."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Huniik — site oficial e Guia Michelin",
+    "url": "https://www.huniik.com/en/",
+    "note": "A página institucional e o Guia Michelin mostram a arquitetura real inspirada em cenotes e pratos do Huniik. Sem licença livre confirmada, essas fotos não foram copiadas. A capa do A Carta mostra a igreja de Santa Ana, no mesmo bairro.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — serviço e arquitetura do Huniik",
+        "url": "https://guide.michelin.com/en/article/michelin-guide-ceremony/huniik-merida-service-award-michelin-guide",
+        "note": "Fotografias reais do interior, da equipe e dos pratos, com créditos de origem."
+      }
+    ]
   }
 }
