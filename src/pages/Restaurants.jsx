@@ -4,6 +4,7 @@ import { restaurants, CONTINENTS, countBy, matches } from '../data/restaurants'
 import { Header, Footer, Search, Ornament } from '../components/ui'
 import WorldMap from '../components/WorldMap'
 import { MenuItem } from '../components/RankingTable'
+import CountryDropdown from '../components/CountryDropdown'
 
 export default function Restaurants() {
   const [params, setParams] = useSearchParams()
@@ -15,10 +16,18 @@ export default function Restaurants() {
   const set = (k, v) => {
     const next = new URLSearchParams(params)
     v ? next.set(k, v) : next.delete(k)
+    if (k === 'continente') next.delete('pais')
     setParams(next, { replace: true })
   }
 
-  const countries = useMemo(() => countBy(restaurants, 'country').map(([c]) => c).sort((a, b) => a.localeCompare(b, 'pt')), [])
+  const countries = useMemo(() => countBy(
+    restaurants.filter((r) => !cont || r.continent === cont), 'country',
+  ).sort(([a], [b]) => a.localeCompare(b, 'pt-BR'))
+    .map(([name, total]) => ({
+      name,
+      total,
+      code: restaurants.find((r) => r.country === name).code,
+    })), [cont])
 
   const list = useMemo(() => {
     return restaurants.filter(
@@ -49,10 +58,7 @@ export default function Restaurants() {
             {CONTINENTS.map((c) => (
               <button key={c} className="pill" aria-pressed={cont === c} onClick={() => set('continente', cont === c ? '' : c)}>{c}</button>
             ))}
-            <select className="pill appearance-none" value={country} onChange={(e) => set('pais', e.target.value)} aria-label="País">
-              <option value="">Todos os países</option>
-              {countries.map((c) => <option key={c}>{c}</option>)}
-            </select>
+            <CountryDropdown options={countries} value={country} onChange={(next) => set('pais', next)} />
             <button className="pill" aria-pressed={tier === 'top50'} onClick={() => set('faixa', tier === 'top50' ? '' : 'top50')}>1 a 50</button>
             <button className="pill" aria-pressed={tier === 'ext'} onClick={() => set('faixa', tier === 'ext' ? '' : 'ext')}>51 a 100</button>
           </div>
