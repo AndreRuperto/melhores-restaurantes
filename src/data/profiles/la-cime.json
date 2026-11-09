@@ -1,41 +1,104 @@
 {
-  "lede": "Em Osaka, o La Cime aproxima a técnica francesa de ingredientes japoneses e de referências à memória culinária.",
+  "lede": "Em Osaka, Yusuke Takada usa a técnica francesa para reinterpretar produtos japoneses e referências de sua ilha natal, Amami Ōshima. O La Cime — 'o cume', em francês — oferece um percurso gastronômico que une tradição, invenção e uma ideia antiga: estudar o passado para iluminar o presente.",
   "history": [
-    "Yusuke Takada organiza sua cozinha em torno da ideia de aprender com o passado para orientar o presente.",
-    "Yusuke Takada organiza o restaurante em torno do conceito japonês keikoshoukon, que propõe aprender com o passado para atuar no presente. O espaço combina técnicas francesas e ingredientes japoneses."
+    "Yusuke Takada nasceu em Amami Ōshima, ilha subtropical no sul do Japão, e buscou formação em cozinha francesa. Trabalhou em Lyon e Paris, incluindo experiências em Le Taillevent e Le Meurice, antes de voltar ao Japão decidido a construir uma linguagem própria.",
+    "Em 2010, abriu o La Cime no centro de Osaka. O nome francês remete ao cume de uma montanha, e a filosofia da casa descreve três elementos inseparáveis: o convidado, a cozinha e o espaço. A decoração foi reformulada em 2016, mantendo um ambiente íntimo de cerca de 20 lugares.",
+    "A proposta incorpora a expressão japonesa keikoshōkon, registrada no Kojiki, que recomenda examinar o passado como orientação para o presente. Na prática, isso permite a Takada reinterpretar técnicas francesas clássicas utilizando ingredientes de várias regiões do Japão, inclusive cítricos e produtos de Amami.",
+    "O restaurante entrou no Asia's 50 Best Restaurants em 2018, diretamente no 17º lugar, recebendo o prêmio Highest New Entry. Em 2020, Takada venceu o Chefs' Choice Award votado por seus colegas. Em 2026, o La Cime ficou em 13º na Ásia, recebeu o título de melhor restaurante do Japão na lista e alcançou 52º no ranking mundial estendido."
   ],
   "cuisine": {
-    "style": "Cozinha franco-japonesa contemporânea",
+    "style": "Francesa contemporânea com produtos e memória japoneses",
     "paragraphs": [
-      "O menu usa ingredientes sazonais do Japão, molhos e técnicas da tradição francesa.",
-      "A degustação é estruturada em cerca de treze etapas, com interpretações como tempura de caranguejo com pó de bertalha e o Boudin Dog, cuja massa escura leva carvão comestível."
+      "A identidade do La Cime nasce do diálogo entre molhos, técnicas e apresentações da culinária francesa com produtos japoneses de estação. O Guia Michelin destaca a atenção a alimentos como kudzu, yuba, missô e wasabi, além de ingredientes vinculados às origens do chef em Amami Ōshima.",
+      "O menu oficial consultado apresenta uma degustação de aproximadamente 13 passagens: cinco pequenos aperitivos, quatro entradas, dois pratos principais, sobremesas e pequenos doces. O número de etapas pode variar de acordo com o abastecimento e com a estação.",
+      "Um clássico autoral é o Boudin Dog, porção de boudin noir envolta em massa escura colorida com carvão vegetal, criada para ser comida em uma mordida. O restaurante também já apresentou tempura de caranguejo com elementos vegetais. Esses pratos são referências de repertório e não a composição garantida do menu do dia."
     ]
   },
   "chef": {
     "name": "Yusuke Takada",
-    "bio": "Yusuke Takada é o chef do La Cime e trabalha a tradição francesa em diálogo com técnicas e produtos japoneses."
+    "bio": "Natural de Amami Ōshima, Yusuke Takada estudou e trabalhou com cozinha francesa em Lyon e Paris, incluindo Le Taillevent e Le Meurice. Abriu o La Cime em Osaka em 2010. Sua cozinha busca conciliar rigor técnico francês, referências regionais japonesas e a ideia de keikoshōkon, aprender com a tradição para criar algo atual. Foi escolhido pelos colegas como Chefs' Choice do Asia's 50 Best em 2020."
   },
   "dishes": [
     {
       "name": "Boudin Dog",
-      "desc": "Criação com boudin noir envolto em massa escura de carvão vegetal comestível.",
+      "desc": "Pequena criação de assinatura com boudin noir e massa escura com carvão comestível; um dos preparos mais conhecidos da casa.",
       "photo": null
     },
     {
       "name": "Tempura de caranguejo",
-      "desc": "Preparação sazonal com pó de bertalha, mencionada pela organização.",
+      "desc": "Criação sazonal de caranguejo frito em técnica japonesa, acompanhada de ingredientes vegetais; documentada no perfil do 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Preparações com yuba e kudzu",
+      "desc": "O chef utiliza ingredientes japoneses como película de leite de soja e amido de kudzu em composições de técnica francesa. Não se trata de prato fixo da carta.",
+      "photo": null
+    },
+    {
+      "name": "Peixes e frutos do mar do oeste do Japão",
+      "desc": "Pescados locais tratados com molhos e técnicas francesas, com composição determinada pela estação.",
+      "photo": null
+    },
+    {
+      "name": "Cítricos de Amami Ōshima",
+      "desc": "Os sabores da ilha natal do chef influenciam diferentes passagens, incluindo preparos delicados e sobremesas sazonais.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2018,
+      "title": "Asia's 50 Best Restaurants — nº 17 e Highest New Entry Award"
+    },
+    {
+      "year": 2020,
+      "title": "Yusuke Takada — Chefs' Choice Award, Asia's 50 Best Restaurants"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 52º lugar no ranking mundial"
+      "title": "Asia's 50 Best Restaurants — nº 13 e The Best Restaurant in Japan"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 52 (lista estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.la-cime.com/",
+    "https://www.la-cime.com/?page_id=6",
+    "https://guide.michelin.com/us/en/osaka-region/osaka/restaurant/la-cime",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/La-Cime.html",
+    "https://www.theworlds50best.com/stories/News/welcome-to-la-cime-home-of-yusuke-takada.html",
+    "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
+    "https://commons.wikimedia.org/wiki/File:Dotonbori_ao_01.jpg"
   ],
   "slug": "la-cime",
-  "rank": 52
+  "rank": 52,
+  "founded": 2010,
+  "founders": [
+    "Yusuke Takada"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dotonbori%20ao%2001.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Dotonbori_ao_01.jpg",
+    "author": "Sakai Yayoi",
+    "license": "CC0 1.0",
+    "caption": "Dōtonbori, Osaka, fotografado em agosto de 2026. Vista contextual da cidade; NÃO representa a entrada ou o interior do La Cime, em Kawaramachi.",
+    "illustrative": true
+  },
+  "practical": {
+    "address": "1º andar, Kawaramachi Usami Building, 3-2-15 Kawaramachi, Chūō-ku, Osaka 541-0048, Japão",
+    "website": "https://www.la-cime.com/",
+    "reservationUrl": "https://www.la-cime.com/?page_id=6",
+    "reservation": "Reserva pela página oficial (opções em japonês e inglês) ou pelo telefone +81 6-6222-2010. Cerca de 20 lugares; serve almoço e jantar, fechado aos domingos e em datas específicas. A reserva pode exigir confirmação por e-mail; cancelamentos tardios podem gerar cobrança. A página oficial apresenta versões diferentes para a antecedência permitida, portanto confirme no sistema.",
+    "price": "Menu de aproximadamente 13 etapas: ¥ 35.200 por pessoa no almoço e no jantar, com impostos e serviço incluídos, segundo a página oficial consultada em novembro de 2026. Sala privativa: adicional de 15%."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "The 50 Best — matéria sobre La Cime",
+    "url": "https://www.theworlds50best.com/stories/News/welcome-to-la-cime-home-of-yusuke-takada.html",
+    "note": "A matéria inclui fotografias reais da fachada preta do La Cime e do chef Yusuke Takada. A fotografia da capa do A Carta é apenas uma vista licenciada de Osaka; não é o restaurante."
+  }
 }
