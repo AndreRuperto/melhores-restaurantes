@@ -1,36 +1,108 @@
 {
-  "lede": "O Le Doyenné ocupa uma propriedade rural em Saint-Vrain, ao sul de Paris, e aproxima a mesa do cultivo.",
+  "lede": "Em Saint-Vrain, ao sul de Paris, os chefs australianos James Henry e Shaun Kelly transformaram antigas cavalariças da propriedade Mortemart em restaurante, hospedaria e fazenda. No Le Doyenné, os vegetais da horta regenerativa e os animais criados na propriedade definem uma cozinha francesa campestre que muda a cada colheita.",
   "history": [
-    "O projeto dos chefs James Henry e Shaun Kelly reúne restaurante, horticultura e hospedagem em um ambiente campestre.",
-    "O Le Doyenné ocupa as antigas cavalariças de uma propriedade da família Mortemart, restauradas para abrigar restaurante e hospedagem."
+    "O Le Doyenné ocupa as antigas cavalariças da propriedade de Château de Saint-Vrain, a cerca de 41 quilômetros ao sul do centro de Paris. O terreno pertence à família Mortemart há mais de dois séculos e conserva a memória de artistas que trabalharam ali, incluindo Niki de Saint Phalle e Jean Tinguely.",
+    "Os chefs australianos James Henry e Shaun Kelly passaram por restaurantes parisienses como Au Passage, Bones, Yard e Spring. Os dois, com a família proprietária, recuperaram a construção rural e montaram um projeto em que a horta precedeu e inspirou o restaurante.",
+    "Na abertura em 2022, o Le Doyenné reuniu restaurante, produção agrícola e onze quartos de hospedagem. Uma horta trabalhada com compostagem e agricultura regenerativa cultiva mais de cem variedades de vegetais, frutas e ervas, incluindo sementes e espécies tradicionais.",
+    "Em 2024, o restaurante entrou no ranking mundial estendido The 50 Best Restaurants em 70º lugar, seguiu em 77º em 2025 e foi classificado em 84º em 2026. Mais do que uma sequência fixa de receitas, a proposta combina a produção da propriedade, hospitalidade rural e técnica de cozinha contemporânea."
   ],
   "cuisine": {
-    "style": "Cozinha francesa de fazenda",
+    "style": "Cozinha francesa de fazenda, colheita e agricultura regenerativa",
     "paragraphs": [
-      "O menu segue o que é colhido na propriedade e de produtores próximos.",
-      "A horta e o abastecimento da propriedade moldam o cardápio; já foram servidos peixe-são-pedro com vagem e tomate e galinha-d'angola grelhada."
+      "A despensa começa na horta do próprio terreno, com vegetais colhidos no ponto de maturação. A equipe usa também aves e outros animais criados na propriedade, aproveitando cascas e folhas em vinagres e condimentos; compostagem e cuidado com o solo fazem parte da rotina.",
+      "Na carta sazonal divulgada no site oficial aparecem peixe-são-pedro de pesca de linha com vagem e tomate, galinha-d'angola grelhada, salada da horta com gazpacho de tomate e legumes crus. Uma tábua de charcutaria própria e brioche compõem algumas das pequenas entradas.",
+      "Há o menu Carte Blanche de várias etapas e uma versão menor para o almoço de sexta-feira. As receitas são exemplos publicados e mudam diariamente com a colheita, portanto a experiência exige confirmação do menu no dia da visita."
     ]
   },
   "chef": {
     "name": "James Henry e Shaun Kelly",
-    "bio": "James Henry e Shaun Kelly dirigem uma cozinha em Saint-Vrain ligada à produção agrícola do próprio terreno."
+    "bio": "Os australianos James Henry e Shaun Kelly formaram suas trajetórias em cozinhas de Melbourne e Paris. Henry esteve ligado a Au Passage e ao Bones; Kelly passou por Au Passage, Yard e outras equipes francesas. No Le Doyenné, criaram uma experiência que integra cozinha, hospedagem e uma horta regenerativa de mais de cem variedades de plantas."
   },
   "awards": [
     {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 70, estreia na lista mundial estendida"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 77, lista estendida"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 84º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 84, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://ledoyennerestaurant.com/about/",
+    "https://ledoyennerestaurant.com/restaurant-en-2/",
+    "https://ledoyennerestaurant.com/book-now/",
+    "https://guide.michelin.com/en/ile-de-france/saint-vrain/restaurant/le-doyenne",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+    "https://commons.wikimedia.org/wiki/File:Saint-Vrain_-_IMG_6389.jpg"
   ],
   "slug": "le-doyenne",
   "rank": 84,
   "dishes": [
     {
-      "name": "Peixe-são-pedro com vagem e tomate",
-      "desc": "Preparação sazonal citada entre os menus anteriores.",
+      "name": "Peixe-são-pedro, vagem e tomates",
+      "desc": "Pescado de linha acompanhado de vagens e tomates, preparado segundo a carta sazonal do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Galinha-d'angola grelhada",
+      "desc": "Ave criada e preparada com técnica de grelha, prato publicado na degustação Carte Blanche.",
+      "photo": null
+    },
+    {
+      "name": "Salada de horta com gazpacho de tomate",
+      "desc": "Folhas e vegetais da propriedade, com caldo frio de tomate, em uma das versões de verão do menu.",
+      "photo": null
+    },
+    {
+      "name": "Tarte de tomate e sardinha",
+      "desc": "Pequena entrada da seleção de hors d'œuvres, combinando produto de horta e pescado.",
+      "photo": null
+    },
+    {
+      "name": "Savarin, pêssego, nozes e figo assado",
+      "desc": "Sobremesa sazonal do menu apresentado pelo Le Doyenné, sujeita a variação de frutas.",
       "photo": null
     }
-  ]
+  ],
+  "founded": 2022,
+  "founders": [
+    "James Henry",
+    "Shaun Kelly",
+    "Família Mortemart (propriedade)"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Vrain%20-%20IMG%206389.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint-Vrain_-_IMG_6389.jpg",
+    "author": "Poudou99",
+    "license": "CC BY 3.0",
+    "caption": "Prefeitura de Saint-Vrain, no departamento de Essonne, fotografada em agosto de 2012. Foto contextual da comuna, NÃO das cavalariças do Le Doyenné nem do château da família Mortemart.",
+    "illustrative": true
+  },
+  "practical": {
+    "website": "https://ledoyennerestaurant.com/",
+    "address": "5 rue Saint-Antoine, 91770 Saint-Vrain, França",
+    "reservationUrl": "https://ledoyennerestaurant.com/book-now/",
+    "reservation": "Reservas obrigatórias pelo sistema Zenchef no site oficial. Jantar às segundas e quintas; almoço e jantar de sexta a domingo; fechado terça e quarta. O restaurante solicita depósito de €50 para reservar mesa. Hospedagem e mesa são reservadas separadamente, e reservar quarto não assegura lugar no restaurante.",
+    "price": "Menu Carte Blanche: €135 por pessoa; almoço de sexta-feira: €95 por pessoa. A carta no site indica que exemplos de etapas mudam diariamente; preços consultados em novembro de 2026 e sujeitos a atualização."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Le Doyenné — site oficial",
+    "url": "https://ledoyennerestaurant.com/about/",
+    "note": "Fotos reais das antigas cavalariças, dos jardins, dos chefs e da hospedaria na publicação oficial. O A Carta usa apenas imagem licenciada da comuna de Saint-Vrain, expressamente identificada como contextual.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Le Doyenné",
+        "url": "https://guide.michelin.com/en/ile-de-france/saint-vrain/restaurant/le-doyenne",
+        "note": "Fotos da propriedade e texto sobre agricultura regenerativa e pratos da casa."
+      }
+    ]
+  }
 }
