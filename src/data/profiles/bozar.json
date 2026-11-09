@@ -108,5 +108,13 @@
     "publisher": "Bozar Restaurant — site oficial",
     "url": "https://bozarrestaurant.be/en/",
     "note": "Fotografias atuais do salão, dos preparos e da equipe, sem licença livre confirmada para incorporação."
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruxelles_-_Palais_des_Beaux-Arts_%283%29.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Palais_des_Beaux-Arts_(3).jpg",
+    "author": "Fred Romero",
+    "license": "CC BY 2.0",
+    "caption": "Entrada da área do restaurante no Palais des Beaux-Arts, complexo de Victor Horta em Bruxelas, fotografada em 2015.",
+    "illustrative": false
   }
 }
