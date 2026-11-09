@@ -208,6 +208,17 @@
     "kind": "ambientes",
     "publisher": "Guia Michelin",
     "url": "https://guide.michelin.com/my/en/seoul-capital-area/kr-seoul/restaurant/mingles",
-    "note": "Imagens e descrição do Mingles em Gangnam; não há confirmação de uma foto da fachada na fonte."
+    "note": "Imagens e descrição do Mingles em Gangnam; não há confirmação de uma foto da fachada na fonte.",
+    "featuredGalleryIndex": 1,
+    "previewKicker": "A cozinha",
+    "previewTitle": "A tradição dos fermentados",
+    "previewContext": "Potes de fermentação tradicionais coreanos (jangdok) fotografados em Gangjin. A técnica ajuda a explicar a cozinha do Mingles; a foto não mostra o restaurante. Para imagens reais do espaço, veja o Guia Michelin e o site oficial logo abaixo.",
+    "additionalSources": [
+      {
+        "publisher": "Mingles — site oficial",
+        "url": "https://www.restaurant-mingles.com/menu",
+        "note": "Fotografias de pratos do restaurante e o cardápio oficial"
+      }
+    ]
   }
 }
