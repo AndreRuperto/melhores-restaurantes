@@ -1,48 +1,112 @@
 {
-  "lede": "No Hôtel de Paris, em Monte Carlo, o Le Louis XV preserva a valorização de ingredientes mediterrâneos iniciada por Alain Ducasse.",
+  "lede": "Em um salão histórico do Hôtel de Paris, na Place du Casino de Monte Carlo, o Le Louis XV combina o cenário Belle Époque com a cozinha mediterrânea criada por Alain Ducasse. Emmanuel Pilon lidera hoje um menu de produtos da Riviera, mais atento à nitidez dos sabores do que ao excesso decorativo.",
   "history": [
-    "O restaurante abriu em 1987 e marcou uma virada para menus mais leves e centrados em vegetais. Emmanuel Pilon comanda atualmente a cozinha.",
-    "O restaurante nasceu em 1987, quando o príncipe Rainier III convidou Alain Ducasse a criar uma casa de alta gastronomia no Hôtel de Paris. Desde o início, Ducasse colocou vegetais e ingredientes mediterrâneos no centro da experiência."
+    "O Hôtel de Paris inaugurou-se no século XIX como um dos endereços emblemáticos de Monte Carlo. Em 1987, o príncipe Rainier III convidou Alain Ducasse a instalar ali um grande restaurante, o Le Louis XV, concebido para expressar o Mediterrâneo num ambiente de hospitalidade clássica.",
+    "Logo em sua estreia, o menu Jardins de Provence deslocou o foco de molhos pesados para legumes, ervas e produtos da Riviera. Era uma proposta que transformava o ingrediente, sua origem e sua estação nos protagonistas da alta cozinha francesa. O Guia Michelin concedeu três estrelas à casa em 1990, apenas 33 meses depois da abertura.",
+    "Ao longo das décadas, o Le Louis XV renovou espaço e equipe sem abandonar o princípio da naturalidade. Os agricultores, pescadores e produtores da costa mediterrânea alimentam um repertório mutável de pescados, hortaliças, frutas cítricas e caldos concentrados.",
+    "Emmanuel Pilon comanda a cozinha diária, na tradição de Alain Ducasse. A casa conservou as três estrelas Michelin em 2026 e reapareceu no ranking mundial The 50 Best Restaurants em 47º lugar naquele ano."
   ],
   "cuisine": {
-    "style": "Alta cozinha mediterrânea e francesa",
+    "style": "Alta cozinha mediterrânea da Riviera, com foco no produto",
     "paragraphs": [
-      "Os pratos seguem estações e produtos da Riviera, reduzindo excessos para valorizar sabores da região.",
-      "Emmanuel Pilon preserva a linha de cozinha leve e centrada em produtos do Mediterrâneo. O menu muda com as estações e evita técnicas que escondam o ingrediente."
+      "A cozinha de Emmanuel Pilon valoriza pesca local, horta mediterrânea, azeites, ervas e frutas de estação. Molhos e caldos são preparados para concentrar sabor, mas sem encobrir a identidade de legumes e pescados.",
+      "Entre os pratos registrados pela organização do 50 Best estão camarões de San Remo com geleia de peixes de rocha e caviar e cenouras da região com queijo de cabra defumado. O repertório clássico também inclui legumes do menu Jardins de Provence, que marcou a abertura de 1987.",
+      "O restaurante oferece menus ligados à Riviera e à estação, além de seleção à la carte. As combinações podem mudar; as descrições de pratos históricos não equivalem à confirmação de sua presença no cardápio do dia."
     ]
   },
   "chef": {
-    "name": "Emmanuel Pilon",
-    "bio": "Emmanuel Pilon conduz atualmente a cozinha do Le Louis XV, trabalhando na linha gastronômica criada por Alain Ducasse em Monte Carlo."
+    "name": "Emmanuel Pilon (chef executivo) · Alain Ducasse (criador)",
+    "bio": "Alain Ducasse abriu o Le Louis XV em 1987 e estabeleceu a linha de cozinha mediterrânea que tornou o endereço conhecido. O chef Emmanuel Pilon lidera atualmente a equipe e constrói menus sazonais centrados nos ingredientes da Riviera, mantendo a filosofia de valorização do produto."
   },
   "dishes": [
     {
       "name": "Camarões de San Remo",
-      "desc": "Preparação com camarões e gelée de peixes de rocha.",
+      "desc": "Gamberoni do litoral próximo a San Remo, apresentados com geleia de peixes de rocha, açafrão e caviar em versões documentadas da carta.",
       "photo": null
     },
     {
-      "name": "Cenouras locais com queijo de cabra",
-      "desc": "Criação sazonal ligada à cozinha de vegetais do restaurante.",
+      "name": "Cenouras da Riviera",
+      "desc": "Legumes locais trabalhados com um acompanhamento de queijo de cabra defumado, na seleção descrita pelo The 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Alcachofra da Provença",
+      "desc": "Alcachofra de origem provençal com ingredientes marinhos, exemplo de contraste entre horta e Mediterrâneo.",
+      "photo": null
+    },
+    {
+      "name": "Pescado mediterrâneo confitado",
+      "desc": "Peixe da costa trabalhado com temperos e vegetais sazonais, conforme as características do cardápio contemporâneo.",
+      "photo": null
+    },
+    {
+      "name": "Sobremesa de baunilha e cítricos",
+      "desc": "Versão da linha de sobremesas clássicas da casa, que combina baunilha, frutas cítricas e creme leve.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 1990,
+      "title": "Três estrelas Michelin, conquistadas 33 meses após a abertura do Le Louis XV"
+    },
+    {
+      "year": 2025,
+      "title": "Três estrelas Michelin — Guia Michelin Mônaco"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 47º lugar no ranking mundial"
+      "title": "Três estrelas Michelin — Guia Michelin Mônaco"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 47, retorno ao ranking mundial"
     }
   ],
   "practical": {
-    "address": "Place du Casino, 98000 Monte Carlo, Mônaco",
-    "website": "https://www.montecarlosbm.com"
+    "address": "Hôtel de Paris, Place du Casino, 98000 Monte Carlo, Mônaco",
+    "website": "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
+    "reservationUrl": "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
+    "reservation": "Reservas pelo botão de reserva do site Ducasse Paris ou diretamente pelo telefone +377 98 06 88 64. Serviço de jantar de terça a sábado e almoço às sextas e sábados, conforme o Guia Michelin. Verificar disponibilidade e regras antes de reservar.",
+    "price": "Alta gastronomia de preço elevado (faixa €€€€ no Guia Michelin). Preços vigentes e menus devem ser confirmados no restaurante."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/le-lous-xv-alain-ducasse.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://guide.michelin.com/us/en/monaco-region/monaco/restaurant/le-louis-xv-alain-ducasse-a-l-hotel-de-paris",
+    "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
+    "https://front.production.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris?gtmIndex=1&gtmListName=recommended",
+    "https://commons.wikimedia.org/wiki/File:2016_Hotel_de_Paris_-_Monaco_03_Restaurant_Louis_XV.jpg",
+    "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Paris_Monte-Carlo_001.jpg"
   ],
   "slug": "le-louis-xv-alain-ducasse-a-lhotel-de-paris",
   "rank": 47,
-  "founded": 1987
+  "founded": 1987,
+  "founders": [
+    "Alain Ducasse"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2016_Hotel_de_Paris_-_Monaco_03_Restaurant_Louis_XV.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Hotel_de_Paris_-_Monaco_03_Restaurant_Louis_XV.jpg",
+    "author": "Jordiferrer",
+    "license": "CC BY-SA 4.0",
+    "caption": "Salão do Le Louis XV no Hôtel de Paris, em Mônaco, fotografado em agosto de 2016. É uma imagem real do restaurante, mas a decoração pode ter mudado.",
+    "illustrative": false
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_de_Paris_Monte-Carlo_001.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Paris_Monte-Carlo_001.jpg",
+    "author": "Arnaud 25",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fachada do Hôtel de Paris em 2020, edifício que abriga o Le Louis XV. Não é uma fotografia isolada da entrada do restaurante.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Le Louis XV / Ducasse Paris — site oficial",
+    "url": "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
+    "note": "Imagens atuais dos ambientes, chefs e pratos na fonte oficial; a foto histórica publicada pelo A Carta possui licença CC BY-SA 4.0 independente."
+  }
 }
