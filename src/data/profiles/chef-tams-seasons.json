@@ -1,36 +1,122 @@
 {
-  "lede": "No Wynn Palace de Macau, o Chef Tam's Seasons valoriza a cozinha cantonesa por meio de ingredientes sazonais.",
+  "lede": "No Wynn Palace, em Cotai, Macau, Chef Tam's Seasons celebra a cozinha cantonesa por meio dos 24 termos solares do calendário tradicional chinês. Tam Kwok Fung seleciona ingredientes segundo microvariações das estações e combina técnicas clássicas, serviço preciso e pratos que valorizam frutos do mar, caldos e vegetais.",
   "history": [
-    "O chef Tam Kwok Fung conduz uma experiência que combina técnicas clássicas e serviço de alta gastronomia.",
-    "Dentro do Wynn Palace, em Macau, o Chef Tam's Seasons apresenta técnicas clássicas cantonesas e um serviço organizado em torno das estações."
+    "O chef Tam Kwok Fung desenvolveu carreira em grandes cozinhas de hotelaria e alta gastronomia cantonesa. Antes do projeto atual em Macau, liderou a cozinha do Jade Dragon e comandou o Wing Lei Palace, no Wynn Palace, consolidando um estilo de preparo clássico com atenção aos ingredientes.",
+    "Em agosto de 2023, Chef Tam's Seasons abriu no Wynn Palace, em Cotai, com uma identidade ligada aos 24 termos solares chineses. Essa divisão tradicional do ano orienta a escolha de ingredientes conforme temperatura, umidade e maturação.",
+    "O restaurante recebeu sua primeira estrela Michelin na edição Hong Kong & Macau 2024, menos de um ano depois da abertura. Em março de 2025, subiu para duas estrelas, distinção mantida em 2026.",
+    "No Asia's 50 Best, a casa estreou em 49º em 2024, avançou para 9º em 2025 e alcançou 7º em 2026, sendo reconhecida como a melhor de Macau. No ranking mundial estendido, ficou em 73º em 2026."
   ],
   "cuisine": {
-    "style": "Cozinha cantonesa contemporânea",
+    "style": "Alta cozinha cantonesa sazonal, dos 24 termos solares",
     "paragraphs": [
-      "Frutos do mar, caldos e produtos selecionados variam conforme a estação.",
-      "A equipe considera a época dos ingredientes e o desejo dos visitantes. Na temporada de lichia, uma entrada fria pode combinar caranguejo vermelho e geleia da fruta."
+      "A base são os clássicos cantoneses: domínio de caldos de longa cocção, grelhados, pratos de frutos do mar, texturas delicadas e vegetais preparados no ponto exato. A sequência muda de acordo com o clima e a oferta de produtos.",
+      "O menu à la carte convive com experiências degustação clássica e sazonal. Durante o outono, o Guia Michelin destaca o ge zha, creme de ovos frito em crosta leve, numa versão de caranguejo; também cita barriga de porco assada e glaceada com mel.",
+      "Entre outras especialidades documentadas estão garoupa com pele de tofu, porco e alho; couve chinesa de floração tardia preparada no wok; caldo de frango com bexiga natatória e tripa suína; e caranguejo vermelho frio com geleia de lichia na estação da fruta."
     ]
   },
   "chef": {
     "name": "Tam Kwok Fung",
-    "bio": "Tam Kwok Fung conduz a cozinha cantonesa do Chef Tam's Seasons e é conhecido pelo trabalho com produtos sazonais."
+    "bio": "Tam Kwok Fung é um chef de cozinha cantonesa com longa atuação em Macau. Liderou equipes em restaurantes de prestígio, incluindo Jade Dragon e Wing Lei Palace, antes de abrir Chef Tam's Seasons em agosto de 2023. Sua pesquisa se organiza em torno dos 24 termos solares e da valorização de ingredientes no ponto ideal de cada estação."
   },
   "dishes": [
     {
-      "name": "Caranguejo vermelho frio com lichia",
-      "desc": "Carne de caranguejo acompanhada por gelatina de fruta durante a estação de lichias.",
+      "name": "Ge zha com caranguejo sazonal",
+      "desc": "Creme de ovos frito, envolto em crosta delicada, apresentado com caranguejo na temporada de outono, segundo o Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Barriga suína assada com mel",
+      "desc": "Preparo cantonês de carne suína assada, com exterior caramelizado e notas defumadas.",
+      "photo": null
+    },
+    {
+      "name": "Garoupa com pele de tofu",
+      "desc": "Peixe preparado com pele de tofu doce, barriga de porco e alho em uma combinação tradicional refinada.",
+      "photo": null
+    },
+    {
+      "name": "Caranguejo vermelho com lichia",
+      "desc": "Caranguejo frio com geleia de lichia, criação descrita no período de maturação da fruta.",
+      "photo": null
+    },
+    {
+      "name": "Caldo com bexiga natatória e tripa suína",
+      "desc": "Sopa de frango e pimenta com bexiga natatória de peixe, tripa suína e massa de arroz, conforme repertório do restaurante.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2024,
+      "title": "Primeira estrela Michelin — Guia Hong Kong & Macau"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants — nº 49; melhor restaurante de Macau"
+    },
+    {
+      "year": 2025,
+      "title": "Promoção a duas estrelas Michelin — Guia Hong Kong & Macau"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 9; Highest Climber Award"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 73º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin mantidas — Guia Hong Kong & Macau"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 7 e melhor restaurante de Macau"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 73, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
+    "https://guide.michelin.com/en/macau-region/macau/restaurant/chef-tam-s-seasons",
+    "https://guide.michelin.com/mo/en/article/features/inspectors-reveal-all-chef-tams-seasons-tam-kwok-fung",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Chef-Tams-Seasons.html",
+    "https://www.newsroom.wynnresorts.com/en/wynnpalace/chef-tam-s-seasons-at-wynn-palace-once-again-ranks-among-the-50-best-restaurants-2026-51-100-list/s/754ce415-bcbf-4ba3-aa15-fd480b2b47ae",
+    "https://commons.wikimedia.org/wiki/File:Wynn_Palace_(Macau)_-_Operational_in_2017.jpg"
   ],
   "slug": "chef-tams-seasons",
-  "rank": 73
+  "rank": 73,
+  "founded": 2023,
+  "founders": [
+    "Tam Kwok Fung e Wynn Palace"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wynn%20Palace%20%28Macau%29%20-%20Operational%20in%202017.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Wynn_Palace_(Macau)_-_Operational_in_2017.jpg",
+    "author": "Thom Devereux",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fachada real do Wynn Palace, complexo que abriga Chef Tam's Seasons, fotografada em janeiro de 2017. A imagem é anterior à abertura do restaurante em 2023 e não mostra sua entrada específica.",
+    "illustrative": false
+  },
+  "practical": {
+    "website": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
+    "address": "Térreo, North Esplanade, Wynn Palace, Avenida da Nave Desportiva, Cotai, Macau",
+    "reservationUrl": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
+    "reservation": "Reservas diretamente pelo botão do site oficial ou pelo telefone +853 8889 3663; a página do restaurante informa almoço das 12h às 15h e jantar das 17h30 às 22h30. Confirmar datas, restrições e política de cancelamento no momento de reservar.",
+    "price": "Opções à la carte e degustações clássica e sazonal. O preço atual em patacas não foi confirmado na página institucional consultada; solicitar valor ao reservar."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Wynn Palace — Chef Tam's Seasons",
+    "url": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
+    "note": "Fotografias reais do salão, da equipe e dos pratos no site do restaurante. A imagem reproduzida no A Carta é do edifício Wynn Palace em 2017, com licença identificada, não do salão do Chef Tam's Seasons.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin",
+        "url": "https://guide.michelin.com/en/macau-region/macau/restaurant/chef-tam-s-seasons",
+        "note": "Fotografias e descrição do menu cantonês no endereço atual."
+      }
+    ]
+  }
 }
