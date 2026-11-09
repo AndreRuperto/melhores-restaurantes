@@ -1,46 +1,106 @@
 {
-  "lede": "No vale do Soča, na Eslovênia, o Hiša Franko interpreta ingredientes alpinos e produtos de pequenos produtores.",
+  "lede": "No vale esloveno do Soča, o Hiša Franko traduz rios, montanhas, pastagens e florestas em um menu que muda conforme a natureza. Ana Roš, chef autodidata, transformou a antiga casa de hóspedes em um destino de três estrelas Michelin, com ingredientes de pequenos produtores e fortes raízes regionais.",
   "history": [
-    "A chef Ana Roš tornou a antiga casa de campo da família um dos principais destinos gastronômicos da região.",
-    "A chef Ana Roš tornou o Hiša Franko uma referência internacional da cozinha eslovena do vale do Soča. Em 2017, recebeu o título World's Best Female Chef."
+    "O edifício que hoje abriga o Hiša Franko tem uma história de hospitalidade que remonta ao século XIX. A casa fica em Staro Selo, perto de Kobarid, no vale do rio Soča, zona de montanhas, pequenos povoados e tradição de laticínios, caça e pesca.",
+    "Ana Roš não seguiu uma formação profissional convencional em cozinha: deixou um caminho possível na diplomacia e assumiu o restaurante familiar. Com aprendizado autodidata, desenvolveu uma linguagem muito própria baseada nos ingredientes do vale e na relação direta com coletores, pastores, queijeiros e agricultores.",
+    "A chef foi eleita The World's Best Female Chef em 2017 e consolidou a projeção internacional da casa. Na primeira edição do Guia Michelin Eslovênia, em 2020, o Hiša Franko recebeu duas estrelas e a Estrela Verde, que reconhece práticas ligadas à sustentabilidade. Em 2023, conquistou a terceira estrela.",
+    "Em 2026, a casa mantinha três estrelas Michelin e apareceu em 60º no ranking mundial estendido. O menu daquele ano, Euphorest, buscou dar voz ao trabalho de quem cultiva, coleta e cria na região, adaptando os pratos ao que a paisagem oferece em cada estação."
   ],
   "cuisine": {
-    "style": "Cozinha eslovena contemporânea",
+    "style": "Cozinha eslovena contemporânea hiperlocal e sazonal",
     "paragraphs": [
-      "O menu muda com as estações e valoriza queijos, ervas, rios, florestas e criações locais.",
-      "Alguns pratos se tornaram clássicos da casa, como beignet de milho com queijo fresco fermentado e batata assada sob uma crosta de feno seco."
+      "A equipe trabalha a partir de trutas de rios próximos, laticínios alpinos, cabras, vegetais de pequenos produtores, frutos do bosque e ervas coletadas. Em vez de reproduzir receitas locais sem mudanças, Ana Roš transforma seus sabores em experiências delicadas e cheias de contrastes.",
+      "O restaurante oferece uma única degustação para almoço e jantar, com cerca de três horas de duração. O menu 2026 se chama Euphorest e mantém o princípio da temporada: ingredientes e composições variam ao longo do ano, mesmo quando a narrativa do percurso permanece.",
+      "Preparações de diferentes épocas incluem o beignet de milho com queijo fresco fermentado, a batata assada numa crosta de feno seco, o pastrami de língua bovina com água de tomate fermentado e sobremesas de leite azedo com frutos do jardim. Fotografias de 2022 mostram pratos reais servidos na casa, não o menu vigente de 2026."
     ]
   },
   "chef": {
     "name": "Ana Roš",
-    "bio": "Ana Roš dirige o Hiša Franko e desenvolveu uma cozinha profundamente ligada aos produtores e à geografia do vale do Soča."
+    "bio": "Ana Roš dirige o Hiša Franko e construiu sua trajetória culinária por aprendizado autodidata, a partir da região onde vive. Seu trabalho reúne produtores, coletores, agricultores e artesãos do vale do Soča em uma gastronomia que expressa o território. Foi eleita The World's Best Female Chef em 2017; a casa recebeu duas estrelas Michelin e Estrela Verde em 2020, passando a três estrelas em 2023."
   },
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 60º lugar no ranking mundial"
+      "year": 2017,
+      "title": "Ana Roš — The World's Best Female Chef"
     },
     {
-      "year": 2017,
-      "title": "The World's Best Female Chef 2017"
+      "year": 2020,
+      "title": "Duas estrelas Michelin e Estrela Verde — primeira edição do Guia Michelin Eslovênia"
+    },
+    {
+      "year": 2023,
+      "title": "Terceira estrela Michelin — Guia Michelin Eslovênia"
+    },
+    {
+      "year": 2024,
+      "title": "Ana Roš — Best Chef Voted by Professionals"
+    },
+    {
+      "year": 2025,
+      "title": "Três estrelas Michelin mantidas"
+    },
+    {
+      "year": 2026,
+      "title": "Cinco toques (Five Toques) — Gault&Millau Eslovênia"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 60 (lista estendida)"
     }
   ],
   "sources": [
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
     "https://commons.wikimedia.org/wiki/File:Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg",
-    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hi%C5%A1a_Franko,_summer_2022_01.jpg"
+    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hi%C5%A1a_Franko,_summer_2022_01.jpg",
+    "https://www.hisafranko.com/en",
+    "https://hisafranko.com/en/menu",
+    "https://www.hisafranko.com/en/faq",
+    "https://r.venuo.net/hisa-franko/",
+    "https://www.anaros.eu/en/hisa-franko",
+    "https://www.anaros.eu/en/about",
+    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_03.jpg",
+    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_07.jpg"
   ],
   "slug": "hisa-franko",
   "rank": 60,
   "dishes": [
     {
-      "name": "Beignet de milho e queijo fresco fermentado",
-      "desc": "Um dos pratos emblemáticos da cozinha de Ana Roš.",
+      "name": "Beignet de milho com queijo fresco fermentado",
+      "desc": "Pequena massa de milho com queijo fermentado, ovas de truta defumadas e ervas; assinatura documentada em fotografia feita no restaurante em 2022.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dinner%20at%20Hi%C5%A1a%20Franko%2C%20summer%202022%2003.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_03.jpg",
+        "author": "Dclemens1971",
+        "license": "CC BY 4.0",
+        "caption": "Beignet de milho com queijo fresco fermentado, ovas de truta defumadas e cebolinha silvestre, servido no Hiša Franko em agosto de 2022. Fotografia real de menu histórico.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Batata assada em crosta de feno",
+      "desc": "Preparação histórica da cozinha de Ana Roš que usa feno seco para remeter às paisagens de montanha.",
       "photo": null
     },
     {
-      "name": "Batata assada sob crosta de feno",
-      "desc": "Preparação que aproxima técnica culinária e paisagem rural eslovena.",
+      "name": "Pastrami de língua e água de tomate",
+      "desc": "Língua curada com cristal de alga e ervas, servida em uma etapa de degustação de 2022 ao lado de água de tomate fermentado, flor de sabugueiro e morangos.",
+      "photo": null
+    },
+    {
+      "name": "Sobremesa de leite azedo, melão e frutos do jardim",
+      "desc": "Criação fotografada durante o menu de agosto de 2022, expressão da sazonalidade de frutas e fermentados.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dinner%20at%20Hi%C5%A1a%20Franko%2C%20summer%202022%2007.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_07.jpg",
+        "author": "Dclemens1971",
+        "license": "CC BY 4.0",
+        "caption": "Sobremesa de leite azedo, melão e frutos vermelhos do jardim, servida no Hiša Franko em agosto de 2022; prato de temporada histórica.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Truta e ingredientes do rio Soča",
+      "desc": "Família de preparações sazonais com pescado da região; composição não fixa e dependente da pesca e da estação.",
       "photo": null
     }
   ],
@@ -61,5 +121,36 @@
       "caption": "Pratos servidos no Hiša Franko em 2022: pastrami de língua e água de tomate fermentado",
       "illustrative": false
     }
-  ]
+  ],
+  "founders": [
+    "Ana Roš e equipe do Hiša Franko (projeto gastronômico contemporâneo)"
+  ],
+  "practical": {
+    "website": "https://www.hisafranko.com/en",
+    "address": "Staro Selo 1, 5222 Kobarid, Eslovênia",
+    "reservationUrl": "https://r.venuo.net/hisa-franko/",
+    "reservation": "Reservas pelo sistema Venuo indicado no site oficial, confirmadas por e-mail. Serviço de quarta a domingo, no almoço e no jantar; fechado às segundas e terças. A experiência dura cerca de três horas. O restaurante pede aviso prévio de restrições alimentares com pelo menos uma semana de antecedência; a política de cancelamento deve ser conferida na reserva.",
+    "price": "Euphorest 2026: € 335 por pessoa, bebidas não incluídas, segundo o menu oficial de novembro de 2026. A plataforma também divulga uma temporada 2027 com € 345, valor não aplicável a todas as datas de 2026."
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg",
+    "author": "Lars Plougmann",
+    "license": "CC BY-SA 2.0",
+    "caption": "Edifício real do Hiša Franko, restaurante e hospedaria em Staro Selo, fotografado em 2006. A aparência atual pode ter mudado desde então.",
+    "illustrative": false
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Hiša Franko — site oficial",
+    "url": "https://www.hisafranko.com/en",
+    "note": "Fotografias atuais de ambiente, equipe e menus disponíveis no site oficial, sem licença aberta de republicação identificada. A capa e as imagens de pratos de 2022 do Wikimedia Commons podem ser reproduzidas com créditos.",
+    "additionalSources": [
+      {
+        "publisher": "Venuo — experiência Euphorest 2026",
+        "url": "https://r.venuo.net/hisa-franko/",
+        "note": "Descrição do menu vigente, duração, preço e canal de reserva."
+      }
+    ]
+  }
 }
