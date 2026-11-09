@@ -6,7 +6,7 @@ import WorldMap from '../components/WorldMap'
 import { MenuItem } from '../components/RankingTable'
 import NotFound from './NotFound'
 import { useProfile } from '../data/profiles'
-import { Photo, Credit, Story, Chef, Dishes, Awards, Gallery, Facade, Practical, Sources } from '../components/Profile'
+import { Photo, Credit, Story, Chef, Dishes, Awards, Gallery, Facade, Practical, Sources, PhotoCredits } from '../components/Profile'
 
 function Section({ kicker, title, children }) {
   return (
@@ -180,6 +180,7 @@ export default function Restaurant() {
         )}
 
         {profile && <Sources p={profile} />}
+        {profile && <PhotoCredits p={profile} />}
 
         <Ornament className="mt-20" />
 
