@@ -1,57 +1,130 @@
 {
-  "lede": "O Mayta, em Lima, transforma ingredientes peruanos em pratos de apresentação contemporânea.",
+  "lede": "Em Miraflores, Lima, o Mayta é o projeto mais pessoal do chef Jaime Pesaque: um percurso pela diversidade agrícola e cultural do Peru, com ingredientes dos Andes, da Amazônia e da costa apresentados com técnica contemporânea. Seu nome significa 'terra nobre' em aimará.",
   "history": [
-    "O chef Jaime Pesaque reformulou a casa em 2018 e ampliou o trabalho de pesquisa de ingredientes pelo projeto Yachay.",
-    "No aniversário de dez anos, em 2018, o Mayta mudou de endereço e refez a experiência gastronômica. Entrou no Latin America's 50 Best em 2019 e na lista mundial em 2022."
+    "Jaime Pesaque abriu o Mayta em 2008 depois de se formar em escolas de culinária e passar por restaurantes europeus, incluindo El Celler de Can Roca, na Espanha. Desde o começo, o projeto buscou apresentar produtos peruanos em uma linguagem moderna, sem abandonar o reconhecimento de sua origem.",
+    "Em 2018, no aniversário de dez anos da casa, o restaurante passou por uma reformulação da experiência e do espaço. O novo formato ganhou protagonismo em Miraflores, com um salão de desenho contemporâneo e uma cozinha mais focada em sequências degustação e em produtos de várias regiões do país.",
+    "O trabalho de pesquisa associado a Mayta inclui iniciativas como Yachay, voltadas ao reconhecimento de ingredientes e de sistemas de produção peruanos. Milhos, tubérculos, pimentas, ervas, peixes e produtos amazônicos são tratados como pontos de partida para pratos que procuram contar histórias do território.",
+    "O Mayta entrou no Latin America's 50 Best Restaurants em 2019, ganhou o Highest Climber Award em 2020 e ingressou no ranking mundial em 2022. Depois de terminar 2025 em 39º no mundo, foi classificado em 45º no The 50 Best Restaurants de 2026."
   ],
   "cuisine": {
-    "style": "Cozinha peruana contemporânea",
+    "style": "Cozinha peruana contemporânea, pesquisa de ingredientes",
     "paragraphs": [
-      "Milhos, tubérculos, ervas andinas e produtos amazônicos entram em menus degustação e pratos à la carte.",
-      "O menu degustação Mayta Experience tem cerca de dez etapas e destaca ingredientes peruanos de diferentes regiões. O projeto de pesquisa Yachay estuda o cultivo e a utilização desses ingredientes."
+      "O menu cruza diferentes paisagens do Peru, do Pacífico às montanhas andinas e à floresta amazônica. Pesaque trabalha com apresentações delicadas, técnicas atuais e atenção à procedência, construindo contrastes de textura e temperatura.",
+      "A Mayta Experience, registrada no cardápio oficial consultado em novembro de 2026, é uma degustação de dez etapas. O site também oferece opções à la carte, destinadas a quem prefere montar a própria refeição.",
+      "Entre as preparações descritas em perfis da casa aparecem a panela de pato em cinco preparos, com raízes sazonais e arroz verde, e pratos que valorizam peixes amazônicos, milho e plantas andinas. Esses são exemplos do repertório do chef, não garantia de presença no menu do dia."
     ]
   },
   "chef": {
     "name": "Jaime Pesaque",
-    "bio": "Jaime Pesaque desenvolveu o Mayta como restaurante de cozinha peruana contemporânea e mantém uma frente de pesquisa chamada Yachay."
+    "bio": "Formado pelo Le Cordon Bleu e pelo Italian Culinary Institute (ICIF), Jaime Pesaque aperfeiçoou sua técnica em restaurantes europeus, incluindo El Celler de Can Roca. De volta ao Peru, dirigiu a cozinha do Al Grano antes de fundar o Mayta em 2008. Seu trabalho integra pesquisa de produtos nativos e interpretação contemporânea da gastronomia peruana."
   },
   "dishes": [
     {
+      "name": "Panela de pato em cinco preparos",
+      "desc": "Criação destacada em publicações do 50 Best: partes e texturas de pato reunidas com raízes de estação e arroz verde; composição histórica, sujeita à atualização do menu.",
+      "photo": null
+    },
+    {
       "name": "Milho chullpi e flor de quinoa",
-      "desc": "Preparação de milho e ingredientes andinos citada no menu degustação.",
+      "desc": "Ingredientes andinos apresentados em composição autoral associada ao repertório degustação; confirmar disponibilidade atual.",
+      "photo": null
+    },
+    {
+      "name": "Paiche amazônico",
+      "desc": "Peixe de água doce amazônico apresentado em preparos delicados; um dos produtos usados em criações da casa.",
       "photo": null
     },
     {
       "name": "Ceviche amazônico",
-      "desc": "Uma das opções do repertório à la carte do restaurante.",
+      "desc": "Interpretação de sabores e produtos da Amazônia peruana, mencionada no repertório do restaurante.",
       "photo": null
     },
     {
-      "name": "Paiche em finas lâminas",
-      "desc": "Peixe amazônico apresentado em lâminas que lembram uma flor.",
-      "photo": null
-    },
-    {
-      "name": "Torta de muña",
-      "desc": "Torta de hortelã andina com sorvete de maracujá e chocolate branco.",
+      "name": "Sobremesas com ervas peruanas",
+      "desc": "Sobremesas inspiradas em produtos locais, como muña, erva aromática andina; variações sazonais.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2019,
+      "title": "Estreia no Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2020,
+      "title": "Highest Climber Award — Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2022,
+      "title": "Estreia no The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2022,
+      "title": "World Culinary Awards — reconhecimento internacional do Mayta"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 13"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 11"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 39"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 45º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 45"
     }
   ],
   "practical": {
     "address": "Avenida Mariscal La Mar 1285, Miraflores, Lima 15027, Peru",
-    "website": "https://www.maytalima.com"
+    "website": "https://maytalima.com.pe/en/",
+    "reservationUrl": "https://mayta.mesa247.pe/",
+    "price": "Mayta Experience: S/ 998 por pessoa, menu degustação de dez etapas no cardápio oficial consultado em novembro de 2026. Há opções à la carte; preços sujeitos a atualização.",
+    "reservation": "Reservas pelo sistema Mesa 24/7 indicado no site oficial; almoço e jantar de segunda a domingo, das 12h às 15h e das 18h às 22h. Regras de cancelamento e condições para grupos devem ser verificadas no momento da reserva."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/mayta.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://maytalima.com.pe/mayta/",
+    "https://maytalima.com.pe/en/",
+    "https://maytalima.com.pe/en/carta/",
+    "https://maytalima.com.pe/en/chef/",
+    "https://mayta.mesa247.pe/",
+    "https://www.the50.com/discovery/Establishments/Peru/Lima/Mayta.html",
+    "https://jaimepesaque.com.pe/jaimepesaque/",
+    "https://commons.wikimedia.org/wiki/File:Miraflores_2023.jpg"
   ],
   "slug": "mayta",
-  "rank": 45
+  "rank": 45,
+  "founded": 2008,
+  "founders": [
+    "Jaime Pesaque"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Miraflores_2023.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Miraflores_2023.jpg",
+    "author": "Mojnsen",
+    "license": "CC BY-SA 4.0",
+    "caption": "Panorama de Miraflores, bairro de Lima onde funciona o Mayta, fotografado em dezembro de 2023. Imagem contextual; não é fotografia do restaurante.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Mayta — site oficial e galeria de origem",
+    "url": "https://maytalima.com.pe/mayta/",
+    "note": "Fotografias reais da casa, de preparos e do salão. Não foi encontrada licença pública que permita incorporá-las; a capa do perfil apresenta Miraflores com legenda contextual.",
+    "additionalSources": [
+      {
+        "publisher": "Mayta — cardápio oficial",
+        "url": "https://maytalima.com.pe/en/carta/",
+        "note": "Cardápio, valor do menu degustação e acesso à página de reservas"
+      }
+    ]
+  }
 }
