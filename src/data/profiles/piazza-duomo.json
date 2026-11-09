@@ -160,6 +160,14 @@
       "license": "CC BY 2.0",
       "caption": "Videiras de nebbiolo, a uva do Barolo, em dia de neblina nas Langhe.",
       "illustrative": false
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alba_Piazza_Duomo_2.jpg?width=1280",
+      "page": "https://commons.wikimedia.org/wiki/File:Alba_Piazza_Duomo_2.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "caption": "A Piazza Risorgimento, no centro de Alba, fotografada em setembro de 2021. A imagem não identifica a porta do restaurante Piazza Duomo.",
+      "illustrative": true
     }
   ],
   "sources": [
@@ -181,6 +189,22 @@
     "kind": "ambientes",
     "publisher": "Guia Michelin",
     "url": "https://guide.michelin.com/us/en/piemonte/alba/restaurant/piazza-duomo",
-    "note": "A descrição identifica a entrada pela porta vermelha. As imagens disponíveis na fonte não comprovam a fachada isolada."
+    "note": "A descrição identifica a entrada pela porta vermelha. As imagens disponíveis na fonte não comprovam a fachada isolada.",
+    "featuredGalleryIndex": 3,
+    "previewKicker": "O entorno",
+    "previewTitle": "A praça em Alba",
+    "previewContext": "Vista da Piazza Risorgimento, em Alba, fotografada em 2021. O restaurante Piazza Duomo fica na praça, mas não é possível identificar sua porta nesta foto. Uma fotografia da entrada está disponível na fonte externa.",
+    "additionalSources": [
+      {
+        "publisher": "TerroirSense",
+        "url": "https://terroirsense.com/en/p/5937.html",
+        "note": "Fotografia da entrada característica do Piazza Duomo"
+      },
+      {
+        "publisher": "Piazza Duomo — site oficial",
+        "url": "https://www.piazzaduomoalba.it/en/ristorante/",
+        "note": "Fotografias dos salões e ambientes reais do restaurante"
+      }
+    ]
   }
 }
