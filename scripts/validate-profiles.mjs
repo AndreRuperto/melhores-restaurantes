@@ -50,6 +50,24 @@ for (const r of restaurants) {
       if (new URL(p.photoReference.url).protocol !== 'https:') warnings.push(`Referência externa não HTTPS: ${file}`)
     } catch { errors.push(`URL de referência externa inválida: ${file}`) }
     if (!p.photoReference.publisher || !p.photoReference.note) errors.push(`Referência externa sem editor ou descrição: ${file}`)
+    if (p.photoReference.additionalSources !== undefined) {
+      if (!Array.isArray(p.photoReference.additionalSources)) {
+        errors.push(`Fontes fotográficas adicionais inválidas: ${file}`)
+      } else {
+        const urls = new Set()
+        for (const source of p.photoReference.additionalSources) {
+          if (!source?.publisher || !source?.url || !source?.note) {
+            errors.push(`Fonte fotográfica sem publicação, URL ou descrição: ${file}`)
+            continue
+          }
+          try {
+            if (new URL(source.url).protocol !== 'https:') errors.push(`Fonte fotográfica não HTTPS: ${file}`)
+          } catch { errors.push(`URL fotográfica inválida: ${file}`) }
+          if (urls.has(source.url)) warnings.push(`Fonte fotográfica duplicada: ${file}`)
+          urls.add(source.url)
+        }
+      }
+    }
     const index = p.photoReference.featuredGalleryIndex
     if (index !== undefined) {
       if (!Number.isInteger(index) || !p.gallery?.[index]?.src) {
