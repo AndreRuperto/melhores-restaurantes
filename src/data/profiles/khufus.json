@@ -1,29 +1,112 @@
 {
-  "lede": "O Khufu's, em Gizé, serve cozinha egípcia com vista direta para as pirâmides.",
+  "lede": "Dentro do complexo arqueológico das pirâmides de Gizé, o Khufu’s celebra receitas tradicionais do Egito com técnica contemporânea e uma vista excepcional da Grande Pirâmide. A cozinha é liderada por Mostafa Seif e o projeto, do grupo Pier88, foi escolhido o melhor restaurante do Oriente Médio e Norte da África em 2026.",
   "history": [
-    "A casa destaca receitas tradicionais e apresentações contemporâneas em uma localização junto ao complexo arqueológico.",
-    "O Khufu's fica diante das pirâmides de Gizé, com vista para uma das Sete Maravilhas do Mundo Antigo."
+    "O Khufu’s foi aberto em 2022 no planalto de Gizé, dentro da área de visitação das pirâmides. A proposta do restaurateur Giovanni Bolandrini e do grupo Pier88 foi criar uma experiência que dialogasse com os monumentos sem reduzir a comida egípcia a uma atração secundária.",
+    "Mostafa Seif assumiu a liderança da cozinha com um repertório marcado pelas tradições familiares do Egito rural e pela experiência em restaurantes de técnica contemporânea. A casa dá atenção a pratos conhecidos, à apresentação e à hospitalidade, procurando valorizar ingredientes e memórias nacionais.",
+    "O serviço e a arquitetura aproveitam a visão desimpedida da Grande Pirâmide. O acesso ao restaurante passa pelo complexo arqueológico e por seus procedimentos próprios de entrada; por isso a visita exige planejamento diferente de um restaurante urbano.",
+    "No Middle East & North Africa's 50 Best Restaurants, a casa foi nº 5 em 2024, nº 4 em 2025 e alcançou o primeiro lugar em 2026, tornando-se também o melhor restaurante do Egito na lista. No ranking mundial estendido de 2026, foi classificada em 97º."
   ],
   "cuisine": {
-    "style": "Cozinha egípcia contemporânea",
+    "style": "Egípcia contemporânea, de raízes rurais e ingredientes tradicionais",
     "paragraphs": [
-      "O menu reinterpreta preparações e ingredientes do Egito.",
-      "O chef Mostafa Seif prepara menus inspirados em pratos tradicionais egípcios, com apresentações contemporâneas."
+      "A cozinha de Mostafa Seif reinterpreta receitas conhecidas como koshari, babaganoush, preparações de favas e ovos, e pratos de arroz com caldos e carnes, mantendo sabores reconhecíveis e apresentações atuais.",
+      "O menu oficial publicado para o almoço inclui salada de koshari, berinjela defumada com tahine e cítricos, iogurte seco e keshk almaz — preparação de arroz com leite e caldo de frango. Os pratos buscam mostrar diferentes aspectos do repertório egípcio.",
+      "O restaurante também serve café da manhã, com versões de favas, ovos e preparos locais. O cardápio e a seleção de pratos podem mudar; a unidade Khufu’s Bistro, com proposta de jantar e regras próprias, não deve ser confundida com o restaurante principal."
     ]
   },
   "chef": {
-    "name": "Mostafa Seif",
-    "bio": "Mostafa Seif é o chef responsável pelos menus de tradição egípcia do Khufu's."
+    "name": "Mostafa Seif (chef executivo) · Giovanni Bolandrini (fundador)",
+    "bio": "Mostafa Seif cresceu em contato com a culinária egípcia e com o ambiente dos restaurantes do Cairo, desenvolvendo sua carreira em cozinhas criativas. Venceu o Top Chef Arabia em 2017 e conduz a interpretação contemporânea da culinária egípcia no Khufu’s. Giovanni Bolandrini é fundador e executivo do grupo Pier88, responsável pelo projeto."
   },
   "awards": [
     {
+      "year": 2024,
+      "title": "Middle East & North Africa's 50 Best Restaurants — nº 5"
+    },
+    {
+      "year": 2025,
+      "title": "Middle East & North Africa's 50 Best Restaurants — nº 4"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 97º lugar no ranking mundial"
+      "title": "Middle East & North Africa's 50 Best Restaurants — nº 1, melhor restaurante da região"
+    },
+    {
+      "year": 2026,
+      "title": "The Best Restaurant in Egypt — Middle East & North Africa's 50 Best"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 97, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://khufus.com/",
+    "https://khufus.com/menu/",
+    "https://khufus.com/reservations/",
+    "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/the-list/Khufus.html",
+    "https://www.thenationalnews.com/lifestyle/2026/02/04/interview-khufus-mena-number-one-restaurant-2026-egyptian-cuisine/",
+    "https://www.prnewswire.com/news-releases/khufus-in-eqypt-is-named-no1-in-the-list-of-middle-east--north-africas-50-best-restaurants-2026-302678075.html"
   ],
   "slug": "khufus",
-  "rank": 97
+  "rank": 97,
+  "founded": 2022,
+  "founders": [
+    "Giovanni Bolandrini",
+    "Pier88 Group"
+  ],
+  "dishes": [
+    {
+      "name": "Salada de koshari",
+      "desc": "Reinterpretação mais leve e composta de koshari, receita egípcia conhecida pela combinação de grãos e massas, anunciada no menu oficial de almoço.",
+      "photo": null
+    },
+    {
+      "name": "Babaganoush defumado",
+      "desc": "Berinjela defumada com tahine e notas cítricas, entrada da carta do Khufu’s.",
+      "photo": null
+    },
+    {
+      "name": "Keshk almaz",
+      "desc": "Arroz com leite, caldo de frango e frango marinado, preparação divulgada entre os pratos de almoço.",
+      "photo": null
+    },
+    {
+      "name": "Favas do café da manhã",
+      "desc": "Favas servidas em combinação de café da manhã inspirada no repertório egípcio tradicional.",
+      "photo": null
+    },
+    {
+      "name": "Ovos à moda do Alto Egito",
+      "desc": "Ovos assados com molho de tomate e temperos, listados no cardápio de café da manhã.",
+      "photo": null
+    },
+    {
+      "name": "Iogurte seco",
+      "desc": "Preparação de iogurte seco com equilíbrio entre notas doces e salgadas, parte das entradas do menu oficial.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "address": "Interior do complexo das Pirâmides de Gizé, planalto de Gizé, Al Haram, Governadoria de Gizé, Egito",
+    "website": "https://khufus.com/",
+    "reservationUrl": "https://khufus.com/reservations/",
+    "reservation": "Reservas recomendadas pela página oficial. O restaurante principal permite visitantes sem reserva quando há mesas, mas o acesso exige passar pela entrada autorizada do complexo arqueológico. Em caso de alergias ou necessidades alimentares, consultar a equipe antes da visita; não há preparo sem alho e cebola segundo a política atual. Não confundir com Khufu's Bistro, outra experiência com regras e horários diferentes. Informações pelo formulário de contato oficial.",
+    "price": "Site oficial em novembro de 2026: gasto médio de café da manhã por volta de EGP 1.500++ por pessoa; menu composto de almoço a partir de EGP 1.950++ por pessoa. Impostos e taxa de serviço não incluídos. Preço e eventual ingresso no complexo devem ser confirmados separadamente."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Khufu’s — site oficial",
+    "url": "https://khufus.com/",
+    "note": "Fotos reais do restaurante, do salão e da vista das pirâmides estão disponíveis no site institucional; não foi confirmada licença aberta para republicar esses arquivos. Nenhuma foto de monumento foi apresentada como fachada do restaurante.",
+    "additionalSources": [
+      {
+        "publisher": "MENA's 50 Best Restaurants — Khufu’s",
+        "url": "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/the-list/Khufus.html",
+        "note": "Fotografias editoriais e informações sobre o chef e os prêmios, mantidas na fonte original."
+      }
+    ]
+  }
 }
