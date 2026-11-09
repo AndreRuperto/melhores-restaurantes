@@ -1,26 +1,116 @@
 {
-  "lede": "O Fauna, no Vale de Guadalupe, valoriza os ingredientes de Baja California em uma região vinícola.",
+  "lede": "No Vale de Guadalupe, em Baja California, o Fauna de David Castro Hussong e Maribel Aldaco Silva apresenta uma cozinha mexicana sazonal, intensa e pensada para compartilhar. A casa, aberta em 2017, trabalha com agricultores e pescadores da região e reúne os convidados ao redor de mesas comunitárias entre a paisagem do vale.",
   "history": [
-    "Aberto em 2017, passou a integrar a estrutura da vinícola Bruma, que inclui horta, padaria e hospedagem.",
-    "Aberto em 2017, o Fauna passou a integrar a propriedade da vinícola Bruma, que também abriga horta, padaria e hospedagem."
+    "David Castro Hussong nasceu e cresceu em Ensenada, na região de Baja California. Depois de estudar gastronomia e trabalhar em cozinhas como Noma, Blue Hill at Stone Barns e Eleven Madison Park, voltou ao norte do México com a intenção de explorar os ingredientes de sua terra natal.",
+    "Em 2017, ele e a chef de confeitaria Maribel Aldaco Silva fundaram o Fauna, no Vale de Guadalupe. A propriedade possui um salão aberto e mesas comunitárias concebidas para aproximar os visitantes de uma proposta de refeição compartilhada.",
+    "O restaurante desenvolveu uma rede de pequenos fornecedores. Ervas são cultivadas no local; hortaliças chegam de produtores próximos; pescados são selecionados junto a um fornecedor dedicado. O menu muda constantemente para refletir colheitas e produtos do litoral.",
+    "O Fauna recebeu o One To Watch do Latin America's 50 Best em 2020, o Highest New Entry em 2022 e foi o melhor restaurante do México na edição latino-americana de 2023. Maribel Aldaco recebeu o Latin America's Best Pastry Chef em 2023. A casa ficou em 17º na América Latina em 2025 e retornou à lista mundial estendida de 2026 em 99º."
   ],
   "cuisine": {
-    "style": "Cozinha contemporânea de Baja California",
+    "style": "Mexicana contemporânea de Baja California, fogo e ingredientes sazonais",
     "paragraphs": [
-      "O menu acompanha produtos do vale, vegetais da horta e ingredientes da costa próxima.",
-      "O menu destaca produtos e sabores do Vale de Guadalupe, em uma proposta marcada pelo abastecimento regional."
+      "A cozinha combina vegetais locais, produtos do litoral e diferentes cortes de carne em preparações que valorizam brasa, defumação e molhos de sabores pronunciados. A experiência é informal no serviço, mas cuidadosa na execução.",
+      "O Guia Michelin destaca repolho grelhado em fogo intenso, cenouras com tutano e tortillas, vieiras com purê de berinjela e codorna defumada com molho de chile. São pratos associados ao repertório da casa, não necessariamente fixos na carta.",
+      "O cardápio pode ser escolhido à la carte para compartilhar ou na forma de uma degustação sazonal. A confeitaria de Maribel Aldaco utiliza produtos regionais e combinações como churro quente com goiaba e sorvete de doce de leite."
     ]
   },
   "awards": [
     {
+      "year": 2020,
+      "title": "One To Watch Award — Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2022,
+      "title": "Highest New Entry Award — Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2023,
+      "title": "Melhor restaurante do México no Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2023,
+      "title": "Maribel Aldaco Silva — Latin America's Best Pastry Chef"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 17"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 99º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 99, retorno à lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.brumawineresort.com/fauna-guadalupe-valley",
+    "https://www.brumawineresort.com/es/fauna-valle-de-guadalupe",
+    "https://www.opentable.com.mx/r/fauna-ensenada",
+    "https://guide.michelin.com/us/en/baja-california/valle-de-guadalupe_7770290/restaurant/fauna-1208366",
+    "https://www.theworlds50best.com/latinamerica/en/the-list/fauna.html",
+    "https://www.theworlds50best.com/latinamerica/en/list/1-50"
   ],
   "slug": "fauna",
   "rank": 99,
-  "founded": 2017
+  "founded": 2017,
+  "founders": [
+    "David Castro Hussong",
+    "Maribel Aldaco Silva"
+  ],
+  "chef": {
+    "name": "David Castro Hussong (chef) · Maribel Aldaco Silva (confeitaria)",
+    "bio": "David Castro Hussong é chef e cofundador do Fauna, criado em 2017 no Vale de Guadalupe. Estudou no French Culinary Institute e trabalhou em restaurantes como Noma, Blue Hill at Stone Barns e Eleven Madison Park. Maribel Aldaco Silva, cofundadora e chef de confeitaria, passou por casas como Martín Berasategui, NoMad e Quince e recebeu o prêmio Latin America's Best Pastry Chef de 2023."
+  },
+  "dishes": [
+    {
+      "name": "Repolho grelhado na brasa",
+      "desc": "Repolho marcado intensamente pelo fogo, descrito pelo Guia Michelin como expressão da técnica do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Cenouras, tutano e tortillas",
+      "desc": "Preparação de vegetais e tutano servida com tortillas quentes, em combinação registrada pelo Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Vieiras com purê de berinjela",
+      "desc": "Frutos do mar acompanhados por purê vegetal, prato descrito na seleção Michelin da região.",
+      "photo": null
+    },
+    {
+      "name": "Codorna defumada com molho de chile",
+      "desc": "Codorna preparada em técnica de defumação, servida com molho picante, em versão do repertório da casa.",
+      "photo": null
+    },
+    {
+      "name": "Tostada de atum e mocotó bovino",
+      "desc": "Tostada que combina produtos do mar e da terra, citada pelo Latin America's 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Churro com goiaba e sorvete de doce de leite",
+      "desc": "Sobremesa quente e fria destacada pela crítica Michelin e ligada à confeitaria da casa.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "address": "Carretera Federal México 3, km 73, Valle de Guadalupe, Francisco Zarco, Ensenada, Baja California 22750, México",
+    "website": "https://www.brumawineresort.com/fauna-guadalupe-valley",
+    "reservationUrl": "https://www.opentable.com.mx/r/fauna-ensenada",
+    "reservation": "Reservas disponíveis pelo perfil do restaurante no OpenTable ou por contato direto com a equipe do Fauna. O Guia Michelin informa +52 646 267 0774. Horários divulgados: todos os dias a partir das 13h, com encerramento às 20h de segunda a quinta e domingo e às 21h às sextas e sábados. As vagas e condições não foram verificadas em tempo real.",
+    "price": "Pratos à la carte e degustação sazonal, conforme disponibilidade. Não foi localizado preço atual confirmado na página institucional do restaurante; consultar o cardápio ou a plataforma antes da visita."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Fauna — página institucional",
+    "url": "https://www.brumawineresort.com/fauna-guadalupe-valley",
+    "note": "Fotografias reais do salão, do jardim e dos pratos estão na página do Fauna. Os arquivos não foram copiados porque a fonte não fornece licença aberta de republicação.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Fauna",
+        "url": "https://guide.michelin.com/us/en/baja-california/valle-de-guadalupe_7770290/restaurant/fauna-1208366",
+        "note": "Fotos reais da casa e descrições culinárias; a presença no guia não equivale a uma estrela Michelin."
+      }
+    ]
+  }
 }
