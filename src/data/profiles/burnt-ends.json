@@ -1,29 +1,147 @@
 {
-  "lede": "O Burnt Ends, em Singapura, estrutura a cozinha ao redor do forno a lenha e da grelha.",
+  "lede": "Em Dempsey, Singapura, o Burnt Ends de Dave Pynt une o espírito informal de uma casa de brasa à execução precisa de alta cozinha. Inaugurado em 2013 em Chinatown e transferido em 2021 para antigos quartéis, organiza tudo em torno de um forno de quatro toneladas e grelhas ajustáveis.",
   "history": [
-    "A casa desenvolveu uma proposta descontraída que combina defumação, cocção em fogo vivo e ingredientes selecionados.",
-    "O Burnt Ends utiliza um forno de cerca de quatro toneladas, com dois compartimentos, e quatro grelhas de altura ajustável para preparar os ingredientes."
+    "O chef australiano Dave Pynt, nascido em Perth, estudou culinária no West Coast Institute of Training e trabalhou com nomes como René Redzepi no Noma, Victor Arguinzoniz no Asador Etxebarri e Fergus Henderson em Londres. Sua pesquisa sobre o fogo ajudou a moldar o Burnt Ends.",
+    "O restaurante abriu em 2013 na Teck Lim Road, em Chinatown, e ganhou reconhecimento por tratar pratos de brasa como trabalho culinário de precisão, num ambiente mais descontraído que o de muitos restaurantes estrelados.",
+    "Em dezembro de 2021, mudou-se para Dempsey, numa área de antigos quartéis militares. O espaço maior acomoda a cozinha aberta com forno de duas cavidades que pesa aproximadamente quatro toneladas e quatro grelhas de altura ajustável, permitindo diferentes graus de calor.",
+    "A casa ganhou sua primeira estrela Michelin em 2018 e a manteve na edição de 2026. Apareceu em 34º no ranking mundial de 2021, em 38º na lista asiática de 2025 e em 89º na lista mundial estendida de 2026. As imagens licenciadas publicadas no A Carta documentam pratos reais de 2013, quando a sede ainda era em Chinatown."
   ],
   "cuisine": {
-    "style": "Cozinha contemporânea na brasa",
+    "style": "Barbecue contemporâneo de lenha, forno e grelha de precisão",
     "paragraphs": [
-      "Carnes, peixes e vegetais são preparados com diferentes intensidades de calor.",
-      "Dave Pynt relaciona a filosofia da casa à aprendizagem que teve com Bittor Arguinzoniz, do Asador Etxebarri, durante sua formação."
+      "A técnica parte da madeira como fonte de calor e aroma. O forno de dupla cavidade e as grelhas reguláveis dão a Pynt e à equipe controle sobre temperatura, caramelização e textura de carnes, frutos do mar e vegetais.",
+      "O cardápio é modificado diariamente conforme os ingredientes. Entre os clássicos associados ao restaurante aparecem o Burnt Ends Sanger, sanduíche de porco, o tutano com cebolas e preparações de codorna; a equipe combina produtos selecionados e molhos intensos com o sabor da brasa.",
+      "Um acervo fotográfico de 2013 documenta flat iron steak com cebola queimada e noz em conserva e um prato de cabrito com queijo de cabra e hortelã. São pratos efetivamente servidos no Burnt Ends naquela fase, mas não confirmados no menu da unidade atual."
     ]
   },
   "chef": {
     "name": "Dave Pynt",
-    "bio": "Dave Pynt conduz o Burnt Ends e construiu uma cozinha centrada no fogo, influenciada pelo período que passou no Asador Etxebarri."
+    "bio": "Natural de Perth, na Austrália, Dave Pynt estudou cozinha profissional e aprimorou técnicas em restaurantes como Noma, Asador Etxebarri e St John. Abriu o Burnt Ends em Singapura em 2013, mudou a casa para Dempsey em dezembro de 2021 e construiu um grupo gastronômico centrado no fogo. Recebeu o Chefs' Choice Award do Asia's 50 Best em 2017."
   },
   "awards": [
     {
+      "year": 2017,
+      "title": "Dave Pynt — Chefs' Choice Award, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2018,
+      "title": "Primeira estrela Michelin — Guia Michelin Singapura"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 34"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 38"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 89º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Singapura"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 89, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://burntends.com.sg/",
+    "https://burntends.com.sg/reservations/",
+    "https://burntends.com.sg/awards-accolades/",
+    "https://burntendshospitalitygroup.com/our-journey/",
+    "https://guide.michelin.com/en/singapore-region/singapore/restaurant/burnt-ends-1200777",
+    "https://commons.wikimedia.org/wiki/File:Flat_Iron_Steak,_Burnt_Onion,_Pickled_Walnut_(9026361774).jpg",
+    "https://commons.wikimedia.org/wiki/File:Kid,_Goat_Cheese,_Mint_(9026304892).jpg"
   ],
   "slug": "burnt-ends",
-  "rank": 89
+  "rank": 89,
+  "founded": 2013,
+  "founders": [
+    "Dave Pynt"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Iron%20Steak%2C%20Burnt%20Onion%2C%20Pickled%20Walnut%20%289026361774%29.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Steak,_Burnt_Onion,_Pickled_Walnut_(9026361774).jpg",
+    "author": "Charles Haynes",
+    "license": "CC BY-SA 2.0",
+    "caption": "Prato real de flat iron steak, cebola queimada e noz em conserva servido no Burnt Ends em junho de 2013. Foto histórica da sede anterior em Chinatown, não do menu atual.",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kid%2C%20Goat%20Cheese%2C%20Mint%20%289026304892%29.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Kid,_Goat_Cheese,_Mint_(9026304892).jpg",
+      "author": "Charles Haynes",
+      "license": "CC BY-SA 2.0",
+      "caption": "Prato real de cabrito, queijo de cabra e hortelã servido no Burnt Ends em junho de 2013. Fotografia da fase inicial, não representa a carta de 2026.",
+      "illustrative": false
+    }
+  ],
+  "dishes": [
+    {
+      "name": "Flat iron steak, cebola queimada e noz em conserva",
+      "desc": "Prato real servido em junho de 2013, registrado em fotografia licenciada por Charles Haynes. Referência histórica, sem confirmação na carta vigente.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Iron%20Steak%2C%20Burnt%20Onion%2C%20Pickled%20Walnut%20%289026361774%29.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Steak,_Burnt_Onion,_Pickled_Walnut_(9026361774).jpg",
+        "author": "Charles Haynes",
+        "license": "CC BY-SA 2.0",
+        "caption": "Prato real de flat iron steak, cebola queimada e noz em conserva servido no Burnt Ends em junho de 2013. Foto histórica da sede anterior em Chinatown, não do menu atual.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Cabrito, queijo de cabra e hortelã",
+      "desc": "Prato da fase de 2013 em Chinatown documentado por fotógrafo presente na casa. Não representa o cardápio atual.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kid%2C%20Goat%20Cheese%2C%20Mint%20%289026304892%29.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Kid,_Goat_Cheese,_Mint_(9026304892).jpg",
+        "author": "Charles Haynes",
+        "license": "CC BY-SA 2.0",
+        "caption": "Prato real de cabrito, queijo de cabra e hortelã servido no Burnt Ends em junho de 2013. Fotografia da fase inicial, não representa a carta de 2026.",
+        "illustrative": false
+      }
+    },
+    {
+      "name": "Burnt Ends Sanger",
+      "desc": "Sanduíche quente de carne de porco defumada e preparações da casa, uma das assinaturas conhecidas do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Tutano assado com cebolas",
+      "desc": "Preparação de tutano na brasa, acompanhada por elementos de cebola e condimentos, associada ao repertório do chef.",
+      "photo": null
+    },
+    {
+      "name": "Codorna na brasa",
+      "desc": "Ave preparada com fogo alto e controle de temperatura; acompanhamentos sazonais mudam conforme a carta.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais assados no forno a lenha",
+      "desc": "Passagens de legumes trabalhados no calor do forno e das grelhas ajustáveis, segundo a oferta do dia.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://burntends.com.sg/",
+    "address": "#01-02, 7 Dempsey Road, Singapura 249671",
+    "reservationUrl": "https://burntends.com.sg/reservations/",
+    "reservation": "Reservas pela seção oficial, com lugares de balcão, salão e sala privativa sujeitos à disponibilidade. Jantar de terça a sábado, das 18h às 23h, e almoço de quinta a sábado, das 12h às 14h30. Fechado domingo e segunda. Informações pelo +65 6224 3933. A disponibilidade em tempo real não foi consultada.",
+    "price": "Menu à la carte e pratos que mudam diariamente. Não foi identificado um preço único atual de degustação ou um cardápio com valores confirmados; consultar a carta da data."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Burnt Ends — galeria oficial",
+    "url": "https://burntends.com.sg/",
+    "note": "A página oficial mostra o restaurante de Dempsey. O A Carta incorpora duas fotografias de pratos realmente servidos em 2013 (CC BY-SA 2.0), na sede anterior de Chinatown, com data e autoria. Ainda falta fotografia licenciada da sede atual.",
+    "additionalSources": [
+      {
+        "publisher": "Burnt Ends Hospitality Group — história",
+        "url": "https://burntendshospitalitygroup.com/our-journey/",
+        "note": "Histórico da fundação em 2013 e mudança para Dempsey em 2021."
+      }
+    ]
+  }
 }
