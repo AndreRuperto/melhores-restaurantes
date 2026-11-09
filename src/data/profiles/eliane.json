@@ -1,30 +1,114 @@
 {
-  "lede": "O Eliane, em Bruxelas, aposta em um menu que muda diariamente conforme os ingredientes disponíveis.",
+  "lede": "Em Bruxelas, o Eliane traduz a cozinha espontânea de Kobe Desramaults num percurso de aproximadamente 18 passagens, definido diariamente pelos produtos disponíveis. Aberto em dezembro de 2024 no antigo edifício da gravadora PIAS, combina balcão em frente à cozinha aberta, vegetais, pescados e sabores de produtores regionais.",
   "history": [
-    "Aberto em dezembro de 2024, é comandado por Kobe Desramaults, que privilegia vegetais, pescados e frutos do mar.",
-    "Kobe Desramaults abriu o Eliane em dezembro de 2024, depois de projetos como In de Wulf e Chambre Séparée."
+    "Depois de ganhar notoriedade no In de Wulf e desenvolver o Chambre Séparée em Gante, Kobe Desramaults decidiu criar um novo espaço de experiência intimista em Bruxelas. O Eliane abriu em dezembro de 2024 e recebeu o nome de sua avó.",
+    "O restaurante ocupa parte do antigo prédio da gravadora PIAS na Rue Saint-Laurent, com balcão de oito lugares, três mesas para pequenos grupos e cozinha aberta. O salão foi pensado como uma espécie de sala de estar do chef, em que música, atendimento e preparação dos pratos se encontram.",
+    "Em vez de compor um menu imutável, Desramaults decide diariamente as receitas de acordo com a entrega de produtores e a melhor expressão de cada ingrediente. As aproximadamente dezoito passagens alternam pequenos bocados e preparações mais complexas, dando destaque a vegetais, peixes e crustáceos.",
+    "A casa obteve uma estrela Michelin após a abertura e, na edição belga de 2026 do Gault&Millau, recebeu 17 pontos em 20 e o título de Revelação do Ano em Bruxelas. Em outubro de 2026 foi anunciada em 86º lugar na lista mundial estendida do The 50 Best Restaurants."
   ],
   "cuisine": {
-    "style": "Cozinha belga contemporânea e sazonal",
+    "style": "Belga contemporânea de produto, fogo e improvisação diária",
     "paragraphs": [
-      "O menu tem aproximadamente dezoito etapas; carne aparece com parcimônia.",
-      "As cerca de dezoito etapas mudam diariamente segundo o abastecimento e dão grande espaço a vegetais, peixes e frutos do mar, enquanto carnes aparecem em menor quantidade."
+      "A proposta parte da pureza e da origem de vegetais, peixes, moluscos e carnes servidas em pequenas quantidades. Cozinhar na brasa, extrair caldos e trabalhar contrastes de acidez são recursos usados pelo chef para destacar o que chega à cozinha.",
+      "O Guia Michelin descreve um risoto cremoso com ostras e mullet vermelho na brasa servido com moluscos, toranja e um molho feito a partir do peixe. O Gault&Millau também documentou combinações como navalhas com funcho, lagosta com tomate e um prato de batata cozida em crosta de sal.",
+      "As receitas descritas são registros de temporadas específicas. O próprio restaurante explica que o menu de cerca de dezoito etapas muda todos os dias e recomenda consultar previamente alergias ou restrições que a equipe possa não conseguir atender."
     ]
   },
   "chef": {
     "name": "Kobe Desramaults",
-    "bio": "Kobe Desramaults dirige a cozinha do Eliane e adapta a degustação aos ingredientes disponíveis a cada dia."
+    "bio": "Chef belga conhecido pelo In de Wulf e pelo Chambre Séparée, Kobe Desramaults abriu o Eliane em dezembro de 2024, batizando-o em homenagem à avó. Construiu uma cozinha pessoal de produto, fogo e temporada, com menu decidido diariamente; foi escolhido Revelação do Ano em Bruxelas pelo Gault&Millau 2026."
   },
   "awards": [
     {
+      "year": 2025,
+      "title": "Uma estrela Michelin — reconhecimento obtido após a abertura"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 86º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Bélgica e Luxemburgo"
+    },
+    {
+      "year": 2026,
+      "title": "17/20 e Revelação do Ano em Bruxelas — Gault&Millau Bélgica"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 86, estreia na lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.elianerestaurant.be/",
+    "https://www.elianerestaurant.be/info",
+    "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/eliane",
+    "https://www.gaultmillau.be/en/restaurants/eliane-bruxelles",
+    "https://www.gaultmillau.be/en/news/nieuwkomer-van-het-jaar-brussel-eliane-1720",
+    "https://www.the50.com/discovery/Establishments/Belgium/Brussels/Eliane.html",
+    "https://bookings.zenchef.com/results?rid=370196&pid=1001",
+    "https://directindex.org/r/elianerestaurant.be",
+    "https://bx1.be/categories/news/le-restaurant-bruxellois-eliane-rejoint-le-classement-des-100-meilleurs-au-monde/"
   ],
   "slug": "eliane",
   "rank": 86,
-  "founded": 2024
+  "founded": 2024,
+  "founders": [
+    "Kobe Desramaults"
+  ],
+  "dishes": [
+    {
+      "name": "Risoto com ostras",
+      "desc": "Risoto de textura cremosa acompanhado por ostras, descrito pelo Guia Michelin; composição de uma temporada documentada.",
+      "photo": null
+    },
+    {
+      "name": "Peixe na brasa com toranja e moluscos",
+      "desc": "Peixe preparado sobre carvão, servido com moluscos e molho concentrado, em versão registrada pelo Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Navalhas com funcho",
+      "desc": "Moluscos do litoral acompanhados por funcho, exemplo da atenção do chef ao sabor do produto.",
+      "photo": null
+    },
+    {
+      "name": "Batata em crosta de sal",
+      "desc": "Batata da região cozida e servida com emulsão de laticínio e ervas; preparação elogiada pelo Gault&Millau.",
+      "photo": null
+    },
+    {
+      "name": "Lagosta com tomate Black Prince",
+      "desc": "Lagosta da Bretanha em combinação com tomate de variedade Black Prince, segundo o Gault&Millau.",
+      "photo": null
+    },
+    {
+      "name": "Sorbet de azedinha e verbena-cidreira",
+      "desc": "Sobremesa ácida e aromática documentada em visita editorial, com ameixa Reine Claude.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.elianerestaurant.be/",
+    "address": "Rue Saint-Laurent 36, 1000 Bruxelas, Bélgica",
+    "reservationUrl": "https://bookings.zenchef.com/results?rid=370196&pid=1001",
+    "reservation": "A página de reserva Zenchef foi identificada como canal associado à casa; disponibilidade não consultada em tempo real. As reservas são abertas em janelas de três meses, com lista de espera. Almoço às sextas; jantar de terça a sexta; fechado sábado, domingo e segunda. Alergias devem ser comunicadas antecipadamente a info@elianerestaurant.be. Contato telefônico +32 469 19 92 27.",
+    "price": "Menu degustação de aproximadamente 18 passagens: €285 por pessoa, sem bebidas, conforme página oficial consultada em novembro de 2026."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Eliane — site oficial, Michelin e Gault&Millau",
+    "url": "https://www.elianerestaurant.be/",
+    "note": "Fotos autênticas do salão, cozinha e pratos estão nas fontes, mas não foi localizada licença de republicação. Nenhuma foto de bairro ou de outro estabelecimento foi publicada como se fosse do Eliane.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Eliane",
+        "url": "https://guide.michelin.com/en/bruxelles-capitale/bruxelles/restaurant/eliane",
+        "note": "Imagens do restaurante e descrição do menu."
+      },
+      {
+        "publisher": "Gault&Millau — Eliane",
+        "url": "https://www.gaultmillau.be/en/restaurants/eliane-bruxelles",
+        "note": "Reportagem com pratos reais e a avaliação de 2026."
+      }
+    ]
+  }
 }
