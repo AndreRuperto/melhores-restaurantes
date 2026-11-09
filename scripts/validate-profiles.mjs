@@ -9,7 +9,7 @@ const errors = []
 const warnings = []
 const allFiles = readdirSync(dir).filter((file) => file.endsWith('.json'))
 const expected = new Set(restaurants.map((r) => `${r.slug}.json`))
-const summary = { profiles: 0, covers: 0, galleries: 0, dishes: 0, dishesWithPhotos: 0, chefBios: 0, practical: 0 }
+const summary = { profiles: 0, covers: 0, facades: 0, photoReferences: 0, featuredPlacePhotos: 0, galleries: 0, dishes: 0, dishesWithPhotos: 0, chefBios: 0, practical: 0 }
 
 for (const r of restaurants) {
   const file = `${r.slug}.json`
@@ -36,13 +36,32 @@ for (const r of restaurants) {
     } catch { errors.push(`Fonte inválida: ${file} (${source})`) }
   }
 
-  const photos = [p.hero, ...(p.gallery || []), ...(p.dishes || []).map((d) => d.photo)].filter(Boolean)
+  const photos = [p.hero, p.facade, ...(p.gallery || []), ...(p.dishes || []).map((d) => d.photo)].filter(Boolean)
   for (const photo of photos) {
     if (!photo.src || !photo.page || !photo.author || !photo.license || !photo.caption) {
       errors.push(`Imagem sem URL, autoria, licença ou legenda: ${file}`)
     }
   }
   if (p.hero?.src) summary.covers++
+  if (p.facade?.src) summary.facades++
+  if (p.photoReference?.url) {
+    summary.photoReferences++
+    try {
+      if (new URL(p.photoReference.url).protocol !== 'https:') warnings.push(`Referência externa não HTTPS: ${file}`)
+    } catch { errors.push(`URL de referência externa inválida: ${file}`) }
+    if (!p.photoReference.publisher || !p.photoReference.note) errors.push(`Referência externa sem editor ou descrição: ${file}`)
+    const index = p.photoReference.featuredGalleryIndex
+    if (index !== undefined) {
+      if (!Number.isInteger(index) || !p.gallery?.[index]?.src) {
+        errors.push(`Índice de fotografia destacada inválido: ${file}`)
+      } else if (!p.gallery[index].page || !p.gallery[index].author || !p.gallery[index].license) {
+        errors.push(`Fotografia destacada sem licença ou crédito: ${file}`)
+      } else {
+        summary.featuredPlacePhotos++
+        if (!p.photoReference.previewContext) errors.push(`Fotografia destacada sem explicação do contexto: ${file}`)
+      }
+    }
+  }
   if (p.gallery?.length) summary.galleries++
   summary.dishes += p.dishes?.length || 0
   summary.dishesWithPhotos += (p.dishes || []).filter((d) => d.photo?.src).length
