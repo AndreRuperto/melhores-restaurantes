@@ -1,41 +1,124 @@
 {
-  "lede": "O Florilège, em Tóquio, privilegia vegetais e a relação entre produtores e cozinha contemporânea.",
+  "lede": "No Azabudai Hills, em Tóquio, o Florilège de Hiroyasu Kawate reinventa a alta cozinha de matriz francesa com vegetais japoneses e compromisso ambiental. Os convidados compartilham uma mesa longa, em vez do antigo balcão em U, acompanhando uma experiência marcada pela sazonalidade e pelo diálogo.",
   "history": [
-    "Hiroyasu Kawate desenvolveu uma abordagem própria a partir de referências francesas, com foco em produtos japoneses.",
-    "O Florilège combina uma cozinha aberta a uma estação de empratamento que também exibe arranjos de flores japoneses. O chef Hiroyasu Kawate dialoga com experiências na França e no Japão."
+    "O chef Hiroyasu Kawate nasceu em 1978, em uma família de cozinheiros de Tóquio. Trabalhou no Le Bourguignion, no francês Jardin des Sens e no Quintessence de Shuzo Kishida antes de abrir o Florilège no bairro Minami-Aoyama, em 2009.",
+    "Em 2015, a casa mudou-se para Jingumae e tornou conhecido um salão organizado ao redor de uma cozinha central, com serviço de observação próxima dos preparos. A proposta ganhou reconhecimento na lista Asia's 50 Best, incluindo o prêmio One To Watch de 2016 e duas estrelas Michelin conquistadas em 2018.",
+    "Em julho de 2023, o Florilège encerrou o atendimento no endereço de Jingumae. Reabriu em setembro daquele ano no segundo andar do Garden Plaza D, em Azabudai Hills, com uma ideia diferente de hospitalidade: uma mesa comunitária de aproximadamente 13 metros, em estilo table d'hôte, destinada a aproximar os visitantes e a equipe.",
+    "Na fase atual, Kawate intensificou a pesquisa de cozinha centrada em vegetais, reduzindo a dependência de carnes e pescados, reaproveitando produtos menos valorizados comercialmente e dando visibilidade aos agricultores. Em 2025 foi 36º no ranking mundial, em 2026 ficou em 31º na Ásia e 61º na lista mundial estendida."
   ],
   "cuisine": {
-    "style": "Cozinha japonesa contemporânea de inspiração francesa",
+    "style": "Francesa contemporânea com vegetais japoneses e foco na sustentabilidade",
     "paragraphs": [
-      "Vegetais, fermentações e ingredientes sazonais se destacam no menu.",
-      "Nomes minimalistas de pratos, como 'Camarão-listrado', 'Abóbora' e 'Equilibrar', revelam pouco do que será servido, mas antecipam a importância dos vegetais."
+      "A formação francesa do chef aparece na maneira de extrair, concentrar e equilibrar sabores. O ingrediente principal, porém, cada vez mais é um vegetal japonês comum — abóbora, raízes, folhas e produtos da estação — apresentado de modo a revelar sabores inesperados.",
+      "O menu atual é uma degustação com opção de prato principal vegetal ou com carne. Peixes, carnes e laticínios são usados em quantidades mais moderadas, como parte de uma estratégia declarada de reduzir impacto ambiental sem transformar o restaurante automaticamente em totalmente vegetariano.",
+      "Em apresentações de temporadas anteriores, pratos receberam nomes minimalistas como 'Abóbora', 'Camarão-listrado' e 'Equilíbrio'. São registros da linguagem criativa de Kawate; não equivalem a uma lista garantida de preparações servidas na sede de Azabudai Hills em 2026."
     ]
   },
   "chef": {
     "name": "Hiroyasu Kawate",
-    "bio": "Hiroyasu Kawate traz para o Florilège uma trajetória entre cozinhas francesas e japonesas, com ênfase em produtos vegetais."
+    "bio": "Nascido em Tóquio em 1978, numa família de cozinheiros, Hiroyasu Kawate aprimorou a técnica no Le Bourguignion, no Jardin des Sens, em Montpellier, e no Quintessence. Abriu o Florilège em 2009, ganhou duas estrelas Michelin em 2018, foi escolhido pelos colegas como Chefs' Choice na Ásia em 2023 e aprofundou desde então uma cozinha centrada em vegetais."
   },
   "awards": [
     {
+      "year": 2016,
+      "title": "One To Watch Award — Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2018,
+      "title": "Duas estrelas Michelin — Guia Michelin Tóquio"
+    },
+    {
+      "year": 2023,
+      "title": "Hiroyasu Kawate — Chefs' Choice Award, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 36"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 61º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin — Guia Michelin Tóquio 2026"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 31"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 61 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.aoyama-florilege.jp/en/",
+    "https://www.aoyama-florilege.jp/en/access.html",
+    "https://aoyama-florilege.jp/reservations.html",
+    "https://guide.michelin.com/us/en/tokyo-region/tokyo/restaurant/florilege",
+    "https://guide.michelin.com/gb/en/article/travel/florilage_kawate_hiroyasu_en",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/florilege.html",
+    "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
+    "https://commons.wikimedia.org/wiki/File:Official_opening_of_Azabudai_Hills.jpg"
   ],
   "slug": "florilege",
   "rank": 61,
   "dishes": [
     {
-      "name": "Camarão-listrado",
-      "desc": "Preparação batizada com o ingrediente central, citada na apresentação do menu.",
+      "name": "Abóbora da estação",
+      "desc": "Exemplo do repertório vegetal do Florilège: a abóbora aparece em criações autorais com forma e textura variáveis, não como item fixo do menu.",
       "photo": null
     },
     {
-      "name": "Abóbora",
-      "desc": "Etapa vegetal com título simples, cujo preparo varia conforme a estação.",
+      "name": "Camarão-listrado",
+      "desc": "Preparação registrada em perfis de temporadas anteriores, centrada no crustáceo e em combinações que mudam conforme a estação.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais fora do padrão comercial",
+      "desc": "Ingredientes de agricultores japoneses que seriam menos valorizados pela aparência recebem tratamento de alta cozinha; é uma linha de trabalho, não um prato fixo.",
+      "photo": null
+    },
+    {
+      "name": "Principal vegetal ou de carne",
+      "desc": "Na experiência atual o visitante informa a preferência por um prato principal vegetal ou com carne, conforme a reserva oficial.",
+      "photo": null
+    },
+    {
+      "name": "Pequenas preparações sazonais",
+      "desc": "Passagens de vegetais e ervas escolhidos pela cozinha conforme a safra, usando técnicas de matriz francesa.",
       "photo": null
     }
-  ]
+  ],
+  "founded": 2009,
+  "founders": [
+    "Hiroyasu Kawate"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_opening_of_Azabudai_Hills.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_opening_of_Azabudai_Hills.jpg",
+    "author": "Syced",
+    "license": "CC0 1.0",
+    "caption": "Vista do complexo Azabudai Hills em sua inauguração, em novembro de 2023. Imagem contextual do empreendimento que abriga o Florilège, NÃO da entrada nem do salão.",
+    "illustrative": true
+  },
+  "practical": {
+    "address": "2º andar, Azabudai Hills Garden Plaza D, 5-10-7 Toranomon, Minato-ku, Tóquio 105-0001, Japão",
+    "website": "https://www.aoyama-florilege.jp/en/",
+    "reservationUrl": "https://aoyama-florilege.jp/reservations.html",
+    "reservation": "Reservas online pela página oficial, abertas à 0h no horário japonês um mês antes da data pretendida. Grupos de até quatro pessoas; o site informa almoço com chegada entre 12h e 12h30 e jantar entre 18h e 18h30, sujeito aos dias de funcionamento e fechamentos extraordinários. Telefone +81 3-6435-8018.",
+    "price": "Almoço ¥ 12.000 e jantar ¥ 24.000 por pessoa, mais 10% de serviço, segundo a página oficial de reservas consultada em novembro de 2026. Valores sujeitos a alteração."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Florilège — site oficial",
+    "url": "https://www.aoyama-florilege.jp/en/",
+    "note": "Fotografias reais da nova mesa table d'hôte e da cozinha em Azabudai Hills. Sem licença identificada para copiar esses arquivos, por isso a imagem publicada no A Carta mostra apenas o empreendimento.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/tokyo-region/tokyo/restaurant/florilege",
+        "note": "Registro do salão atual e descrição da proposta vegetal do restaurante."
+      }
+    ]
+  }
 }
