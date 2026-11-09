@@ -1,30 +1,121 @@
 {
-  "lede": "O Labyrinth, em Singapura, reinterpreta pratos conhecidos da cidade-estado a partir de técnicas contemporâneas.",
+  "lede": "No Esplanade Mall, junto a Marina Bay em Singapura, o Labyrinth de Han Liguang revisita pratos que marcaram a infância e a culinária de rua da cidade-estado. Aberto em 2014, o restaurante usa técnica contemporânea, ingredientes sazonais e humor para contar histórias da gastronomia singapuriana.",
   "history": [
-    "Han Liguang abriu o restaurante em 2014 e migrou de uma proposta mais marcada pela gastronomia molecular para uma cozinha ligada às memórias culinárias locais.",
-    "Han Liguang abriu o Labyrinth em 2014, inicialmente com uma abordagem muito ligada à gastronomia molecular."
+    "Han Liguang, conhecido como LG Han, cresceu em uma família ligada à restauração em Singapura. Antes de seguir a carreira culinária, trabalhou no setor financeiro. Em 2014 fundou o Labyrinth com uma proposta inicial de gastronomia de vanguarda e técnicas moleculares.",
+    "Com o amadurecimento do projeto, o chef voltou a atenção para as memórias familiares e para os pratos populares de Singapura. A pesquisa passou a investigar receitas associadas a mercados, vendedores de rua e tradições de diferentes comunidades da cidade.",
+    "A casa funciona no Esplanade Mall, na região de Marina Bay. O interior combina peças de arte singapurianas, fotografias e objetos que convidam os visitantes a reconhecer elementos de épocas diferentes, enquanto o serviço explica a inspiração de cada etapa.",
+    "O Labyrinth recebeu sua primeira estrela Michelin em 2017, conquistou o Sustainable Restaurant Award da Ásia em 2021 e o Highest Climber do Asia's 50 Best em 2023, quando alcançou o 11º lugar. Em 2026, foi 40º na lista asiática e 98º na lista mundial estendida, mantendo uma estrela Michelin."
   ],
   "cuisine": {
-    "style": "Cozinha singapuriana contemporânea",
+    "style": "Nova cozinha singapuriana, memórias locais e técnicas contemporâneas",
     "paragraphs": [
-      "Sabores familiares da culinária de Singapura são recriados com técnicas e apresentações autorais.",
-      "Hoje, a casa parte sobretudo dos sabores conhecidos de Singapura e combina produtos internacionais com técnicas modernas para reinterpretá-los."
+      "Han interpreta clássicos da cidade como chicken rice, bak kut teh, mee rebus e preparações de camarão com cereais, procurando preservar o sabor reconhecível enquanto transforma textura, formato ou forma de servir.",
+      "Entre os pratos documentados pelo Asia's 50 Best estão o arroz de frango preparado em donabe e o abalone spaghettoni inspirado no mee rebus. Uma sobremesa recria camarão com ovo salgado e cereal em uma embalagem semelhante à de cereais matinais, com intenção lúdica.",
+      "A casa apresenta degustações centradas em produtos do mar, com menus que mudam conforme a estação; por isso não publica uma lista fixa de pratos no site. A equipe informa que não consegue atender dietas veganas ou vegetarianas, celíacos e algumas alergias. As restrições devem ser verificadas antes de reservar."
     ]
   },
   "chef": {
-    "name": "Han Liguang",
-    "bio": "Han Liguang dirige o Labyrinth e investiga como referências culinárias singapurianas podem ser traduzidas para a alta gastronomia."
+    "name": "Han Liguang (LG Han)",
+    "bio": "Han Liguang é chef e fundador do Labyrinth, aberto em 2014. Depois de uma etapa profissional no setor financeiro, passou a desenvolver uma cozinha autoral que hoje se concentra nas tradições culinárias de Singapura e nas memórias de sua família. Recebeu uma estrela Michelin em 2017 e conduziu a casa ao 11º lugar no Asia's 50 Best em 2023."
   },
   "awards": [
     {
+      "year": 2017,
+      "title": "Primeira estrela Michelin — Guia Michelin Singapura"
+    },
+    {
+      "year": 2021,
+      "title": "Sustainable Restaurant Award — Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants — nº 11 e Highest Climber Award"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants — nº 30"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 37"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 98º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Singapura"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 40"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 98 (lista mundial estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.restaurantlabyrinth.com/",
+    "https://www.restaurantlabyrinth.com/our-restaurant",
+    "https://www.restaurantlabyrinth.com/menu",
+    "https://www.restaurantlabyrinth.com/menu-1",
+    "https://www.restaurantlabyrinth.com/reservations",
+    "https://www.restaurantlabyrinth.com/contact",
+    "https://www.restaurantlabyrinth.com/awardsv",
+    "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/labyrinth",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Labyrinth.html"
   ],
   "slug": "labyrinth",
   "rank": 98,
-  "founded": 2014
+  "founded": 2014,
+  "founders": [
+    "Han Liguang (LG Han)"
+  ],
+  "dishes": [
+    {
+      "name": "Chicken rice em donabe",
+      "desc": "Reinterpretação do arroz de frango de Singapura, servido em panela japonesa de cerâmica, com referências às lembranças familiares do chef.",
+      "photo": null
+    },
+    {
+      "name": "Bak kut teh reinterpretado",
+      "desc": "Leitura contemporânea da sopa de costela suína, prato de tradição singapuriana, descrita entre as criações do Labyrinth.",
+      "photo": null
+    },
+    {
+      "name": "Abalone spaghettoni inspirado no mee rebus",
+      "desc": "Massa com referência ao mee rebus e abalone grelhado, combinando ingredientes e técnicas de diferentes tradições.",
+      "photo": null
+    },
+    {
+      "name": "Sobremesa de cereal e ovo salgado",
+      "desc": "Interpretação doce e lúdica de camarão com cereal e ovo salgado, tradicional combinação de Singapura, apresentada em embalagem personalizada.",
+      "photo": null
+    },
+    {
+      "name": "Preparações sazonais de pescados",
+      "desc": "Passagens variáveis de frutos do mar da degustação, escolhidas segundo o abastecimento e o menu contemporâneo da casa.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "address": "Esplanade Mall, #02-23, 8 Raffles Avenue, Singapura 039802",
+    "website": "https://www.restaurantlabyrinth.com/",
+    "reservationUrl": "https://www.restaurantlabyrinth.com/reservations",
+    "reservation": "Reservas pela página oficial. O site informa jantar de quarta a domingo, com almoço também de sexta a domingo; fechado segunda e terça. Para dúvidas ou restrições alimentares, escrever para reservations@labyrinth.com.sg ou telefonar para +65 6223 4098. A casa não consegue atender a algumas alergias e restrições alimentares, de acordo com o menu publicado. Disponibilidade não verificada em tempo real.",
+    "price": "Menu de almoço SGD 208++ por pessoa; degustação do jantar SGD 298++ por pessoa, segundo a página oficial /menu consultada em novembro de 2026. Outra página antiga do próprio restaurante indica SGD 288++ no jantar; verificar o valor no checkout."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Labyrinth — site oficial",
+    "url": "https://www.restaurantlabyrinth.com/",
+    "note": "A galeria oficial oferece fotos reais da comida e do salão no Esplanade Mall, sem licença aberta confirmada para incorporação. Nenhuma imagem genérica de Marina Bay foi apresentada como fotografia da casa.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Labyrinth",
+        "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/labyrinth",
+        "note": "Fotos reais do ambiente e descrição da proposta do chef Han Liguang."
+      }
+    ]
+  }
 }
