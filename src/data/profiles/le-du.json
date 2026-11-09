@@ -1,36 +1,118 @@
 {
-  "lede": "O Le Du, em Bangkok, atualiza a cozinha tailandesa com produtos e técnicas aprendidas em diferentes tradições.",
+  "lede": "No bairro Silom, em Bangkok, Thitid 'Ton' Tassanakajohn apresenta no Le Du uma leitura contemporânea da cozinha tailandesa. O nome remete às estações do ano e os menus procuram valorizar o trabalho de agricultores locais, receitas tradicionais e a técnica que o chef desenvolveu em Nova York.",
   "history": [
-    "Thitid 'Ton' Tassanakajohn criou a casa depois de estudar e trabalhar em cozinhas de Nova York.",
-    "Thitid 'Ton' Tassanakajohn estudou no Culinary Institute of America e trabalhou em cozinhas como Eleven Madison Park e Jean-Georges antes de criar o Le Du."
+    "Thitid Tassanakajohn, conhecido como Chef Ton, estudou no Culinary Institute of America e passou por cozinhas de Nova York como Eleven Madison Park e Jean-Georges. Retornou à Tailândia com o objetivo de mostrar produtos locais a partir de técnicas contemporâneas.",
+    "Em 2013 abriu o Le Du, cujo nome significa estação na língua tailandesa. O projeto tomou forma como um restaurante de menus degustação sazonais, com atenção a arroz, frutas, ervas, pescados e produtores de diferentes regiões do país.",
+    "Com o tempo, a casa consolidou uma linguagem própria, reinterpretando pratos reconhecíveis da cozinha tailandesa sem repetir literalmente sua forma tradicional. O ambiente contemporâneo e o serviço explicativo ajudam a conectar cada prato ao ingrediente e à história que o inspirou.",
+    "O Le Du conquistou uma estrela Michelin e tornou-se uma referência asiática: foi eleito o nº 1 do Asia's 50 Best Restaurants em 2023 e chegou ao 15º lugar no ranking mundial naquele mesmo ano. Em 2026, apareceu em 36º na Ásia e 74º na lista mundial estendida."
   ],
   "cuisine": {
-    "style": "Cozinha tailandesa contemporânea",
+    "style": "Tailândesa contemporânea, sazonal e ligada a agricultores locais",
     "paragraphs": [
-      "Menus sazonais reinterpretam pratos tradicionais tailandeses em várias etapas.",
-      "Há degustações de quatro ou seis etapas; a cozinha reinterpreta receitas tailandesas de verão como o khao chae com sorvete de jasmim."
+      "A proposta do Le Du é valorizar ingredientes tailandeses por meio de uma execução refinada, sem descaracterizar a identidade dos temperos, das ervas e dos diferentes tipos de arroz. Produtos de pequenos agricultores orientam boa parte da sequência.",
+      "O restaurante oferece um percurso de quatro etapas e outro de seis, com pratos que evoluem ao longo do ano. O Guia Michelin destaca leituras de khao chae, tradicional preparo refrescante de verão, e de khao khluk kapi com camarões de rio.",
+      "Uma versão documentada de khao chae reúne camarão, patê de porco, rabanete conservado e sorvete de jasmim. A seleção de pratos é variável; as combinações citadas representam temporadas registradas, não itens permanentes da carta."
     ]
   },
   "chef": {
     "name": "Thitid 'Ton' Tassanakajohn",
-    "bio": "Thitid Tassanakajohn estudou e trabalhou nos Estados Unidos antes de voltar a Bangkok e desenvolver seu repertório tailandês contemporâneo."
+    "bio": "Chef tailandês formado pelo Culinary Institute of America, Thitid 'Ton' Tassanakajohn trabalhou em restaurantes de Nova York, incluindo Eleven Madison Park e Jean-Georges. Fundou o Le Du em Bangkok em 2013 com a missão de valorizar produtos e sabores tailandeses. A casa alcançou o primeiro lugar do Asia's 50 Best em 2023."
   },
   "dishes": [
     {
       "name": "Khao chae reinterpretado",
-      "desc": "Versão do prato de verão com camarão, patê de porco, rabanete conservado e sorvete de jasmim.",
+      "desc": "Preparação de verão que pode reunir camarão, conservas e elementos aromáticos, incluindo jasmim, conforme exemplo de menu publicado.",
+      "photo": null
+    },
+    {
+      "name": "Khao khluk kapi com camarões de rio",
+      "desc": "Releitura contemporânea de arroz com pasta de camarão, enriquecida com camarões de rio tailandeses.",
+      "photo": null
+    },
+    {
+      "name": "Arroz tailandês de produtores locais",
+      "desc": "Passagens da degustação que valorizam variedades de arroz cultivadas no país; técnica e acompanhamentos mudam conforme a estação.",
+      "photo": null
+    },
+    {
+      "name": "Pescados sazonais com ervas tailandesas",
+      "desc": "Pratos de peixe de fornecedores locais com temperos e vegetais típicos; composição definida pelo menu em vigor.",
+      "photo": null
+    },
+    {
+      "name": "Sobremesas com frutas e flores da Tailândia",
+      "desc": "Preparações de frutas sazonais e aromas florais, como jasmim, vinculadas à investigação contemporânea do chef.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2019,
+      "title": "Uma estrela Michelin — reconhecimento do Le Du no Guia Bangkok"
+    },
+    {
+      "year": 2023,
+      "title": "Asia's 50 Best Restaurants — nº 1, melhor restaurante da Ásia"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 15"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 74º lugar no ranking mundial"
+      "title": "Uma estrela Michelin — Guia Michelin Tailândia"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 36"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 74, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.ledubkk.com/",
+    "https://www.ledubkk.com/reservation",
+    "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/le-du",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Le-Du.html",
+    "https://guide.michelin.com/th/en/article/dining-out/video-at-the-source-with-le-du",
+    "https://commons.wikimedia.org/wiki/File:Silom_Road_Bangkok_Thailand.jpg"
   ],
   "slug": "le-du",
-  "rank": 74
+  "rank": 74,
+  "founded": 2013,
+  "founders": [
+    "Thitid 'Ton' Tassanakajohn"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Silom%20Road%20Bangkok%20Thailand.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Silom_Road_Bangkok_Thailand.jpg",
+    "author": "Khaosaming",
+    "license": "CC BY-SA 3.0",
+    "caption": "Rua Silom, em Bangkok, fotografada em março de 2006. Imagem de contexto do bairro; não mostra a entrada ou o salão do Le Du, aberto em 2013.",
+    "illustrative": true
+  },
+  "practical": {
+    "website": "https://www.ledubkk.com/",
+    "address": "399/3 Soi Silom 7, Silom, Bang Rak, Bangkok 10500, Tailândia",
+    "reservationUrl": "https://www.ledubkk.com/reservation",
+    "reservation": "Reservas no site oficial. Os menus de quatro ou seis etapas devem ser escolhidos em conjunto por todos da mesa; grupos acima de cinco pessoas precisam escolher seis etapas. O restaurante solicita comunicação de restrições alimentares com pelo menos 72 horas e prevê cobrança de THB 5.000 por pessoa em alterações ou cancelamentos fora do prazo. Aberto de segunda a sábado no jantar, segundo o Michelin; fechado domingo.",
+    "price": "Le Du Journey (4 etapas): THB 4.500++; Le Du Experience (6 etapas): THB 5.500++. O site informa 10% de serviço e 7% de imposto adicionais. Valores consultados em novembro de 2026, sujeitos a alterações."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Le Du — site oficial",
+    "url": "https://www.ledubkk.com/",
+    "note": "Fotografias reais do salão e dos pratos estão disponíveis no site oficial; a imagem de capa do A Carta é uma fotografia licenciada da Rua Silom, não da casa.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Le Du",
+        "url": "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/le-du",
+        "note": "Imagens reais, contato e descrição da cozinha e do salão."
+      }
+    ]
+  }
 }
