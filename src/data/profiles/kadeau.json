@@ -163,6 +163,9 @@
     "kind": "ambientes",
     "publisher": "Firstserved",
     "url": "https://www.firstserved.dk/restaurant/kadeau",
-    "note": "Galeria fotográfica da unidade de Copenhague, Wildersgade 10B; não confundir com Kadeau Bornholm."
+    "note": "Galeria fotográfica da unidade de Copenhague, Wildersgade 10B; não confundir com Kadeau Bornholm.",
+    "featuredGalleryIndex": 0,
+    "previewTitle": "Outra unidade do Kadeau",
+    "previewContext": "Fotografia real do salão do Kadeau Bornholm, de 2015. O restaurante do ranking está em Copenhague; as duas unidades não devem ser confundidas."
   }
 }
