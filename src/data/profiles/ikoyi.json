@@ -1,52 +1,119 @@
 {
-  "lede": "Em Londres, o Ikoyi combina ingredientes britânicos e especiarias globais em uma cozinha que resiste a rótulos regionais fixos.",
+  "lede": "No endereço de 180 Strand, em Londres, Jeremy Chan e Iré Hassan-Odukale criaram um restaurante que escapa a rótulos regionais. O Ikoyi trabalha com produtos britânicos de estação e um repertório global de especiarias, em menus degustação de sabores intensos e construção meticulosa.",
   "history": [
-    "Criado em 2017 por Jeremy Chan e Iré Hassan-Odukale, o restaurante mudou para um espaço maior no Strand mantendo a proposta de pesquisa de sabores.",
-    "Jeremy Chan e Iré Hassan-Odukale fundaram o Ikoyi em 2017. Em 2021, a casa recebeu o prêmio One to Watch e depois mudou para um espaço maior na região de Strand, em Londres."
+    "Os amigos Jeremy Chan e Iré Hassan-Odukale abriram o Ikoyi em Londres em 2017. O nome homenageia um bairro de Lagos, na Nigéria, mas a proposta nunca pretendeu se restringir a uma cozinha nacional: Chan buscou desenvolver uma linguagem própria de ingredientes britânicos, especiarias e técnicas de diferentes origens.",
+    "A primeira casa atraiu atenção pela ousadia aromática e ganhou o prêmio One To Watch em 2021 no The World's 50 Best Restaurants. O reconhecimento veio acompanhado de prêmios Michelin, até a conquista da segunda estrela, confirmada pelo guia na localização atual.",
+    "Em 2022, o Ikoyi mudou-se para 180 Strand, em Londres, com um salão projetado por David Thulstrup. Materiais como cobre, carvalho, pedra e metal criam uma atmosfera contida, alinhada à identidade da cozinha, ao mesmo tempo refinada e experimental.",
+    "Em 2025, alcançou o 15º lugar no ranking mundial e recebeu o prêmio Highest Climber. No ranking de 2026, figurou em 48º. A equipe continua construindo a carta em torno do abastecimento semanal de fazendas, pescadores e outros produtores britânicos."
   ],
   "cuisine": {
-    "style": "Cozinha autoral com especiarias africanas e asiáticas",
+    "style": "Autoral com produtos britânicos e especiarias globais",
     "paragraphs": [
-      "O menu usa ingredientes de produtores britânicos e preparações aromáticas intensas, com fermentações e molhos complexos.",
-      "A cozinha combina produtos britânicos com especiarias da África e da Ásia. O arroz jollof defumado é um dos pratos mais reconhecidos, embora seu preparo mude conforme a estação."
+      "O restaurante descreve sua cozinha como baseada em especiarias e na micro-sazonalidade britânica. Vegetais cultivados lentamente, pescados de linha e carne de fornecedores locais são combinados a condimentos estudados ao longo de anos, com atenção à acidez, ao aroma e à profundidade dos molhos.",
+      "O jollof rice defumado é uma das preparações mais conhecidas do Ikoyi, mas aparece em versões próprias e com apresentações que se transformam. O Guia Michelin destaca ainda rodovalho maturado com missô de egusi e suya servido com creme de ervilhas.",
+      "A casa oferece uma degustação completa e uma opção mais curta. Não há uma lista fixa de pratos: a seleção segue os ingredientes disponíveis e pode mudar diariamente. O restaurante informa restrições para algumas alergias, que devem ser consultadas antes da reserva."
     ]
   },
   "chef": {
-    "name": "Jeremy Chan",
-    "bio": "Jeremy Chan, chef de formação internacional, cria os pratos; Iré Hassan-Odukale é cofundador e participa da direção do serviço do Ikoyi."
+    "name": "Jeremy Chan (chef) · Iré Hassan-Odukale (cofundador)",
+    "bio": "Jeremy Chan desenvolve a pesquisa de sabores e conduz a cozinha, unindo ingredientes britânicos a uma extensa coleção de especiarias. Iré Hassan-Odukale cofundou o Ikoyi e atua na direção da experiência e da hospitalidade. A dupla lançou o projeto em 2017 e mudou para 180 Strand em 2022."
   },
   "dishes": [
     {
-      "name": "Arroz jollof defumado",
-      "desc": "Prato assinatura que varia de apresentação com a estação.",
+      "name": "Jollof rice defumado",
+      "desc": "Reinterpretação autoral de arroz jollof, apresentada com defumação e acompanhamentos que mudam conforme a estação.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/JOLLOF_RICE.JPG?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:JOLLOF_RICE.JPG",
+        "author": "Ask4ugo",
+        "license": "CC BY-SA 4.0",
+        "caption": "Arroz jollof nigeriano, fotografado em 2012. Imagem ilustrativa da tradição culinária, NÃO do prato servido no Ikoyi.",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Rodovalho com missô de egusi",
+      "desc": "Peixe maturado acompanhado de um tempero inspirado em egusi, preparação de sementes de melão destacada pelo Guia Michelin.",
       "photo": null
     },
     {
-      "name": "Rodovalho com salada de caranguejo",
-      "desc": "Exemplo de combinação descrita pela organização.",
+      "name": "Suya com creme de ervilhas",
+      "desc": "Preparação com referências ao suya, tempero aromático popular na África Ocidental, combinada a ervilhas.",
+      "photo": null
+    },
+    {
+      "name": "Peixes de linha e vegetais britânicos",
+      "desc": "Uma família de pratos sazonais centrada na pesca responsável e em produtos de agricultura local; a composição muda a cada menu.",
       "photo": null
     }
   ],
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 48º lugar no ranking mundial"
+      "year": 2021,
+      "title": "One To Watch Award — The World's 50 Best Restaurants"
     },
     {
-      "year": 2021,
-      "title": "One to Watch Award em 2021 (The World's 50 Best Restaurants)"
+      "year": 2022,
+      "title": "Duas estrelas Michelin — reconhecimento do Ikoyi no Guia Michelin"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 15 e Highest Climber Award"
+    },
+    {
+      "year": 2026,
+      "title": "Duas estrelas Michelin — Guia Michelin Grã-Bretanha e Irlanda"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 48"
     }
   ],
   "practical": {
-    "address": "180 The Strand, Londres WC2R 1EA, Reino Unido",
-    "website": "https://ikoyilondon.com"
+    "address": "180 Strand, London WC2R 1EA, Reino Unido",
+    "website": "https://ikoyilondon.com/",
+    "reservationUrl": "https://www.sevenrooms.com/explore/ikoyilondon/reservations/create/search/",
+    "price": "Degustação completa £395; versão mais curta £180, conforme o site oficial consultado em novembro de 2026. Valores sujeitos a alterações.",
+    "reservation": "Reservas pelo SevenRooms, com abertura no primeiro dia de cada mês, ao meio-dia de Londres, para até dois meses à frente. Contato: reservations@ikoyilondon.com. Jantar de segunda a sexta e almoço de quarta a sexta; confirmar exigências alimentares antes de reservar."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/ikoyi.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://ikoyilondon.com/",
+    "https://www.sevenrooms.com/explore/ikoyilondon/reservations/create/search/",
+    "https://guide.michelin.com/en/greater-london/london/restaurant/ikoyi",
+    "https://www.180studios.com/restaurants/ikoyi",
+    "https://commons.wikimedia.org/wiki/File:The_Strand_Londres.jpg",
+    "https://commons.wikimedia.org/wiki/File:JOLLOF_RICE.JPG"
   ],
   "slug": "ikoyi",
   "rank": 48,
-  "founded": 2017
+  "founded": 2017,
+  "founders": [
+    "Jeremy Chan",
+    "Iré Hassan-Odukale"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Strand_Londres.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Strand_Londres.jpg",
+    "author": "CVB",
+    "license": "CC BY-SA 4.0",
+    "caption": "Vista da rua Strand, em Londres, em 2018. Fotografia do contexto urbano, NÃO da fachada do Ikoyi nem de seu salão atual em 180 Strand.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Ikoyi — site oficial e 180 Studios",
+    "url": "https://ikoyilondon.com/",
+    "note": "Fotografias do próprio salão e dos pratos disponíveis no site do restaurante; a foto publicada na capa do A Carta representa somente a rua Strand.",
+    "additionalSources": [
+      {
+        "publisher": "180 Studios — Ikoyi",
+        "url": "https://www.180studios.com/restaurants/ikoyi",
+        "note": "Apresentação da unidade atual, equipe e conceito culinário."
+      }
+    ]
+  }
 }
