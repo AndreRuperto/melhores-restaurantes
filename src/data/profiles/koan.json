@@ -1,29 +1,117 @@
 {
-  "lede": "O Koan, em Copenhague, cruza ingredientes nórdicos com referências da herança coreana do chef.",
+  "lede": "À beira do porto de Copenhague, o Koan é a expressão pessoal de Kristian Baumann: nascido na Coreia do Sul e criado na Dinamarca, o chef investiga sua origem por meio de fermentados, arroz, frutos do mar nórdicos e técnicas da cozinha coreana. A experiência ganhou duas estrelas Michelin poucos meses após a abertura da sede atual.",
   "history": [
-    "A casa se desenvolveu a partir da experiência do chef Kristian Baumann em restaurantes escandinavos e de seu interesse pelas próprias origens.",
-    "Antes de consolidar o Koan, Kristian Baumann visitou cozinhas, templos e mercados da Coreia para estudar desde refeições de rua até tradições da corte real."
+    "Kristian Baumann nasceu na Coreia do Sul e foi adotado ainda pequeno por uma família dinamarquesa. Formou-se nas cozinhas nórdicas, com passagens por noma e Relæ, e chegou a comandar o restaurante 108, também em Copenhague, que recebeu uma estrela Michelin.",
+    "O desejo de compreender as tradições coreanas levou Baumann a viagens de pesquisa por templos, mercados, restaurantes, culinária de rua e receitas da corte. A primeira expressão do conceito Koan tomou forma num projeto temporário em 2020; a versão permanente abriu em 2023 no antigo espaço portuário de Langeliniekaj 5.",
+    "A sede atual combina um salão de pé-direito alto, madeira clara e cozinha aberta. Cerâmicas coreanas feitas especialmente para o serviço ajudam a criar um diálogo entre tradição e design contemporâneo. O menu de diversas etapas incorpora a origem do chef sem perder o compromisso com a sazonalidade escandinava.",
+    "A casa conquistou duas estrelas Michelin em junho de 2023, poucas semanas após a abertura — reconhecimento mantido na edição de 2026. No ranking mundial estendido do The 50 Best Restaurants 2026, o Koan apareceu em 57º, enquanto seu perfil reforça o papel das experiências de Baumann na cozinha coreano-nórdica."
   ],
   "cuisine": {
-    "style": "Cozinha nórdica com influências coreanas",
+    "style": "Coreana contemporânea com ingredientes nórdicos",
     "paragraphs": [
-      "Fermentações, vegetais sazonais e produtos do mar compõem menus de degustação.",
-      "O menu de cerca de dezessete etapas combina produtos nórdicos e repertório coreano, incluindo fermentações, preparações de churrasco e referências da cozinha de templos."
+      "O Koan usa fermentações, arroz, ervas e temperos tradicionais coreanos em produtos do norte da Europa. Frutos do mar, vegetais da estação e conservas convivem com apresentações de alta precisão.",
+      "Uma das assinaturas é o kkwabaegi, releitura do pão torcido coreano, servida quente com manteiga de gergelim e mel aromatizado com ginseng. Em outras passagens, a equipe já apresentou tofu com pinhões, caviar e morangos fermentados, e uma flor feita de kimchi de couve-rábano.",
+      "Pratos como arroz em panela gamasot, acompanhado de pequenos banchan, ou macarrão frio com lagosta mostram como a memória culinária coreana pode ser traduzida com ingredientes nórdicos. O cardápio é uma degustação sazonal com opção vegetariana; nenhuma dessas preparações é garantida em todas as datas."
     ]
   },
   "chef": {
     "name": "Kristian Baumann",
-    "bio": "Kristian Baumann trabalhou em cozinhas escandinavas e pesquisou a culinária coreana para aproximá-la dos produtos disponíveis na Dinamarca."
+    "bio": "Nascido na Coreia do Sul e criado na Dinamarca, Kristian Baumann formou-se em casas como noma e Relæ, dirigiu o restaurante 108 e desenvolveu uma investigação das tradições coreanas de rua, templos e cozinha palaciana. Depois da experiência temporária de 2020, abriu o Koan na orla de Copenhague em 2023; o projeto recebeu duas estrelas Michelin no mesmo ano."
   },
   "awards": [
     {
+      "year": 2023,
+      "title": "Duas estrelas Michelin — Guia Michelin Países Nórdicos, poucos meses após abertura da sede atual"
+    },
+    {
+      "year": 2025,
+      "title": "Duas estrelas Michelin mantidas — Guia Michelin Países Nórdicos"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 57º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin — Guia Michelin Países Nórdicos 2026"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 57 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.koancph.dk/",
+    "https://www.koancph.dk/info",
+    "https://koan.superbexperience.com/",
+    "https://guide.michelin.com/dk/en/capital-region/copenhagen/restaurant/koan",
+    "https://www.visitdenmark.com/press/latest-news/shower-stars-danish-restaurants-michelin-guide-2023",
+    "https://guide.michelin.com/dk/en/article/michelin-guide-ceremony/full-list-of-michelin-star-restaurants-in-the-nordic-countries",
+    "https://www.nationalgeographic.com/travel/article/copenhagen-restaurant-koan-danish-korean-cooking",
+    "https://commons.wikimedia.org/wiki/File:Langeliniekaj_02.jpg"
   ],
   "slug": "koan",
-  "rank": 57
+  "rank": 57,
+  "founded": 2023,
+  "founders": [
+    "Kristian Baumann"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Langeliniekaj%2002.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Langeliniekaj_02.jpg",
+    "author": "Leif Jørgensen",
+    "license": "CC BY-SA 4.0",
+    "caption": "O cais Langeliniekaj, em Copenhague, fotografado em 2016, antes da abertura do Koan. Imagem contextual do entorno, NÃO da entrada ou do salão do restaurante.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Kkwabaegi com gergelim e ginseng",
+      "desc": "Releitura de pão torcido coreano, leve e servido quente, acompanhado de manteiga de gergelim e mel aromatizado com ginseng.",
+      "photo": null
+    },
+    {
+      "name": "Tofu com pinhões e caviar",
+      "desc": "Tofu de textura aveludada coberto por caviar, com acidez de morangos fermentados em algumas versões históricas.",
+      "photo": null
+    },
+    {
+      "name": "Flor de kimchi de couve-rábano",
+      "desc": "Vegetal trabalhado em lâminas como uma flor, com fermentação coreana, ervas e flores da estação.",
+      "photo": null
+    },
+    {
+      "name": "Arroz gamasot e banchan",
+      "desc": "Arroz feito em panela tradicional e servido com pequenos acompanhamentos, em interpretações nórdicas da mesa coreana.",
+      "photo": null
+    },
+    {
+      "name": "Macarrão frio com lagosta",
+      "desc": "Preparação sazonal que adapta técnicas coreanas de massas frias a frutos do mar do norte da Europa.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "address": "Langeliniekaj 5, 2100 København Ø, Dinamarca",
+    "website": "https://www.koancph.dk/",
+    "reservationUrl": "https://koan.superbexperience.com/",
+    "reservation": "Reservas pelo sistema Superb Experience indicado no site oficial, ou contato por booking@koancph.dk e +45 28 74 78 40. Serviço regular de terça a sexta (com almoço também às sextas, segundo o Michelin); confirmar datas e restrições alimentares antes de finalizar.",
+    "price": "Menu degustação normal ou vegetariano: DKK 3.800 por pessoa, duração mínima aproximada de três horas, conforme a página oficial de informações consultada em novembro de 2026."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Koan — site oficial",
+    "url": "https://www.koancph.dk/",
+    "note": "Fotografias do salão, pratos e ambiente portuário no site oficial. Como não se identificou licença pública para republicação, a imagem da capa é apenas a vista licenciada de Langeliniekaj em 2016.",
+    "additionalSources": [
+      {
+        "publisher": "VisitCopenhagen",
+        "url": "https://www.visitcopenhagen.com/copenhagen/planning/koan-gdk1138664",
+        "note": "Fotografias e descrição do restaurante atual."
+      },
+      {
+        "publisher": "National Geographic",
+        "url": "https://www.nationalgeographic.com/travel/article/copenhagen-restaurant-koan-danish-korean-cooking",
+        "note": "Fotos e exemplos documentados do repertório da cozinha de Baumann."
+      }
+    ]
+  }
 }
