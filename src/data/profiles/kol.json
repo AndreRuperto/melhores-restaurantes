@@ -1,46 +1,136 @@
 {
-  "lede": "O Kol, em Londres, revisita sabores mexicanos usando principalmente produtos sazonais britânicos.",
+  "lede": "Em Marylebone, Londres, o Kol de Santiago Lastra cruza técnicas e sabores do México com ingredientes de produtores britânicos. O restaurante abriu em 2020 e criou uma cozinha de território duplo: milho e tortillas convivem com peixes locais, raízes, frutas e ervas do Reino Unido.",
   "history": [
-    "Santiago Lastra concebeu o restaurante como uma ponte entre técnicas mexicanas e a despensa do Reino Unido.",
-    "O Kol recria o espírito de receitas mexicanas a partir de ingredientes cultivados ou pescados no Reino Unido. A experiência inclui etapas em ambientes diferentes da casa."
+    "O chef mexicano Santiago Lastra trabalhou em cozinhas como Mugaritz e participou da residência do Noma no México. Antes de estabelecer um endereço próprio, percorreu diferentes países com experiências gastronômicas temporárias, estudando maneiras de reinterpretar sabores mexicanos com ingredientes locais.",
+    "Em outubro de 2020, abriu o Kol na Seymour Street, em Marylebone, durante um período difícil para a hospitalidade em Londres. O conceito foi desenhado a partir de uma restrição criativa: reproduzir a sensação da cozinha mexicana trabalhando, sempre que possível, com a despensa britânica.",
+    "O projeto valorizou agricultores, pescadores, coletores e produtores de grãos do Reino Unido. Milho, massa, técnicas de molhos, conservas e ingredientes como espinheiro-marítimo ajudaram a formar um menu de degustação que mantém a identidade mexicana apesar de mudar com a estação.",
+    "O Kol conquistou sua primeira estrela Michelin em 2022. Na lista The World's 50 Best Restaurants, foi 23º em 2023, 17º em 2024 e 49º em 2025, passando para 70º na lista mundial estendida em 2026. O taco de lagostim permaneceu como a assinatura mais reconhecível do chef."
   ],
   "cuisine": {
-    "style": "Cozinha mexicana com ingredientes britânicos",
+    "style": "Cozinha mexicana contemporânea com produtos britânicos sazonais",
     "paragraphs": [
-      "Milho, tortilhas, molhos e marinadas mexicanas são adaptados aos produtos locais.",
-      "Entre os exemplos estão tacos de lagostim, tamal de truta com salsa macha e sope de beterraba cristalizada e vinagre de framboesa."
+      "A casa traduz receitas mexicanas para matérias-primas de agricultores e pescadores britânicos. Tortillas, técnicas de massa de milho, moles, tamales e salsas servem como estrutura para peixe, crustáceos, vegetais e condimentos adaptados às estações locais.",
+      "O taco de lagostim é o prato assinatura desde a inauguração: o crustáceo é preparado com pimenta defumada e combinado com espinheiro-marítimo, fruta ácida colhida no litoral, para formar um contraste que remete às costas mexicanas.",
+      "Outras criações registradas ao longo dos anos incluem tamal de truta com salsa macha, sope de beterraba cristalizada e vinagre de framboesa, e cordeiro com mole de pimenta mulato. O restaurante oferece um percurso de degustação que muda regularmente; o perfil não representa o cardápio fixo de uma data específica."
     ]
   },
   "chef": {
     "name": "Santiago Lastra",
-    "bio": "Santiago Lastra criou o Kol para interpretar tradições mexicanas com a despensa sazonal britânica."
+    "bio": "Chef mexicano e fundador do Kol, Santiago Lastra passou por Mugaritz e participou de projetos ligados ao Noma, incluindo a experiência temporária no México. Abriu o Kol em Marylebone em outubro de 2020 para unir ingredientes britânicos e técnicas da gastronomia mexicana. Recebeu uma estrela Michelin em 2022 e projetou o restaurante no ranking internacional."
   },
   "dishes": [
     {
       "name": "Taco de lagostim",
-      "desc": "Taco feito com lagostim de origem britânica.",
+      "desc": "Assinatura do restaurante desde 2020, com lagostim, pimenta defumada e espinheiro-marítimo. O preparo e acompanhamentos podem evoluir.",
       "photo": null
     },
     {
       "name": "Tamal de truta com salsa macha",
-      "desc": "Adaptação de uma preparação mexicana com peixe local.",
+      "desc": "Tamal de inspiração mexicana usando truta britânica e condimentos locais, registrado no perfil internacional da casa.",
       "photo": null
     },
     {
-      "name": "Sope de beterraba e vinagre de framboesa",
-      "desc": "Base de massa de milho frita coberta com ingredientes sazonais.",
+      "name": "Sope de beterraba cristalizada",
+      "desc": "Base de milho com beterraba e vinagre de framboesa, uma das criações sazonais descritas pelo 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro com mole mulato",
+      "desc": "Carne de cordeiro em molho de pimenta mulato, com acompanhamentos britânicos como azedinha, descrita em menu histórico.",
+      "photo": null
+    },
+    {
+      "name": "Pozole de cogumelos",
+      "desc": "Adaptação vegetal da sopa tradicional mexicana com cogumelos, documentada em carta de 2026; composição variável.",
+      "photo": null
+    },
+    {
+      "name": "Quesadilla de abóbora",
+      "desc": "Preparação vegetal do repertório recente, usando abóbora e massa mexicana; disponibilidade sazonal.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2022,
+      "title": "Primeira estrela Michelin — Guia Michelin Grã-Bretanha e Irlanda"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 23"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 17"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 49"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 70º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Grã-Bretanha e Irlanda"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 70 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://kolrestaurant.com/",
+    "https://kolrestaurant.com/kol-restaurant-bookings/",
+    "https://guide.michelin.com/gb/en/greater-london/london/restaurant/kol",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/kol.html",
+    "https://www.the50.com/discovery/Establishments/UK/London/Kol.html",
+    "https://www.sevenrooms.com/explore/kolrestaurant/reservations/create/search",
+    "https://www.cosentino.com/pt-br/blog/kol-restaurant/",
+    "https://www.port-magazine.com/food-drink/questions-of-taste-kol-santiago-lastra/",
+    "https://commons.wikimedia.org/wiki/File:Santiago_Lastra,_Photographer_Rebecca_Dickson.jpg",
+    "https://commons.wikimedia.org/wiki/File:Marylebone_High_Street_Londres.jpg"
   ],
   "slug": "kol",
-  "rank": 70
+  "rank": 70,
+  "founded": 2020,
+  "founders": [
+    "Santiago Lastra"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Lastra%2C%20Photographer%20Rebecca%20Dickson.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Santiago_Lastra,_Photographer_Rebecca_Dickson.jpg",
+    "author": "Eloiselloveday (arquivo identificado como fotografia de Rebecca Dickson)",
+    "license": "CC BY-SA 4.0",
+    "caption": "Retrato real de Santiago Lastra, fundador do Kol, em abril de 2023. É imagem do chef, NÃO da fachada ou do salão do restaurante.",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Marylebone%20High%20Street%20Londres.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Marylebone_High_Street_Londres.jpg",
+      "author": "CVB",
+      "license": "CC BY-SA 4.0",
+      "caption": "Rua de Marylebone, bairro londrino onde fica o Kol, fotografada em 2020. Foto urbana contextual, não da entrada na Seymour Street.",
+      "illustrative": true
+    }
+  ],
+  "practical": {
+    "address": "9 Seymour Street, Marylebone, Londres W1H 7BA, Reino Unido",
+    "website": "https://kolrestaurant.com/",
+    "reservationUrl": "https://kolrestaurant.com/kol-restaurant-bookings/",
+    "reservation": "Reservas pela página oficial, que encaminha para SevenRooms. O restaurante oferece menu degustação, com reservas para grupos de até seis pessoas abertas, segundo a plataforma, por até dois meses de antecedência. Serve jantar de terça a sábado e almoço de quarta a sábado; fechado domingo e segunda. Contato: +44 20 3829 6888.",
+    "price": "Menu degustação exclusivo. Uma fonte de setembro de 2026 menciona cerca de £145 por pessoa, mas o valor não foi confirmado diretamente no site oficial; verificar a cotação mostrada na reserva."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Kol — site oficial",
+    "url": "https://kolrestaurant.com/",
+    "note": "Fotos reais do salão, dos pratos e da cozinha aberta constam do site oficial. O A Carta apresenta apenas retrato licenciado de Santiago Lastra e imagem contextual de Marylebone.",
+    "additionalSources": [
+      {
+        "publisher": "Cosentino — projeto de interiores Kol",
+        "url": "https://www.cosentino.com/pt-br/blog/kol-restaurant/",
+        "note": "Fotografias reais do projeto de interiores da casa em Marylebone, sem licença de republicação especificada."
+      }
+    ]
+  }
 }
