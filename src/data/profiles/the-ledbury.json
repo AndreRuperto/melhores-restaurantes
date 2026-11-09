@@ -1,29 +1,127 @@
 {
-  "lede": "O The Ledbury, em Londres, combina precisão técnica com produtos britânicos sazonais.",
+  "lede": "Em Notting Hill, Londres, o The Ledbury de Brett Graham alia técnica francesa a uma atenção extraordinária aos ingredientes britânicos. Aberto em 2005, passou por uma pausa e reabertura em 2022; recuperou projeção internacional ao conquistar três estrelas Michelin em 2024 e mantém o reconhecimento em 2026.",
   "history": [
-    "Brett Graham consolidou a casa em Notting Hill e desenvolveu relações próximas com criadores e produtores.",
-    "Brett Graham dirige um salão íntimo de cerca de quarenta e cinco lugares e trabalha principalmente produtos britânicos, com ingredientes japoneses selecionados."
+    "O The Ledbury abriu em 2005 em uma antiga casa comercial de Notting Hill, no número 127 de Ledbury Road. O chef australiano Brett Graham desenvolveu ali uma cozinha britânica contemporânea apoiada na tradição francesa, com serviço próximo e atenção a produtores.",
+    "A casa conquistou duas estrelas Michelin durante sua primeira fase e tornou-se conhecida pela precisão dos molhos, pelo uso de vegetais e pela valorização de caça e carnes de criadores especializados. Graham construiu ligações diretas com produtores, chegando a criar e cultivar parte dos ingredientes usados em seus pratos.",
+    "Após o fechamento durante a pandemia, o restaurante reabriu em 2022, com salão renovado e foco ainda maior na proveniência. O projeto inclui a criação de animais em suas fazendas e um espaço próprio para cultivar cogumelos de diferentes variedades.",
+    "Em 2024, a casa recebeu sua terceira estrela Michelin, integrou a elite gastronômica londrina e foi eleita o melhor restaurante do Reino Unido no National Restaurant Awards daquele ano. Manteve três estrelas na edição 2026 e reentrou na lista mundial estendida do The 50 Best Restaurants em 83º."
   ],
   "cuisine": {
-    "style": "Cozinha britânica contemporânea de influência francesa",
+    "style": "Britânica moderna, técnica francesa e produção própria",
     "paragraphs": [
-      "Carnes, vegetais e peixes recebem preparações sazonais e molhos de alta cozinha.",
-      "A cozinha usa técnicas francesas clássicas para destacar carnes, vegetais e pescados sazonais, com serviço de alta precisão."
+      "Brett Graham prioriza produtos sazonais britânicos, incluindo vegetais, cogumelos cultivados no próprio restaurante, carne de produtores e criações em fazendas ligadas ao projeto. Técnicas clássicas de molhos e controle de cocção ajudam a revelar cada ingrediente.",
+      "O Guia Michelin destaca um pombo maturado em feno com cogumelos girolle, vadouvan, cerejas e chucrute como exemplo de precisão e camadas de sabor. O restaurante também trabalha com veado de sua produção e outros ingredientes de caça, conforme a estação.",
+      "Os menus degustação têm composição variável: seis ou oito etapas no almoço e um percurso mais longo no jantar. Em razão da dependência das safras, os ingredientes e pratos destacados não são garantia de disponibilidade na data escolhida."
     ]
   },
   "chef": {
     "name": "Brett Graham",
-    "bio": "Brett Graham é chef e responsável pelo The Ledbury, onde integra produtos britânicos e técnicas francesas."
+    "bio": "Australiano e chef do The Ledbury desde sua abertura em 2005, Brett Graham formou uma cozinha baseada em ingredientes britânicos e execução francesa. Trabalha com fazendas e criadores associados ao restaurante e desenvolveu um espaço próprio de cultivo de cogumelos. Liderou a reabertura de 2022 e a conquista da terceira estrela Michelin em 2024."
   },
   "awards": [
     {
+      "year": 2006,
+      "title": "Primeira estrela Michelin na fase inicial do restaurante"
+    },
+    {
+      "year": 2010,
+      "title": "Segunda estrela Michelin — Guia Michelin Grã-Bretanha e Irlanda"
+    },
+    {
+      "year": 2024,
+      "title": "Terceira estrela Michelin após a reabertura de 2022"
+    },
+    {
+      "year": 2024,
+      "title": "Melhor restaurante do Reino Unido — National Restaurant Awards"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 83º lugar no ranking mundial"
+      "title": "Três estrelas Michelin mantidas — Guia Michelin Grã-Bretanha e Irlanda"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 83, reentrada na lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.theledbury.com/",
+    "https://www.theledbury.com/food-wine",
+    "https://guide.michelin.com/gb/en/greater-london/london/restaurant/the-ledbury",
+    "https://guide.michelin.com/gb/en/article/michelin-guide-ceremony/every-michelin-star-restaurant-in-london-full-list",
+    "https://www.independent.co.uk/life-style/food-and-drink/news/the-ledbury-national-restaurant-awards-b2560355.html",
+    "https://commons.wikimedia.org/wiki/File:Ledbury,_Notting_Hill,_W11_(5499132198).jpg",
+    "https://commons.wikimedia.org/wiki/File:The_Ledbury_on_Ledbury_Road_in_Notting_Hill_-_geograph.org.uk_-_4016926.jpg"
   ],
   "slug": "the-ledbury",
-  "rank": 83
+  "rank": 83,
+  "founded": 2005,
+  "founders": [
+    "Brett Graham"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ledbury%2C%20Notting%20Hill%2C%20W11%20(5499132198).jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Ledbury,_Notting_Hill,_W11_(5499132198).jpg",
+    "author": "Ewan Munro",
+    "license": "CC BY-SA 2.0",
+    "caption": "Fachada real do The Ledbury, no número 127 de Ledbury Road, fotografada em fevereiro de 2011. Registro histórico anterior à reforma e reabertura de 2022.",
+    "illustrative": false
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Ledbury%20on%20Ledbury%20Road%20in%20Notting%20Hill%20-%20geograph.org.uk%20-%204016926.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Ledbury_on_Ledbury_Road_in_Notting_Hill_-_geograph.org.uk_-_4016926.jpg",
+    "author": "Roger Davies",
+    "license": "CC BY-SA 2.0",
+    "caption": "Fachada real do The Ledbury, em Notting Hill, fotografada em junho de 2014. A entrada pode ter mudado após a reforma de 2022.",
+    "illustrative": false
+  },
+  "dishes": [
+    {
+      "name": "Pombo maturado em feno com girolles",
+      "desc": "Pombo maturado com cogumelos girolle, vadouvan, cerejas e chucrute, preparação destacada pelo Guia Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Cogumelos do fungarium",
+      "desc": "Variedades cultivadas no próprio restaurante são usadas em passagens de degustação, conforme a temporada; não se trata de prato fixo.",
+      "photo": null
+    },
+    {
+      "name": "Veado de origem controlada",
+      "desc": "Carne de animais criados no projeto de produção ligado ao The Ledbury, trabalhada conforme estação e menu.",
+      "photo": null
+    },
+    {
+      "name": "Porco de fazenda própria",
+      "desc": "Seleção de cortes provenientes de criadores e fazendas vinculadas à casa, executados em pratos sazonais.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais britânicos e molhos franceses",
+      "desc": "Passagens vegetais construídas com produtos da época e molhos concentrados, base do repertório de Graham.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.theledbury.com/",
+    "address": "127 Ledbury Road, Notting Hill, Londres W11 2AQ, Reino Unido",
+    "reservationUrl": "https://www.theledbury.com/",
+    "reservation": "Reservas exclusivamente por link do site oficial, que encaminha ao OpenTable, ou dúvidas pelo telefone +44 20 7792 9090. Jantar de terça a sábado e almoço de sexta e sábado; o site anuncia almoços também às quintas em novembro e dezembro. O restaurante atende crianças a partir de 12 anos. Informar restrições alimentares na reserva.",
+    "price": "Almoço de seis etapas £220; oito etapas £270; jantar degustação £295, segundo a carta oficial consultada em novembro de 2026. Acrescenta-se taxa de serviço discricionária de 12,5%."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Wikimedia Commons — The Ledbury",
+    "url": "https://commons.wikimedia.org/wiki/Category:The_Ledbury,_London",
+    "note": "Fotos próprias da fachada do restaurante em 2011 e 2014 com CC BY-SA 2.0 estão publicadas na capa e na seção O lugar. As imagens atuais do restaurante no site oficial têm direitos reservados.",
+    "additionalSources": [
+      {
+        "publisher": "The Ledbury — site oficial",
+        "url": "https://www.theledbury.com/",
+        "note": "Fotos atuais do salão e pratos, menu vigente e acesso ao OpenTable; sem licença livre de republicação."
+      }
+    ]
+  }
 }
