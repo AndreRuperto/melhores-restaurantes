@@ -1,33 +1,105 @@
 {
-  "lede": "O FZN, em Dubai, é um projeto de alta gastronomia do chef Björn Frantzén.",
+  "lede": "No Atlantis The Palm, na Palm Jumeirah, Dubai, o FZN leva a visão de Björn Frantzén para uma experiência de alta cozinha nórdica com influências japonesas. Inaugurado em novembro de 2024, combina pequenos salões e cozinha aberta num percurso gastronômico liderado por Torsten Vildgaard, premiado com três estrelas Michelin em 2025.",
   "history": [
-    "A casa leva ao Oriente Médio uma proposta internacional de degustação com referências nórdicas e asiáticas.",
-    "O FZN funciona no Atlantis The Royal, em Dubai, com projeto gastronômico idealizado por Björn Frantzén e executado por Torsten Vildgaard e sua equipe."
+    "O FZN abriu em 8 de novembro de 2024 dentro do Atlantis The Palm, na Palm Jumeirah. O endereço deve ser distinguido do Atlantis The Royal, outro hotel do mesmo grupo em Dubai: o FZN funciona no The Palm.",
+    "O restaurante é uma expansão internacional da proposta do chef sueco Björn Frantzén, criador do Frantzén, em Estocolmo, e do Zén, em Singapura. A operação em Dubai tem liderança culinária do chef executivo Torsten Vildgaard, que trabalhou em cozinhas de referência na Escandinávia.",
+    "A casa acomoda cerca de 27 convidados em dois andares, com uma sequência que começa em ambiente de recepção e evolui para o serviço diante da cozinha. A experiência aproxima técnicas francesas, identidade nórdica e ingredientes ou condimentos de inspiração japonesa.",
+    "Em 2025, poucos meses após a inauguração, o FZN recebeu três estrelas no Guia Michelin Dubai. Manteve o reconhecimento em 2026 e estreou em 88º lugar na lista mundial estendida do The 50 Best Restaurants daquele ano."
   ],
   "cuisine": {
-    "style": "Cozinha nórdica contemporânea com influências japonesas",
+    "style": "Alta cozinha nórdica contemporânea, francesa e japonesa",
     "paragraphs": [
-      "O menu combina técnicas precisas, molhos e produtos selecionados em várias etapas.",
-      "As etapas integram alta gastronomia europeia moderna e ingredientes de inspiração japonesa. O restaurante recebeu três estrelas Michelin no primeiro ano, segundo a apresentação do ranking."
+      "A culinária parte de produtos de alta qualidade e execução de precisão, unindo caldos profundos, fermentados, fogo e técnicas clássicas a notas de acidez e umami de origem japonesa.",
+      "A degustação oficial é apresentada em aproximadamente nove etapas. Uma das criações divulgadas na abertura combina pato com yuzu e pimenta de Kampot; outra é um chawanmushi com caldo bovino defumado e caviar.",
+      "Peixes, crustáceos e carnes aparecem em combinações como pregado com wagyu curado e alcachofra, ou caranguejo-real e lagostins. Esses pratos documentam o repertório da casa, mas a composição varia conforme a estação e não deve ser apresentada como menu garantido."
     ]
   },
   "chef": {
-    "name": "Torsten Vildgaard (equipe de Björn Frantzén)",
-    "bio": "Torsten Vildgaard lidera a equipe do FZN, criado pelo chef sueco Björn Frantzén."
+    "name": "Torsten Vildgaard (chef executivo) · Björn Frantzén (criador)",
+    "bio": "Björn Frantzén é o chef sueco responsável pela visão gastronômica do restaurante. Torsten Vildgaard, que construiu parte de sua carreira na alta cozinha nórdica, lidera a operação culinária do FZN em Dubai. A equipe combina técnicas escandinavas, francesas e japonesas na experiência inaugurada em novembro de 2024."
   },
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 88º lugar no ranking mundial"
+      "year": 2025,
+      "title": "Três estrelas Michelin — Guia Michelin Dubai, conquistadas no primeiro ano"
+    },
+    {
+      "year": 2025,
+      "title": "La Liste — destaque entre os melhores restaurantes dos Emirados Árabes Unidos"
     },
     {
       "year": 2026,
-      "title": "Três estrelas Michelin no primeiro ano de funcionamento (The 50 Best)"
+      "title": "Três estrelas Michelin mantidas — Guia Michelin Dubai"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 88, estreia na lista mundial estendida"
+    },
+    {
+      "year": 2026,
+      "title": "Middle East & North Africa's 50 Best Restaurants — nº 22"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.restaurantfzn.com/",
+    "https://www.frantzengroup.com/restaurants/fzn/",
+    "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/fzn-by-bjorn-frantzen",
+    "https://www.theworlds50best.com/stories/News/worlds-50-best-restaurants-2026-51-100-list.html",
+    "https://www.atlantis.com/dubai/dining/fzn-by-bjorn-frantzen"
   ],
   "slug": "fzn",
-  "rank": 88
+  "rank": 88,
+  "founded": 2024,
+  "founders": [
+    "Björn Frantzén",
+    "Frantzén Group"
+  ],
+  "dishes": [
+    {
+      "name": "Pato ao barbecue com yuzu",
+      "desc": "Pato servido com referências de barbecue, yuzu e pimenta de Kampot, criação divulgada na abertura do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Chawanmushi com caldo defumado",
+      "desc": "Creme de ovos de inspiração japonesa com caldo bovino defumado e caviar, descrito pela equipe do Frantzén Group.",
+      "photo": null
+    },
+    {
+      "name": "Pregado com wagyu curado",
+      "desc": "Peixe combinado a wagyu curado, alcachofra e brotos de pinheiro em versão documentada do repertório.",
+      "photo": null
+    },
+    {
+      "name": "Caranguejo-real e lagostins",
+      "desc": "Crustáceos selecionados e preparados com acompanhamentos sazonais, exemplos do trabalho da cozinha.",
+      "photo": null
+    },
+    {
+      "name": "Blini com wagyu aburi e limão",
+      "desc": "Pequena preparação com wagyu, limão salgado e referência ao unagi, registrada em descrições da experiência de 2026.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.restaurantfzn.com/",
+    "address": "Atlantis The Palm, Crescent Road, Palm Jumeirah, Dubai, Emirados Árabes Unidos",
+    "reservationUrl": "https://www.restaurantfzn.com/",
+    "reservation": "Reservas pelo botão oficial no site do FZN; novas mesas costumam ser liberadas no dia 1º do mês às 10h, horário de Dubai. Atendimento principalmente de terça a sábado à noite; confirmar a data no calendário. Para informações e grupos, usar receptionfzn@restaurantfzn.com ou +971 50 107 6322. Disponibilidade não consultada em tempo real.",
+    "price": "Menu degustação de aproximadamente nove etapas: AED 2.000 por pessoa, segundo a página oficial consultada em novembro de 2026. Confirmar preço final, taxas e eventuais alterações no checkout."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "FZN — site oficial",
+    "url": "https://www.restaurantfzn.com/",
+    "note": "Fotografias reais do salão, cozinha e pratos disponíveis no site institucional. Não foi confirmada licença pública de reprodução; por isso o A Carta não incorpora essas imagens e não usa uma fotografia genérica do hotel como se mostrasse o restaurante.",
+    "additionalSources": [
+      {
+        "publisher": "Frantzén Group — FZN",
+        "url": "https://www.frantzengroup.com/restaurants/fzn/",
+        "note": "História e fotografias editoriais do projeto de Björn Frantzén em Dubai, mantidas na publicação original."
+      }
+    ]
+  }
 }
