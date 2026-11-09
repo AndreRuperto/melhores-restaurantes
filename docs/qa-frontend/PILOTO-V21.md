@@ -1,7 +1,7 @@
 # A Carta — segundo piloto do Guia Frontend IA v2.1
 
 **Escopo:** dropdown de país/continente, posicionamento em tela baixa, temas, teclado, geometria e qualidade editorial.
-**Status:** primeiro CI executado; 5/7 cenários passaram e 2 revelaram corte horizontal. Correção de posicionamento implementada; reteste pendente.
+**Status:** primeiro CI detectou 2 cortes de menu; a correção foi executada e o reteste Playwright passou em 7/7 casos. As capturas das duas condições inicialmente reprovadas foram inspecionadas e agora mostram o menu dentro da viewport. Resta ampliação do escopo visual.
 **Branch:** test/piloto-frontend-css-v21.
 
 ## Baseline verificável por código
@@ -20,9 +20,9 @@
 | CSS01 | fontes/layers/ordem | CSS carregado completo e origem registrada | imports + DevTools | parcial estático |
 | CSS02 | computed | valores capturados em menu/tema | JSON computed | não testado |
 | CSS03 | vencedor | regra vencedora identificada, não deduzida | DevTools Styles | não testado |
-| CSS04 | 320x568, 360x740, 390x844 | menu não sai da viewport e mantém rolagem | screenshots/rect | FALHOU antes da correção em 320x568 dark e 360x740 light; reteste pendente |
+| CSS04 | 320x568, 360x740, 390x844 | menu não sai da viewport e mantém rolagem | screenshots/rect | FALHOU no primeiro CI; RETESTADO/APROVADO nas 6 combinações do CI 42665050057 |
 | CSS05 | claro/escuro | tokens resolvidos e legibilidade mantida | JSON + inspeção visual | não testado |
-| CSS06 | reteste depois de mudança | sem regressão em consumidores | antes/depois | não aplicável |
+| CSS06 | reteste depois de mudança | sem regressão nos casos avaliados | antes/depois | APROVADO nos 7 casos amostrados; demais consumidores pendentes |
 | UX01 | teclado e busca | selecionar Brasil, Escape e retorno ao foco | Playwright trace | PASSOU no primeiro CI |
 | VIS01 | direção editorial | hierarquia, densidade e fotos coerentes | capturas revisadas por QA | não testado |
 
@@ -48,5 +48,12 @@ Sem CI executado, não afirmar que passou. CI verde também não prova estética
 - **Evidências:** screenshots em artifacts/frontend-css-evidencias e logs do workflow. As duas capturas foram inspecionadas visualmente e mostram o painel cortado à esquerda.
 - **Causa respaldada pelo código:** quando o painel de ~304px não cabe à direita, a lógica antiga aplicava classe utilitária right-0, alinhando a borda direita do painel ao botão estreito; isso podia gerar posição x negativa. Identificar a regra vencedora exata no DevTools/CDP permanece etapa de aprofundamento.
 - **Correção proposta/implementada na branch:** medir largura real do painel, calcular alinhamento horizontal com margem de 16px da viewport e aplicar offset left inline; preservar cálculo de abertura para cima.
-- **Reteste:** execução do novo CI após a correção; checar seis combinações, busca/teclado, capturas. Ainda não marcar o achado como corrigido e retestado sem o CI passar.
+- **Reteste:** CI 42665050057 APROVADO: npm ci, check:profiles, build e Playwright 7/7. Capturas de 320x568 dark e 360x740 light revisadas: painel totalmente visível horizontalmente; demais vistas não auditadas nesta rodada. Status do achado: corrigido e retestado **no escopo amostrado**.
 - **Risco residual:** dropdown em outras rotas/containers, zoom, outros navegadores e teclado virtual ainda requerem cobertura adicional.
+
+## Encerramento da rodada 1 (escopo limitado)
+
+- CI de reteste: https://github.com/AndreRuperto/melhores-restaurantes/actions/runs/42665050057
+- Antes: 5 passes/2 falhas com valores x negativos; depois: 7 passes/0 falhas.
+- Screenshots das duas falhas iniciais foram inspecionadas antes e depois (320x568 dark, 360x740 light): menu agora dentro da viewport com margem.
+- **Não conclusivo para cobertura total:** home/ranking/mapa, Safari iOS/Firefox, zoom, teclado virtual e acessibilidade completa. Sem alterar outras páginas ou afirmar 10/10.
