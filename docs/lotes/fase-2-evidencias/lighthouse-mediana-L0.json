@@ -1,0 +1,62 @@
+[
+  {
+    "route": "/",
+    "performance": 95,
+    "minPerformance": 83,
+    "maxPerformance": 96,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 92,
+    "lcpMs": 1773.8076,
+    "cls": 0.001956877363321752,
+    "tbtMs": 94
+  },
+  {
+    "route": "/restaurantes",
+    "performance": 98,
+    "minPerformance": 98,
+    "maxPerformance": 98,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 92,
+    "lcpMs": 1765.1822000000002,
+    "cls": 0,
+    "tbtMs": 116
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "performance": 88,
+    "minPerformance": 88,
+    "maxPerformance": 88,
+    "accessibility": 100,
+    "bestPractices": 77,
+    "seo": 92,
+    "lcpMs": 3779.1641,
+    "cls": 0,
+    "tbtMs": 62
+  },
+  {
+    "route": "/restaurante/khufus",
+    "performance": 88,
+    "minPerformance": 88,
+    "maxPerformance": 88,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 92,
+    "lcpMs": 3766.2463,
+    "cls": 0,
+    "tbtMs": 59
+  },
+  {
+    "route": "/restaurante/aponiente",
+    "performance": 88,
+    "minPerformance": 88,
+    "maxPerformance": 88,
+    "accessibility": 100,
+    "bestPractices": 77,
+    "seo": 92,
+    "lcpMs": 3771.9842,
+    "cls": 0,
+    "tbtMs": 60
+  }
+]

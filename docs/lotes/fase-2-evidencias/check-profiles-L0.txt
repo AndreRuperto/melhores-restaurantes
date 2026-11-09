@@ -1,0 +1,31 @@
+
+> melhores-restaurantes@1.0.0 check:profiles
+> node scripts/validate-profiles.mjs
+
+Auditoria de A Carta — perfis dos 100 restaurantes
+┌─────────────────────┬────────┐
+│ (index)             │ Values │
+├─────────────────────┼────────┤
+│ profiles            │ 100    │
+│ covers              │ 92     │
+│ facades             │ 30     │
+│ photoReferences     │ 84     │
+│ featuredPlacePhotos │ 13     │
+│ galleries           │ 49     │
+│ dishes              │ 532    │
+│ dishesWithPhotos    │ 88     │
+│ chefBios            │ 100    │
+│ practical           │ 100    │
+└─────────────────────┴────────┘
+Avisos editoriais (não bloqueiam o build): 10
+  - Dados práticos parciais: meet-the-bund.json
+  - Dados práticos parciais: ru-yuan.json
+  - Foto de capa pendente: eliane.json
+  - Foto de capa pendente: fzn.json
+  - Foto de capa pendente: baan-tepa.json
+  - Foto de capa pendente: den.json
+  - Foto de capa pendente: lamdre.json
+  - Foto de capa pendente: khufus.json
+  - Foto de capa pendente: labyrinth.json
+  - Foto de capa pendente: fauna.json
+Estrutura dos perfis válida. Observação: não substitui revisão factual, visual e de licenças.

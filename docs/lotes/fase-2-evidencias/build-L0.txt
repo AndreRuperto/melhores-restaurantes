@@ -1,0 +1,115 @@
+
+> melhores-restaurantes@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+(node:58632) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+transforming...
+✓ 167 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                                        2.02 kB │ gzip:   0.88 kB
+dist/assets/index-4sOGf-h7.css                                        39.43 kB │ gzip:   8.95 kB
+dist/assets/arca-DB2-y-L3.js                                           6.05 kB │ gzip:   2.79 kB
+dist/assets/fzn-CSPgR0f_.js                                            6.05 kB │ gzip:   2.70 kB
+dist/assets/le-calandre-CB1J8yVO.js                                    6.07 kB │ gzip:   2.71 kB
+dist/assets/naar-G8nXTqd6.js                                           6.14 kB │ gzip:   2.74 kB
+dist/assets/salsify-at-the-roundhouse-nMaWkNuk.js                      6.19 kB │ gzip:   2.86 kB
+dist/assets/txispa-8muNpOla.js                                         6.22 kB │ gzip:   2.86 kB
+dist/assets/den-BmisGnmc.js                                            6.25 kB │ gzip:   2.83 kB
+dist/assets/fauna-Dm2zT-Kq.js                                          6.32 kB │ gzip:   2.68 kB
+dist/assets/sazenka-CkTRrKvL.js                                        6.32 kB │ gzip:   3.02 kB
+dist/assets/le-doyenne-D2bWhmL9.js                                     6.36 kB │ gzip:   2.81 kB
+dist/assets/eliane-Cy7X9s72.js                                         6.38 kB │ gzip:   2.85 kB
+dist/assets/nobelhart-e-schmutzig-CfA6-BHh.js                          6.38 kB │ gzip:   2.93 kB
+dist/assets/el-chato-D7oyCzpu.js                                       6.40 kB │ gzip:   2.76 kB
+dist/assets/mayta-qrV7N9M2.js                                          6.40 kB │ gzip:   2.82 kB
+dist/assets/mosu-BRDSKgtN.js                                           6.42 kB │ gzip:   2.83 kB
+dist/assets/le-du-IZe37ZCp.js                                          6.42 kB │ gzip:   2.91 kB
+dist/assets/willem-hiele-C0Yh2Jk_.js                                   6.44 kB │ gzip:   2.89 kB
+dist/assets/eatanic-garden-Daafwoy2.js                                 6.45 kB │ gzip:   2.88 kB
+dist/assets/khufus-BGYBTg_t.js                                         6.50 kB │ gzip:   2.83 kB
+dist/assets/labyrinth-CgVYaTaZ.js                                      6.52 kB │ gzip:   2.74 kB
+dist/assets/la-cime-al6hQmro.js                                        6.58 kB │ gzip:   3.07 kB
+dist/assets/lamdre-BSNWD8ll.js                                         6.61 kB │ gzip:   2.88 kB
+dist/assets/ikoyi-DJZfmS7w.js                                          6.62 kB │ gzip:   2.90 kB
+dist/assets/belcanto-BtzDKe3n.js                                       6.64 kB │ gzip:   2.99 kB
+dist/assets/chef-tams-seasons-Cwmh_8_T.js                              6.70 kB │ gzip:   2.87 kB
+dist/assets/fu-he-hui-DsuYNaoD.js                                      6.71 kB │ gzip:   2.94 kB
+dist/assets/baan-tepa-CnpV2Alg.js                                      6.72 kB │ gzip:   2.93 kB
+dist/assets/huniik-BoVxqaEp.js                                         6.73 kB │ gzip:   2.97 kB
+dist/assets/koan-C1IfskPc.js                                           6.75 kB │ gzip:   2.98 kB
+dist/assets/le-louis-xv-alain-ducasse-a-lhotel-de-paris-C8Ri1ZkA.js    6.77 kB │ gzip:   2.85 kB
+dist/assets/fyn-Bz_dHJ7S.js                                            6.84 kB │ gzip:   2.93 kB
+dist/assets/narisawa-Br9RjALr.js                                       6.93 kB │ gzip:   3.06 kB
+dist/assets/coda-A1UcNeRv.js                                           6.94 kB │ gzip:   3.16 kB
+dist/assets/rosetta-CV9Xswmh.js                                        6.94 kB │ gzip:   2.88 kB
+dist/assets/florilege-CCwSVzxR.js                                      6.94 kB │ gzip:   3.11 kB
+dist/assets/saint-peter-jcMA-020.js                                    6.94 kB │ gzip:   3.06 kB
+dist/assets/septime-nzMTG7ZC.js                                        6.95 kB │ gzip:   3.09 kB
+dist/assets/neolokal-B7lkqUMJ.js                                       6.97 kB │ gzip:   3.19 kB
+dist/assets/don-julio-BHsQ_4Ag.js                                      6.98 kB │ gzip:   2.93 kB
+dist/assets/onjium-ChenZLwh.js                                         6.99 kB │ gzip:   3.03 kB
+dist/assets/cocina-hermanos-torres-DgiXfVlB.js                         7.01 kB │ gzip:   3.14 kB
+dist/assets/bozar-CvSINsga.js                                          7.01 kB │ gzip:   2.92 kB
+dist/assets/seroja-CNKFlAi_.js                                         7.01 kB │ gzip:   3.11 kB
+dist/assets/uliassi-DiCtxJFd.js                                        7.12 kB │ gzip:   3.20 kB
+dist/assets/nelita-Bnkn9LcW.js                                         7.17 kB │ gzip:   3.17 kB
+dist/assets/evvai-D9_pN6Uk.js                                          7.23 kB │ gzip:   3.17 kB
+dist/assets/the-ledbury-Dg5VT2jU.js                                    7.32 kB │ gzip:   3.11 kB
+dist/assets/mil-D5i3kRKp.js                                            7.45 kB │ gzip:   3.31 kB
+dist/assets/ling-long-BXVXSSDu.js                                      7.46 kB │ gzip:   3.15 kB
+dist/assets/the-jane-CrpxqY37.js                                       7.47 kB │ gzip:   3.29 kB
+dist/assets/kol-P87fqYcn.js                                            7.48 kB │ gzip:   3.17 kB
+dist/assets/tim-raue-dSPkCgdV.js                                       7.53 kB │ gzip:   3.31 kB
+dist/assets/alcalde-D8sE19p2.js                                        7.64 kB │ gzip:   3.12 kB
+dist/assets/caprice-D4dOWfxe.js                                        7.75 kB │ gzip:   3.09 kB
+dist/assets/frantzen-DtxgLn7W.js                                       7.82 kB │ gzip:   3.37 kB
+dist/assets/arpege-D_3e2vbh.js                                         7.93 kB │ gzip:   3.17 kB
+dist/assets/aponiente-DgVQ6eas.js                                      8.01 kB │ gzip:   3.27 kB
+dist/assets/burnt-ends-C47-jhrz.js                                     8.09 kB │ gzip:   3.14 kB
+dist/assets/singlethread-BUO4BM8G.js                                   8.10 kB │ gzip:   3.28 kB
+dist/assets/atomix-CN4Z9cQI.js                                         8.60 kB │ gzip:   3.40 kB
+dist/assets/hisa-franko-mrDbDfo5.js                                    8.67 kB │ gzip:   3.35 kB
+dist/assets/al-gatto-verde-BbK9T0i_.js                                 8.71 kB │ gzip:   3.79 kB
+dist/assets/kadeau-D--wsZ9M.js                                         8.94 kB │ gzip:   3.56 kB
+dist/assets/piazza-duomo-JDFeMYgA.js                                   9.07 kB │ gzip:   3.69 kB
+dist/assets/alchemist-C9pYFG8L.js                                      9.46 kB │ gzip:   3.67 kB
+dist/assets/plenitude-uWmBr0Vm.js                                      9.59 kB │ gzip:   3.72 kB
+dist/assets/reale-BaPA_aD_.js                                          9.61 kB │ gzip:   3.84 kB
+dist/assets/enigma--wSUZg_Z.js                                         9.62 kB │ gzip:   4.05 kB
+dist/assets/potong-DU-QSJLy.js                                         9.81 kB │ gzip:   4.03 kB
+dist/assets/diverxo-BwI_gJ2b.js                                        9.82 kB │ gzip:   3.53 kB
+dist/assets/vyn-BcwgYB3d.js                                            9.90 kB │ gzip:   4.29 kB
+dist/assets/masque-CPmCaxYJ.js                                         9.98 kB │ gzip:   3.95 kB
+dist/assets/kjolle-4-UENZ2F.js                                        10.00 kB │ gzip:   4.00 kB
+dist/assets/merito-BVcCuoV_.js                                        10.11 kB │ gzip:   4.17 kB
+dist/assets/wing-W4u71Lb0.js                                          10.12 kB │ gzip:   3.97 kB
+dist/assets/steirereck-DCUaSB-f.js                                    10.27 kB │ gzip:   4.09 kB
+dist/assets/gaggan-wb1hyAFI.js                                        10.39 kB │ gzip:   3.95 kB
+dist/assets/the-chairman-wNm3yBst.js                                  10.70 kB │ gzip:   4.04 kB
+dist/assets/meet-the-bund-70ICUaZR.js                                 10.74 kB │ gzip:   4.56 kB
+dist/assets/celele-D4P6u4DO.js                                        10.77 kB │ gzip:   4.36 kB
+dist/assets/nusara-BqGWA1yG.js                                        10.80 kB │ gzip:   4.15 kB
+dist/assets/lasai-CgT8oCdc.js                                         10.87 kB │ gzip:   4.17 kB
+dist/assets/tresind-studio-C7HHkXy3.js                                11.08 kB │ gzip:   4.34 kB
+dist/assets/mingles-B2-auiMm.js                                       11.33 kB │ gzip:   4.42 kB
+dist/assets/jordn-r-CRg9uC1b.js                                       11.37 kB │ gzip:   4.33 kB
+dist/assets/ru-yuan-Bc93rA28.js                                       11.48 kB │ gzip:   4.64 kB
+dist/assets/tuju-DYI9AOb7.js                                          11.53 kB │ gzip:   4.54 kB
+dist/assets/sorn-B2eSyoJz.js                                          11.64 kB │ gzip:   4.45 kB
+dist/assets/jan-DxctCaNU.js                                           11.71 kB │ gzip:   4.22 kB
+dist/assets/odette-pK8HvvBV.js                                        11.79 kB │ gzip:   4.24 kB
+dist/assets/asador-etxebarri-CLltc0Jv.js                              11.89 kB │ gzip:   4.27 kB
+dist/assets/quintonil-TSsZaj2R.js                                     11.89 kB │ gzip:   4.21 kB
+dist/assets/la-colombe-DEs87KUO.js                                    11.98 kB │ gzip:   4.60 kB
+dist/assets/borago-zUtqE2Xm.js                                        12.07 kB │ gzip:   4.29 kB
+dist/assets/elkano-BdWZ9WJ-.js                                        12.11 kB │ gzip:   4.63 kB
+dist/assets/nuema-CfAufa-N.js                                         12.13 kB │ gzip:   4.42 kB
+dist/assets/atelier-moessmer-norbert-niederkofler-1DUoYzTp.js         12.59 kB │ gzip:   4.91 kB
+dist/assets/schloss-schauenstein-BjyR7tn0.js                          12.98 kB │ gzip:   4.73 kB
+dist/assets/suhring-MFpijYEG.js                                       12.99 kB │ gzip:   4.91 kB
+dist/assets/le-coquillage-DpkAPROZ.js                                 13.01 kB │ gzip:   4.83 kB
+dist/assets/index-BakGDCAW.js                                        376.65 kB │ gzip: 127.25 kB
+✓ built in 1.57s

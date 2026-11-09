@@ -60,7 +60,7 @@ export function Header({ sections = false, back = false }) {
   const link = 'smallcaps whitespace-nowrap !tracking-[0.08em] sm:!tracking-[0.28em] text-ink-2 hover:text-wine transition-colors'
   return (
     <header className="sticky top-0 z-40 border-b border-rule bg-paper/90 backdrop-blur-sm">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:gap-4 sm:px-8">
+      <div className="mx-auto flex min-h-16 max-w-6xl flex-wrap items-center justify-between gap-x-3 gap-y-2 px-4 py-3 sm:h-16 sm:flex-nowrap sm:gap-4 sm:px-8 sm:py-0">
         <Logo />
         <div className="flex min-w-0 items-center gap-3 sm:gap-7">
         {back ? (

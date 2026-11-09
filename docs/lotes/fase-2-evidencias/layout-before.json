@@ -1,0 +1,305 @@
+{
+  "layout": [
+    {
+      "route": "/restaurantes",
+      "width": 320,
+      "requestedTheme": "light",
+      "scrollWidth": 383,
+      "viewport": 320,
+      "title": "Todos os restaurantes",
+      "theme": "light",
+      "overflow": true
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 320,
+      "requestedTheme": "light",
+      "scrollWidth": 320,
+      "viewport": 320,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 320,
+      "requestedTheme": "light",
+      "scrollWidth": 320,
+      "viewport": 320,
+      "title": "Khufu’s",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 320,
+      "requestedTheme": "dark",
+      "scrollWidth": 383,
+      "viewport": 320,
+      "title": "Todos os restaurantes",
+      "theme": "dark",
+      "overflow": true
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 320,
+      "requestedTheme": "dark",
+      "scrollWidth": 320,
+      "viewport": 320,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 320,
+      "requestedTheme": "dark",
+      "scrollWidth": 320,
+      "viewport": 320,
+      "title": "Khufu’s",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 375,
+      "requestedTheme": "light",
+      "scrollWidth": 383,
+      "viewport": 375,
+      "title": "Todos os restaurantes",
+      "theme": "light",
+      "overflow": true
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 375,
+      "requestedTheme": "light",
+      "scrollWidth": 375,
+      "viewport": 375,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 375,
+      "requestedTheme": "light",
+      "scrollWidth": 375,
+      "viewport": 375,
+      "title": "Khufu’s",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 375,
+      "requestedTheme": "dark",
+      "scrollWidth": 383,
+      "viewport": 375,
+      "title": "Todos os restaurantes",
+      "theme": "dark",
+      "overflow": true
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 375,
+      "requestedTheme": "dark",
+      "scrollWidth": 375,
+      "viewport": 375,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 375,
+      "requestedTheme": "dark",
+      "scrollWidth": 375,
+      "viewport": 375,
+      "title": "Khufu’s",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 768,
+      "requestedTheme": "light",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "title": "Todos os restaurantes",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 768,
+      "requestedTheme": "light",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 768,
+      "requestedTheme": "light",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "title": "Khufu’s",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 768,
+      "requestedTheme": "dark",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "title": "Todos os restaurantes",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 768,
+      "requestedTheme": "dark",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 768,
+      "requestedTheme": "dark",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "title": "Khufu’s",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 1024,
+      "requestedTheme": "light",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "title": "Todos os restaurantes",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 1024,
+      "requestedTheme": "light",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 1024,
+      "requestedTheme": "light",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "title": "Khufu’s",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 1024,
+      "requestedTheme": "dark",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "title": "Todos os restaurantes",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 1024,
+      "requestedTheme": "dark",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 1024,
+      "requestedTheme": "dark",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "title": "Khufu’s",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 1440,
+      "requestedTheme": "light",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "title": "Todos os restaurantes",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 1440,
+      "requestedTheme": "light",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 1440,
+      "requestedTheme": "light",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "title": "Khufu’s",
+      "theme": "light",
+      "overflow": false
+    },
+    {
+      "route": "/restaurantes",
+      "width": 1440,
+      "requestedTheme": "dark",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "title": "Todos os restaurantes",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "width": 1440,
+      "requestedTheme": "dark",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris",
+      "theme": "dark",
+      "overflow": false
+    },
+    {
+      "route": "/restaurante/khufus",
+      "width": 1440,
+      "requestedTheme": "dark",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "title": "Khufu’s",
+      "theme": "dark",
+      "overflow": false
+    }
+  ],
+  "limitations": "Chromium only; viewport overflow measured, screenshots captured; this is not complete visual or accessibility approval"
+}

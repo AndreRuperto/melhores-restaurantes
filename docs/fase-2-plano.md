@@ -1,9 +1,9 @@
 # A Carta — plano detalhado da Fase 2
 
 **Data de abertura:** 9 de novembro de 2026  
-**Estado:** planejada; auditoria integral e homologação ainda pendentes  
+**Estado:** em execução — L0 iniciado; estrutura e rotas conferidas, revisão factual e de imagens pendente  
 **Escopo:** os 100 perfis do acervo de 2026, suas imagens, dados, navegação e publicação  
-**Entrega deste documento:** planejamento, sem alteração de código, dados ou fotografias  
+**Entrega deste documento:** plano vivo, atualizado com inventários, medições e correções verificadas  
 **Fluxo de publicação:** commits pequenos diretamente na `main`, conforme orientação do projeto
 
 ## 1. Objetivo e referências
@@ -134,12 +134,12 @@ Autorizações privadas devem ficar em armazenamento restrito; o repositório p�
 
 Tarefas e checklist:
 
-- [ ] Fixar o SHA de referência e cruzar lista, slugs, ranks, arquivos e rotas `/restaurante/:slug`; detectar duplicados, ausências e perfis fora da lista.
+- [x] Fixar o SHA de referência e cruzar lista, slugs, ranks, arquivos e rotas `/restaurante/:slug`; detectar duplicados, ausências e perfis fora da lista.
 - [ ] Ler os 100 JSONs em grupos de dez; registrar campos vazios, divergências, extensão editorial e fontes, sem extrapolar da amostra.
 - [ ] Classificar cada imagem por sujeito, época, licença e local de uso; contar arquivos únicos sem duplicar capa/fachada idênticas.
-- [ ] Executar o validador e o build; guardar saída completa, avisos, erros, ambiente e SHA.
+- [x] Executar o validador e o build; guardar saída completa, avisos, erros, ambiente e SHA. Ver evidências do L0.
 - [ ] Testar home, lista, mapa, filtros, página individual e rota desconhecida; documentar problemas reproduzíveis.
-- [ ] Preencher `fase-2-inventario.csv` e criar `docs/lotes/fase-2-auditoria-inicial.md` com totais, limites e links de evidência.
+- [x] Preencher `fase-2-inventario.csv` e criar `docs/lotes/fase-2-auditoria-inicial.md` com totais, limites e links de evidência. Primeira versão estrutural; campos não verificados continuam explícitos.
 - [ ] Triar cada achado como P0/P1/P2; indicar responsável, dependência e teste que comprovará a correção.
 
 **Aceite verificável:** 100 linhas únicas conciliadas com os 100 arquivos e rotas; todos os campos de auditoria classificados; cada problema com ID, prioridade e evidência. Registrar o resultado real dos comandos, inclusive falha. Auditoria concluída não significa que seus problemas estejam corrigidos.
@@ -262,7 +262,7 @@ Cada lote recebe `docs/lotes/fase-2-LNN.md`, com lista nominal dos slugs, checkl
 
 ## 7. Backlog inicial priorizado
 
-Todos os itens abaixo são **a fazer**. São tarefas planejadas; problemas específicos só serão confirmados pela auditoria.
+A tabela abaixo registra o backlog originalmente planejado. Consulte a seção 12 e o relatório L0 para o estado atual, os achados confirmados e as tarefas já executadas.
 
 | ID | Etapa | Prioridade | Tarefa concreta | Dependência | Evidência de aceite |
 | --- | --- | --- | --- | --- | --- |
@@ -383,113 +383,132 @@ Checklist obrigatório antes de marcar um lote como validado:
 - [ ] Zero P0/P1 em aberto no lote; P2 com destino e responsável.
 - [ ] Revisor identificado e decisão de aceite registrada.
 
-**Próxima ação executável:** abrir L0, criar o inventário detalhado e rodar a linha de base dos comandos. A publicação deste plano não encerra a Fase 2.
+**Próxima ação executável:** completar a revisão factual/fotográfica do L0, usando os inventários já criados e priorizando o piloto. A varredura estrutural, rotas e medições foram realizadas; a homologação permanece pendente. Ver seção 12.
+
+## 12. Atualização de execução — 09/11/2026, checkpoint L0
+
+Relatório detalhado: [auditoria inicial](lotes/fase-2-auditoria-inicial.md). Inventários: [100 perfis](lotes/fase-2-inventario.csv) e [339 usos de imagens](lotes/fase-2-imagens.csv).
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.1 / L0 | 100 JSONs parseados e conciliados; 100 rotas locais com nome/lede corretos; nove cenários de filtro; cinco páginas públicas abertas | Revisão factual, fotografias/direitos, matriz completa e aceite de lote |
+| 2.2 | 339 usos, 317 URLs e 316 páginas de origem inventariados; 92 capas e 30 campos de fachada | Fontes/identidade/licenças por arquivo; números de presença não comprovam cobertura real |
+| 2.3 | Cabeçalho corrigido após teste falhar em 320/375 px; reteste passou nas cinco larguras; 30 casos de layout sem overflow | Firefox/Safari, zoom, teclado integral e acessibilidade manual |
+| 2.4 | Identificados dois websites ausentes e 29 perfis sem reservationUrl | Confirmar canais e dados voláteis nas fontes; não equivale a 29 reservas inexistentes |
+| 2.5 | 15 medições públicas; medianas de Performance: home 95, lista 98, Asador/Khufu’s/Aponiente 88 | Metas dos perfis, robots inválido, canonical ausente e metadados genéricos |
+| 2.6 | check:profiles e build com saída zero; dez avisos editoriais preservados | Homologação e conferência do deploy da correção; nenhuma fase integralmente homologada |
+
+Os logs e medições identificam a base `9efc8eb0b4149a653c01e6a6541cca62081f9c97`; medições públicas ocorreram antes da publicação da correção mobile. Não reescrever os resultados históricos da abertura como se tivessem sido medidos naquela ocasião.
+
+**Decisão registrada:** antecipar apenas a correção estreita do cabeçalho compartilhado, pois o corte de links/tema foi reproduzido durante L0. A mudança preserva identidade e tem evidência antes/depois; não libera os demais lotes sem completar a auditoria. **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+**Registro de testes:** npm ci, check:profiles e build executados; presença estrutural dos 100 perfis e rotas locais conferida. Resultados e limites no [relatório L0](lotes/fase-2-auditoria-inicial.md). Fontes, direitos e fatos não verificados continuam pendentes; não foram enviadas solicitações de autorização nem realizadas reservas.
 
 ## Apêndice A — Inventário nominal dos 100 perfis
 
-Base: `src/data/restaurants.js` e árvore do GitHub no SHA da seção 2. **Todos os arquivos abaixo existem** no cruzamento realizado. A coluna de auditoria refere-se à futura revisão integral da Fase 2 e não apaga a conclusão editorial da Fase 1. Os nomes/posições são reproduzidos do acervo, sem nova verificação externa do ranking.
+Base: `src/data/restaurants.js` e árvore do GitHub no SHA da seção 2. **Todos os arquivos abaixo existem** no cruzamento realizado. A coluna de auditoria distingue a conferência estrutural/rota já feita da revisão integral ainda pendente da Fase 2 e não apaga a conclusão editorial da Fase 1. Os nomes/posições são reproduzidos do acervo, sem nova verificação externa do ranking.
 
 A rota de cada linha é `/restaurante/<nome-do-arquivo-sem-.json>`. Este inventário não atribui cobertura fotográfica, validade factual ou aceite individual.
 
 | Posição | Restaurante | País (código do acervo) | Arquivo JSON | Auditoria Fase 2 |
 | ---: | --- | --- | --- | --- |
-| 1 | Asador Etxebarri | ES | [asador-etxebarri.json](../src/data/profiles/asador-etxebarri.json) | A auditar |
-| 2 | Gaggan | TH | [gaggan.json](../src/data/profiles/gaggan.json) | A auditar |
-| 3 | Alchemist | DK | [alchemist.json](../src/data/profiles/alchemist.json) | A auditar |
-| 4 | Quintonil | MX | [quintonil.json](../src/data/profiles/quintonil.json) | A auditar |
-| 5 | Wing | CN | [wing.json](../src/data/profiles/wing.json) | A auditar |
-| 6 | The Chairman | CN | [the-chairman.json](../src/data/profiles/the-chairman.json) | A auditar |
-| 7 | Kjolle | PE | [kjolle.json](../src/data/profiles/kjolle.json) | A auditar |
-| 8 | Kadeau | DK | [kadeau.json](../src/data/profiles/kadeau.json) | A auditar |
-| 9 | DiverXO | ES | [diverxo.json](../src/data/profiles/diverxo.json) | A auditar |
-| 10 | Plénitude | FR | [plenitude.json](../src/data/profiles/plenitude.json) | A auditar |
-| 11 | Atomix | US | [atomix.json](../src/data/profiles/atomix.json) | A auditar |
-| 12 | Sorn | TH | [sorn.json](../src/data/profiles/sorn.json) | A auditar |
-| 13 | Mérito | PE | [merito.json](../src/data/profiles/merito.json) | A auditar |
-| 14 | Sühring | TH | [suhring.json](../src/data/profiles/suhring.json) | A auditar |
-| 15 | Odette | SG | [odette.json](../src/data/profiles/odette.json) | A auditar |
-| 16 | Tuju | BR | [tuju.json](../src/data/profiles/tuju.json) | A auditar |
-| 17 | Mingles | KR | [mingles.json](../src/data/profiles/mingles.json) | A auditar |
-| 18 | Nusara | TH | [nusara.json](../src/data/profiles/nusara.json) | A auditar |
-| 19 | Jan | DE | [jan.json](../src/data/profiles/jan.json) | A auditar |
-| 20 | Piazza Duomo | IT | [piazza-duomo.json](../src/data/profiles/piazza-duomo.json) | A auditar |
-| 21 | Meet the Bund | CN | [meet-the-bund.json](../src/data/profiles/meet-the-bund.json) | A auditar |
-| 22 | Boragó | CL | [borago.json](../src/data/profiles/borago.json) | A auditar |
-| 23 | Vyn | SE | [vyn.json](../src/data/profiles/vyn.json) | A auditar |
-| 24 | Al Gatto Verde | IT | [al-gatto-verde.json](../src/data/profiles/al-gatto-verde.json) | A auditar |
-| 25 | Lasai | BR | [lasai.json](../src/data/profiles/lasai.json) | A auditar |
-| 26 | Masque | IN | [masque.json](../src/data/profiles/masque.json) | A auditar |
-| 27 | Reale | IT | [reale.json](../src/data/profiles/reale.json) | A auditar |
-| 28 | Trèsind Studio | AE | [tresind-studio.json](../src/data/profiles/tresind-studio.json) | A auditar |
-| 29 | Enigma | ES | [enigma.json](../src/data/profiles/enigma.json) | A auditar |
-| 30 | Steirereck | AT | [steirereck.json](../src/data/profiles/steirereck.json) | A auditar |
-| 31 | Celele | CO | [celele.json](../src/data/profiles/celele.json) | A auditar |
-| 32 | Potong | TH | [potong.json](../src/data/profiles/potong.json) | A auditar |
-| 33 | Elkano | ES | [elkano.json](../src/data/profiles/elkano.json) | A auditar |
-| 34 | Le Coquillage | FR | [le-coquillage.json](../src/data/profiles/le-coquillage.json) | A auditar |
-| 35 | La Colombe | ZA | [la-colombe.json](../src/data/profiles/la-colombe.json) | A auditar |
-| 36 | Ru Yuan | CN | [ru-yuan.json](../src/data/profiles/ru-yuan.json) | A auditar |
-| 37 | Nuema | EC | [nuema.json](../src/data/profiles/nuema.json) | A auditar |
-| 38 | Atelier Moessmer Norbert Niederkofler | IT | [atelier-moessmer-norbert-niederkofler.json](../src/data/profiles/atelier-moessmer-norbert-niederkofler.json) | A auditar |
-| 39 | Schloss Schauenstein | CH | [schloss-schauenstein.json](../src/data/profiles/schloss-schauenstein.json) | A auditar |
-| 40 | Jordnær | DK | [jordn-r.json](../src/data/profiles/jordn-r.json) | A auditar |
-| 41 | Onjium | KR | [onjium.json](../src/data/profiles/onjium.json) | A auditar |
-| 42 | Bozar | BE | [bozar.json](../src/data/profiles/bozar.json) | A auditar |
-| 43 | Le Calandre | IT | [le-calandre.json](../src/data/profiles/le-calandre.json) | A auditar |
-| 44 | Don Julio | AR | [don-julio.json](../src/data/profiles/don-julio.json) | A auditar |
-| 45 | Mayta | PE | [mayta.json](../src/data/profiles/mayta.json) | A auditar |
-| 46 | El Chato | CO | [el-chato.json](../src/data/profiles/el-chato.json) | A auditar |
-| 47 | Le Louis XV-Alain Ducasse à l’Hôtel de Paris | MC | [le-louis-xv-alain-ducasse-a-lhotel-de-paris.json](../src/data/profiles/le-louis-xv-alain-ducasse-a-lhotel-de-paris.json) | A auditar |
-| 48 | Ikoyi | GB | [ikoyi.json](../src/data/profiles/ikoyi.json) | A auditar |
-| 49 | Naar | IN | [naar.json](../src/data/profiles/naar.json) | A auditar |
-| 50 | Saint Peter | AU | [saint-peter.json](../src/data/profiles/saint-peter.json) | A auditar |
-| 51 | Uliassi | IT | [uliassi.json](../src/data/profiles/uliassi.json) | A auditar |
-| 52 | La Cime | JP | [la-cime.json](../src/data/profiles/la-cime.json) | A auditar |
-| 53 | Ling Long | CN | [ling-long.json](../src/data/profiles/ling-long.json) | A auditar |
-| 54 | Nelita | BR | [nelita.json](../src/data/profiles/nelita.json) | A auditar |
-| 55 | Alcalde | MX | [alcalde.json](../src/data/profiles/alcalde.json) | A auditar |
-| 56 | Sazenka | JP | [sazenka.json](../src/data/profiles/sazenka.json) | A auditar |
-| 57 | Koan | DK | [koan.json](../src/data/profiles/koan.json) | A auditar |
-| 58 | Frantzén | SE | [frantzen.json](../src/data/profiles/frantzen.json) | A auditar |
-| 59 | Narisawa | JP | [narisawa.json](../src/data/profiles/narisawa.json) | A auditar |
-| 60 | Hiša Franko | SI | [hisa-franko.json](../src/data/profiles/hisa-franko.json) | A auditar |
-| 61 | Florilège | JP | [florilege.json](../src/data/profiles/florilege.json) | A auditar |
-| 62 | Fu He Hui | CN | [fu-he-hui.json](../src/data/profiles/fu-he-hui.json) | A auditar |
-| 63 | The Jane | BE | [the-jane.json](../src/data/profiles/the-jane.json) | A auditar |
-| 64 | Seroja | SG | [seroja.json](../src/data/profiles/seroja.json) | A auditar |
-| 65 | Fyn | ZA | [fyn.json](../src/data/profiles/fyn.json) | A auditar |
-| 66 | Willem Hiele | BE | [willem-hiele.json](../src/data/profiles/willem-hiele.json) | A auditar |
-| 67 | Arpège | FR | [arpege.json](../src/data/profiles/arpege.json) | A auditar |
-| 68 | Evvai | BR | [evvai.json](../src/data/profiles/evvai.json) | A auditar |
-| 69 | Cocina Hermanos Torres | ES | [cocina-hermanos-torres.json](../src/data/profiles/cocina-hermanos-torres.json) | A auditar |
-| 70 | Kol | GB | [kol.json](../src/data/profiles/kol.json) | A auditar |
-| 71 | Salsify at the Roundhouse | ZA | [salsify-at-the-roundhouse.json](../src/data/profiles/salsify-at-the-roundhouse.json) | A auditar |
-| 72 | Eatanic Garden | KR | [eatanic-garden.json](../src/data/profiles/eatanic-garden.json) | A auditar |
-| 73 | Chef Tam’s Seasons | CN | [chef-tams-seasons.json](../src/data/profiles/chef-tams-seasons.json) | A auditar |
-| 74 | Le Du | TH | [le-du.json](../src/data/profiles/le-du.json) | A auditar |
-| 75 | Belcanto | PT | [belcanto.json](../src/data/profiles/belcanto.json) | A auditar |
-| 76 | Nobelhart & Schmutzig | DE | [nobelhart-e-schmutzig.json](../src/data/profiles/nobelhart-e-schmutzig.json) | A auditar |
-| 77 | Caprice | CN | [caprice.json](../src/data/profiles/caprice.json) | A auditar |
-| 78 | Mosu | KR | [mosu.json](../src/data/profiles/mosu.json) | A auditar |
-| 79 | Huniik | MX | [huniik.json](../src/data/profiles/huniik.json) | A auditar |
-| 80 | Txispa | ES | [txispa.json](../src/data/profiles/txispa.json) | A auditar |
-| 81 | Septime | FR | [septime.json](../src/data/profiles/septime.json) | A auditar |
-| 82 | Coda | DE | [coda.json](../src/data/profiles/coda.json) | A auditar |
-| 83 | The Ledbury | GB | [the-ledbury.json](../src/data/profiles/the-ledbury.json) | A auditar |
-| 84 | Le Doyenné | FR | [le-doyenne.json](../src/data/profiles/le-doyenne.json) | A auditar |
-| 85 | Tim Raue | DE | [tim-raue.json](../src/data/profiles/tim-raue.json) | A auditar |
-| 86 | Eliane | BE | [eliane.json](../src/data/profiles/eliane.json) | A auditar |
-| 87 | Arca | MX | [arca.json](../src/data/profiles/arca.json) | A auditar |
-| 88 | FZN | AE | [fzn.json](../src/data/profiles/fzn.json) | A auditar |
-| 89 | Burnt Ends | SG | [burnt-ends.json](../src/data/profiles/burnt-ends.json) | A auditar |
-| 90 | Baan Tepa | TH | [baan-tepa.json](../src/data/profiles/baan-tepa.json) | A auditar |
-| 91 | Den | JP | [den.json](../src/data/profiles/den.json) | A auditar |
-| 92 | Lamdre | CN | [lamdre.json](../src/data/profiles/lamdre.json) | A auditar |
-| 93 | SingleThread | US | [singlethread.json](../src/data/profiles/singlethread.json) | A auditar |
-| 94 | Neolokal | TR | [neolokal.json](../src/data/profiles/neolokal.json) | A auditar |
-| 95 | Mil | PE | [mil.json](../src/data/profiles/mil.json) | A auditar |
-| 96 | Rosetta | MX | [rosetta.json](../src/data/profiles/rosetta.json) | A auditar |
-| 97 | Khufu’s | EG | [khufus.json](../src/data/profiles/khufus.json) | A auditar |
-| 98 | Labyrinth | SG | [labyrinth.json](../src/data/profiles/labyrinth.json) | A auditar |
-| 99 | Fauna | MX | [fauna.json](../src/data/profiles/fauna.json) | A auditar |
-| 100 | Aponiente | ES | [aponiente.json](../src/data/profiles/aponiente.json) | A auditar |
+| 1 | Asador Etxebarri | ES | [asador-etxebarri.json](../src/data/profiles/asador-etxebarri.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 2 | Gaggan | TH | [gaggan.json](../src/data/profiles/gaggan.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 3 | Alchemist | DK | [alchemist.json](../src/data/profiles/alchemist.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 4 | Quintonil | MX | [quintonil.json](../src/data/profiles/quintonil.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 5 | Wing | CN | [wing.json](../src/data/profiles/wing.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 6 | The Chairman | CN | [the-chairman.json](../src/data/profiles/the-chairman.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 7 | Kjolle | PE | [kjolle.json](../src/data/profiles/kjolle.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 8 | Kadeau | DK | [kadeau.json](../src/data/profiles/kadeau.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 9 | DiverXO | ES | [diverxo.json](../src/data/profiles/diverxo.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 10 | Plénitude | FR | [plenitude.json](../src/data/profiles/plenitude.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 11 | Atomix | US | [atomix.json](../src/data/profiles/atomix.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 12 | Sorn | TH | [sorn.json](../src/data/profiles/sorn.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 13 | Mérito | PE | [merito.json](../src/data/profiles/merito.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 14 | Sühring | TH | [suhring.json](../src/data/profiles/suhring.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 15 | Odette | SG | [odette.json](../src/data/profiles/odette.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 16 | Tuju | BR | [tuju.json](../src/data/profiles/tuju.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 17 | Mingles | KR | [mingles.json](../src/data/profiles/mingles.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 18 | Nusara | TH | [nusara.json](../src/data/profiles/nusara.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 19 | Jan | DE | [jan.json](../src/data/profiles/jan.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 20 | Piazza Duomo | IT | [piazza-duomo.json](../src/data/profiles/piazza-duomo.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 21 | Meet the Bund | CN | [meet-the-bund.json](../src/data/profiles/meet-the-bund.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 22 | Boragó | CL | [borago.json](../src/data/profiles/borago.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 23 | Vyn | SE | [vyn.json](../src/data/profiles/vyn.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 24 | Al Gatto Verde | IT | [al-gatto-verde.json](../src/data/profiles/al-gatto-verde.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 25 | Lasai | BR | [lasai.json](../src/data/profiles/lasai.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 26 | Masque | IN | [masque.json](../src/data/profiles/masque.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 27 | Reale | IT | [reale.json](../src/data/profiles/reale.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 28 | Trèsind Studio | AE | [tresind-studio.json](../src/data/profiles/tresind-studio.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 29 | Enigma | ES | [enigma.json](../src/data/profiles/enigma.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 30 | Steirereck | AT | [steirereck.json](../src/data/profiles/steirereck.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 31 | Celele | CO | [celele.json](../src/data/profiles/celele.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 32 | Potong | TH | [potong.json](../src/data/profiles/potong.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 33 | Elkano | ES | [elkano.json](../src/data/profiles/elkano.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 34 | Le Coquillage | FR | [le-coquillage.json](../src/data/profiles/le-coquillage.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 35 | La Colombe | ZA | [la-colombe.json](../src/data/profiles/la-colombe.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 36 | Ru Yuan | CN | [ru-yuan.json](../src/data/profiles/ru-yuan.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 37 | Nuema | EC | [nuema.json](../src/data/profiles/nuema.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 38 | Atelier Moessmer Norbert Niederkofler | IT | [atelier-moessmer-norbert-niederkofler.json](../src/data/profiles/atelier-moessmer-norbert-niederkofler.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 39 | Schloss Schauenstein | CH | [schloss-schauenstein.json](../src/data/profiles/schloss-schauenstein.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 40 | Jordnær | DK | [jordn-r.json](../src/data/profiles/jordn-r.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 41 | Onjium | KR | [onjium.json](../src/data/profiles/onjium.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 42 | Bozar | BE | [bozar.json](../src/data/profiles/bozar.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 43 | Le Calandre | IT | [le-calandre.json](../src/data/profiles/le-calandre.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 44 | Don Julio | AR | [don-julio.json](../src/data/profiles/don-julio.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 45 | Mayta | PE | [mayta.json](../src/data/profiles/mayta.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 46 | El Chato | CO | [el-chato.json](../src/data/profiles/el-chato.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 47 | Le Louis XV-Alain Ducasse à l’Hôtel de Paris | MC | [le-louis-xv-alain-ducasse-a-lhotel-de-paris.json](../src/data/profiles/le-louis-xv-alain-ducasse-a-lhotel-de-paris.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 48 | Ikoyi | GB | [ikoyi.json](../src/data/profiles/ikoyi.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 49 | Naar | IN | [naar.json](../src/data/profiles/naar.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 50 | Saint Peter | AU | [saint-peter.json](../src/data/profiles/saint-peter.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 51 | Uliassi | IT | [uliassi.json](../src/data/profiles/uliassi.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 52 | La Cime | JP | [la-cime.json](../src/data/profiles/la-cime.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 53 | Ling Long | CN | [ling-long.json](../src/data/profiles/ling-long.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 54 | Nelita | BR | [nelita.json](../src/data/profiles/nelita.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 55 | Alcalde | MX | [alcalde.json](../src/data/profiles/alcalde.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 56 | Sazenka | JP | [sazenka.json](../src/data/profiles/sazenka.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 57 | Koan | DK | [koan.json](../src/data/profiles/koan.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 58 | Frantzén | SE | [frantzen.json](../src/data/profiles/frantzen.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 59 | Narisawa | JP | [narisawa.json](../src/data/profiles/narisawa.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 60 | Hiša Franko | SI | [hisa-franko.json](../src/data/profiles/hisa-franko.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 61 | Florilège | JP | [florilege.json](../src/data/profiles/florilege.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 62 | Fu He Hui | CN | [fu-he-hui.json](../src/data/profiles/fu-he-hui.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 63 | The Jane | BE | [the-jane.json](../src/data/profiles/the-jane.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 64 | Seroja | SG | [seroja.json](../src/data/profiles/seroja.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 65 | Fyn | ZA | [fyn.json](../src/data/profiles/fyn.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 66 | Willem Hiele | BE | [willem-hiele.json](../src/data/profiles/willem-hiele.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 67 | Arpège | FR | [arpege.json](../src/data/profiles/arpege.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 68 | Evvai | BR | [evvai.json](../src/data/profiles/evvai.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 69 | Cocina Hermanos Torres | ES | [cocina-hermanos-torres.json](../src/data/profiles/cocina-hermanos-torres.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 70 | Kol | GB | [kol.json](../src/data/profiles/kol.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 71 | Salsify at the Roundhouse | ZA | [salsify-at-the-roundhouse.json](../src/data/profiles/salsify-at-the-roundhouse.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 72 | Eatanic Garden | KR | [eatanic-garden.json](../src/data/profiles/eatanic-garden.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 73 | Chef Tam’s Seasons | CN | [chef-tams-seasons.json](../src/data/profiles/chef-tams-seasons.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 74 | Le Du | TH | [le-du.json](../src/data/profiles/le-du.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 75 | Belcanto | PT | [belcanto.json](../src/data/profiles/belcanto.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 76 | Nobelhart & Schmutzig | DE | [nobelhart-e-schmutzig.json](../src/data/profiles/nobelhart-e-schmutzig.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 77 | Caprice | CN | [caprice.json](../src/data/profiles/caprice.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 78 | Mosu | KR | [mosu.json](../src/data/profiles/mosu.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 79 | Huniik | MX | [huniik.json](../src/data/profiles/huniik.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 80 | Txispa | ES | [txispa.json](../src/data/profiles/txispa.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 81 | Septime | FR | [septime.json](../src/data/profiles/septime.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 82 | Coda | DE | [coda.json](../src/data/profiles/coda.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 83 | The Ledbury | GB | [the-ledbury.json](../src/data/profiles/the-ledbury.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 84 | Le Doyenné | FR | [le-doyenne.json](../src/data/profiles/le-doyenne.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 85 | Tim Raue | DE | [tim-raue.json](../src/data/profiles/tim-raue.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 86 | Eliane | BE | [eliane.json](../src/data/profiles/eliane.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 87 | Arca | MX | [arca.json](../src/data/profiles/arca.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 88 | FZN | AE | [fzn.json](../src/data/profiles/fzn.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 89 | Burnt Ends | SG | [burnt-ends.json](../src/data/profiles/burnt-ends.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 90 | Baan Tepa | TH | [baan-tepa.json](../src/data/profiles/baan-tepa.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 91 | Den | JP | [den.json](../src/data/profiles/den.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 92 | Lamdre | CN | [lamdre.json](../src/data/profiles/lamdre.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 93 | SingleThread | US | [singlethread.json](../src/data/profiles/singlethread.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 94 | Neolokal | TR | [neolokal.json](../src/data/profiles/neolokal.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 95 | Mil | PE | [mil.json](../src/data/profiles/mil.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 96 | Rosetta | MX | [rosetta.json](../src/data/profiles/rosetta.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 97 | Khufu’s | EG | [khufus.json](../src/data/profiles/khufus.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 98 | Labyrinth | SG | [labyrinth.json](../src/data/profiles/labyrinth.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 99 | Fauna | MX | [fauna.json](../src/data/profiles/fauna.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+| 100 | Aponiente | ES | [aponiente.json](../src/data/profiles/aponiente.json) | Estrutura/rota conferidas; fatos/direitos pendentes |

@@ -1,0 +1,23 @@
+{
+  "baseCommit": "9efc8eb0b4149a653c01e6a6541cca62081f9c97",
+  "structuralObservedAt": "2026-11-09T20:53:25.509Z",
+  "localUiChange": "src/components/ui.jsx: Header permite quebra e altura natural abaixo de sm; unica alteracao de codigo",
+  "sourceState": "dados da base; ensaios locais finais incluem alteracao nao commitada de Header; Lighthouse/publico medem base publicada",
+  "screenshotsForPublication": [
+    "header-320-before.png",
+    "header-320-after.png",
+    "header-375-before.png",
+    "header-375-after.png",
+    "lista-320-dark.png",
+    "lista-1440-light.png"
+  ],
+  "executedBy": "Codex",
+  "reviewStatus": "Revisao independente tecnica por agente concluida; sem achados importantes. Evidencia dos filtros ampliada; revisao factual e de direitos continua pendente.",
+  "scopeLimits": [
+    "sem revisao factual integral",
+    "sem comprovacao de direitos/sujeitos",
+    "sem teste de todos os recursos de imagem",
+    "sem Firefox/Safari",
+    "sem INP de campo"
+  ]
+}

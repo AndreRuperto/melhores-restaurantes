@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "scrollWidth": 383,
+      "outside": [
+        {
+          "label": "Como funciona",
+          "rect": {
+            "x": 232.28125,
+            "y": 23.75,
+            "width": 107.1875,
+            "height": 16.5,
+            "top": 23.75,
+            "right": 339.46875,
+            "bottom": 40.25,
+            "left": 232.28125
+          }
+        },
+        {
+          "label": "Mudar para o tema escuro",
+          "rect": {
+            "x": 351.46875,
+            "y": 16,
+            "width": 32,
+            "height": 32,
+            "top": 16,
+            "right": 383.46875,
+            "bottom": 48,
+            "left": 351.46875
+          }
+        }
+      ],
+      "pass": false
+    },
+    {
+      "width": 375,
+      "scrollWidth": 383,
+      "outside": [
+        {
+          "label": "Mudar para o tema escuro",
+          "rect": {
+            "x": 351.46875,
+            "y": 16,
+            "width": 32,
+            "height": 32,
+            "top": 16,
+            "right": 383.46875,
+            "bottom": 48,
+            "left": 351.46875
+          }
+        }
+      ],
+      "pass": false
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "outside": [],
+      "pass": true
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "outside": [],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "outside": [],
+      "pass": true
+    }
+  ]
+}
