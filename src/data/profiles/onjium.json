@@ -1,41 +1,113 @@
 {
-  "lede": "O Onjium, em Seul, funciona como restaurante e espaço de estudo da história alimentar coreana.",
+  "lede": "Diante dos muros do palácio Gyeongbokgung, em Seul, o Onjium transforma a investigação da culinária histórica coreana em uma refeição atual. Os chefs Cho Eun-hee e Park Sung-bae trabalham com receitas da corte Joseon, tradições regionais e ingredientes de cada estação — a cozinha como forma de preservar patrimônio.",
   "history": [
-    "Ligado a um instituto de preservação cultural, o Food Studio pesquisa receitas, técnicas de fermentação e repertórios das cozinhas regionais e da corte de Joseon.",
-    "O Onjium integra um instituto de preservação cultural e funciona no quarto andar de sua sede, diante do palácio Gyeongbokgung. O Food Studio pesquisa textos históricos e técnicas de fermentação."
+    "O Onjium nasceu do trabalho de uma instituição dedicada à preservação da cultura coreana, que estuda alimentação, vestuário e espaços tradicionais. O instituto reúne oficinas e projetos de pesquisa em diferentes áreas; o Food Studio é a face culinária dessa missão, transformando documentos e técnicas antigas em uma experiência à mesa.",
+    "O restaurante começou a receber clientes em 2018, no quarto andar do edifício em Hyoja-ro 49, bem em frente à área do palácio Gyeongbokgung. A arquitetura contemporânea da casa contrasta com receitas que recuam à dinastia Joseon e a cozinhas regionais. Os visitantes podem observar a equipe a partir de assentos próximos à cozinha aberta.",
+    "Cho Eun-hee, especialista formada nas técnicas da cozinha palaciana, e Park Sung-bae conduzem pesquisas sobre o preparo e a conservação de alimentos. A equipe adapta receitas históricas à sazonalidade, ao serviço contemporâneo e às preferências de um público que não precisa conhecer a fundo a história coreana para compreender os sabores.",
+    "A casa foi reconhecida pelo Guia Michelin e ampliou sua projeção internacional. Em 2026 apareceu em 14º no Asia's 50 Best Restaurants e estreou no ranking mundial em 41º. O resultado coloca em evidência uma proposta que trata a alimentação como memória cultural, não como uma simples reprodução de banquetes antigos."
   ],
   "cuisine": {
-    "style": "Cozinha histórica coreana reinterpretada",
+    "style": "Cozinha coreana histórica e sazonal",
     "paragraphs": [
-      "A equipe de Cho Eun-hee e Park Sung-bae recria técnicas e ingredientes documentados no passado para compor refeições contemporâneas.",
-      "As refeições combinam receitas da corte da dinastia Joseon, tradições regionais, ingredientes de estação e pesquisa sobre o passado alimentar coreano."
+      "Os menus são construídos a partir de pesquisa de textos culinários, receitas transmitidas entre gerações e práticas do período Joseon. O resultado pode combinar apresentações delicadas, acompanhamentos em pequenas porções e técnicas de conserva que há séculos fazem parte da mesa coreana.",
+      "Doenjang (pasta fermentada de soja), ganjang (molho de soja) e gochujang (pasta de pimenta) têm papel importante no repertório da cozinha e são fermentados ou maturados pelo projeto. A pesquisa também dialoga com a cozinha de templos budistas e o uso de vegetais e plantas de cada estação.",
+      "Exemplos tradicionais documentados em material de divulgação do Onjium incluem tangpyeongchae, salada de gelatina de feijão-mungo com vegetais, e galbi-jjim ao estilo de Jinju. Esses nomes descrevem o repertório estudado pela casa; não devem ser confundidos com a composição confirmada de um menu vigente, que muda conforme a época."
     ]
   },
   "chef": {
     "name": "Cho Eun-hee e Park Sung-bae",
-    "bio": "Cho Eun-hee e Park Sung-bae conduzem uma equipe que pesquisa receitas históricas e adapta métodos tradicionais para uma experiência contemporânea."
+    "bio": "Cho Eun-hee é pesquisadora e especialista em cozinha da corte da dinastia Joseon, tema que ensinou durante anos. Ao lado de Park Sung-bae e de uma equipe mais jovem, traduz o estudo do patrimônio gastronômico coreano em menus que procuram equilibrar autenticidade, sazonalidade e técnica contemporânea."
   },
   "dishes": [
     {
-      "name": "Menu inspirado na cozinha da corte Joseon",
-      "desc": "Seleção de pratos de época reinterpretados a partir de pesquisa histórica.",
+      "name": "Tangpyeongchae",
+      "desc": "Salada tradicional coreana de tiras de gelatina de feijão-mungo e vegetais; exemplo de receita histórica associada à pesquisa da equipe, sem confirmação no cardápio atual.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean.cuisine-Banchan-04.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Banchan-04.jpg",
+        "author": "ayustety",
+        "license": "CC BY-SA 2.0",
+        "caption": "Tangpyeongchae tradicional fotografado fora do Onjium; imagem ilustrativa da receita pesquisada.",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Galbi-jjim de Jinju",
+      "desc": "Costelas bovinas cozidas lentamente, especialidade regional citada no repertório histórico do Onjium; não se afirma que esteja disponível no menu atual.",
+      "photo": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_braised_beef_short_ribs-Galbijjim.jpg?width=960",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_braised_beef_short_ribs-Galbijjim.jpg",
+        "author": "Junho Jung",
+        "license": "CC BY-SA 3.0",
+        "caption": "Galbi-jjim coreano fotografado em outro restaurante, em 2009; imagem ilustrativa, não é prato do Onjium.",
+        "illustrative": true
+      }
+    },
+    {
+      "name": "Fermentados da tradição coreana",
+      "desc": "Preparações que valorizam pastas e molhos fermentados como doenjang e ganjang. A composição precisa muda conforme a estação.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2019,
+      "title": "Primeiros reconhecimentos Michelin após a abertura do restaurante (1 estrela, segundo material turístico coreano)"
+    },
+    {
+      "year": 2025,
+      "title": "Uma estrela Michelin — Guia Michelin Seul"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 41º lugar no ranking mundial"
+      "title": "Asia's 50 Best Restaurants — nº 14"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 41, estreia no ranking mundial"
     }
   ],
   "practical": {
-    "address": "49 Hyoja-ro, 4º andar, Jongno-gu, Seul, Coreia do Sul"
+    "address": "4º andar, 49 Hyoja-ro, Jongno-gu, Seul 03043, Coreia do Sul",
+    "website": "https://onjium.org/",
+    "price": "Menu degustação sazonal; preço atualizado não confirmado em fonte oficial aberta. Confirmar com o restaurante.",
+    "reservation": "Reservas geridas diretamente pelo restaurante. Contato: +82 2-6952-0024. Segundo o Guia Michelin, almoço e jantar de terça a sexta-feira; fechado sábado, domingo e segunda. Disponibilidade não verificada em tempo real."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/onjium.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/onjium.html",
+    "https://www.the50.com/discovery/Establishments/South-Korea/Seoul/Onjium.html",
+    "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/onjium",
+    "https://onjium.org/",
+    "https://english.visitseoul.net/partners-en/luxurytour/Onjium-/ENN039472",
+    "https://www.tatlerasia.com/dining/onjium?listId=281",
+    "https://commons.wikimedia.org/wiki/File:Gwanghwamun_seoul.jpg",
+    "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Banchan-04.jpg",
+    "https://commons.wikimedia.org/wiki/File:Korean_braised_beef_short_ribs-Galbijjim.jpg"
   ],
   "slug": "onjium",
-  "rank": 41
+  "rank": 41,
+  "founded": 2018,
+  "founders": [
+    "Instituto Onjium",
+    "Cho Eun-hee",
+    "Park Sung-bae"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gwanghwamun_seoul.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_seoul.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "caption": "Gwanghwamun, entrada do complexo de Gyeongbokgung em Seul, fotografada em 2024. Imagem do entorno histórico; não mostra o Onjium.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Tatler Asia",
+    "url": "https://www.tatlerasia.com/dining/onjium?listId=281",
+    "note": "Galeria com fotos reais do interior, dos pratos, da equipe e do exterior do Onjium. Os direitos dessas fotografias não autorizam republicação automática."
+  }
 }
