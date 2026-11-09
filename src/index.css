@@ -212,3 +212,22 @@ body {
     scroll-behavior: auto;
   }
 }
+
+/* Barra de rolagem dos menus: respeita os temas claro e escuro. */
+.filter-dropdown-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--c-muted) transparent;
+}
+.filter-dropdown-scroll::-webkit-scrollbar {
+  width: 7px;
+}
+.filter-dropdown-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.filter-dropdown-scroll::-webkit-scrollbar-thumb {
+  background: var(--c-muted);
+  border-radius: 8px;
+}
+.filter-dropdown-scroll::-webkit-scrollbar-thumb:hover {
+  background: var(--c-wine);
+}
