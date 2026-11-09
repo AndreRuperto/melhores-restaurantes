@@ -1,46 +1,126 @@
 {
-  "lede": "O Seroja, em Singapura, pesquisa as cozinhas do arquipélago malaio e os ingredientes da região.",
+  "lede": "No DUO Galleria, em Singapura, o Seroja de Kevin Wong pesquisa as cozinhas e os produtos do arquipélago malaio. O pequeno restaurante, aberto em 2022, combina especiarias, técnicas de fogo e ingredientes de produtores da região numa experiência contemporânea de raízes culturais bem definidas.",
   "history": [
-    "Kevin Wong estruturou um menu que percorre referências gastronômicas de diferentes comunidades do Sudeste Asiático.",
-    "Kevin Wong abriu o Seroja em 2022 no Duo Galleria, em Singapura. A casa de cerca de vinte e quatro lugares toma como referência os diferentes territórios do arquipélago malaio."
+    "Kevin Wong cresceu em Port Klang, na Malásia, em uma família ligada à rua Jalan Seroja. Escolheu o nome do restaurante por sua relação com a flor de lótus, símbolo compartilhado por muitas comunidades do arquipélago, e pela lembrança do endereço familiar.",
+    "Depois de trabalhar em cozinhas na França, nos Estados Unidos e em Singapura, incluindo o restaurante Meta, Wong abriu o Seroja em 2022, no DUO Galleria, no bairro de Bugis. O espaço foi planejado com cozinha aberta, balcão de aproximadamente 13 lugares e mesas para pequenos grupos, totalizando cerca de 24 assentos.",
+    "A pesquisa da casa acompanha plantas, pescados, especiarias, preparos domésticos e tradições de diferentes comunidades do Sudeste Asiático. O chef atua com Andrew Ou, colega de longa data e responsável pela cozinha, enquanto a equipe cria uma experiência em que o trabalho dos agricultores e pescadores é apresentado como parte da narrativa.",
+    "Em 2023, o Seroja recebeu uma estrela Michelin, uma Estrela Verde e o Young Chef Award para Kevin Wong. Em 2026, conquistou a segunda estrela Michelin e manteve a Estrela Verde. No mesmo ano, ficou em 20º na Ásia e 64º na lista mundial estendida The 50 Best."
   ],
   "cuisine": {
-    "style": "Cozinha do arquipélago malaio contemporânea",
+    "style": "Cozinha malaia contemporânea do arquipélago, com ingredientes de origem",
     "paragraphs": [
-      "Produtos do mar, especiarias e técnicas tradicionais são apresentados em menus de degustação.",
-      "Receitas como cordeiro percik, grelhado com molho de coco e tamarindo, e roti paung com manteiga tradicional são reinterpretadas em menus de almoço e jantar."
+      "A cozinha apresenta tradições da Malásia, de Singapura e de outras ilhas do arquipélago por meio de menus de degustação. O uso de folhas de laksa, coco, tamarindo, especiarias e técnicas de grelha em madeira conversa com frutos do mar de origem rastreável e produtos cultivados localmente.",
+      "A carta oficial de novembro de 2026 distingue o Kuntum Menu, servido no almoço, e o Nusantara Menu, no jantar. Entre as preparações descritas estão camarão marinado em molho asam pedas, roti paung com manteiga johoriana, vieira grelhada sobre madeira de mangue, peixe pomfret com abalone e cordeiro ou pato percik.",
+      "O restaurante valoriza aproveitamento de ingredientes e criatividade em acompanhamentos não alcoólicos. Conforme sua política oficial, pratos com frutos do mar, coco, soja, alho, glúten e especiarias são centrais: a equipe não consegue atender a todas as restrições alimentares e pede informação antecipada."
     ]
   },
   "chef": {
-    "name": "Kevin Wong",
-    "bio": "Natural de Port Klang, na Malásia, Kevin Wong usa o Seroja para pesquisar sabores e técnicas do arquipélago malaio."
+    "name": "Kevin Wong (chef e fundador) · Andrew Ou (chef de cozinha)",
+    "bio": "Kevin Wong nasceu na Malásia e trabalhou em restaurantes de referência da França, da Califórnia e de Singapura antes de abrir o Seroja em 2022. Recebeu o Michelin Young Chef Award em 2023 e lidera uma proposta que valoriza os produtores e as culturas do arquipélago malaio. Andrew Ou, seu colega desde a escola de cozinha, atua como chef de cozinha."
   },
   "awards": [
     {
+      "year": 2023,
+      "title": "Primeira estrela Michelin, Estrela Verde Michelin e Young Chef Award para Kevin Wong"
+    },
+    {
+      "year": 2024,
+      "title": "Asia's 50 Best Restaurants — nº 31 e Highest New Entry"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 40"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 64º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin e Estrela Verde mantida — Guia Michelin Singapura"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 20"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 64 (ranking mundial estendido)"
     }
   ],
   "sources": [
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
-    "https://seroja.sg/reservations"
+    "https://seroja.sg/reservations",
+    "https://seroja.sg/story",
+    "https://seroja.sg/people",
+    "https://seroja.sg/menu",
+    "https://seroja.sg/information",
+    "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/seroja",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/seroja.html",
+    "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
+    "https://commons.wikimedia.org/wiki/File:Night_view_of_DUO_Singapore_from_junction_of_North_Bridge_Road_and_Arab_Street_20170831.jpg"
   ],
   "slug": "seroja",
   "rank": 64,
   "dishes": [
     {
-      "name": "Cordeiro percik",
-      "desc": "Carne grelhada com molho de coco e tamarindo, interpretação de preparação malaia.",
+      "name": "Roti paung com manteiga johoriana",
+      "desc": "Pão macio servido com manteiga de referência à tradição de Johor, em destaque nos menus de almoço e jantar.",
       "photo": null
     },
     {
-      "name": "Roti paung com manteiga johoriana",
-      "desc": "Pão macio tradicional do arquipélago malaio.",
+      "name": "Camarão marinado com asam pedas",
+      "desc": "Camarão fresco com molho picante e ácido, registrado na carta oficial de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Vieira grelhada em madeira de mangue",
+      "desc": "Vieira com molho de folha de laksa, preparação do Kuntum Menu.",
+      "photo": null
+    },
+    {
+      "name": "Peixe pomfret com abalone",
+      "desc": "Peixe com abalone e molho feito de ossos de peixe assados, presente nas degustações.",
+      "photo": null
+    },
+    {
+      "name": "Percik de cordeiro ou pato",
+      "desc": "Interpretações de carne em molho aromático, com arroz crocante ou molho rawon, conforme o menu e a estação.",
+      "photo": null
+    },
+    {
+      "name": "Sorbet de manjericão silvestre",
+      "desc": "Sobremesa ou passagem refrescante com kedondong e óleo de folha de bananeira, listada no menu oficial.",
       "photo": null
     }
   ],
   "practical": {
-    "website": "https://seroja.sg",
-    "reservation": "Reservas online pelo site oficial, abertas com 60 dias de antecedência. A casa pede aviso sobre restrições alimentares na reserva."
+    "address": "Duo Galleria, unidades #01-30/31/32/33, 7 Fraser Street, Singapura 189356",
+    "website": "https://seroja.sg/",
+    "reservationUrl": "https://seroja.sg/reservations",
+    "reservation": "Reservas pelo botão do site oficial, com agenda aberta 60 dias antes. Jantar de terça a sábado, das 18h às 23h; almoço sexta e sábado, das 12h às 14h30. A casa pede confirmação de restrições alimentares e cartão de garantia; cancelamentos com menos de 72 horas podem gerar cobrança. Telefone +65 8522 2926.",
+    "price": "Kuntum (almoço) SGD 218++ e Nusantara (jantar) SGD 288++ por pessoa, segundo o menu oficial de novembro de 2026. O sinal ++ indica impostos e serviço adicionais."
+  },
+  "founded": 2022,
+  "founders": [
+    "Kevin Wong"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Night_view_of_DUO_Singapore_from_junction_of_North_Bridge_Road_and_Arab_Street_20170831.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Night_view_of_DUO_Singapore_from_junction_of_North_Bridge_Road_and_Arab_Street_20170831.jpg",
+    "author": "Xixian Wang",
+    "license": "CC BY 3.0",
+    "caption": "Vista noturna do complexo DUO em Singapura, em 2017, onde o Seroja viria a abrir em 2022. Fotografia do empreendimento, NÃO da entrada ou do interior do restaurante.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Seroja — galeria e site oficial",
+    "url": "https://seroja.sg/",
+    "note": "Fotografias reais do restaurante, da equipe e dos pratos estão no site oficial; sem licença de cópia verificada. A imagem de capa do A Carta apresenta o edifício DUO, anterior à abertura do Seroja, não seu salão.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Seroja",
+        "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/seroja",
+        "note": "Fotos e informações do restaurante atual."
+      }
+    ]
   }
 }
