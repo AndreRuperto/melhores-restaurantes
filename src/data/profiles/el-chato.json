@@ -1,42 +1,124 @@
 {
-  "lede": "Em Bogotá, o El Chato trabalha ingredientes colombianos com técnicas que o chef Álvaro Clavijo desenvolveu em cozinhas internacionais.",
+  "lede": "Em Chapinero Alto, Bogotá, Álvaro Clavijo faz do El Chato um laboratório de cozinha colombiana contemporânea. Produtores de diferentes regiões fornecem raízes, ervas, peixes e frutas para menus que mudam constantemente; a casa foi eleita a melhor da América Latina em 2025.",
   "history": [
-    "A casa ganhou espaço na cena gastronômica do bairro Quinta Camacho e mantém relações com produtores, pescadores e coletores de diferentes regiões da Colômbia.",
-    "Álvaro Clavijo trabalhou com Joël Robuchon e Thomas Keller antes de consolidar sua proposta em Bogotá. O restaurante cresceu de uma casa de bairro para um endereço de degustação conhecido internacionalmente."
+    "Álvaro Clavijo abriu o El Chato em 2017 no bairro Chapinero Alto, em Bogotá, depois de formar-se na Escola Hofmann, em Barcelona, e no Le Cordon Bleu de Paris. Sua trajetória passou por cozinhas como Per Se, L'Atelier de Joël Robuchon e Noma. Em vez de reproduzir o estilo desses restaurantes, voltou à Colômbia decidido a explorar a variedade de ingredientes do país.",
+    "Com uma equipe pequena e recursos próprios, Clavijo criou uma casa acolhedora, com espírito de bistrô. O trabalho com agricultores, pescadores, coletores e produtores locais tornou-se o eixo do projeto. A composição dos pratos muda segundo as colheitas e a pesquisa da cozinha, não conforme uma lista fixa de especialidades.",
+    "O reconhecimento internacional começou cedo: em 2018, o El Chato entrou no Latin America's 50 Best em 21º e recebeu o prêmio de maior estreia. Na lista mundial, alcançou o 33º lugar em 2023 e o 25º em 2024. A trajetória ajudou a ampliar a visibilidade da cozinha colombiana contemporânea fora do país.",
+    "Em 2025, o El Chato foi eleito o melhor restaurante da América Latina pelo Latin America's 50 Best. Em 2026, voltou ao top 50 mundial, em 46º lugar. O restaurante mantém no site oficial as opções de menu à la carte, degustação e alternativas vegetarianas."
   ],
   "cuisine": {
-    "style": "Cozinha colombiana autoral",
+    "style": "Cozinha colombiana contemporânea, sazonal e orientada por produtores",
     "paragraphs": [
-      "Tubérculos andinos, produtos do Pacífico, frutas e ervas pouco usadas em restaurantes aparecem em composições contemporâneas.",
-      "A equipe valoriza ingredientes que muitas vezes ficam fora dos menus de alta gastronomia, como vísceras, ervas pouco usadas e frutas nativas, além de pescados do Pacífico."
+      "A ideia não é reproduzir receitas tradicionais de forma literal: técnicas aprendidas em cozinhas internacionais ajudam a mostrar novos lados de tubérculos andinos, vegetais, ervas, pescados do Pacífico e ingredientes pouco usuais. Molhos intensos, fermentações e combinações de texturas servem ao sabor dos produtos.",
+      "O restaurante oferece à la carte e degustação, com versões que mudam segundo a disponibilidade. No cardápio à la carte publicado em novembro de 2026 aparecem arepa de mandioca com molho de vegetais grelhados, pão de algas com curry, salada de cenoura com mochi e creme de cabra, truta grelhada com beldroega e outros pratos que combinam território colombiano e invenção.",
+      "Os pratos citados são referências documentadas na carta consultada, não garantias de disponibilidade na data da visita. O serviço combina a técnica de uma cozinha de pesquisa com a informalidade de um restaurante de bairro."
     ]
   },
   "chef": {
     "name": "Álvaro Clavijo",
-    "bio": "Álvaro Clavijo trabalhou em cozinhas internacionais e usa técnicas aprendidas fora do país para reinterpretar produtos colombianos."
+    "bio": "Nascido e criado na Colômbia, estudou na Escola Hofmann, em Barcelona, e no Le Cordon Bleu, em Paris. Trabalhou em cozinhas de referência internacional, incluindo Per Se, L'Atelier de Joël Robuchon e Noma. Fundou o El Chato em 2017 para construir uma gastronomia colombiana contemporânea baseada no diálogo com produtores e na biodiversidade nacional."
   },
   "dishes": [
     {
-      "name": "Preparações com tubérculos andinos",
-      "desc": "A cozinha valoriza variedades tradicionais de raízes da Colômbia.",
+      "name": "Arepa de mandioca",
+      "desc": "Arepa feita com mandioca, servida com molho de vegetais grelhados no cardápio à la carte de novembro de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Pão de algas",
+      "desc": "Massa folhada com curry de algas, combinação indicada no menu à la carte.",
+      "photo": null
+    },
+    {
+      "name": "Salada de cenoura",
+      "desc": "Cenoura com mochi, sementes de girassol e creme de queijo de cabra.",
+      "photo": null
+    },
+    {
+      "name": "Truta grelhada",
+      "desc": "Truta com beldroega, iogurte de cabra e amendoim fresco.",
+      "photo": null
+    },
+    {
+      "name": "Peixe cru com huacatay",
+      "desc": "Peixe cru acompanhado de gazpacho, pepino, pera e huacatay, conforme a carta consultada.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2018,
+      "title": "Latin America's 50 Best Restaurants — nº 21 e Highest New Entry"
+    },
+    {
+      "year": 2019,
+      "title": "Latin America's 50 Best Restaurants — nº 7"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 80 (lista estendida)"
+    },
+    {
+      "year": 2022,
+      "title": "Latin America's 50 Best Restaurants — nº 5"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants — nº 2; ranking mundial nº 33"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 3; ranking mundial nº 25"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 1, melhor da América Latina"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 54"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 46º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 46"
     }
   ],
   "practical": {
     "address": "Calle 65 #4-76, Chapinero Alto, Bogotá, Colômbia",
-    "website": "https://www.elchato.co"
+    "website": "https://www.elchato.co/",
+    "reservationUrl": "https://www.elchato.co/",
+    "reservation": "Usar o botão 'Reservar' no site oficial ou entrar em contato pelo WhatsApp/telefone +57 321 971 8676 e pelo e-mail reservas@elchato.co. Há serviço à la carte e degustação; disponibilidade deve ser confirmada na plataforma.",
+    "price": "À la carte e menu degustação. A carta publicada em 5/11/2026 informa pratos individuais a partir de COP 24.000; preços e composição podem mudar."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/el-chato.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://www.elchato.co/",
+    "https://www.elchato.co/index-en.html",
+    "https://www.the50.com/restaurants/best-in-latin-america/the-list/El-Chato.html",
+    "https://www.opentable.com/r/el-chato-bogota?lang=es",
+    "https://commons.wikimedia.org/wiki/File:2017_Bogot%C3%A1_fachada_calle_64_con_carrera_3.jpg"
   ],
   "slug": "el-chato",
-  "rank": 46
+  "rank": 46,
+  "founded": 2017,
+  "founders": [
+    "Álvaro Clavijo"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2017_Bogot%C3%A1_fachada_calle_64_con_carrera_3.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:2017_Bogot%C3%A1_fachada_calle_64_con_carrera_3.jpg",
+    "author": "Felipe Restrepo Acosta",
+    "license": "CC BY-SA 4.0",
+    "caption": "Casa na Calle 64 com Carrera 3, no bairro Chapinero, em Bogotá (2017). Imagem do entorno: NÃO é a fachada do El Chato, que fica na Calle 65 #4-76.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "El Chato — galeria oficial",
+    "url": "https://www.elchato.co/",
+    "note": "Fotografias reais de pratos, equipe e salão no site da casa; os direitos de republicação não foram identificados, então ficam apenas vinculadas à fonte original."
+  }
 }
