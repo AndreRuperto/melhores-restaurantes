@@ -1,41 +1,105 @@
 {
-  "lede": "Em Tulum, o Arca explora a cozinha mexicana com foco em fogo, produtos regionais e contrastes de sabor.",
+  "lede": "Em Tulum, o ARCA interpreta ingredientes da península de Yucatán com fogo vivo e pesquisa de fornecedores locais. Sua sala de jantar aberta para a vegetação, acompanhada de uma cozinha de brasa, oferece pratos para compartilhar e uma degustação que combina tradição regional e experimentação.",
   "history": [
-    "O restaurante desenvolveu uma identidade ligada à paisagem tropical e à cozinha aberta.",
-    "José Luis Hinostroza Buenrostro, natural de Tijuana, desenvolve uma cozinha marcada pela relação entre comida de rua mexicana e ingredientes de Yucatán."
+    "O ARCA foi desenvolvido na zona costeira de Tulum como uma experiência de jantar ao ar livre, numa área de vegetação próxima à estrada Boca Paila. A arquitetura de materiais naturais e a cozinha aberta integram a paisagem da selva à visita.",
+    "O chef e coproprietário José Luis Hinostroza cresceu na Califórnia em uma família mexicana, num ambiente agrícola. Passou pela equipe de pesquisa do Noma Mexico durante a residência temporária do restaurante em Tulum, trazendo essa experiência ao trabalho com ingredientes locais do ARCA.",
+    "A casa estabelece relações com produtores, pescadores e coletores da península de Yucatán para obter alimentos frescos. Em vez de reproduzir fielmente receitas tradicionais, a equipe usa brasa, fermentações e condimentos regionais para apresentar combinações contemporâneas.",
+    "O ARCA passou a integrar a seleção do Guia Michelin México como endereço recomendado, mas essa distinção não deve ser confundida com estrela Michelin. Em 2026, entrou na lista mundial estendida do The 50 Best Restaurants em 87º lugar."
   ],
   "cuisine": {
-    "style": "Cozinha mexicana contemporânea",
+    "style": "Mexicana contemporânea de brasa, selva e ingredientes da península de Yucatán",
     "paragraphs": [
-      "Ingredientes de Yucatán, pimentas, marinadas e técnicas na brasa compõem o menu.",
-      "O menu pode incluir tutano assado no fogo com salsa de pimenta serrano e tlayuda de wagyu mexicano com carnitas de rabada."
+      "A cozinha procura dar destaque ao fogo e a ingredientes de produtores regionais. Chiles, recado negro, milho nativo, cactos, frutos do mar, vegetais da selva e frutas tropicais aparecem em preparações de sabores concentrados.",
+      "O cardápio oficial consultado em novembro de 2026 apresenta pratos à la carte para compartilhar e um menu de doze etapas. Entre as criações listadas estão polvo-maia na brasa com recado negro, tutano com tamarindo e pimenta pasilla e robalo curado com mole verde.",
+      "As preparações são atualizadas conforme a temporada e a disponibilidade. O Guia Michelin também registrou em outro momento polvo com salsa de chile xcatic, lentilhas, rabanete em conserva e epazote, além de sobremesa de mamey com caramelo."
     ]
   },
   "chef": {
     "name": "José Luis Hinostroza",
-    "bio": "José Luis Hinostroza Buenrostro dirige o Arca em Tulum e trabalha referências mexicanas em preparações com técnicas modernas."
+    "bio": "Chef e coproprietário do ARCA, José Luis Hinostroza cresceu no sul da Califórnia em família mexicana, em contato com o universo agrícola. Participou da equipe de pesquisa e desenvolvimento do Noma Mexico em Tulum e construiu uma cozinha orientada por produtos da península de Yucatán e técnicas de fogo vivo."
   },
   "awards": [
     {
+      "year": 2025,
+      "title": "Presença na seleção do Guia Michelin México — categoria recomendada, sem estrela"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 87º lugar no ranking mundial"
+      "title": "Reconhecimento na seleção do Guia Michelin México, sem atribuição de estrela"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 87, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://arcatulum.com/",
+    "https://arcatulum.com/menu",
+    "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/arca-1208263",
+    "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg"
   ],
   "slug": "arca",
   "rank": 87,
   "dishes": [
     {
-      "name": "Tutano assado com salsa serrano",
-      "desc": "Servido com pão de fermentação natural grelhado e glacê de pimenta pasilla.",
+      "name": "Polvo-maia ao recado negro",
+      "desc": "Terrine de polvo na brasa com recado negro, salsa de amendoim e tostada de queijo, segundo cardápio de 2026.",
       "photo": null
     },
     {
-      "name": "Tlayuda de wagyu mexicano",
-      "desc": "Preparação com carne grelhada e carnitas de rabada.",
+      "name": "Tutano ao fogo",
+      "desc": "Tutano preparado em forno de lenha com glacê de tamarindo e pasilla, pão grelhado e salsa serrano.",
+      "photo": null
+    },
+    {
+      "name": "Tlayuda de cogumelos",
+      "desc": "Preparação à la carte com cogumelos grelhados, mole de huitlacoche e sementes de gergelim.",
+      "photo": null
+    },
+    {
+      "name": "Robalo com mole verde",
+      "desc": "Peixe curado em kombu com crocante de pele, jícama, manjericão local e mole verde.",
+      "photo": null
+    },
+    {
+      "name": "Javali pibil",
+      "desc": "Preparação de caça com técnica pibil, tlacoyo e nopal curado, no percurso degustação publicado.",
+      "photo": null
+    },
+    {
+      "name": "Sorbet de huitlacoche e milho",
+      "desc": "Sobremesa do menu 2026 que combina milho pibinal, sorbet de huitlacoche e espuma de milho grelhado.",
       "photo": null
     }
-  ]
+  ],
+  "practical": {
+    "website": "https://arcatulum.com/",
+    "address": "Carretera Tulum–Boca Paila, km 7,6, Tulum Beach, Quintana Roo 77780, México",
+    "reservationUrl": "https://arcatulum.com/",
+    "reservation": "Reservas pelo botão 'Reservations' do site oficial ou informações pelo telefone +52 984 177 2231. Atendimento todos os dias a partir de 17h30, sujeito à agenda. Menu degustação recomendado com 24 horas de antecedência e aplicado à mesa inteira, com limite indicado de quatro pessoas no cardápio consultado. Disponibilidade não conferida em tempo real.",
+    "price": "Degustação de 12 etapas: MXN 4.500 por pessoa na carta oficial consultada em novembro de 2026. Há opções à la carte com preços individuais sujeitos a alteração."
+  },
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante%20ARCA.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg",
+    "author": "Paul Keller (arquivo publicado no Flickr; metadados fotográficos identificam Sara Kolster)",
+    "license": "CC BY 2.0",
+    "caption": "Fotografia real do espaço aberto do ARCA, junto à selva de Tulum, feita em março de 2017. Registro histórico: disposição e decoração podem ter mudado.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Wikimedia Commons — ARCA Tulum",
+    "url": "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg",
+    "note": "Uma fotografia real de 2017 do restaurante, reutilizável sob CC BY 2.0, aparece como capa com crédito. Fotos mais recentes do ambiente e dos pratos podem ser vistas no site oficial; sem licença aberta confirmada para republicação.",
+    "additionalSources": [
+      {
+        "publisher": "ARCA Tulum — galeria oficial",
+        "url": "https://arcatulum.com/",
+        "note": "Fotografias recentes do espaço, da equipe e de pratos, disponíveis na publicação original."
+      }
+    ]
+  }
 }
