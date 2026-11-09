@@ -9,6 +9,17 @@ Data: 8 de novembro de 2026
 - Destes 24, **12** fontes foram classificadas como imagens de fachada ou entrada; as demais **12** como imagens dos ambientes ou da arquitetura — não como fachada confirmada.
 - O componente `Facade` apresenta esses links em uma caixa editorial, respeitando o estilo das páginas individuais. Nos casos com foto licenciada, segue mostrando a foto de fachada como antes.
 
+## Continuação do lote: fotos em destaque e créditos no rodapé (08/11/2026)
+
+- A seção **Créditos fotográficos** agora aparece no fim de cada página individual e reúne fonte, autoria e licença das fotos de capa, galeria, fachada e pratos, além do site responsável por referência externa.
+- **Gaggan (2º):** a foto já licenciada da fachada de 2015 foi destacada na seção **A primeira sede**, com aviso de que não é a casa atual.
+- **Kadeau (8º):** a foto já licenciada da unidade de Bornholm ganhou destaque, com aviso de que a posição do ranking corresponde a Copenhague.
+- **Meet the Bund (21º):** a foto licenciada do edifício da Fundação Fosun foi destacada, sem tratá-la como entrada comprovada do restaurante.
+- Essas três imagens foram **realocadas da galeria**, sem duplicá-las nem criar novas licenças. Portanto, **não alteram a contagem de 16/40 fachadas/edifícios previamente cadastrados**.
+- O validador passou a incluir o campo `facade`, a checar URL e editor das referências externas, e a exigir atribuição e explicação quando uma foto licenciada da galeria é destacada.
+- **Ainda faltam** fotos externas atuais e reutilizáveis nos 24 perfis anteriores. Mencionar a fonte abaixo da página não concede automaticamente licença de cópia ou incorporação.
+- Não houve execução local de `npm run check:profiles` ou `npm run build` nesta sessão por indisponibilidade de acesso ao repositório pela rede do ambiente de testes. Os commits foram feitos diretamente na `main`; verificar o build do deploy no Railway.
+
 ## Inventário das fontes
 
 | Posição | Restaurante | Tipo | Publicação | Link |
