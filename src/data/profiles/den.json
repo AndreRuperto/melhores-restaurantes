@@ -1,41 +1,106 @@
 {
-  "lede": "O Den, em Tóquio, combina tradição japonesa com humor e acolhimento.",
+  "lede": "No bairro de Jingumae, em Tóquio, o Den transforma a tradição japonesa do kaiseki em uma experiência criativa e descontraída. O chef Zaiyu Hasegawa usa produtos sazonais, apresentações bem-humoradas e uma hospitalidade atenta a cada convidado, sem perder o respeito às técnicas clássicas.",
   "history": [
-    "Zaiyu Hasegawa desenvolveu uma versão lúdica da refeição kaiseki, sem perder o foco nos ingredientes sazonais.",
-    "Zaiyu Hasegawa reinventou a formalidade do kaiseki, trazendo humor ao serviço sem abandonar a atenção aos ingredientes e às estações."
+    "Zaiyu Hasegawa nasceu e cresceu em Tóquio e se aproximou cedo da gastronomia por meio de refeições que sua mãe trazia de restaurantes tradicionais japoneses. Após a escola, passou cerca de cinco anos aprendendo técnicas da cozinha japonesa em Kagurazaka, antes de desenvolver uma linguagem própria.",
+    "Em 2007, abriu o Den na região de Jimbochō, inicialmente numa estrutura menor. A proposta combinava o rigor de caldos, cortes, cozimentos sazonais e ingredientes do kaiseki com uma hospitalidade que não exigisse a solenidade habitual de parte da alta cozinha japonesa.",
+    "Em 2016, mudou a casa para Jingumae, em um salão com cozinha aberta, permitindo que a equipe tivesse contato mais próximo com os visitantes. Hasegawa e sua equipe passaram a tratar pequenos gestos, humor e atenção personalizada como componentes fundamentais da refeição.",
+    "Den conquistou a primeira estrela Michelin no início da década de 2010, posteriormente alcançou duas estrelas, ganhou o One To Watch do The World's 50 Best em 2016 e foi eleito o melhor restaurante da Ásia em 2022. Na lista mundial estendida de 2026, figura em 91º lugar."
   ],
   "cuisine": {
-    "style": "Kaiseki japonês contemporâneo",
+    "style": "Kaiseki japonês contemporâneo, afetivo e bem-humorado",
     "paragraphs": [
-      "Pratos tradicionais são reinterpretados em apresentações informais e surpreendentes.",
-      "Entre os clássicos estão frango recheado com cogumelos em embalagem que parodia comida rápida e sanduíches de wafer com foie gras."
+      "A cozinha acompanha as estações japonesas e valoriza pescados, vegetais cultivados com respeito ao ambiente e ingredientes escolhidos conforme sua disponibilidade. O chef procura apresentar receitas de sabor reconhecível com pequenos elementos inesperados na forma ou no serviço.",
+      "Entre as assinaturas está o Dentucky Fried Chicken, asa de frango recheada com arroz glutinoso temperado e servida numa embalagem que brinca com os restaurantes de comida rápida. O monaka, bolacha crocante recheada com foie gras, missô e complementos sazonais, também figura no início de muitas experiências.",
+      "A salada Hatake no Yosu, cujo nome remete à paisagem da horta, apresenta verduras e legumes preparados individualmente, relacionando cada componente aos produtores da casa. O percurso é omakase e varia a cada visita: ingredientes e composição dos pratos podem ser substituídos pela cozinha."
     ]
   },
   "chef": {
     "name": "Zaiyu Hasegawa",
-    "bio": "Zaiyu Hasegawa é chef e proprietário do Den, conhecido pela interpretação bem-humorada da tradição japonesa."
+    "bio": "Zaiyu Hasegawa é o fundador e chef do Den, aberto em Tóquio em 2007. Trabalhou na cozinha tradicional japonesa de Kagurazaka antes de construir uma versão pessoal do kaiseki que combina sazonalidade e humor. Liderou a mudança do restaurante para Jingumae em 2016 e recebeu o reconhecimento de melhor restaurante da Ásia em 2022."
   },
   "dishes": [
     {
       "name": "Dentucky Fried Chicken",
-      "desc": "Frango recheado com cogumelos, apresentado em uma caixa que brinca com o fast-food.",
+      "desc": "Asa de frango frita recheada com arroz glutinoso temperado e servida em embalagem própria, assinatura bem-humorada do restaurante.",
       "photo": null
     },
     {
-      "name": "Wafer com foie gras",
-      "desc": "Sanduíche doce-salgado mencionado entre os pratos clássicos da casa.",
+      "name": "Monaka de foie gras e missô",
+      "desc": "Biscoito tradicional japonês crocante recheado com foie gras, missô e frutas ou conservas sazonais; composição variável.",
+      "photo": null
+    },
+    {
+      "name": "Hatake no Yosu",
+      "desc": "Salada de vegetais de diferentes produtores, preparados separadamente para representar uma paisagem de horta.",
+      "photo": null
+    },
+    {
+      "name": "Peixe sazonal escolhido segundo a pesca",
+      "desc": "Preparações de pescados sem restringir previamente a espécie, para reduzir a pressão sobre determinadas áreas de pesca.",
+      "photo": null
+    },
+    {
+      "name": "Arroz de estação com acompanhamentos",
+      "desc": "Passagem de arroz japonês com condimentos e produtos da temporada; repertório variável do kaiseki da casa.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2011,
+      "title": "Primeira estrela Michelin — reconhecimento inicial do Den no Guia Tóquio"
+    },
+    {
+      "year": 2016,
+      "title": "One To Watch Award — The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 11"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants — nº 1, melhor da Ásia e do Japão"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 91º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 91 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.jimbochoden.com/en/",
+    "https://guide.michelin.com/hk/en/tokyo-region/tokyo/restaurant/den",
+    "https://tokyotokyo-delicious-museum.jp/portal/2023/english/dan.html",
+    "https://www.theworlds50best.com/stories/News/asias-50-best-restaurant-no1-den.html",
+    "https://www.tokyoweekender.com/food-and-drink/restaurants-and-bars/den-restaurant-tokyo-michelin-starred/",
+    "https://www.theworlds50best.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
   ],
   "slug": "den",
-  "rank": 91
+  "rank": 91,
+  "founded": 2007,
+  "founders": [
+    "Zaiyu Hasegawa"
+  ],
+  "practical": {
+    "website": "https://www.jimbochoden.com/en/",
+    "address": "Architect House Hall JIA, 2-3-18 Jingumae, Shibuya-ku, Tóquio 150-0001, Japão",
+    "reservationUrl": "https://www.jimbochoden.com/en/",
+    "reservation": "Reservas exclusivamente por telefone, +81 3-6455-5433, de segunda a sábado entre 12h e 17h no horário de Tóquio. O site oficial afirma explicitamente que NÃO autoriza plataformas de reserva online, intermediários ou agências. Serviço de segunda a sábado a partir de 18h, domingo fechado. Cancelamentos no dia podem gerar cobrança integral; comunicar mudanças com pelo menos dois dias de antecedência.",
+    "price": "Menu omakase sazonal; preço exato atualizado não confirmado em página oficial pública. Solicitar a tarifa ao telefone no momento da reserva."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Den — site oficial e Guia Michelin",
+    "url": "https://www.jimbochoden.com/en/",
+    "note": "Fotos reais do salão e da cozinha aparecem em publicações e no Guia Michelin, sem licença de redistribuição confirmada. Não foi publicada foto genérica como se fosse o estabelecimento.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Den",
+        "url": "https://guide.michelin.com/hk/en/tokyo-region/tokyo/restaurant/den",
+        "note": "Apresentações oficiais de monaka, Dentucky e salada sazonal, com fotografias do restaurante."
+      }
+    ]
+  }
 }
