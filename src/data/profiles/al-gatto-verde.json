@@ -127,6 +127,17 @@
     "kind": "fachada",
     "publisher": "Italia a Tavola",
     "url": "https://www.italiaatavola.net/check-in/2023/9/12/al-gatto-verde-ecco-come-nuovo-ristorante-di-massimo-bottura-a-modena/99359/",
-    "note": "Reportagem com fotografia dos espaços externos do Al Gatto Verde, na Casa Maria Luigia, por Lido Vannucchi."
+    "note": "Reportagem com fotografia dos espaços externos do Al Gatto Verde, na Casa Maria Luigia, por Lido Vannucchi.",
+    "featuredGalleryIndex": 0,
+    "previewKicker": "A equipe",
+    "previewTitle": "Massimo Bottura",
+    "previewContext": "Retrato de Massimo Bottura, responsável pela Casa Maria Luigia e pelo Al Gatto Verde, fotografado em 2015. A imagem não mostra a fachada; no link oficial abaixo estão as fotografias reais do pátio e do restaurante.",
+    "additionalSources": [
+      {
+        "publisher": "Al Gatto Verde — site oficial",
+        "url": "https://ristorantealgattoverde.com/the-restaurant/",
+        "note": "Fotografias do pátio, mesas externas e restaurante"
+      }
+    ]
   }
 }
