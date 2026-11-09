@@ -1,51 +1,107 @@
 {
-  "lede": "Nas encostas do Himalaia, perto de Kasauli, o Naar transforma ingredientes e memórias do norte da Índia em um menu sazonal.",
+  "lede": "Escondido entre pinheiros nas encostas próximas de Kasauli, o Naar é a interpretação de Prateek Sadhu para as tradições do Himalaia. O nome significa 'fogo' em caxemir e resume uma cozinha de brasas, ervas silvestres e ingredientes de montanha organizada ao ritmo de seis estações.",
   "history": [
-    "O chef Prateek Sadhu escolheu uma casa cercada de pinheiros e organiza a refeição em torno das seis estações tradicionalmente reconhecidas na região.",
-    "O Naar fica em uma área de pinheiros nas encostas do Himalaia, acessível por estradas de montanha. Seu nome significa fogo em caxemir e remete à origem familiar do chef Prateek Sadhu."
+    "Nascido na Caxemira, Prateek Sadhu desenvolveu sua carreira em restaurantes internacionais, com passagens por Alinea, The French Laundry e Le Bernardin. Mais tarde foi um dos fundadores do Masque, em Mumbai, antes de decidir dedicar-se a uma pesquisa aprofundada sobre ingredientes e comunidades do Himalaia.",
+    "A partir de viagens pela faixa montanhosa do norte da Índia, Sadhu reuniu técnicas de conservação, preparações domésticas e conhecimento de pequenos produtores. Escolheu uma área de mata perto de Kasauli, no Himachal Pradesh, para criar uma experiência em que a própria viagem e a paisagem fazem parte da refeição.",
+    "O Naar abriu para serviço em novembro de 2023. O nome vem da palavra caxemir para fogo, numa referência tanto ao modo de cozinhar sobre brasas quanto às memórias do chef. Um salão com amplas janelas projeta-se para os vales, e a cozinha constrói um percurso inspirado nas seis estações tradicionais da região.",
+    "Em 2026, o Naar chegou ao 30º lugar no Asia's 50 Best Restaurants, estreou no ranking mundial em 49º e recebeu o Sustainable Restaurant Award, reconhecimento ao trabalho com produtores e à atenção ao impacto ambiental."
   ],
   "cuisine": {
-    "style": "Cozinha himalaia contemporânea com fogo",
+    "style": "Cozinha himalaia contemporânea de estação, com fogo vivo",
     "paragraphs": [
-      "O nome 'Naar' significa fogo em caxemir; brasas, produtos de montanha e técnicas locais orientam o menu.",
-      "O menu segue seis estações reconhecidas pela tradição local e emprega fogo vivo, ingredientes de montanha e preparações de diferentes comunidades himalaias."
+      "A equipe organiza o menu como uma passagem pelas estações do Himalaia: pré-inverno, inverno, primavera, verão, monções e outono. Fogo, defumação, preservação e fermentação dão estrutura a produtos recolhidos ou cultivados em comunidades próximas, respeitando a disponibilidade.",
+      "Entre os pratos documentados no perfil do 50 Best estão o askalu, massa caxemir em formato de pequena panqueca recheada com queijo de iaque defumado, pimenta em conserva e marmelada de laranja, e o gahat ka paratha, pão da região de Uttarakhand apresentado com conserva de pato.",
+      "A sobremesa Pine Pine Pine reúne sorvete de pinhão, óleo de pinheiro e xarope de pinheiro fermentado. Outros percursos já exploraram truta do Himalaia e cogumelos silvestres. O menu é sazonal e o número de etapas varia; a presença dessas preparações na visita deve ser confirmada com a equipe."
     ]
   },
   "chef": {
     "name": "Prateek Sadhu",
-    "bio": "Prateek Sadhu nasceu na região da Caxemira e criou o Naar para pesquisar e apresentar tradições culinárias do Himalaia."
+    "bio": "Natural da Caxemira, trabalhou em cozinhas de referência internacional e cofundou o Masque, em Mumbai. Após uma pesquisa de campo no norte da Índia, abriu o Naar em 2023 para criar uma cozinha contemporânea baseada nas montanhas do Himalaia, suas comunidades e seus ingredientes."
   },
   "dishes": [
     {
-      "name": "Askalu com queijo de iaque defumado",
-      "desc": "Pão semelhante a uma panqueca recheada, citado no menu.",
+      "name": "Askalu com queijo de iaque",
+      "desc": "Massa tradicional semelhante a pequena panqueca, com queijo de iaque defumado, pimenta em conserva e marmelada de laranja, descrita pelo 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Gahat ka paratha",
+      "desc": "Pão tradicional de Uttarakhand apresentado com conserva de pato, segundo o perfil de 2026.",
       "photo": null
     },
     {
       "name": "Pine Pine Pine",
-      "desc": "Sobremesa com sorvete de pinhão, óleo e xarope de pinheiro.",
+      "desc": "Sobremesa com sorvete de pinhão, óleo de pinheiro e xarope de pinheiro fermentado.",
+      "photo": null
+    },
+    {
+      "name": "Project Trotto",
+      "desc": "Preparação de truta himalaia explorada no início da casa, com caldo de espinhas e peixe curado; pode não integrar o menu atual.",
       "photo": null
     }
   ],
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 49º lugar no ranking mundial"
+      "year": 2025,
+      "title": "The Best Chef Awards — New Entry Award, reconhecimento ao chef Prateek Sadhu"
     },
     {
       "year": 2026,
-      "title": "Sustainable Restaurant Award 2026 (The 50 Best)"
+      "title": "Asia's 50 Best Restaurants — nº 30"
+    },
+    {
+      "year": 2026,
+      "title": "Sustainable Restaurant Award — The 50 Best Restaurants"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 49, estreia no ranking mundial"
     }
   ],
   "practical": {
-    "address": "Amaya, VPO Darwa, Kasauli, Himachal Pradesh 173236, Índia",
-    "website": "https://restaurantnaar.com"
+    "address": "Amaya, VPO Darwa, região de Kasauli, distrito de Solan, Himachal Pradesh 173206, Índia",
+    "website": "https://restaurantnaar.com/",
+    "reservationUrl": "https://restaurantnaar.com/reservations",
+    "reservation": "Reservas pelo canal oficial: +91 88004 22053, WhatsApp ou reservas@restaurantnaar.com. Terça a domingo, almoço a partir de 12h30 e jantar a partir de 18h30; fechado segunda-feira. A experiência dura aproximadamente 2h30. Confirmar o trajeto e as condições da visita com antecedência.",
+    "price": "Menu degustação multietapas com mudanças sazonais; preço atual não confirmado no site oficial aberto. Consultar a equipe antes da reserva."
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/naar.html",
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-list.html",
-    "https://www.the50.com/restaurants/best-in-the-world/list/1-50"
+    "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+    "https://restaurantnaar.com/",
+    "https://restaurantnaar.com/reservations",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/Naar.html",
+    "https://www.theworlds50best.com/stories/News/restaurant-naar-opening-prateek-sadhu-himalayas.html",
+    "https://thebestchefawards.com/chefs/prateek-sadhu/",
+    "https://commons.wikimedia.org/wiki/File:Kasauli_Hills_Snow.jpg"
   ],
   "slug": "naar",
-  "rank": 49
+  "rank": 49,
+  "founded": 2023,
+  "founders": [
+    "Prateek Sadhu"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasauli_Hills_Snow.jpg?width=1103",
+    "page": "https://commons.wikimedia.org/wiki/File:Kasauli_Hills_Snow.jpg",
+    "author": "Pankykh",
+    "license": "CC BY-SA 4.0",
+    "caption": "Contrafortes do Himalaia vistos de Chandigarh após uma nevada, em fevereiro de 2021. Fotografia da região ampla, NÃO das instalações do Naar.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Naar — site oficial",
+    "url": "https://restaurantnaar.com/",
+    "note": "Fotografias atuais do salão, paisagem e preparos do restaurante no site oficial. A capa do A Carta é apenas uma vista licenciada da região, não uma imagem do estabelecimento.",
+    "additionalSources": [
+      {
+        "publisher": "The 50 Best — Naar",
+        "url": "https://www.the50.com/restaurants/best-in-the-world/the-list/naar.html",
+        "note": "Galeria editorial com imagens reais de Naar, para visualização na publicação original."
+      }
+    ]
+  }
 }
