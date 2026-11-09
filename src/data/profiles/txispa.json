@@ -1,28 +1,111 @@
 {
-  "lede": "O Txispa, no vale basco de Atxondo, aproxima a tradição local do uso japonês da brasa.",
+  "lede": "Em uma casa rural de aproximadamente 400 anos nas encostas de Axpe, Atxondo, o Txispa traduz a brasa basca pela sensibilidade do chef japonês Tetsuro Maeda. Após uma década no Asador Etxebarri, Maeda abriu a casa em maio de 2023 e conquistou sua primeira estrela Michelin poucos meses depois.",
   "history": [
-    "O chef Tetsuro Maeda desenvolveu o projeto em uma antiga construção rural da região.",
-    "O Txispa funciona em uma casa rural de cerca de quatrocentos anos no País Basco, com arquitetura de pedra e madeira."
+    "Tetsuro Maeda nasceu em Tóquio e cresceu em Kanazawa, na província japonesa de Ishikawa. Mudou-se para a Espanha em 2010 e começou a trabalhar no restaurante Alameda, no País Basco, antes de integrar por cerca de dez anos a equipe de Bittor Arginzoniz no Asador Etxebarri.",
+    "Maeda desenvolveu uma relação com o vale de Atxondo e decidiu abrir uma casa própria no alto da aldeia de Axpe. O edifício, um caserío de aproximadamente quatro séculos chamado Mendi Goikoa, havia sido usado ao longo do tempo como moradia e depois restaurante.",
+    "O Txispa abriu em maio de 2023. Seu nome adapta a palavra espanhola chispa, 'faísca', acrescentando o dígrafo basco tx. Além do fogo literal, a expressão representa o detalhe inesperado que o chef procura colocar em cada prato.",
+    "Poucos meses depois da abertura, Txispa conquistou uma estrela Michelin na seleção de 2024. Estreou em 85º no ranking mundial estendido de 2025 e avançou para 80º em 2026. O percurso procura trazer a paisagem e a estação para uma experiência de almoço prolongada."
   ],
   "cuisine": {
-    "style": "Cozinha basca e japonesa na brasa",
+    "style": "Asador basco de brasa com técnica japonesa",
     "paragraphs": [
-      "Produtos da região são preparados com fogo e técnicas de precisão, em um menu sazonal.",
-      "O menu aplica a precisão de técnicas japonesas à força de sabores associados à grelha basca; a refeição muda segundo o abastecimento sazonal."
+      "O Txispa usa fogo direto e ingredientes sazonais de alta qualidade, combinando a tradição dos asadores bascos com cortes, controles de temperatura e precisão associados à cozinha japonesa. A horta própria e fornecedores do vale orientam o cardápio.",
+      "A experiência começa com um aperitivo diante da grelha, na presença de Tetsuro Maeda, e prossegue no salão da antiga casa rural. O menu oficial descreve txuleta, pescado e camarões como referências que podem aparecer entre passagens sazonais.",
+      "A equipe cultiva vegetais de estação em sua horta e trabalha com produtos de agricultores locais. Como a degustação muda segundo a colheita e a pesca, os itens indicados no perfil são exemplos de repertório, não uma lista fixa da refeição."
     ]
   },
   "chef": {
-    "name": "Tetsuro Maeda"
+    "name": "Tetsuro Maeda",
+    "bio": "Nascido em Tóquio e criado em Kanazawa, Tetsuro Maeda mudou-se para a Espanha em 2010. Trabalhou no Alameda e foi sous-chef do Asador Etxebarri durante cerca de dez anos. Em maio de 2023, abriu o Txispa em uma casa rural histórica de Axpe; recebeu uma estrela Michelin na primeira temporada."
   },
   "awards": [
     {
+      "year": 2024,
+      "title": "Primeira estrela Michelin — Guia Michelin Espanha, poucos meses após abertura em maio de 2023"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 85, estreia na lista mundial estendida"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 80º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Espanha 2026"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 80 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://txispa.com/en/",
+    "https://txispa.com/en/history/",
+    "https://txispa.com/en/tasting-menu-txispa/",
+    "https://txispa.com/en/booking/",
+    "https://txispa.com/en/atxondo-restaurant/",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+    "https://commons.wikimedia.org/wiki/File:Axpe_from_Mendigoikoa.jpg"
   ],
   "slug": "txispa",
-  "rank": 80
+  "rank": 80,
+  "founded": 2023,
+  "founders": [
+    "Tetsuro Maeda"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Axpe%20from%20Mendigoikoa.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Axpe_from_Mendigoikoa.jpg",
+    "author": "PaU1570",
+    "license": "CC BY-SA 4.0",
+    "caption": "Vista real do povoado de Axpe a partir da região de Mendigoikoa em junho de 2023. Paisagem do entorno do Txispa; a fotografia NÃO mostra comprovadamente a fachada do restaurante.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Txuleta na brasa",
+      "desc": "Corte de carne bovina basca preparado na grelha, mencionado entre os ingredientes de referência da experiência Txispa.",
+      "photo": null
+    },
+    {
+      "name": "Pescado do dia ao fogo",
+      "desc": "Peixe selecionado conforme pesca e estação, preparado para valorizar a textura e o sabor natural.",
+      "photo": null
+    },
+    {
+      "name": "Camarões grelhados",
+      "desc": "Crustáceos preparados com fogo vivo e execução precisa, citados no repertório do menu oficial.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais da horta própria",
+      "desc": "Produtos cultivados na propriedade que variam entre primavera, verão, outono e inverno, apresentados em passagens sazonais.",
+      "photo": null
+    },
+    {
+      "name": "Aperitivo na cozinha junto à grelha",
+      "desc": "Passagem inicial servida diante do fogo com o chef, parte do percurso oficial, cuja composição muda diariamente.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://txispa.com/en/",
+    "address": "Barrio San Juan 45, Axpe, Atxondo, Bizkaia 48291, Espanha",
+    "reservationUrl": "https://txispa.com/en/booking/",
+    "reservation": "Reservas pelo formulário oficial; experiência de almoço com chegada recomendada entre 13h e 13h15, fechada às segundas e terças. A casa exige cartão para garantia e reservas online a partir de duas pessoas; pedidos individuais devem ser feitos por e-mail. Alterações ou cancelamentos devem ser comunicados com ao menos sete dias de antecedência. Não oferece menu vegetariano ou vegano.",
+    "price": "Menu degustação anunciado a €295 na página oficial de reservas consultada em novembro de 2026. Outra página do mesmo site ainda indica €275; confirmar o preço exibido no checkout antes de concluir."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Txispa — site oficial",
+    "url": "https://txispa.com/en/",
+    "note": "Site oficial apresenta fotografias do caserío Mendi Goikoa, do interior, da horta e da cozinha na brasa. Essas imagens não têm licença aberta de reutilização confirmada. A foto publicada pelo A Carta é uma vista licenciada da aldeia Axpe a partir das redondezas.",
+    "additionalSources": [
+      {
+        "publisher": "Txispa — história do caserío",
+        "url": "https://txispa.com/en/history/",
+        "note": "Fotos do edifício real de 400 anos, informações do chef e origem do nome Txispa."
+      }
+    ]
+  }
 }
