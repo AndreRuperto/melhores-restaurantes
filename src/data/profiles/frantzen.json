@@ -1,29 +1,150 @@
 {
-  "lede": "O Frantzén, em Estocolmo, apresenta uma refeição em diferentes ambientes da casa, combinando técnicas de várias tradições.",
+  "lede": "O Frantzén ocupa três andares de uma casa histórica no centro de Estocolmo e transforma a degustação em um percurso por salões, cozinha aberta e lounge. Björn Frantzén combina ingredientes nórdicos, técnica francesa e influências japonesas na primeira casa da Suécia a conquistar três estrelas Michelin.",
   "history": [
-    "Björn Frantzén estabeleceu uma cozinha que aproxima repertórios francês, nórdico e japonês.",
-    "A experiência gastronômica se estende por diferentes cômodos e andares; grupos de cerca de vinte e três convidados percorrem etapas da refeição em ambientes distintos."
+    "Em 2008, o chef Björn Frantzén abriu o Frantzén/Lindeberg em Gamla Stan com o confeiteiro Daniel Lindeberg. A casa nasceu pequena, com poucos funcionários e ambição de oferecer alta cozinha nórdica em diálogo com as grandes referências francesas. A primeira estrela Michelin veio em 2009 e a segunda em 2010.",
+    "Depois da saída de Lindeberg, o restaurante passou a se chamar Frantzén. Em julho de 2016, encerrou o serviço na antiga sede para preparar a mudança de conceito e endereço. Em 30 de agosto de 2017, reabriu em uma casa histórica na Klara Norra Kyrkogata 26, com três andares dedicados à experiência dos convidados.",
+    "O novo espaço manteve aproximadamente 23 assentos, mas ampliou a área de trabalho e criou etapas distintas de serviço. Os clientes passam pelo lounge, conhecem ingredientes e preparações, descem para comer diante da cozinha e encerram a refeição em outro ambiente. O fogo direto passou a fazer parte importante do repertório.",
+    "Em 2018, o Frantzén conquistou a terceira estrela Michelin, tornando-se o primeiro restaurante da Suécia a atingir esse reconhecimento. Foi 6º no ranking mundial em 2021, líder do La Liste em 2023 e apareceu em 58º na lista mundial estendida de 2026."
   ],
   "cuisine": {
-    "style": "Alta cozinha contemporânea nórdica, francesa e japonesa",
+    "style": "Alta cozinha nórdica contemporânea com técnica francesa e influências japonesas",
     "paragraphs": [
-      "O menu trabalha produtos sazonais, molhos complexos e serviço em etapas.",
-      "A cozinha articula técnicas nórdicas e asiáticas, com vinagres, fermentações e ingredientes sazonais em aproximadamente dez etapas."
+      "O menu combina produtos do norte da Europa com caldos, molhos e técnicas clássicas e referências japonesas, como preparações a vapor e condimentos fermentados. O fogo vivo, os vinagres produzidos ou selecionados com precisão e as texturas contrastantes são marcas da casa.",
+      "O serviço costuma percorrer cerca de dez etapas. Uma das assinaturas históricas é a French Toast Grand Tradition 2008, torrada salgada de massa fermentada com cebola, queijo Vacche Rosse, trufa e toque ácido. A preparação expressa o equilíbrio que Björn busca entre ingredientes familiares e execução refinada.",
+      "Outras criações documentadas ao longo da história incluem råraka, uma preparação sueca crocante de batata, pequenas entradas com frutos do mar e creme salgado de ovos no estilo chawanmushi. A sequência exata depende da estação; a fotografia de uma etapa de 2023 não é um registro do menu de 2026."
     ]
   },
   "chef": {
     "name": "Björn Frantzén",
-    "bio": "Björn Frantzén desenvolveu o restaurante de Estocolmo como experiência de menu degustação que cruza tradições escandinavas e asiáticas."
+    "bio": "Nascido em Estocolmo em 1977, Björn Frantzén deixou a carreira de futebol após um problema cardíaco e entrou na gastronomia como aprendiz no Edsbacka Krog. Trabalhou depois em cozinhas de referência na Inglaterra e na França, incluindo L'Arpège. Fundou o Frantzén/Lindeberg em 2008, liderou a mudança para a sede atual em 2017 e recebeu três estrelas Michelin em 2018. Também criou Zén em Singapura e FZN em Dubai."
   },
   "awards": [
     {
+      "year": 2009,
+      "title": "Primeira estrela Michelin — Frantzén/Lindeberg"
+    },
+    {
+      "year": 2010,
+      "title": "Segunda estrela Michelin"
+    },
+    {
+      "year": 2011,
+      "title": "One To Watch Award — The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2018,
+      "title": "Terceira estrela Michelin, primeira de um restaurante na Suécia"
+    },
+    {
+      "year": 2020,
+      "title": "Nº 1 da Europa — OAD Top 100"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 6"
+    },
+    {
+      "year": 2023,
+      "title": "Nº 1 — La Liste"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 58º lugar no ranking mundial"
+      "title": "Três estrelas Michelin mantidas — Guia Michelin Países Nórdicos"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 58 (lista estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.restaurantfrantzen.com/",
+    "https://www.frantzengroup.com/restaurants/restaurant-frantzen/",
+    "https://www.bjornfrantzen.com/bjornfrantzen/",
+    "https://www.frantzengroup.com/the-new-frantzen-opens-on-august-30-2017/",
+    "https://guide.michelin.com/sg/en/article/features/behind-the-dish-restaurant-zen-s-french-toast",
+    "https://commons.wikimedia.org/wiki/File:Restaurant_Frantzen,_Stockholm_(37548701784).jpg",
+    "https://commons.wikimedia.org/wiki/File:Klara_norra_kyrkogata_26.jpg",
+    "https://commons.wikimedia.org/wiki/File:Franzen,_menu_sept_2023_03.jpg"
   ],
   "slug": "frantzen",
-  "rank": 58
+  "rank": 58,
+  "founded": 2008,
+  "founders": [
+    "Björn Frantzén",
+    "Daniel Lindeberg"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20Frantzen%2C%20Stockholm%20%2837548701784%29.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Restaurant_Frantzen,_Stockholm_(37548701784).jpg",
+    "author": "Per-Olof Forsberg",
+    "license": "CC BY 2.0",
+    "caption": "Registro real do restaurante Frantzén em Estocolmo, fotografado em novembro de 2017, pouco depois da abertura da sede atual.",
+    "illustrative": false
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Klara%20norra%20kyrkogata%2026.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Klara_norra_kyrkogata_26.jpg",
+    "author": "I99pema",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fachada de Klara Norra Kyrkogata 26 em 2018, edifício que abriga o Frantzén desde 2017.",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Franzen%2C%20menu%20sept%202023%2003.jpg?width=1280",
+      "page": "https://commons.wikimedia.org/wiki/File:Franzen,_menu_sept_2023_03.jpg",
+      "author": "I99pema",
+      "license": "CC BY-SA 4.0",
+      "caption": "Registro de uma das etapas da experiência no Frantzén em setembro de 2023. Fotografia de um menu histórico; não representa o cardápio atual.",
+      "illustrative": false
+    }
+  ],
+  "dishes": [
+    {
+      "name": "French Toast Grand Tradition 2008",
+      "desc": "Torrada salgada com cebola, custard de queijo Vacche Rosse, trufa e redução balsâmica, prato histórico do grupo Frantzén.",
+      "photo": null
+    },
+    {
+      "name": "Råraka",
+      "desc": "Interpretação de um clássico sueco de batata crocante, documentado entre as preparações da história do restaurante.",
+      "photo": null
+    },
+    {
+      "name": "Chawanmushi de inspiração nórdica",
+      "desc": "Creme salgado de ovos com influência japonesa, aparecendo em diferentes versões do repertório Frantzén; não é um prato fixo.",
+      "photo": null
+    },
+    {
+      "name": "Frutos do mar sazonais",
+      "desc": "Passagens variáveis com pescados ou crustáceos nórdicos, combinados com molhos de técnica francesa.",
+      "photo": null
+    },
+    {
+      "name": "Aves com condimentos fermentados",
+      "desc": "Pratos sazonais em que técnicas de grelha, molhos e fermentação aproximam referências francesas, suecas e japonesas.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.restaurantfrantzen.com/",
+    "address": "Klara Norra Kyrkogata 26, 111 22 Estocolmo, Suécia",
+    "reservationUrl": "https://www.restaurantfrantzen.com/",
+    "reservation": "Reservas diretamente pelo botão do site oficial. Novas mesas para o mês seguinte são abertas no dia 1º, às 10h no horário local. A casa serve almoço e jantar de terça a sexta; grupos maiores devem consultar reservation@restaurantfrantzen.com. A página oficial informa que não exige pré-pagamento.",
+    "price": "Menu degustação fixo: SEK 5.500 por pessoa, tanto no almoço quanto no jantar, conforme o site oficial consultado em novembro de 2026."
+  },
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Wikimedia Commons — Klara Norra Kyrkogata 26",
+    "url": "https://commons.wikimedia.org/wiki/File:Klara_norra_kyrkogata_26.jpg",
+    "note": "A fachada real do prédio já aparece na seção O lugar com licença CC BY-SA 4.0. O salão atual e mais pratos podem ser vistos na fonte oficial.",
+    "additionalSources": [
+      {
+        "publisher": "Frantzén — galeria oficial",
+        "url": "https://www.restaurantfrantzen.com/",
+        "note": "Fotos atuais de salões e pratos; as imagens do site oficial não foram copiadas porque os direitos de reutilização não estavam explícitos."
+      }
+    ]
+  }
 }
