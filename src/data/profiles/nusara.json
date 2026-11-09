@@ -179,6 +179,17 @@
     "kind": "ambientes",
     "publisher": "Nusara (site oficial)",
     "url": "https://www.nusarabkk.com/nusara",
-    "note": "Apresentação do espaço no bairro de Tha Tien; a fonte não identifica uma foto da fachada."
+    "note": "Apresentação do espaço no bairro de Tha Tien; a fonte não identifica uma foto da fachada.",
+    "featuredGalleryIndex": 0,
+    "previewKicker": "O entorno",
+    "previewTitle": "O bairro histórico de Tha Tien",
+    "previewContext": "Sobrados históricos de Tha Tien, junto ao Wat Pho. Esta foto não é da entrada do Nusara. A arquitetura da unidade real em Maha Rat Road aparece no registro especializado linkado abaixo.",
+    "additionalSources": [
+      {
+        "publisher": "ROOM / Baan Lae Suan",
+        "url": "https://room.baanlaesuan.com/329080/commercial/nusara",
+        "note": "Fotografias do edifício e dos ambientes do Nusara"
+      }
+    ]
   }
 }
