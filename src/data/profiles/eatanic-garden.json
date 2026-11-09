@@ -1,32 +1,112 @@
 {
-  "lede": "O Eatanic Garden, em Seul, usa a natureza e as estações como referências para reinterpretar pratos coreanos.",
+  "lede": "No 36º andar do Josun Palace, em Gangnam, o Eatanic Garden transforma produtos e memórias da cozinha coreana em uma degustação contemporânea. Son Jong-won apresenta cada etapa por meio de cartões ilustrados que revelam os ingredientes do prato, enquanto o salão se abre para as vistas de Seul.",
   "history": [
-    "O restaurante funciona em um espaço elevado cercado de plantas, combinando vistas da cidade e uma proposta de cozinha autoral.",
-    "O Eatanic Garden fica em um espaço elevado com vista para Seul e uma composição de plantas que evoca o jardim urbano."
+    "O Eatanic Garden ocupa o 36º andar do Josun Palace, hotel de luxo instalado em Teheran-ro, no distrito de Gangnam. O nome faz um jogo sonoro entre Eatanic e botanic garden, refletido pela vegetação ornamental e pela vista panorâmica da cidade.",
+    "Depois da renovação de 2022, a casa consolidou uma proposta de cozinha coreana contemporânea sob direção de Son Jong-won. O chef também lidera o L'Amant Secret, em Seul, combinando pesquisa técnica e hospitalidade em dois restaurantes distintos.",
+    "Em vez de uma lista fixa de pratos, os convidados recebem um cartão ilustrado para cada etapa, que destaca o ingrediente principal. O serviço apresenta a origem dos produtos e as relações entre técnicas atuais e a memória gastronômica coreana.",
+    "O Eatanic Garden recebeu sua primeira estrela Michelin na seleção 2023 e a manteve no guia de 2026. Estreou nas posições de destaque do Asia's 50 Best, alcançando o 25º lugar em 2025 e o 26º em 2026; nesse último ano apareceu em 72º na lista mundial estendida."
   ],
   "cuisine": {
-    "style": "Cozinha coreana contemporânea",
+    "style": "Cozinha coreana contemporânea, ingredientes sazonais e apresentação botânica",
     "paragraphs": [
-      "Ingredientes tradicionais aparecem em apresentações que remetem a paisagens e ciclos naturais.",
-      "A natureza orienta a apresentação de preparações coreanas, como carne hanwoo em três versões com couve-flor fermentada e vegetais de inverno em formatos de flocos de neve."
+      "A proposta combina produtos de agricultores e pescadores coreanos, técnicas modernas e preparações que lembram formas naturais. Plantas, vegetais de inverno, algas, arroz regional e frutos do mar orientam uma degustação em constante transformação.",
+      "O 50 Best documentou uma apresentação de carne hanwoo em três preparos com couve-flor fermentada e vegetais brancos esculpidos como flocos de neve, além de ouriço-do-mar acompanhado de parae, uma alga coreana.",
+      "Pequenos doces, como bombons de chocolate com referência ao makgeolli e caqui seco com yuzu, integram exemplos publicados de sobremesas. A equipe de confeitaria é liderada por Haesol Shin; as receitas específicas mudam conforme a estação."
     ]
   },
   "dishes": [
     {
-      "name": "Carne hanwoo em três preparos",
-      "desc": "Servida com couve-flor fermentada e vegetais brancos de inverno.",
+      "name": "Hanwoo em três preparos",
+      "desc": "Carne bovina coreana acompanhada de couve-flor fermentada e vegetais brancos com formas de flocos de neve, conforme registro do 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Ouriço-do-mar e alga parae",
+      "desc": "Combinação marinha documentada no repertório contemporâneo de Son Jong-won.",
+      "photo": null
+    },
+    {
+      "name": "Bombom de chocolate com referência ao makgeolli",
+      "desc": "Pequeno doce citado entre os petit-fours de uma temporada anterior, não necessariamente na carta atual.",
+      "photo": null
+    },
+    {
+      "name": "Caqui seco e yuzu",
+      "desc": "Combinação de fruta tradicional coreana e cítrico apresentada entre os pequenos doces da experiência.",
+      "photo": null
+    },
+    {
+      "name": "Arroz coreano de variedades locais",
+      "desc": "Passagem de degustação centrada em variedades nativas de arroz, cujo preparo muda conforme a estação e a safra.",
       "photo": null
     }
   ],
   "awards": [
     {
+      "year": 2023,
+      "title": "Primeira estrela Michelin — Guia Michelin Seul"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 25"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 72º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Seul & Busan"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 26"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 72, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+    "https://www.marriott.com/en-us/hotels/sellc-josun-palace-a-luxury-collection-hotel-seoul-gangnam/dining/",
+    "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/eatanic-garden",
+    "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/all-the-stars-michelin-guide-seoul-busan-2026",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/eatanic-garden.html",
+    "https://www.the50.com/discovery/Establishments/South-Korea/Seoul/eatanic-garden.html",
+    "https://view.asiae.co.kr/en/article/2026102313341883212",
+    "https://commons.wikimedia.org/wiki/File:Teheran-ro_01.jpg"
   ],
   "slug": "eatanic-garden",
-  "rank": 72
+  "rank": 72,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Teheran-ro%2001.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Teheran-ro_01.jpg",
+    "author": "S h y numis",
+    "license": "CC BY-SA 4.0",
+    "caption": "Vista da avenida Teheran-ro, em Gangnam, fotografada em janeiro de 2020. Imagem ilustrativa da área de Seul; não mostra o Josun Palace nem o Eatanic Garden.",
+    "illustrative": true
+  },
+  "chef": {
+    "name": "Son Jong-won (chef) e Haesol Shin (confeitaria)",
+    "bio": "Son Jong-won desenvolveu sua carreira em cozinhas internacionais, incluindo Quince e COI, antes de assumir projetos do grupo Josun em Seul. Lidera o Eatanic Garden e o L'Amant Secret, ambos premiados com uma estrela Michelin na edição 2026. No Eatanic, interpreta tradições coreanas por meio de ingredientes sazonais; Haesol Shin responde pela confeitaria."
+  },
+  "practical": {
+    "website": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+    "address": "36º andar, Josun Palace, 231 Teheran-ro, Gangnam-gu, Seul 06142, Coreia do Sul",
+    "reservationUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+    "reservation": "Desde dezembro de 2025, a página oficial informa reservas exclusivamente pela plataforma Catchtable, acessível pelo site do hotel. O telefone +82 2-727-7610 atende a informações. Almoço e jantar de quarta a domingo; fechado segunda e terça. A casa informa restrições de acesso a crianças menores de 8 anos e orienta vestuário social casual.",
+    "price": "Degustação sazonal de alta gastronomia; preço em won sul-coreanos não confirmado de forma confiável na página oficial consultada. Consultar o valor no fluxo de reserva."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Josun Palace — Eatanic Garden",
+    "url": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+    "note": "Fotografias reais do salão no 36º andar e da cozinha. O A Carta não reproduz imagens oficiais sem licença de reutilização e usa uma imagem contextual licenciada de Gangnam.",
+    "additionalSources": [
+      {
+        "publisher": "Asia's 50 Best — Eatanic Garden",
+        "url": "https://www.the50.com/restaurants/best-in-asia/the-list/eatanic-garden.html",
+        "note": "Fotos dos pratos e do ambiente, com descrição da experiência e da equipe."
+      }
+    ]
+  }
 }
