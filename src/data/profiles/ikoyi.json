@@ -67,6 +67,10 @@
     {
       "year": 2026,
       "title": "The 50 Best Restaurants — nº 48"
+    },
+    {
+      "year": 2018,
+      "title": "Primeira estrela Michelin — Guia Michelin Grã-Bretanha e Irlanda"
     }
   ],
   "practical": {
@@ -85,7 +89,8 @@
     "https://guide.michelin.com/en/greater-london/london/restaurant/ikoyi",
     "https://www.180studios.com/restaurants/ikoyi",
     "https://commons.wikimedia.org/wiki/File:The_Strand_Londres.jpg",
-    "https://commons.wikimedia.org/wiki/File:JOLLOF_RICE.JPG"
+    "https://commons.wikimedia.org/wiki/File:JOLLOF_RICE.JPG",
+    "https://guide.michelin.com/gb/en/article/dining-out/ikoyi-inspectors-two-michelin-star-restaurant-london"
   ],
   "slug": "ikoyi",
   "rank": 48,
