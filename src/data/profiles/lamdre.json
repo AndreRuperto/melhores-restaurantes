@@ -1,29 +1,114 @@
 {
-  "lede": "O Lamdre, em Pequim, usa apenas ingredientes vegetais para desenvolver uma cozinha chinesa de alta gastronomia.",
+  "lede": "Em um pátio tranquilo de Sanlitun, em Pequim, o Lamdre mostra como a alta cozinha chinesa pode ser inteiramente vegetal. A proprietária Zhao Jia e o chef Dai Jun transformam cogumelos, raízes, sementes e fermentados em um menu de temporada que combina saberes tradicionais e técnica contemporânea.",
   "history": [
-    "A proprietária Zhao Jia e o chef Dai Jun trabalham com heranças regionais chinesas e apresentações contemporâneas.",
-    "O Lamdre é conduzido pela proprietária Zhao Jia e pelo chef Dai Jun, ligados à evolução da cozinha de alta gastronomia vegetal em Pequim."
+    "Zhao Jia criou o Lamdre em 2023, em um pátio de Sanlitun, com a ideia de apresentar uma gastronomia vegetal chinesa sofisticada e próxima da natureza. O nome tem referência à tradição budista tibetana, associando a refeição a atenção e equilíbrio.",
+    "O chef Dai Jun, de formação em cozinhas cantonesa e de Chaozhou, ampliou sua pesquisa com experiências em projetos como Vege Wonder e King's Joy. Ele também estudou ingredientes e técnicas de culinária vegetal no Japão, incorporando aprendizados à própria interpretação da tradição chinesa.",
+    "O restaurante utiliza salas iluminadas por claraboias, cerâmicas selecionadas e materiais discretos. Agricultores de diferentes regiões fornecem produtos nativos, enquanto fermentação e compostagem são utilizadas para dar destino a sobras da cozinha.",
+    "O Lamdre recebeu o One To Watch no Asia's 50 Best em 2024, entrou no ranking asiático em 2025 e alcançou a 17ª posição em 2026, com o prêmio Highest Climber. Foi promovido a duas estrelas Michelin na edição Pequim 2026, manteve-as na edição 2027 anunciada em outubro de 2026, quando Dai Jun recebeu o Mentor Chef Award. Na lista mundial estendida de 2026, estreou em 92º lugar."
   ],
   "cuisine": {
-    "style": "Cozinha chinesa vegetal contemporânea",
+    "style": "Alta cozinha chinesa inteiramente vegetal, sazonal e de raízes regionais",
     "paragraphs": [
-      "Vegetais, fungos e ingredientes locais recebem tratamento técnico e apresentações de degustação.",
-      "A cozinha usa exclusivamente ingredientes vegetais, associando tradições regionais da China a apresentações contemporâneas."
+      "A cozinha se dedica a ingredientes 100% vegetais e evita recorrer a imitações de proteína animal como centro do repertório. Vegetais regionais, sementes e fungos ganham importância por meio de cocções longas, grelhados precisos e fermentados.",
+      "Um dos pratos assinatura é o cogumelo porcini de Yunnan na brasa com pimenta-verde e sal marinho, destacado pelo Guia Michelin. Outro é o tofu delicado imerso em caldo aromático de matsutake e alga wakame, lembrado pelo The 50 Best.",
+      "O percurso de degustação muda segundo os produtores e a estação. Produtos como raiz de sagitária, nozes de ginkgo e diferentes brotos permitem à equipe construir versões da cozinha chinesa histórica sem comprometer seu caráter totalmente vegetal."
     ]
   },
   "chef": {
-    "name": "Dai Jun",
-    "bio": "Dai Jun lidera a cozinha, em parceria com Zhao Jia, e trabalha interpretações vegetais da tradição chinesa."
+    "name": "Dai Jun (Jun Dai) · Zhao Jia (fundadora)",
+    "bio": "Dai Jun é chef chinês com mais de três décadas de experiência, formado em tradições cantonesa e de Chaozhou. Passou por projetos de gastronomia vegetal e estudou no Japão antes de assumir a cozinha do Lamdre, fundado por Zhao Jia em 2023. Em 2026 recebeu o prêmio Highest Climber no Asia's 50 Best com a equipe, e o Michelin Mentor Chef Award na cerimônia do guia Pequim 2027, realizada em outubro de 2026."
   },
   "awards": [
     {
+      "year": 2024,
+      "title": "One To Watch Award — Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 50"
+    },
+    {
+      "year": 2025,
+      "title": "Duas estrelas Michelin concedidas para a seleção Pequim 2026"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 92º lugar no ranking mundial"
+      "title": "Asia's 50 Best Restaurants — nº 17 e Highest Climber Award"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 92, estreia na lista mundial estendida"
+    },
+    {
+      "year": 2026,
+      "title": "Duas estrelas mantidas na edição Michelin Pequim 2027, anunciada em outubro de 2026"
+    },
+    {
+      "year": 2026,
+      "title": "Dai Jun — Michelin Mentor Chef Award, cerimônia da edição Pequim 2027"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.the50.com/restaurants/best-in-asia/the-list/lamdre.html",
+    "https://www.the50.com/discovery/Establishments/China/Beijing/Lamdre.html",
+    "https://www.theworlds50best.com/stories/News/plant-based-lamdre-asias-one-to-watch-restaurant.html",
+    "https://www.michelin.com/en/publications/products-and-services/the-michelin-guide-beijing-2026",
+    "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-the-2027-beijing-tianjin-selection",
+    "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lamdre"
   ],
   "slug": "lamdre",
-  "rank": 92
+  "rank": 92,
+  "founded": 2023,
+  "founders": [
+    "Zhao Jia"
+  ],
+  "dishes": [
+    {
+      "name": "Porcini de Yunnan com pimenta-verde e sal",
+      "desc": "Cogumelos de Yunnan grelhados para concentrar aroma e sabor, assinatura apresentada pelo Guia Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Tofu em caldo de matsutake e wakame",
+      "desc": "Tofu de textura delicada servido em caldo aromático de cogumelos matsutake e algas, preparo citado no perfil do 50 Best.",
+      "photo": null
+    },
+    {
+      "name": "Raiz de sagitária",
+      "desc": "Raiz regional usada no percurso sazonal, com técnica variável. Registro de ingrediente, não um prato fixo.",
+      "photo": null
+    },
+    {
+      "name": "Nozes de ginkgo",
+      "desc": "Sementes tradicionais da culinária chinesa reinterpretadas pela cozinha. A presença depende da colheita e da estação.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais nativos fermentados",
+      "desc": "Família de preparações de produtores locais com fermentação e aproveitamento de ingredientes. Não representa uma receita fixa.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.the50.com/restaurants/best-in-asia/the-list/lamdre.html",
+    "address": "Sala 04, térreo, Bloco 14, Pátio 4, Gongti North Road, Chaoyang, Pequim 100000, China",
+    "reservationUrl": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lamdre",
+    "reservation": "As reservas são administradas diretamente pelo Lamdre, não pela página do Guia Michelin. Para solicitar uma mesa, ligue para +86 10 8597 8888. O The 50 Best Discovery indica almoço e jantar de segunda a sábado, mas é necessário confirmar horários, disponibilidade e condições diretamente com a casa.",
+    "price": "Degustação sazonal vegetal. O The 50 Best Discovery cita preços a partir de US$177 como referência editorial, mas não há valor atual confirmado no checkout institucional; consultar o preço em CNY por telefone."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "The 50 Best — Lamdre",
+    "url": "https://www.the50.com/restaurants/best-in-asia/the-list/lamdre.html",
+    "note": "A galeria oficial de Lamdre mostra o salão, a claraboia e os pratos reais. Não foi encontrada licença aberta de reutilização; nenhuma fotografia genérica ou de outro restaurante foi republicada.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Lamdre",
+        "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lamdre",
+        "note": "Fotografias reais, endereço e telefone. Essa página não realiza reservas diretamente."
+      }
+    ]
+  },
+  "gallery": []
 }
