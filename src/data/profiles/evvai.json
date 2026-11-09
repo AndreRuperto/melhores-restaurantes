@@ -1,48 +1,122 @@
 {
-  "lede": "O Evvai, em São Paulo, combina técnicas italianas com ingredientes brasileiros em uma proposta autoral.",
+  "lede": "Na Rua Joaquim Antunes, em Pinheiros, São Paulo, o Evvai tornou a cozinha Oriundi uma linguagem própria do chef Luiz Filipe Souza. O menu combina referências da imigração italiana, ingredientes brasileiros e desenhos feitos pelo chef; em 2026, foi um dos primeiros restaurantes da América Latina a conquistar três estrelas Michelin.",
   "history": [
-    "Luiz Filipe Souza desenvolveu uma cozinha que coloca a herança italiana em diálogo com a diversidade de produtos do Brasil.",
-    "Luiz Filipe Souza abriu o Evvai em 2017 no bairro dos Jardins, em São Paulo. Antes, trabalhou em cozinhas italianas como o Reale, em Castel di Sangro."
+    "O chef paulistano Luiz Filipe Souza começou a carreira em cozinhas de inspiração italiana e trabalhou com Salvatore Loi, além de períodos de aperfeiçoamento no Brasil e no exterior. Em 2017, abriu o Evvai em um sobrado da Rua Joaquim Antunes, em Pinheiros, propondo uma gastronomia pessoal ligada às raízes italianas e à biodiversidade brasileira.",
+    "A casa definiu sua identidade como Oriundi, palavra associada aos descendentes de italianos que viveram processos de migração. Na mesa, esse conceito aparece em massas, técnicas europeias e ingredientes brasileiros, apresentados de maneira lúdica e frequentemente acompanhados por ilustrações desenhadas por Souza.",
+    "O reconhecimento chegou rapidamente: o chef apareceu no Forbes Under 30 em 2018, o restaurante conquistou a primeira estrela Michelin em maio de 2019 e chegou à segunda na edição brasileira de 2024. O Evvai continuou aperfeiçoando o serviço de degustação, com a técnica orientada ao contraste entre temperaturas, texturas e aromas.",
+    "Em 13 de abril de 2026, a casa conquistou a terceira estrela Michelin, junto com o Tuju, tornando-se parte dos primeiros restaurantes três-estrelas da América Latina. No ranking The 50 Best Restaurants 2026, figurou em 68º, consolidando sua projeção internacional."
   ],
   "cuisine": {
-    "style": "Cozinha ítalo-brasileira contemporânea",
+    "style": "Alta cozinha Oriundi — italiana imigrante e brasileira contemporânea",
     "paragraphs": [
-      "O menu degustação reúne preparações que reinterpretam tradições italianas com ingredientes nacionais.",
-      "A degustação Oriundi, em cerca de treze etapas, aborda o encontro entre cultura italiana e brasileira. O chef também desenvolve ilustrações para contextualizar os pratos."
+      "O menu Oriundi procura representar o encontro de culturas: elementos da tradição italiana, como massas e técnicas de molhos, dialogam com produtos de diferentes territórios do Brasil. Pequenas entradas inspiradas nas cores das bandeiras italiana e brasileira ajudam a introduzir a narrativa.",
+      "O Guia Michelin destaca a moqueca branca com lula e pupunha e a Bomba de vieira, criação recorrente mas sempre reinterpretada. Outro registro de 2026 apresenta uma ostra com pistache e jambú, que explora frescor vegetal e sabores marinhos.",
+      "A degustação de aproximadamente treze etapas é dinâmica. Preparações antigas, como affogato salgado com sorvete de cogumelos e sobremesa de couve-flor e coco, ajudam a compreender a pesquisa da cozinha, mas não devem ser apresentadas como itens confirmados no menu vigente."
     ]
   },
   "chef": {
     "name": "Luiz Filipe Souza",
-    "bio": "Luiz Filipe Souza criou no Evvai uma cozinha de descendência italiana ligada a ingredientes brasileiros, após experiência em restaurantes na Itália."
+    "bio": "Chef e fundador do Evvai, Luiz Filipe Souza se formou na gastronomia brasileira de influência italiana, com passagens por equipes ligadas a Salvatore Loi e experiências de aperfeiçoamento no exterior. Desenvolveu a cozinha Oriundi como encontro entre técnicas italianas e ingredientes brasileiros. Sob sua liderança, o Evvai recebeu uma, duas e três estrelas Michelin em 2019, 2024 e 2026, respectivamente."
   },
   "awards": [
     {
+      "year": 2018,
+      "title": "Luiz Filipe Souza — Forbes Under 30 Brasil, categoria Gastronomia"
+    },
+    {
+      "year": 2019,
+      "title": "Primeira estrela Michelin — Guia Michelin Rio de Janeiro & São Paulo"
+    },
+    {
+      "year": 2024,
+      "title": "Segunda estrela Michelin — Guia Michelin Rio de Janeiro & São Paulo"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 95 (lista estendida)"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 68º lugar no ranking mundial"
+      "title": "Terceira estrela Michelin — um dos primeiros restaurantes três-estrelas da América Latina"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 68 (lista mundial estendida)"
     }
   ],
   "sources": [
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
     "https://guide.michelin.com/br/pt_BR/sao-paulo-region/sao-paulo/restaurant/evvai",
-    "https://www.evvai.com.br/book-online"
+    "https://www.evvai.com.br/book-online",
+    "https://www.evvai.com.br/",
+    "https://www.evvai.com.br/cardapio",
+    "https://www.evvai.com.br/contato",
+    "https://evvai.meitre.com/",
+    "https://guide.michelin.com/br/pt_BR/article/michelin-guide-ceremony/dois-restaurantes-conquistam-tres-estrelas-michelin-no-brasil",
+    "https://guide.michelin.com/br/pt_BR/article/features/minha-primeira-estrela-michelin",
+    "https://www.michelin.com/en/publications/products-and-services/the-new-michelin-guide-rio-de-janeiro-sao-paulo-2026",
+    "https://commons.wikimedia.org/wiki/File:Jardins_(S%C3%A3o_Paulo_(SP),_Brasil).JPG"
   ],
   "slug": "evvai",
   "rank": 68,
   "dishes": [
     {
       "name": "Moqueca branca de lula e pupunha",
-      "desc": "Prato da degustação Oriundi descrito pelo Guia Michelin.",
+      "desc": "Preparação da degustação Oriundi que reinterpreta a moqueca brasileira com lula e palmito pupunha, documentada pelo Guia Michelin.",
       "photo": null
     },
     {
       "name": "Bomba de vieira",
-      "desc": "Preparação recorrente do Evvai, renovada entre versões do menu.",
+      "desc": "Criação recorrente da casa em diferentes versões, com vieira como ingrediente central; a apresentação é renovada entre menus.",
+      "photo": null
+    },
+    {
+      "name": "Ostra, pistache e jambú",
+      "desc": "Entrada de 2026 citada pelo Guia Michelin, reunindo frutos do mar, castanhas e a erva amazônica.",
+      "photo": null
+    },
+    {
+      "name": "Affogato salgado de cogumelos",
+      "desc": "Sobremesa ou passagem salgada com sorvete de cogumelos, exemplo histórico da investigação de temperaturas; confirmar disponibilidade.",
+      "photo": null
+    },
+    {
+      "name": "Couve-flor e coco",
+      "desc": "Combinação de sobremesa lembrada em perfil do chef, sem confirmação de presença no cardápio atual.",
       "photo": null
     }
   ],
   "practical": {
-    "website": "https://www.evvai.com.br",
-    "address": "Rua Joaquim Antunes 108, São Paulo, SP 05415-000, Brasil",
-    "reservation": "Reservas pelo site e contato direto com a casa; condições e horários devem ser conferidos antes da visita."
+    "website": "https://www.evvai.com.br/",
+    "address": "Rua Joaquim Antunes 108, Pinheiros, São Paulo - SP, 05415-000, Brasil",
+    "reservationUrl": "https://evvai.meitre.com/",
+    "reservation": "Reservas diretamente pela plataforma Meitre, vinculada ao site oficial. Terça a sexta-feira: jantar; sábado: almoço e jantar; fechado domingo e segunda. O restaurante informa +55 11 3062-1160 e contato@evvai.com.br. O módulo secundário do site pode mostrar que não há horários para agendamento, mas o link Meitre é o canal correto.",
+    "price": "Menu degustação Oriundi em cerca de treze etapas. Preço atualizado não confirmado em fonte oficial aberta; o valor deve ser consultado na plataforma de reservas."
+  },
+  "founded": 2017,
+  "founders": [
+    "Luiz Filipe Souza"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jardins%20%28S%C3%A3o%20Paulo%20%28SP%29%2C%20Brasil%29.JPG?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Jardins_(S%C3%A3o_Paulo_(SP),_Brasil).JPG",
+    "author": "Eugenio Hansen, OFS",
+    "license": "CC BY-SA 4.0",
+    "caption": "Vista da região dos Jardins em São Paulo em janeiro de 2016. Imagem contextual da cidade, NÃO da fachada nem do salão do Evvai, situado em Pinheiros.",
+    "illustrative": true
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Evvai — site oficial",
+    "url": "https://www.evvai.com.br/",
+    "note": "Fotografias reais do salão, do chef e de pratos do menu Oriundi aparecem no site do Evvai e no Guia Michelin. Sem licença pública para reproduzi-las, a capa do A Carta mostra apenas uma imagem creditada da cidade.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Evvai 2026",
+        "url": "https://guide.michelin.com/br/pt_BR/article/michelin-guide-ceremony/dois-restaurantes-conquistam-tres-estrelas-michelin-no-brasil",
+        "note": "Imagens reais dos pratos e registro da terceira estrela Michelin."
+      }
+    ]
   }
 }
