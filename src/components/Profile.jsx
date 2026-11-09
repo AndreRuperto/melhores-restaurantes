@@ -195,7 +195,7 @@ export function Facade({ p }) {
 
   return (
     <section className="pt-20" id="fachada">
-      <Kicker kicker="O lugar" title={title} center />
+      <Kicker kicker={preview?.src ? (reference?.previewKicker || "O lugar") : "O lugar"} title={title} center />
       {photo?.src ? (
         <div className="mx-auto mt-9 max-w-3xl">
           <Photo photo={photo} ratio="aspect-[4/3] sm:aspect-[16/10]" />
@@ -214,6 +214,19 @@ export function Facade({ p }) {
             className="link-u inline-flex items-center gap-1 font-medium text-ink hover:text-wine focus-visible:outline-2 focus-visible:outline-wine">
             {externalFacade ? 'Ver fachada na fonte original ↗' : 'Ver fotos na fonte original ↗'}
           </a>
+          {(reference.additionalSources || []).length > 0 && (
+            <div className="w-full border-t border-rule pt-4">
+              <p className="mb-2 text-sm font-medium text-ink">Outros registros fotográficos do próprio restaurante</p>
+              <ul className="space-y-2">
+                {reference.additionalSources.map((source) => (
+                  <li key={source.url} className="text-sm leading-relaxed text-ink-2">
+                    <a href={source.url} target="_blank" rel="noopener noreferrer" className="link-u font-medium text-ink hover:text-wine">{source.publisher} ↗</a>
+                    {source.note ? <> — {source.note}</> : null}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
           <p className="text-xs italic leading-relaxed text-muted">
             Publicação: {reference.publisher}. Imagens de terceiros não são republicadas apenas com base no crédito da fonte.
           </p>
@@ -298,6 +311,12 @@ export function PhotoCredits({ p }) {
             <span className="text-muted"> · {host(reference.url)} · referência externa (sem republicação)</span>
           </li>
         )}
+        {(reference?.additionalSources || []).map(source => (
+          <li key={source.url} className="border-l border-rule pl-3">
+            <a href={source.url} className="link-u font-medium text-ink hover:text-wine" target="_blank" rel="noopener noreferrer">{source.publisher}</a>
+            <span className="text-muted"> · {host(source.url)} · referência fotográfica externa</span>
+          </li>
+        ))}
       </ul>
     </section>
   )
