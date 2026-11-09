@@ -151,6 +151,22 @@
     "kind": "ambientes",
     "publisher": "FOJAB (arquitetura)",
     "url": "https://fojab.se/en/project/vyn-restaurant-hotel-food-bar/",
-    "note": "Fotografias do projeto real de Daniel Berlin em Österlen, concluído em 2023; não é a casa homônima de Björnrike."
+    "note": "Fotografias do projeto real de Daniel Berlin em Österlen, concluído em 2023; não é a casa homônima de Björnrike.",
+    "featuredGalleryIndex": 1,
+    "previewKicker": "A trajetória",
+    "previewTitle": "O restaurante anterior de Daniel Berlin",
+    "previewContext": "Fotografia licenciada da fachada do Daniel Berlin Krog em Skåne-Tranås, em 2018. Esta casa fechou em 2020 e não é o Vyn, que funciona em Gislövshammar desde 2023. Fotos do restaurante atual estão nas referências externas.",
+    "additionalSources": [
+      {
+        "publisher": "Njord Design",
+        "url": "https://njorddesign.se/en/blogs/news/restaurang-vyn-daniel-berlin",
+        "note": "Registros fotográficos de ambientes e detalhes da unidade atual de Vyn"
+      },
+      {
+        "publisher": "FOJAB",
+        "url": "https://fojab.se/en/topical/vyn-wins-simrishamn-architecture-prize-2025/",
+        "note": "Projeto arquitetônico do Vyn e sua sede atual"
+      }
+    ]
   }
 }
