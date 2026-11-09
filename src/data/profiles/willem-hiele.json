@@ -1,29 +1,112 @@
 {
-  "lede": "Na região costeira belga, Willem Hiele valoriza a paisagem do mar do Norte e os produtos locais.",
+  "lede": "Na paisagem dos polders de Oudenburg, perto de Oostende, o chef Willem Hiele construiu uma experiência marcada pelo mar do Norte, pelo fogo e pela agricultura flamenga. A casa funciona numa residência brutalista de Jacques Moeschal, onde a natureza define um menu que muda diariamente.",
   "history": [
-    "O chef Willem Hiele desenvolveu uma cozinha muito associada à pesca, à panificação e ao trabalho artesanal.",
-    "A cozinha de Willem Hiele começou na antiga casa de pescadores da família na costa belga. Mais tarde, mudou-se para uma casa de arquitetura marcante na área rural."
+    "Willem Hiele cresceu entre Oostende e Koksijde, numa família ligada à pesca. A costa flamenga tornou-se parte de sua linguagem culinária: peixes do mar do Norte, ervas salgadas, conservas, pão artesanal e preparos feitos com fogo direto entram em seu repertório.",
+    "A primeira fase de seu restaurante funcionava em uma antiga casa de pescadores, num ambiente reduzido e pessoal. O chef desenvolveu uma cozinha de temporada e ganhou reconhecimento por aproximar a memória de receitas costeiras das técnicas contemporâneas.",
+    "Em 2022, transferiu a casa para Kapittelstraat 71, em Oudenburg, dentro de um edifício brutalista que fora residência do artista-arquiteto Jacques Moeschal. A construção geométrica, as amplas janelas e o campo do entorno fazem parte da experiência de visita; o restaurante também oferece hospedagem no local.",
+    "A casa foi reconhecida pelo Guia Michelin e incluída no ranking estendido de 2026 do The 50 Best Restaurants, na 66ª posição. A equipe mantém a proposta de uma degustação definida pelo que pescadores e agricultores entregam naquele momento, sem uma lista fixa de pratos."
   ],
   "cuisine": {
-    "style": "Cozinha costeira flamenga contemporânea",
+    "style": "Cozinha flamenga contemporânea de mar, campo e fogo",
     "paragraphs": [
-      "Peixes, crustáceos, algas e produtos agrícolas próximos orientam um menu sazonal.",
-      "Apesar da mudança de endereço, o mar do Norte continua central: pescados e crustáceos são combinados a produtos agrícolas dos campos próximos."
+      "A culinária do Willem Hiele responde às marés e aos ciclos dos polders: peixes costeiros, vegetais, frutas, caça sazonal e ingredientes cultivados perto do restaurante. O fogo vivo e a panificação são técnicas centrais, enquanto caldos e molhos concentram os sabores.",
+      "A degustação Chef's Experience é única, oferecida no almoço ou jantar conforme o calendário, e muda diariamente. No começo, os convidados percorrem os arredores para compreender de onde vêm os ingredientes e o modo como a equipe se relaciona com a paisagem.",
+      "O Guia Michelin descreve, como exemplos históricos, lebre da região assada no osso com louro, acompanhada de cerejas, cogumelos trombeta e notas de amora, e combinações de maçã ácida com cortes de ave. Esses são registros de repertório, não confirmação do menu de uma reserva específica."
     ]
   },
   "chef": {
     "name": "Willem Hiele",
-    "bio": "Willem Hiele desenvolveu a casa a partir da tradição de uma família ligada à costa da Bélgica e mantém a atenção à pesca e à panificação."
+    "bio": "Natural da costa belga, Willem Hiele desenvolveu uma cozinha muito ligada à pesca e à padaria artesanal. Após uma primeira fase em uma antiga casa de pescadores, estabeleceu seu restaurante em 2022 no edifício de Jacques Moeschal, em Oudenburg. Seu menu segue a oferta diária do mar do Norte e dos produtores flamengos."
   },
   "awards": [
     {
+      "year": 2023,
+      "title": "Uma estrela Michelin para a fase de Oudenburg, após mudança para a nova sede"
+    },
+    {
+      "year": 2025,
+      "title": "Uma estrela Michelin — Guia Michelin Bélgica e Luxemburgo"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 66º lugar no ranking mundial"
+      "title": "Uma estrela Michelin mantida — Guia Michelin Bélgica e Luxemburgo"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 66 na lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://willemhiele.be/en",
+    "https://willemhiele.be/en/menu",
+    "https://www.willemhiele.be/en/book",
+    "https://guide.michelin.com/us/en/west-vlaanderen/oudenburg/restaurant/willem-hiele-1203519",
+    "https://www.gaultmillau.be/en/restaurants/willem-hiele-oudenburg",
+    "https://www.visitoostende.be/en/willem-hiele",
+    "https://commons.wikimedia.org/wiki/File:Oostende_strand.jpg"
   ],
   "slug": "willem-hiele",
-  "rank": 66
+  "rank": 66,
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Oostende%20strand.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Oostende_strand.jpg",
+    "author": "Paul Hermans",
+    "license": "CC BY-SA 4.0",
+    "caption": "Praia de Oostende, litoral belga, em julho de 2022. Imagem de contexto regional, NÃO da fachada nem do interior do restaurante Willem Hiele, situado nos polders de Oudenburg.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Peixe do mar do Norte na brasa",
+      "desc": "Preparações de pescado local com fogo e molhos concentrados; exemplo da linha de cozinha, não prato fixo do menu.",
+      "photo": null
+    },
+    {
+      "name": "Lebre dos polders com louro",
+      "desc": "Carne de caça preparada no osso, acompanhada em versão descrita pelo Michelin de cogumelos trombeta, cerejas e amoras.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais de produtores próximos",
+      "desc": "Passagens sazonais de raízes e folhas, baseadas no que os agricultores da região entregam a cada dia.",
+      "photo": null
+    },
+    {
+      "name": "Pão de fermentação natural",
+      "desc": "Panificação artesanal e acompanhamentos que dialogam com preparações de caça e de mar, citados pelos inspetores Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Frutas locais e contrastes de temperatura",
+      "desc": "Composições de frutas e ervas que procuram equilibrar doçura, acidez e notas de fogo; a apresentação muda por temporada.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://willemhiele.be/en",
+    "address": "Kapittelstraat 71, 8460 Oudenburg, Bélgica",
+    "reservationUrl": "https://www.willemhiele.be/en/book",
+    "reservation": "Reservas pela página oficial, com opções de mesa ou estadia. O sistema Guestplan exige um sinal de €150, descontado da conta. A página de reservas indica almoço de quinta a domingo e jantar às sextas e sábados; outras páginas do site publicam horários diferentes, por isso conferir a data específica no calendário. Contato: +32 468 00 66 99.",
+    "price": "Chef's Experience: €235 por pessoa, conforme cardápio oficial consultado em novembro de 2026. O menu é único e varia diariamente; não há opção vegetariana, vegana ou sem pescados, segundo a casa."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Willem Hiele — site oficial",
+    "url": "https://willemhiele.be/en",
+    "note": "Site com fotografias reais da sede brutalista projetada por Jacques Moeschal. A imagem reproduzida na capa do A Carta é apenas da praia de Oostende, não da sede.",
+    "additionalSources": [
+      {
+        "publisher": "Gault&Millau Belgium",
+        "url": "https://www.gaultmillau.be/en/restaurants/willem-hiele-oudenburg",
+        "note": "Fotos reais do interior do restaurante e ficha gastronômica."
+      },
+      {
+        "publisher": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/west-vlaanderen/oudenburg/restaurant/willem-hiele-1203519",
+        "note": "Foto real do espaço e descrição do edifício e da cozinha."
+      }
+    ]
+  }
 }
