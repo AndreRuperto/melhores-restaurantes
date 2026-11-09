@@ -1,36 +1,119 @@
 {
-  "lede": "O Sazenka, em Tóquio, combina tradição chinesa e sensibilidades da gastronomia japonesa.",
+  "lede": "Em Minamiazabu, Tóquio, o Sazenka é o encontro entre a técnica da alta cozinha chinesa e a sensibilidade japonesa para chá, sazonalidade e hospitalidade. Aberto em 2017, tornou-se um marco ao conquistar três estrelas Michelin sob a direção do chef Tomoya Kawada.",
   "history": [
-    "O restaurante trabalha uma proposta em que sabores chineses são apresentados com precisão e atenção às estações japonesas.",
-    "Tomoya Kawada criou um restaurante que acompanha as pequenas mudanças de estação observadas no Japão. O serviço utiliza louças pintadas e recipientes tradicionais para destacar os ingredientes."
+    "O Sazenka abriu em fevereiro de 2017 no bairro residencial de Minamiazabu, em uma antiga residência diplomática adaptada para restaurante. O nome combina os conceitos de chá, zen e flor/China e resume a proposta de aproximar duas culturas sem transformá-las em uma fusão superficial.",
+    "Tomoya Kawada estudou por anos os fundamentos das cozinhas chinesas e também trabalhou na alta gastronomia japonesa. Na casa, desenvolveu o princípio wakon-kansai — espírito japonês e talento ou técnica chinesa — para explorar caldos, ingredientes de estação, pimentas e preparos de delicadeza incomum.",
+    "O reconhecimento foi imediato: ainda em 2017 recebeu duas estrelas Michelin para o guia de Tóquio 2018. Em 2020, a casa recebeu a terceira estrela na edição 2021, destacando-se como restaurante de cozinha chinesa no Japão com o reconhecimento máximo.",
+    "O restaurante ganhou projeção em rankings asiáticos, como o 23º lugar em 2019 e o 12º em 2021. Em 2026, a lista estendida do The 50 Best Restaurants o colocou em 56º no mundo. As salas privadas e o salão principal mantêm uma experiência de serviço discreta e concentrada em poucos convidados."
   ],
   "cuisine": {
-    "style": "Cozinha chinesa contemporânea no Japão",
+    "style": "Cozinha chinesa contemporânea com espírito japonês",
     "paragraphs": [
-      "Caldos, chás, vegetais e preparações técnicas aproximam a cozinha chinesa do formato japonês de degustação.",
-      "Um dos pratos recorrentes é Yun Bai Rou Pian, combinação de lâminas finas de porco e berinjela, com óleo de pimenta e molho de soja."
+      "O repertório parte de técnicas chinesas de cocção, extração de caldos, cozimento no vapor e uso de condimentos, mas incorpora produtos japoneses na estação ideal. O próprio chef descreve a busca por sabores claros, profundos e equilibrados: o ingrediente deve continuar reconhecível.",
+      "O chá tem papel central no ritmo da refeição. A equipe propõe combinações com folhas e infusões selecionadas para acompanhar os pratos e reforçar a ideia de harmonia entre convidados, cozinha e espaço.",
+      "Entre as preparações associadas à trajetória do Sazenka estão Yun Bai Rou Pian, com porco e berinjela em lâminas finas, sopas transparentes de aves e pratos sazonais de frutos do mar e legumes. A sequência degustação é definida pelos produtos disponíveis e não deve ser tratada como cardápio fixo."
     ]
   },
   "chef": {
     "name": "Tomoya Kawada",
-    "bio": "Tomoya Kawada desenvolveu o Sazenka como encontro entre gastronomia chinesa e atenção japonesa à sazonalidade e à apresentação."
+    "bio": "Tomoya Kawada é o chef executivo do Sazenka. Antes de abrir a casa em 2017, trabalhou cerca de uma década com cozinha chinesa em Azabu Chōkō e depois passou aproximadamente cinco anos pelo restaurante japonês Ryugin. Seu trabalho pesquisa a essência da cozinha chinesa e a expressa a partir dos ingredientes e da atenção às estações no Japão."
   },
   "awards": [
     {
+      "year": 2017,
+      "title": "Duas estrelas Michelin — Guia Michelin Tóquio 2018"
+    },
+    {
+      "year": 2019,
+      "title": "Asia's 50 Best Restaurants — nº 23"
+    },
+    {
+      "year": 2020,
+      "title": "Três estrelas Michelin — Guia Michelin Tóquio 2021"
+    },
+    {
+      "year": 2021,
+      "title": "Asia's 50 Best Restaurants — nº 12"
+    },
+    {
+      "year": 2022,
+      "title": "Asia's 50 Best Restaurants — nº 11"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 56º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 56, lista estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://sazenka.com/",
+    "https://sazenka.com/info",
+    "https://sazenka.com/reservation",
+    "https://sazenka.com/chef",
+    "https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/sazenka",
+    "https://commons.wikimedia.org/wiki/File:Arisugawa_park.jpg"
   ],
   "slug": "sazenka",
   "rank": 56,
   "dishes": [
     {
       "name": "Yun Bai Rou Pian",
-      "desc": "Espiral de lâminas finas de porco e berinjela, com óleo de pimenta, soja temperada e togarashi.",
+      "desc": "Lâminas finas de porco e berinjela enroladas, temperadas com molho de soja e óleo de pimenta; criação documentada no repertório da casa.",
+      "photo": null
+    },
+    {
+      "name": "Caldo de faisão",
+      "desc": "Sopa límpida construída com técnica chinesa de extração de sabor; preparo destacado em perfis gastronômicos, sujeito à estação.",
+      "photo": null
+    },
+    {
+      "name": "Abalone lentamente cozido",
+      "desc": "Molusco trabalhado em cocção longa, uma referência aos clássicos chineses de banquete; não há confirmação de presença no menu atual.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais japoneses sazonais",
+      "desc": "Vegetais locais preparados com técnicas chinesas, como vapor e salteado de alta temperatura; composição variável.",
+      "photo": null
+    },
+    {
+      "name": "Chás de acompanhamento",
+      "desc": "Seleção de infusões que dialogam com o repertório de pratos, parte importante da experiência sensorial do Sazenka.",
       "photo": null
     }
-  ]
+  ],
+  "founded": 2017,
+  "founders": [
+    "Ryoji Hayashi",
+    "Tomoya Kawada"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Arisugawa_park.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Arisugawa_park.jpg",
+    "author": "Syced",
+    "license": "CC0 1.0",
+    "caption": "Parque Arisugawa-no-miya, em Minamiazabu, Tóquio, fotografado em 2020. Foto ilustrativa do bairro; NÃO retrata o Sazenka.",
+    "illustrative": true
+  },
+  "practical": {
+    "website": "https://sazenka.com/",
+    "address": "4-7-5 Minamiazabu, Minato-ku, Tóquio 106-0047, Japão",
+    "reservationUrl": "https://sazenka.com/reservation",
+    "reservation": "Reservas pela página oficial (sistema online e telefone +81 50-3188-8819, atendimento das 10h às 16h em dias úteis de funcionamento). Novas datas abrem no dia 1º para até dois meses à frente; jantar e horários variam segundo calendário atualizado. Avisar alergias antecipadamente e verificar a política de cancelamento antes de concluir.",
+    "price": "Menu omakase sazonal de cozinha chinesa; o preço atualizado não aparece com clareza na página mais recente de informações. Solicitar o valor exibido na reserva, sem usar como atual valores de páginas antigas."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Sazenka — site oficial",
+    "url": "https://sazenka.com/info",
+    "note": "As fotografias oficiais mostram a casa de Minamiazabu e seus ambientes. As imagens não foram copiadas porque a página não informa licença de republicação.",
+    "additionalSources": [
+      {
+        "publisher": "Tatler Asia",
+        "url": "https://www.tatlerasia.com/dining/food/best-restaurants-in-asia-for-wine-lovers",
+        "note": "Foto editorial real do exterior do Sazenka em Minamiazabu; fonte externa não reproduzida."
+      }
+    ]
+  }
 }
