@@ -1,29 +1,118 @@
 {
-  "lede": "O Mil, no Vale Sagrado próximo a Cusco, pesquisa produtos andinos em altitude elevada.",
+  "lede": "A 3.568 metros de altitude, perto das terrazas agrícolas incas de Moray, no Vale Sagrado de Cusco, o Mil transforma pesquisa antropológica e botânica em uma experiência gastronômica andina. Criado por Virgilio Martínez, Pía León e Malena Martínez, conecta a cozinha aos conhecimentos de comunidades e agricultores vizinhos.",
   "history": [
-    "Integrado ao trabalho de pesquisa de Virgilio Martínez, o restaurante se localiza perto do sítio inca de Moray, a aproximadamente 3.600 metros de altitude.",
-    "O Mil se localiza a aproximadamente 3.600 metros de altitude, perto das ruínas incas de Moray, no Vale Sagrado."
+    "O Mil foi inaugurado em 2018 nos arredores das antigas terrazas incas de Moray, na região de Maras, próximo a Cusco. O projeto nasceu da pesquisa de Virgilio Martínez, Pía León e Malena Martínez sobre a biodiversidade dos Andes e sua relação com os modos de vida das comunidades.",
+    "A casa reúne um restaurante e atividades de pesquisa ligadas à Mater, organização que documenta produtos, sementes, técnicas agrícolas e saberes alimentares. As comunidades de Mullak’as-Misminay e K’acllaraccay participam do projeto por meio de cultivo, troca de conhecimentos e experiências de imersão.",
+    "A aproximadamente 3.568 metros de altitude, a equipe trabalha com uma rede de mais de 300 produtores, agricultores e artesãos locais, em territórios com diferentes ecossistemas. O restaurante procura respeitar a paisagem de Moray e servir principalmente insumos encontrados ou cultivados nos arredores.",
+    "O Mil estrutura sua refeição como uma viagem por oito ecossistemas andinos. No Latin America's 50 Best de 2025 foi classificado em 49º; no ranking mundial estendido de 2026 ficou em 95º. A experiência atual oferece degustação simples ou modalidades ampliadas que incluem visitas e aprendizado com comunidades e pesquisadores."
   ],
   "cuisine": {
-    "style": "Cozinha andina de ecossistemas locais",
+    "style": "Cozinha andina contemporânea de altitude, território e pesquisa",
     "paragraphs": [
-      "O menu utiliza ingredientes da região próxima, com estudo de agricultores e comunidades andinas.",
-      "Virgilio Martínez e sua equipe pesquisam os produtos das comunidades próximas e utilizam ingredientes obtidos no próprio ecossistema, em vez de combinar recursos de todo o Peru."
+      "A proposta parte de ingredientes de comunidades próximas, incluindo batatas e outros tubérculos nativos, variedades de milho, grãos andinos, ervas e produtos de ambientes mais altos ou de transição. Os pratos são pensados como pequenos retratos de ecossistemas.",
+      "A degustação oficial percorre oito momentos, com versão regular Mundo MIL e versão vegetal Mundo Vegetal. O repertório descrito pela organização do 50 Best inclui batatas com erva chincho e argila chaco, ingredientes de florestas andinas como abacate e tarwi, além de produtos de altitude extrema como alpaca e quinoa negra.",
+      "Além da degustação, o restaurante oferece rotas que levam ao projeto de pesquisa Mater, às plantações ou ao encontro com comunidades andinas. As imersões são produtos separados da refeição de duas horas e não devem ser descritas como simples reservas de mesa."
     ]
   },
   "chef": {
-    "name": "Virgilio Martínez",
-    "bio": "Virgilio Martínez desenvolveu o Mil como projeto ligado à pesquisa de ingredientes e conhecimentos alimentares andinos."
+    "name": "Luis Valderrama (chef no Mil) · Virgilio Martínez e Pía León (concepção) · Malena Martínez (Mater)",
+    "bio": "Virgilio Martínez e Pía León desenvolveram o Mil como extensão de sua investigação da biodiversidade peruana; Malena Martínez dirige a Mater, responsável pela pesquisa interdisciplinar. O chef Luis Valderrama lidera a cozinha no sítio de Moray, transformando insumos de pequenos agricultores e conhecimentos das comunidades andinas num percurso de oito etapas."
   },
   "awards": [
     {
+      "year": 2019,
+      "title": "Menção entre destinos gastronômicos fora dos circuitos tradicionais — The World Restaurant Awards, categoria Off-Map Destination"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 49"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 75, lista estendida"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 95º lugar no ranking mundial"
+      "title": "The 50 Best Restaurants — nº 95, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://milcentro.pe/",
+    "https://milcentro.pe/about",
+    "https://milcentro.pe/menu",
+    "https://milcentro.pe/book",
+    "https://www.the50.com/restaurants/best-in-latin-america/the-list/Mil.html",
+    "https://elcomercio.pe/somos/historias/como-es-comer-en-uno-de-los-restaurantes-de-alta-cocina-mas-altos-del-mundo-asi-es-mil-de-virgilio-martinez-noticia/",
+    "https://commons.wikimedia.org/wiki/File:View_of_the_inca_ruins_of_the_immensity_of_Moray.jpg"
   ],
   "slug": "mil",
-  "rank": 95
+  "rank": 95,
+  "founded": 2018,
+  "founders": [
+    "Virgilio Martínez",
+    "Pía León",
+    "Malena Martínez"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20the%20inca%20ruins%20of%20the%20immensity%20of%20Moray.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_the_inca_ruins_of_the_immensity_of_Moray.jpg",
+    "author": "F Delventhal",
+    "license": "CC BY 2.0",
+    "caption": "Panorama real das terrazas incas de Moray, com o edifício do restaurante Mil ao fundo, fotografado em dezembro de 2018. NÃO é uma foto próxima da fachada ou do salão; o foco é a paisagem arqueológica.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "dishes": [
+    {
+      "name": "Andes Centrais — tubérculos e chincho",
+      "desc": "Preparações com batatas, talos, argila chaco e a erva chincho, descritas no perfil gastronômico de 2025.",
+      "photo": null
+    },
+    {
+      "name": "Floresta Andina — tarwi e abacate",
+      "desc": "Passagem que explora ingredientes dos ecossistemas de transição, incluindo tarwi e abacate; composição sazonal.",
+      "photo": null
+    },
+    {
+      "name": "Altitude extrema — quinoa e alpaca",
+      "desc": "Combinação documentada de produtos de maior altitude, como quinoa negra, alpaca e tomate de árvore; não representa prato fixo.",
+      "photo": null
+    },
+    {
+      "name": "Milhos nativos do Vale Sagrado",
+      "desc": "Preparações que evidenciam variedades de milho em diferentes cores e texturas, segundo relatos de visita de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Huatia dos Andes",
+      "desc": "Referência a técnica tradicional de cocção andina em uma passagem documentada por reportagem de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Biodiversidade de batatas e flores",
+      "desc": "Etapa que valoriza a diversidade de batatas e tubérculos regionais com flores comestíveis, segundo reportagem de 2026.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://milcentro.pe/",
+    "address": "Via a Moray, distrito de Maras, Vale Sagrado, Cusco, Peru; 3.568 m de altitude, a aproximadamente 53 km a nordeste de Cusco",
+    "reservationUrl": "https://milcentro.pe/book",
+    "reservation": "Reservas oficiais pela página do Mil, para grupos de 1 a 6 pessoas com até quatro meses de antecedência, com calendário anunciado até dezembro de 2026. Para grupos maiores, contato por reservas@milcentro.pe ou +51 970 645 908. Almoços de terça a domingo a partir de 12h; experiências de imersão começam em horários próprios. É importante organizar deslocamento e confirmar as condições da experiência escolhida.",
+    "price": "Degustação Mundo MIL ou Mundo Vegetal: US$360 por pessoa. Experiência Ruta Botánica com degustação: US$620; Ruta Warmi: US$660; Ruta Qollqa: US$720, conforme a página oficial consultada em novembro de 2026. Modalidades têm atividades distintas; verificar inclusões e preço final no checkout."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Wikimedia Commons — Moray e Mil",
+    "url": "https://commons.wikimedia.org/wiki/File:View_of_the_inca_ruins_of_the_immensity_of_Moray.jpg",
+    "note": "Fotografia licenciada CC BY 2.0, de F Delventhal, mostra as terrazas de Moray com o edifício do Mil visível ao fundo, em 2018. A imagem representa o contexto real e não é fachada em close nem foto do salão. Fotografias atuais da equipe e dos pratos permanecem nas fontes institucionais.",
+    "additionalSources": [
+      {
+        "publisher": "Mil Centro — experiências oficiais",
+        "url": "https://milcentro.pe/book",
+        "note": "Imagens, descrição das rotas de visita e preços separados da degustação."
+      }
+    ]
+  }
 }
