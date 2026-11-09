@@ -123,5 +123,13 @@
     "publisher": "Don Julio — registros Wikimedia Commons",
     "url": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
     "note": "Fotografia real da entrada do Don Julio, já reproduzida na capa com crédito e licença CC BY 4.0. Outra foto da casa aparece na galeria."
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Julio_02.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
+    "author": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "caption": "Parrilla Don Julio, no bairro Palermo de Buenos Aires, em 2024",
+    "illustrative": false
   }
 }
