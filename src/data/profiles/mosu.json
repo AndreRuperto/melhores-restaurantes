@@ -1,29 +1,122 @@
 {
-  "lede": "O Mosu, em Seul, explora ingredientes coreanos com uma abordagem de pesquisa culinária.",
+  "lede": "Na encosta de Yongsan, em Seul, o Mosu combina memórias coreanas do chef Sung Anh com precisão técnica e ingredientes sazonais. Depois de uma pausa em 2024, reabriu em março de 2025 em uma nova sede, conquistando duas estrelas Michelin na edição de 2026.",
   "history": [
-    "O chef Sung Anh desenvolveu o restaurante a partir de uma trajetória internacional e de trabalho com produtos locais.",
-    "O nome Mosu faz referência à flor cosmos, presente no jardim da infância de Sung Anh. A ideia de memória influencia seus pratos."
+    "Sung Anh criou o primeiro Mosu em São Francisco em 2015, depois de trabalhar em restaurantes internacionais e desenvolver uma cozinha que procurava integrar lembranças coreanas a técnicas contemporâneas.",
+    "Em 2017, transferiu o projeto para Seul. O restaurante de Itaewon conquistou uma estrela Michelin em 2020, a segunda em 2021 e a terceira nas edições de 2023 e 2024, destacando-se como um dos endereços mais influentes da cena gastronômica da Coreia do Sul.",
+    "Após uma interrupção de funcionamento em 2024, o Mosu reabriu em março de 2025 em outra casa no mesmo distrito de Yongsan, no endereço Hoenamu-ro 41-gil 4. O espaço tem diferentes ambientes, com cozinha visível a partir do piso térreo e áreas mais reservadas nos andares superiores.",
+    "Em março de 2026, a nova fase foi premiada com duas estrelas Michelin. A mudança de estrelas não deve ser descrita como perda direta de uma terceira estrela na mesma inspeção: houve uma pausa e uma nova avaliação após a reabertura. O Mosu apareceu em 41º no Asia's 50 Best 2026 e em 78º na lista mundial estendida."
   ],
   "cuisine": {
-    "style": "Cozinha coreana autoral contemporânea",
+    "style": "Alta cozinha coreana autoral, sazonal e de precisão",
     "paragraphs": [
-      "O menu de degustação muda com a estação e utiliza técnicas de fermentação e extração.",
-      "Sabores coreanos conhecidos reaparecem por meio de técnicas internacionais e apresentação cuidadosa, em um menu de degustação sazonal."
+      "O chef usa ingredientes coreanos e técnicas de diferentes tradições para construir pratos com camadas de sabor e texturas controladas. A seleção muda com a estação e valoriza pescados, vegetais e caldos bem definidos.",
+      "O Guia Michelin destaca o taco de abalone, o tofu de gergelim, a tortinha de bardana e o pão de fermentação natural entre as assinaturas. Em 2026, os inspetores também apontaram peixe tilefish cozido no vapor em caldo de anchovas como uma das passagens mais marcantes da nova fase.",
+      "O restaurante organiza a refeição como degustação, com composição variável. Os pratos históricos ou descritos pelo Michelin são referências do repertório, não uma promessa de disponibilidade em cada sessão."
     ]
   },
   "chef": {
-    "name": "Sung Anh",
-    "bio": "Sung Anh dirige o Mosu e desenvolve uma cozinha coreana influenciada por experiências internacionais."
+    "name": "Sung Anh (Ahn Sung-jae)",
+    "bio": "Chef de origem coreana, Sung Anh fundou o Mosu em São Francisco em 2015 e levou a proposta para Seul em 2017. Sua cozinha recebeu três estrelas Michelin na sede anterior e duas estrelas na nova casa, avaliada em 2026 após a reabertura. Sua equipe inclui o chef de cozinha Oh Jong-il, apresentado no site oficial."
   },
   "awards": [
     {
+      "year": 2020,
+      "title": "Primeira estrela Michelin — Mosu Seul"
+    },
+    {
+      "year": 2021,
+      "title": "Segunda estrela Michelin — Mosu Seul"
+    },
+    {
+      "year": 2023,
+      "title": "Três estrelas Michelin — antiga sede, seleção 2023"
+    },
+    {
+      "year": 2024,
+      "title": "Três estrelas Michelin mantidas — antiga sede, seleção 2024"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 78º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin concedidas à sede reaberta em 2025"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 41"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 78 (ranking mundial estendido)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.mosuseoul.com/",
+    "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mosu",
+    "https://guide.michelin.com/mo/en/article/dining-out/mosu-seoul-inspector-reveals-all-sung-anh-newly-reopened-michelin-two-star",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-seoul-busan-2026-highlights",
+    "https://www.the50.com/restaurants/best-in-asia/list/1-50",
+    "https://commons.wikimedia.org/wiki/File:Itaewon_1.jpg"
   ],
   "slug": "mosu",
-  "rank": 78
+  "rank": 78,
+  "founded": 2015,
+  "founders": [
+    "Sung Anh (Ahn Sung-jae)"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Itaewon%201.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Itaewon_1.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "caption": "Rua do bairro Itaewon, em Seul, fotografada em dezembro de 2022. Imagem contextual; NÃO retrata o Mosu nem sua sede reaberta em 2025.",
+    "illustrative": true
+  },
+  "dishes": [
+    {
+      "name": "Taco de abalone",
+      "desc": "Uma das assinaturas do Mosu, que combina um ingrediente marinho valorizado na Coreia com uma apresentação contemporânea.",
+      "photo": null
+    },
+    {
+      "name": "Tofu de gergelim tostado",
+      "desc": "Preparação de textura delicada, reconhecida pelo Guia Michelin entre os pratos marcantes da casa.",
+      "photo": null
+    },
+    {
+      "name": "Tarte de bardana",
+      "desc": "Criação vegetal do repertório do Mosu, com trabalho cuidadoso de textura e sabor.",
+      "photo": null
+    },
+    {
+      "name": "Tilefish no vapor em caldo de anchovas",
+      "desc": "Pescado de preparo delicado e caldo concentrado, destacado pelos inspetores Michelin na fase de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Pão de fermentação natural",
+      "desc": "Passagem elogiada pelo Michelin como parte do percurso de degustação da nova sede.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.mosuseoul.com/",
+    "address": "4 Hoenamu-ro 41-gil, Yongsan-gu, Seul 04344, Coreia do Sul",
+    "reservationUrl": "https://www.mosuseoul.com/",
+    "reservation": "Todos os lugares são reservados antecipadamente exclusivamente pela plataforma Catchtable, acessível no botão do site oficial; o Mosu informa que não recebe reservas por telefone, e-mail ou redes sociais. Cancelamentos com pelo menos três dias de antecedência têm devolução integral do depósito; após esse prazo, não há devolução, segundo a política exibida. Serviço de terça a sábado, com almoço de quarta a sábado; verificar calendário.",
+    "price": "Degustação sazonal; o preço atual em won não foi confirmado em fonte oficial aberta. Consultar o valor exibido no sistema Catchtable antes de reservar."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Mosu Seoul — site oficial",
+    "url": "https://www.mosuseoul.com/",
+    "note": "Fotografias reais da equipe, pratos e ambientes na sede atual, porém sem licença de reutilização verificada. A imagem de capa do A Carta é uma rua de Itaewon fotografada em 2022, não a casa reaberta em 2025.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — nova sede do Mosu",
+        "url": "https://guide.michelin.com/mo/en/article/dining-out/mosu-seoul-inspector-reveals-all-sung-anh-newly-reopened-michelin-two-star",
+        "note": "Fotografias do interior atual e pratos da casa reaberta, além de histórico Michelin verificado."
+      }
+    ]
+  }
 }
