@@ -1,29 +1,127 @@
 {
-  "lede": "O Neolokal, em Istambul, revisita receitas e ingredientes tradicionais da Turquia.",
+  "lede": "No edifício cultural SALT Galata, em Istambul, o Neolokal de Maksut Aşkar aproxima as memórias culinárias da Anatólia de técnicas contemporâneas. A casa trabalha com pequenos produtores, ingredientes regionais e receitas ameaçadas de desaparecer, combinando gastronomia, preservação cultural e responsabilidade ambiental.",
   "history": [
-    "Instalado no centro cultural Salt Galata, o restaurante trabalha com a paisagem culinária do país e vista para o Chifre de Ouro.",
-    "O Neolokal funciona dentro do centro cultural Salt Galata e oferece vista para o Chifre de Ouro, em Istambul."
+    "Maksut Aşkar nasceu em İskenderun e cresceu em Antakya, cercado por tradições culinárias diversas. Estudou turismo e hotelaria e começou a trabalhar em restaurantes antes de desenvolver projetos que aproximavam gastronomia, arte e design.",
+    "Em 2014, abriu o Neolokal no SALT Galata, instituição cultural instalada no antigo edifício do Banco Otomano em Karaköy. O nome expressa sua intenção de construir uma cozinha nova a partir das raízes locais, sem apenas replicar receitas antigas.",
+    "O projeto desenvolveu-se com pesquisa de técnicas, sementes, produtos e memórias de famílias da Anatólia. O salão e o terraço oferecem vista do Chifre de Ouro e das construções históricas de Istambul, enquanto a cozinha apresenta um percurso gastronômico contemporâneo.",
+    "O Neolokal recebeu uma estrela Michelin e Estrela Verde na edição inaugural do guia de Istambul, em 2023. Foi 63º no ranking mundial em 2023 e 91º em 2024; na lista mundial estendida de 2026, figurou em 94º lugar. O restaurante continua associando o trabalho culinário à preservação de conhecimentos alimentares."
   ],
   "cuisine": {
-    "style": "Cozinha turca contemporânea",
+    "style": "Turca e anatólica contemporânea, memória e sustentabilidade cultural",
     "paragraphs": [
-      "Vegetais, grãos, conservas e receitas familiares entram em pratos de apresentação moderna.",
-      "A cozinha de Maksut Aşkar revisita vegetais, grãos e receitas tradicionais turcas, articulando técnicas modernas e preservação de repertórios locais."
+      "O menu reinterpreta preparos caseiros e produtos de diferentes comunidades da Anatólia. Técnicas de conservação, grãos, legumes, peixes e laticínios regionais se combinam a apresentações mais delicadas, sem apagar a referência original das receitas.",
+      "O cardápio degustação inglês disponível em setembro de 2025 incluía anchovas marinadas com recheio de dolma, erişte com camarão, peixe de estação com molho de limão e mexilhões, cordeiro com freekeh e uma sobremesa de baklava com creme de pistache.",
+      "O Guia Michelin também destaca um peixe selado com purê de aipo-rábano caramelizado e um baklava de camadas crocantes. Existe opção de degustação vegetariana; os pratos listados podem mudar quando a equipe atualiza a carta."
     ]
   },
   "chef": {
     "name": "Maksut Aşkar",
-    "bio": "Maksut Aşkar dirige o Neolokal e trabalha com a equipe para reinterpretar ingredientes e preparações turcas."
+    "bio": "Nascido em İskenderun e criado em Antakya, Maksut Aşkar estudou hotelaria e começou sua carreira culinária nos anos 2000. Depois de projetos em gastronomia, arte e consultoria, inaugurou o Neolokal em 2014 no SALT Galata. Sua pesquisa se concentra em preservar receitas anatólicas ameaçadas e reinterpretá-las com técnica atual. Foi reconhecido pelo Gault&Millau e pelo Guia Michelin."
   },
   "awards": [
     {
+      "year": 2023,
+      "title": "Uma estrela Michelin — primeira seleção do guia Istambul"
+    },
+    {
+      "year": 2023,
+      "title": "Estrela Verde Michelin — compromisso com sustentabilidade"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 63"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 91, lista estendida"
+    },
+    {
+      "year": 2024,
+      "title": "Gault&Millau Turquia — Restaurante do Ano e quatro toques"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 94º lugar no ranking mundial"
+      "title": "Uma estrela Michelin e Estrela Verde mantidas — Guia Michelin Turquia"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 94, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.neolokal.com/",
+    "https://guest.rezervem.com.tr/neolokal",
+    "https://guide.michelin.com/tr/en/istanbul-province/istanbul/restaurant/neolokal",
+    "https://www.neolokal.com/wp-content/uploads/2025/09/neolokal_tasting_menu_eng_2025_240925.pdf",
+    "https://www.neolokal.com/wp-content/uploads/2025/06/Maksut-As%CC%A7kar-Bios.pdf",
+    "https://commons.wikimedia.org/wiki/File:Salt_galata.jpg"
   ],
   "slug": "neolokal",
-  "rank": 94
+  "rank": 94,
+  "founded": 2014,
+  "founders": [
+    "Maksut Aşkar"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Salt%20galata.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Salt_galata.jpg",
+    "author": "Melike Oncu",
+    "license": "CC BY-SA 4.0",
+    "caption": "Registro fotográfico do edifício cultural SALT Galata, em Istambul, feito em maio de 2022. O Neolokal funciona nesse complexo, mas a imagem NÃO comprova mostrar o salão ou a entrada privativa do restaurante.",
+    "illustrative": false
+  },
+  "dishes": [
+    {
+      "name": "İmambayıldı revisitado",
+      "desc": "Berinjela em várias texturas, com creme do preparo tradicional, alga vegetal e pó da própria berinjela, documentado no menu de 2025.",
+      "photo": null
+    },
+    {
+      "name": "Erişte com camarão",
+      "desc": "Massa de tradição anatólica acompanhada de camarão-vermelho, molho do crustáceo e óleo cítrico, em versão de 2025.",
+      "photo": null
+    },
+    {
+      "name": "Peixe com aipo-rábano e molho marinho",
+      "desc": "Pescado preparado com textura precisa e purê de aipo-rábano, acompanhado de molhos vegetais e marinhos, conforme o Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Cordeiro cozido lentamente com freekeh",
+      "desc": "Cordeiro acompanhado de preparo de pimenta e trigo verde tostado, registro do menu degustação de setembro de 2025.",
+      "photo": null
+    },
+    {
+      "name": "Baklava de pistache",
+      "desc": "Leitura de baklava com creme de pistache, lácteos fermentados e camadas crocantes, destacada pelo Michelin.",
+      "photo": null
+    },
+    {
+      "name": "Keşkül de amêndoas",
+      "desc": "Sobremesa com notas de amêndoa e leite caramelizado, registrada na carta oficial de 2025.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://www.neolokal.com/",
+    "address": "SALT Galata, Arap Camii Mahallesi, Bankalar Caddesi 11/1, Karaköy, Beyoğlu, Istambul 34420, Turquia",
+    "reservationUrl": "https://guest.rezervem.com.tr/neolokal",
+    "reservation": "Reservas solicitadas pelo formulário Rezervem, com confirmação posterior enviada pela equipe; o envio do pedido, isoladamente, não garante mesa. Jantar de terça a sábado, a partir das 18h30; fechado domingo e segunda. Exige autorização ou pré-pagamento até 48 horas antes e solicita aviso de alergias. A plataforma informa idade mínima de oito anos e traje casual elegante. Contato +90 551 447 45 45.",
+    "price": "Menu degustação: TRY 8.500 por pessoa, impostos incluídos, sem taxa de serviço ou adicionais, segundo o formulário de reserva cujo cardápio foi atualizado em 26 de junho de 2026. A carta de 2025 exibia TRY 6.500; não tratar o valor histórico como vigente."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Neolokal — site oficial e SALT Galata",
+    "url": "https://www.neolokal.com/",
+    "note": "Fotografias do restaurante, pratos e vistas estão no site oficial. A imagem publicada pelo A Carta mostra somente o edifício cultural SALT Galata, que abriga o restaurante, captado em 2022 e licenciado CC BY-SA 4.0.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Neolokal",
+        "url": "https://guide.michelin.com/tr/en/istanbul-province/istanbul/restaurant/neolokal",
+        "note": "Fotos reais do serviço e da culinária, além das distinções Michelin."
+      }
+    ]
+  }
 }
