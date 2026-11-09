@@ -36,6 +36,22 @@ A aplicação do mesmo componente de destaque já utilizado em Gaggan, Kadeau e 
 
 **Fontes de fachada pendentes:** RF Studio (Kjolle), Nation Thailand/The Star (Sorn), ArchDaily (Mérito — arquitetura), site oficial do Sühring e Folha de S.Paulo (Tuju). Os links continuam disponíveis nas páginas individuais. A atribuição no rodapé não autoriza copiar imagens dessas fontes sem licença.
 
+## Lote seguinte de cinco — Mingles, Nusara, Piazza Duomo, Vyn, Al Gatto Verde (08/11/2026)
+
+A seção editorial **O lugar** dos cinco perfis foi ajustada para exibir uma foto pré-existente com licença (ou, em Piazza Duomo, uma nova fotografia CC BY-SA 4.0 do centro de Alba). Os títulos foram particularizados para evitar apresentar ingredientes, pessoas ou o entorno como fachada do restaurante. Cada fotografia destacada é retirada da galeria para não duplicar a mesma imagem.
+
+| Posição | Restaurante | Foto reproduzida com licença no A Carta | Registro direto do estabelecimento (link, não cópia) |
+|---:|---|---|---|
+| 17 | Mingles | Jangdok tradicionais (fermentação coreana, não o restaurante) | Michelin e fotos de pratos no site do Mingles |
+| 18 | Nusara | Sobrados de Tha Tien (bairro, não a fachada) | Fotografia da sede do Nusara em ROOM / Baan Lae Suan |
+| 20 | Piazza Duomo | Praça central de Alba, imagem CC BY-SA 4.0 de Zairon (não a entrada) | Foto da entrada em TerroirSense e do salão no site oficial |
+| 23 | Vyn | Daniel Berlin Krog (sede **anterior** do chef, não o Vyn atual) | Arquitetura do Vyn atual em FOJAB e Njord Design |
+| 24 | Al Gatto Verde | Retrato de Massimo Bottura (2015, não o restaurante) | Pátio e ambiente reais no site oficial Al Gatto Verde |
+
+**Direitos:** as fotos de restaurantes hospedadas pelas fontes externas não foram copiadas nem incorporadas: a presença de crédito no rodapé não basta para republicá-las. As fotos reproduzidas são registros licenciados com autoria e fonte documentadas. O novo campo `photoReference.additionalSources` lista fontes específicas de imagens do local, exibidas na seção editorial e no rodapé.
+
+**Contagem:** cinco perfis adicionais têm destaques editoriais; a quantidade de **16/40** com fachadas/edifícios efetivamente cadastrados não mudou. A prioridade nos próximos lotes continua sendo encontrar **fotografias do restaurante com direito de reutilização comprovado**. O deploy ainda precisa passar na validação visual e no build.
+
 ## Inventário das fontes
 
 | Posição | Restaurante | Tipo | Publicação | Link |
