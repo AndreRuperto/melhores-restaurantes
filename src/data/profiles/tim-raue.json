@@ -1,29 +1,144 @@
 {
-  "lede": "O Tim Raue, em Berlim, usa referências asiáticas em uma cozinha marcada por sabores intensos.",
+  "lede": "Em Kreuzberg, Berlim, o restaurante de Tim Raue transforma a memória da cidade e as viagens pela Ásia em menus de sabores intensos. Fundado em 2010 com Marie-Anne Wild, combina ingredientes alemães, técnica francesa e influências chinesas, japonesas e tailandesas, mantendo duas estrelas Michelin em 2026.",
   "history": [
-    "O chef Tim Raue desenvolveu sua linguagem a partir de encontros entre gastronomia alemã e tradições asiáticas.",
-    "Marie-Anne Wild participa da direção do restaurante, enquanto Tim Raue coordena a cozinha. A proposta aposta em sabores marcantes e apresentações originais."
+    "Tim Raue nasceu em Berlim em 1974 e desenvolveu a carreira em cozinhas da cidade, incluindo restaurantes de hotel. Antes de ter uma casa própria, recebeu reconhecimento Michelin e Gault&Millau em projetos como o Restaurant 44 e o Ma Tim Raue.",
+    "Em 2010, abriu o Restaurant Tim Raue com Marie-Anne Wild em Kreuzberg, perto do Checkpoint Charlie. A casa escolheu uma identidade cosmopolita, sem buscar reproduzir fielmente uma cozinha nacional asiática: pratos alemães de memória afetiva passaram a conviver com especiarias e condimentos de viagens pela China, pelo Japão e pela Tailândia.",
+    "O restaurante conquistou a primeira estrela Michelin pouco depois da abertura e a segunda na etapa inicial de sua história, reconhecida nos guias da década de 2010. Marie-Anne Wild coordena o acolhimento e a operação; o ambiente urbano prioriza serviço próximo em vez de formalidade cerimonial.",
+    "Em 2024, ficou em 30º no ranking mundial The World's 50 Best Restaurants, passando a 58º em 2025 e a 85º na lista estendida de 2026. A casa manteve duas estrelas Michelin em 2026 e continua operando no endereço Rudi-Dutschke-Straße 26."
   ],
   "cuisine": {
-    "style": "Cozinha asiática contemporânea em Berlim",
+    "style": "Europeia contemporânea com influências asiáticas e identidade berlinense",
     "paragraphs": [
-      "O restaurante oferece menus com referências à cidade, à Ásia e uma proposta vegetariana.",
-      "Há três menus de degustação: um em homenagem a Berlim, outro de influências asiáticas e uma opção vegetariana/vegana."
+      "Os sabores mais reconhecíveis do chef unem acidez, notas picantes e toques adocicados, frequentemente equilibrados por vegetais crocantes e molhos concentrados. A técnica europeia encontra temperos, métodos de preparo e ingredientes de diferentes cozinhas asiáticas.",
+      "O menu Kolibri x Berlin revisita produtos e memórias gastronômicas da cidade; o menu Koi concentra as criações mais diretamente influenciadas pela Ásia. Existe ainda uma degustação Vegan que aplica os mesmos contrastes aromáticos a preparações sem produtos animais.",
+      "Assinaturas documentadas pelo Guia Michelin incluem lagostim com wasabi, pato Marie-Anne e Königsberger Klops 'Grandma Gerda'. O site oficial também descreve um menu Early Kolibri de cinco etapas oferecido no início da noite de sexta e sábado, quando houver lugares."
     ]
   },
   "chef": {
-    "name": "Tim Raue",
-    "bio": "Tim Raue desenvolveu uma cozinha contemporânea com referências asiáticas; Marie-Anne Wild é sócia na operação do restaurante."
+    "name": "Tim Raue (chef) · Marie-Anne Wild (proprietária e direção)",
+    "bio": "Tim Raue nasceu em Berlim em 1974 e desenvolveu a carreira em restaurantes de hotel e cozinhas próprias antes de abrir o Restaurant Tim Raue com Marie-Anne Wild, em 2010. Sua linguagem culinária combina pratos alemães de memória afetiva, técnica europeia e sabores da China, Tailândia e Japão. Wild dirige a experiência e a operação da casa, que mantém duas estrelas Michelin."
   },
   "awards": [
     {
+      "year": 2010,
+      "title": "Primeira estrela Michelin após a abertura do restaurante em Berlim"
+    },
+    {
+      "year": 2012,
+      "title": "Segunda estrela Michelin — seleção da fase inicial"
+    },
+    {
+      "year": 2019,
+      "title": "Restaurante do Ano — revista DER FEINSCHMECKER"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 31"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 30"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 58"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 85º lugar no ranking mundial"
+      "title": "Duas estrelas Michelin mantidas — Guia Michelin Alemanha"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 85, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://tim-raue.com/en/",
+    "https://tim-raue.com/en/contact/",
+    "https://tim-raue.com/en/menu/",
+    "https://tim-raue.com/en/team/marie-anne-wild/",
+    "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/tim-raue",
+    "https://www.the50.com/discovery/Establishments/Germany/Berlin/Restaurant-Tim-Raue.html",
+    "https://www.four-magazine.com/chefs/tim-raue/",
+    "https://commons.wikimedia.org/wiki/File:Tim_Raue_IMG_0804_(31147513582).jpg",
+    "https://commons.wikimedia.org/wiki/File:Kreuzberg_Rudi-Dutschke-Straße.JPG"
   ],
   "slug": "tim-raue",
-  "rank": 85
+  "rank": 85,
+  "founded": 2010,
+  "founders": [
+    "Tim Raue",
+    "Marie-Anne Wild"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Raue%20IMG%200804%20%2831147513582%29.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Raue_IMG_0804_(31147513582).jpg",
+    "author": "City Foodsters",
+    "license": "CC BY 2.0",
+    "caption": "Tim Raue em evento gastronômico em Copenhague em maio de 2016. Retrato real do chef, NÃO do salão nem da fachada do restaurante em Berlim.",
+    "illustrative": false
+  },
+  "gallery": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kreuzberg%20Rudi-Dutschke-Stra%C3%9Fe.JPG?width=1280",
+      "page": "https://commons.wikimedia.org/wiki/File:Kreuzberg_Rudi-Dutschke-Straße.JPG",
+      "author": "Fridolin freudenfett",
+      "license": "CC BY-SA 4.0",
+      "caption": "Rudi-Dutschke-Straße em Kreuzberg, Berlim, fotografada em fevereiro de 2014. Imagem da rua onde fica o restaurante, NÃO da entrada localizada no pátio interno do número 26.",
+      "illustrative": true
+    }
+  ],
+  "dishes": [
+    {
+      "name": "Lagostim com wasabi",
+      "desc": "Criação assinatura citada pelo Guia Michelin, com notas picantes de wasabi e contraste de acidez.",
+      "photo": null
+    },
+    {
+      "name": "Pato Marie-Anne",
+      "desc": "Uma das preparações mais conhecidas do restaurante, com referência ao nome da cofundadora, em versões sazonais.",
+      "photo": null
+    },
+    {
+      "name": "Königsberger Klops 'Grandma Gerda'",
+      "desc": "Releitura de almôndegas alemãs associada à memória familiar do chef, apresentada em seus menus.",
+      "photo": null
+    },
+    {
+      "name": "Borscht de wagyu",
+      "desc": "Interpretação de sopa de beterraba e carne de wagyu, registrada no repertório do Kolibri x Berlin.",
+      "photo": null
+    },
+    {
+      "name": "Coquetel de camarão 'KaDeWe'",
+      "desc": "Releitura da entrada berlinense de camarão com mandarina e alface, citada no menu de uma temporada anterior.",
+      "photo": null
+    },
+    {
+      "name": "Kolibri de cinco etapas",
+      "desc": "Versão reduzida da experiência de sexta e sábado no início do serviço; a composição concreta varia conforme o menu.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://tim-raue.com/en/",
+    "address": "Rudi-Dutschke-Straße 26, 10969 Berlim, Alemanha",
+    "reservationUrl": "https://tim-raue.com/en/",
+    "reservation": "Reservas exclusivamente pelo sistema online da página oficial, com abertura de até três meses de antecedência. Terça a quinta das 18h à meia-noite e sexta e sábado a partir das 17h; fechado domingo e segunda. A entrada fica no pátio interno do edifício. O site informa fechamento de férias de 24/12/2026 até 04/01/2027. Contato +49 30 25937930.",
+    "price": "Menus Kolibri x Berlin, Koi e Vegan com preços sujeitos a atualização. Um arquivo de cardápio datado de 2025 anunciava €292 para Kolibri, mas o preço de novembro de 2026 não foi confirmado diretamente no fluxo de reservas; consultar antes de finalizar."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Restaurant Tim Raue — site oficial",
+    "url": "https://tim-raue.com/en/",
+    "note": "Fotografias atuais dos pratos e dos ambientes no site da casa. O A Carta publica um retrato real de Tim Raue (2016) e uma rua contextual de Kreuzberg (2014), com licenças claras; nenhuma delas é a fachada do restaurante.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Tim Raue",
+        "url": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/tim-raue",
+        "note": "Fotos atuais da equipe, do salão e de preparações, além da descrição das opções Kolibri, Koi e Vegan."
+      }
+    ]
+  }
 }
