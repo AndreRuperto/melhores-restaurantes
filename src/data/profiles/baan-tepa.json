@@ -1,33 +1,114 @@
 {
-  "lede": "O Baan Tepa, em Bangkok, funciona em uma casa histórica com jardim e espaço de pesquisa culinária.",
+  "lede": "Na antiga residência de sua família, em Bangkok, Chudaree 'Tam' Debhakam transformou o Baan Tepa em um espaço de pesquisa culinária e agricultura urbana. Com duas estrelas Michelin e uma Estrela Verde, o restaurante apresenta menus tailandeses contemporâneos construídos a partir de ingredientes locais, fermentações e técnicas de aproveitamento.",
   "history": [
-    "A chef Chudaree 'Tam' Debhakam conduz o restaurante e valoriza ingredientes tailandeses e produtores locais.",
-    "O Baan Tepa reúne cozinha aberta, mesa do chef, jardim e espaço de pesquisa em uma casa histórica de Bangkok."
+    "O Baan Tepa funciona numa casa histórica pertencente à família de Chudaree Debhakam há três gerações. A antiga residência de sua avó, Lady Suwaree Debhakam, foi transformada em um projeto gastronômico que preserva partes da arquitetura original e incorpora jardim, cozinha e espaço de pesquisa.",
+    "Conhecida como Chef Tam, Chudaree Debhakam estudou Nutrição e Ciência dos Alimentos na Universidade de Nottingham, formou-se também no International Culinary Center, em Nova York, e trabalhou em cozinhas como Jean-Georges e Blue Hill at Stone Barns. Essas experiências influenciaram sua abordagem de agricultura e gastronomia responsáveis.",
+    "A experiência começa com a apresentação da casa e dos ingredientes. A equipe utiliza ervas cultivadas no jardim e alimentos de pequenos produtores tailandeses, aplicando técnicas de fermentação, conservação e recuperação de subprodutos para minimizar desperdícios.",
+    "O Baan Tepa recebeu duas estrelas Michelin na edição de 2024 e a Estrela Verde por suas práticas ambientais; manteve as distinções em 2026. Chudaree recebeu reconhecimento de jovem chef no Guia Michelin e foi escolhida Asia's Best Female Chef em 2025. Na lista mundial estendida de 2026, a casa ocupa a 90ª posição."
   ],
   "cuisine": {
-    "style": "Cozinha tailandesa contemporânea sustentável",
+    "style": "Cozinha tailandesa contemporânea, regenerativa e ligada a produtores locais",
     "paragraphs": [
-      "O menu explora ervas, fermentações e produtos do jardim e de diferentes regiões do país.",
-      "A proposta culinária investiga produtos tailandeses e modos de preparo, conectando o menu à pesquisa feita no espaço."
+      "A cozinha busca apresentar ingredientes, culturas agrícolas e receitas tailandesas por meio de sete etapas. Cada passagem traz referências a regiões e métodos de produção, combinando produtos colhidos no jardim com itens de agricultores parceiros.",
+      "O menu publicado no site oficial apresenta Paa Khao, com pepino recheado e vegetais fermentados; Tom Jued, caldo de frango e raízes; Pla Tod Nam Pla, peixe pomfret com manga e molho de peixe defumado; e Legumes, uma composição de sementes e vegetais locais.",
+      "Outras passagens incluem camarão de rio com fruta sazonal e chamuang, cortes bovinos menos valorizados e sobremesas com arroz glutinoso, coco e ervas. Uma experiência denominada Baan Tepa 2.0 aparece no calendário de reservas em outubro de 2026, com preço diferente da carta institucional — a composição deve ser confirmada na data escolhida."
     ]
   },
   "chef": {
     "name": "Chudaree 'Tam' Debhakam",
-    "bio": "Chudaree 'Tam' Debhakam dirige o Baan Tepa e recebeu o prêmio Asia's Best Female Chef 2025."
+    "bio": "Chef e proprietária do Baan Tepa, Chudaree Debhakam é formada em Nutrição e Ciência dos Alimentos pela Universidade de Nottingham e estudou no International Culinary Center, em Nova York. Trabalhou no Jean-Georges e por dois anos no Blue Hill at Stone Barns. Construiu em Bangkok uma proposta de cozinha tailandesa contemporânea que valoriza agricultores, jardim próprio e técnicas de redução de desperdício. Foi eleita Asia's Best Female Chef em 2025."
   },
   "awards": [
     {
-      "year": 2026,
-      "title": "The 50 Best Restaurants — 90º lugar no ranking mundial"
+      "year": 2024,
+      "title": "Duas estrelas Michelin — Guia Michelin Tailândia, reconhecimento alcançado na edição 2024"
+    },
+    {
+      "year": 2024,
+      "title": "Estrela Verde Michelin — práticas ambientais e abastecimento responsável"
     },
     {
       "year": 2025,
-      "title": "Asia's Best Female Chef 2025 para Chudaree Debhakam"
+      "title": "Chudaree Debhakam — Asia's Best Female Chef, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2026,
+      "title": "Duas estrelas Michelin e Estrela Verde mantidas — Guia Michelin Tailândia"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 90, estreia na lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://baantepabkk.com/",
+    "https://baantepabkk.com/about-us",
+    "https://baantepabkk.com/menu",
+    "https://baantepabkk.com/contact",
+    "https://www.tablecheck.com/en/shops/baan-tepa-culinary-space/reserve",
+    "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/baan-tepa"
   ],
   "slug": "baan-tepa",
-  "rank": 90
+  "rank": 90,
+  "founders": [
+    "Chudaree 'Tam' Debhakam"
+  ],
+  "dishes": [
+    {
+      "name": "Paa Khao",
+      "desc": "Pepino recheado, vegetais frescos e fermentados, fruta jovem e preparos suínos; composição inspirada na mesa tailandesa.",
+      "photo": null
+    },
+    {
+      "name": "Tom Jued",
+      "desc": "Caldo de galinha Taphao Thong com taro, cabaça, jícama e moluscos, segundo a carta oficial consultada.",
+      "photo": null
+    },
+    {
+      "name": "Pla Tod Nam Pla",
+      "desc": "Peixe pomfret com manga Bao e molho de peixe defumado preparado na casa.",
+      "photo": null
+    },
+    {
+      "name": "Legumes",
+      "desc": "Etapa de feijões, brotos, sementes de lótus, sator, ervas e frutos do mar, baseada em produtos da temporada.",
+      "photo": null
+    },
+    {
+      "name": "Camarão de rio com chamuang",
+      "desc": "Camarão de rio com fruta sazonal, folhas de chamuang e arroz-jasmim, descrito no menu oficial.",
+      "photo": null
+    },
+    {
+      "name": "Forgotten Cuts",
+      "desc": "Etapa com diferentes cortes bovinos pouco valorizados, explorando textura e aproveitamento culinário.",
+      "photo": null
+    },
+    {
+      "name": "Timeless Thai Desserts",
+      "desc": "Sobremesas de arroz glutinoso, sorvete de kanom krok, creme de folhas doces e caramelo de arroz negro.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://baantepabkk.com/",
+    "address": "561 Ramkhamhaeng Road, Hua Mak, Bang Kapi, Bangkok 10240, Tailândia",
+    "reservationUrl": "https://www.tablecheck.com/en/shops/baan-tepa-culinary-space/reserve",
+    "reservation": "Reservas antecipadas pela plataforma TableCheck, com agenda de até 60 dias. Jantar de quarta a domingo, com horários de entrada exibidos no sistema; fechado segunda e terça. Reservas para uma pessoa são aceitas somente pelo e-mail reservation@baantepabkk.com. Telefone +66 98 696 9074. Confirmar restrições alimentares e regras de pré-pagamento no checkout.",
+    "price": "O site oficial ainda exibe menu de sete etapas a THB 6.200++, acrescido de 10% de serviço e 7% de imposto. Para datas após outubro de 2026, a plataforma TableCheck lista o 'Baan Tepa 2.0' a THB 8.004 por pessoa com serviço e impostos incluídos. Há divergência entre fontes; conferir o valor aplicável à data escolhida no sistema de reserva."
+  },
+  "photoReference": {
+    "kind": "ambientes",
+    "publisher": "Baan Tepa — site oficial",
+    "url": "https://baantepabkk.com/",
+    "note": "Fotografias autênticas da casa histórica, do jardim, da chef e dos pratos estão disponíveis no site institucional. Não há licença pública de republicação comprovada, portanto essas imagens não foram copiadas para o A Carta.",
+    "additionalSources": [
+      {
+        "publisher": "Guia Michelin — Baan Tepa",
+        "url": "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/baan-tepa",
+        "note": "Fotografias reais do restaurante e reconhecimento de sua proposta sustentável."
+      }
+    ]
+  }
 }
