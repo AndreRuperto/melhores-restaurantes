@@ -1,29 +1,143 @@
 {
-  "lede": "O SingleThread une restaurante, fazenda e hospedagem em Healdsburg, na Califórnia.",
+  "lede": "Em Healdsburg, na região vinícola de Sonoma, o SingleThread une restaurante de três estrelas Michelin, hospedagem intimista e fazenda regenerativa. Kyle Connaughton conduz uma degustação inspirada no kaiseki japonês, enquanto Katina Connaughton lidera o cultivo de vegetais, frutas, flores e ervas usados diariamente na cozinha.",
   "history": [
-    "Kyle Connaughton estrutura o menu a partir da fazenda conduzida por Katina Connaughton, com influências japonesas.",
-    "Kyle Connaughton estrutura as refeições a partir da fazenda de cerca de vinte e quatro acres conduzida por Katina Connaughton, próxima ao restaurante."
+    "Kyle e Katina Connaughton abriram o SingleThread em dezembro de 2016, no centro de Healdsburg, Califórnia, unindo um restaurante de degustação e uma hospedaria com cinco quartos. A proposta nasceu de experiências do casal no Japão, incluindo anos de trabalho e estudo em Hokkaido.",
+    "Kyle desenvolveu a culinária com base em técnicas japonesas, precisão de cortes e uso de cerâmica donabe. Katina organizou uma operação agrícola destinada a fornecer verduras, flores e frutas de forma próxima e contínua à cozinha do restaurante.",
+    "O projeto agrícola ampliou-se para uma propriedade regenerativa de 24 acres no Dry Creek Valley, com estufas, pomar, cultivos em diferentes estações e colmeias. Segundo a casa, mais de 70% dos produtos vegetais chegam da própria fazenda e parte dos resíduos da cozinha retorna ao campo como composto.",
+    "O SingleThread ganhou duas estrelas Michelin pouco após abrir, em 2017, e recebeu a terceira estrela na seleção 2019, anunciada em novembro de 2018. Manteve as três em 2026 e foi classificado em 93º no ranking mundial estendido The 50 Best Restaurants daquele ano. As duas imagens publicadas representam a fachada real em 2022."
   ],
   "cuisine": {
-    "style": "Cozinha californiana inspirada no kaiseki japonês",
+    "style": "Californiana de fazenda, inspirada no kaiseki japonês e na omotenashi",
     "paragraphs": [
-      "Frutas, vegetais e flores cultivados na própria fazenda orientam o menu de dez etapas.",
-      "A degustação de dez etapas se inspira no kaiseki japonês e utiliza frutas, verduras e flores cultivadas na fazenda, com foco em reduzir desperdícios."
+      "A experiência procura traduzir o ciclo agrícola em uma degustação de dez etapas. Vegetais, flores, ervas e frutas de variedades específicas da fazenda são combinados a pescados e produtos da costa californiana e do Japão, conforme a estação.",
+      "A primeira passagem é conhecida como uma paisagem botânica: pequenos bocados aparecem distribuídos entre flores e plantas, como uma representação comestível do jardim. O uso de panelas donabe de cerâmica japonesa é outra marca da cozinha, para preparar frutos do mar, arroz e vegetais.",
+      "Ingredientes como maçãs Gravenstein, batatas Bodega Red, tomates e cenouras de variedades especiais são cultivados e preservados pela equipe. O conteúdo do menu muda com frequência e pode ser adaptado a diversas restrições alimentares com aviso prévio."
     ]
   },
   "chef": {
-    "name": "Kyle Connaughton",
-    "bio": "Kyle Connaughton conduz a cozinha; Katina Connaughton dirige o cultivo de produtos usados no menu de degustação."
+    "name": "Kyle Connaughton (chef) · Katina Connaughton (fazenda)",
+    "bio": "Kyle Connaughton é o chef do SingleThread, onde associa técnica japonesa e produtos de Sonoma. Sua trajetória inclui trabalho com Michel Bras em Hokkaido. Katina Connaughton lidera a fazenda regenerativa de 24 acres e o fornecimento de produtos para a cozinha. Juntos abriram restaurante e hospedagem em dezembro de 2016."
   },
   "awards": [
     {
+      "year": 2017,
+      "title": "Duas estrelas Michelin — primeiro reconhecimento de alto nível após a abertura"
+    },
+    {
+      "year": 2018,
+      "title": "Terceira estrela Michelin anunciada em novembro de 2018 para o guia 2019"
+    },
+    {
+      "year": 2018,
+      "title": "One To Watch Award — The World's 50 Best Restaurants"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 50"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 46"
+    },
+    {
+      "year": 2024,
+      "title": "Three MICHELIN Keys — SingleThread Inn, distinção de hospedagem"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 93º lugar no ranking mundial"
+      "title": "Três estrelas Michelin mantidas — Guia Michelin Califórnia"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 93 (lista mundial estendida)"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://singlethreadfarms.com/restaurant/",
+    "https://singlethreadfarms.com/bookings/",
+    "https://singlethreadfarms.com/farm/",
+    "https://www.opentable.com/r/singlethreadfarms",
+    "https://guide.michelin.com/ca/en/california/healdsburg/restaurant/singlethread",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/guide-michelin-california",
+    "https://singlethreadfarms.com/blog/3_michelin_stars_for_singlethread/",
+    "https://commons.wikimedia.org/wiki/File:SingleThread_-_September_2022_-_Sarah_Stierch_01.jpg",
+    "https://commons.wikimedia.org/wiki/File:SingleThread_-_September_2022_-_Sarah_Stierch_02.jpg"
   ],
   "slug": "singlethread",
-  "rank": 93
+  "rank": 93,
+  "founded": 2016,
+  "founders": [
+    "Kyle Connaughton",
+    "Katina Connaughton"
+  ],
+  "hero": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SingleThread%20-%20September%202022%20-%20Sarah%20Stierch%2001.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:SingleThread_-_September_2022_-_Sarah_Stierch_01.jpg",
+    "author": "Sarah Stierch (Missvain)",
+    "license": "CC BY 4.0",
+    "caption": "Fotografia real do exterior do SingleThread, em Healdsburg, feita por Sarah Stierch em 25 de setembro de 2022 (registro 01). A fachada pode ter mudado desde então.",
+    "illustrative": false
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SingleThread%20-%20September%202022%20-%20Sarah%20Stierch%2002.jpg?width=1280",
+    "page": "https://commons.wikimedia.org/wiki/File:SingleThread_-_September_2022_-_Sarah_Stierch_02.jpg",
+    "author": "Sarah Stierch (Missvain)",
+    "license": "CC BY 4.0",
+    "caption": "Fotografia real do exterior do SingleThread, em Healdsburg, feita por Sarah Stierch em 25 de setembro de 2022 (registro 02). A fachada pode ter mudado desde então.",
+    "illustrative": false
+  },
+  "dishes": [
+    {
+      "name": "Paisagem botânica de abertura",
+      "desc": "Apresentação de pequenos bocados sazonais entre flores, folhas e elementos vegetais, assinatura visual da abertura da refeição.",
+      "photo": null
+    },
+    {
+      "name": "Preparação em donabe",
+      "desc": "Peixes, vegetais ou arroz finalizados em panela japonesa de cerâmica, técnica recorrente, com ingredientes variáveis.",
+      "photo": null
+    },
+    {
+      "name": "Vegetais e ervas da fazenda",
+      "desc": "Passagens de produtos colhidos no Dry Creek Valley, apresentados com o mínimo necessário para destacar o sabor da estação.",
+      "photo": null
+    },
+    {
+      "name": "Tomates e flores de cultivo próprio",
+      "desc": "Combinações sazonais com tomates de diferentes variedades, folhas e flores comestíveis selecionadas pela equipe agrícola.",
+      "photo": null
+    },
+    {
+      "name": "Maçãs Gravenstein e frutas de Sonoma",
+      "desc": "Ingredientes de variedades locais preservadas e cultivadas pelo SingleThread; referências sazonais, não sobremesa fixa.",
+      "photo": null
+    },
+    {
+      "name": "Pescados da costa da Califórnia e do Japão",
+      "desc": "Preparos de frutos do mar sazonais que associam técnicas japonesas a produtos da costa, segundo o menu de degustação publicado.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "website": "https://singlethreadfarms.com/restaurant/",
+    "address": "131 North Street, Healdsburg, Califórnia 95448, Estados Unidos",
+    "reservationUrl": "https://www.opentable.com/r/singlethreadfarms",
+    "reservation": "Reservas pelo OpenTable, indicado no site oficial. Novas datas para o mês seguinte abrem no dia 1º de cada mês às 9h, horário do Pacífico, com pré-pagamento integral. A política oficial informa que o valor não é reembolsável nem pode ser transferido para outra data. Hóspedes da pousada têm mesa garantida para o número de pessoas da hospedagem, com agenda intermediada pela equipe. Telefone +1 707 723 4646.",
+    "price": "Degustação de dez etapas: a plataforma OpenTable exibia US$540,75 por pessoa como valor pré-pago na consulta de novembro de 2026. Confirme impostos, taxas e condições no processo de reserva."
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Wikimedia Commons — SingleThread exterior",
+    "url": "https://commons.wikimedia.org/wiki/Category:SingleThread",
+    "note": "Duas fotografias do exterior verdadeiro do SingleThread, captadas em setembro de 2022 por Sarah Stierch e publicadas com licença CC BY 4.0, incorporadas diretamente com atribuição. Fotos atuais dos pratos e do salão seguem no site oficial, não republicadas sem direitos comprovados.",
+    "additionalSources": [
+      {
+        "publisher": "SingleThread — restaurante e fazenda",
+        "url": "https://singlethreadfarms.com/farm/",
+        "note": "Fotos atuais da produção agrícola e da experiência, com detalhes do método regenerativo."
+      }
+    ]
+  }
 }
