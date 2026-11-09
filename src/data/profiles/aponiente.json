@@ -1,28 +1,59 @@
 {
-  "lede": "O Aponiente, em El Puerto de Santa María, pesquisa sabores do mar e dos ecossistemas costeiros andaluzes.",
+  "lede": "Em El Puerto de Santa María, na Baía de Cádiz, o Aponiente do chef Ángel León transforma a biodiversidade marinha em alta gastronomia. A casa ocupa desde 2015 um antigo moinho de marés e, com três estrelas Michelin, pesquisa produtos pouco conhecidos do oceano e a recuperação de ecossistemas costeiros.",
   "history": [
-    "Fundado em 2007, o restaurante ocupa um antigo moinho de marés do século XIX.",
-    "O Aponiente foi fundado em 2007 e funciona em um antigo moinho de marés do século XIX no litoral da Andaluzia."
+    "Ángel León inaugurou o Aponiente em 2007, em um pequeno endereço de El Puerto de Santa María, na costa de Cádiz. O chef desenvolveu uma cozinha centrada no mar e em espécies pouco valorizadas comercialmente, procurando dar atenção a todo o ecossistema e não apenas aos pescados mais conhecidos.",
+    "A primeira estrela Michelin veio em 2010 e a segunda em 2014. Em 2015, o Aponiente mudou-se para o Molino de Mareas El Caño, um antigo moinho de marés restaurado, rodeado por uma zona úmida que passou a participar da identidade do projeto.",
+    "Na nova sede, a pesquisa culinária ampliou-se para algas, plantas halófitas, plâncton, frutos do mar e técnicas de aproveitamento de produtos costeiros. Em 2017, a casa conquistou a terceira estrela Michelin, concedida para a edição 2018 do guia.",
+    "Em 2022, o The World's 50 Best Restaurants concedeu ao Aponiente o Sustainable Restaurant Award. Para a temporada 2026, Ángel León incorporou ao percurso gastronômico uma área de marisma em recuperação, parte de um projeto de restauração de cerca de 20 hectares. No ranking mundial estendido de 2026, a casa apareceu em 100º lugar."
   ],
   "cuisine": {
-    "style": "Cozinha marítima andaluza contemporânea",
+    "style": "Alta cozinha marítima andaluza, pesquisa oceânica e biodiversidade de estuários",
     "paragraphs": [
-      "O menu Miasma explora ingredientes da zona úmida, pescados e recursos pouco convencionais do mar.",
-      "O menu Miasma recebe o nome da paisagem de pântanos ao redor da casa e pesquisa sabores associados à biodiversidade da costa e dos estuários."
+      "A cozinha de Ángel León investiga espécies e ingredientes do mar normalmente pouco presentes na alta gastronomia: algas, ostras, peixes, crustáceos, ovos de pescado e plantas adaptadas a ambientes salinos. Técnicas contemporâneas procuram expressar o sabor dessas matérias-primas e contribuir para sua valorização.",
+      "Na temporada 2026, a experiência incluiu passagens ligadas à marisma, como caranguejo-azul, camarão com alface-do-mar, ostras com flores da zona úmida e robalo com pil-pil. O restante do menu explorou preparações marinhas salgadas e sobremesas com ingredientes pouco usuais.",
+      "Entre as sobremesas de 2026 constam flan de ovas com maçã e funcho e uma torta feita com algas. A experiência completa dura cerca de três horas e pode ser alterada conforme luminosidade, clima, marés e disponibilidade de ingredientes."
     ]
   },
   "chef": {
     "name": "Ángel León",
-    "bio": "Ángel León é o chef fundador do Aponiente e desenvolveu pesquisas culinárias voltadas a pescados e ecossistemas marítimos."
+    "bio": "Ángel León, conhecido como 'Chef del Mar', criou o Aponiente em 2007 e construiu uma cozinha de pesquisa ligada ao Atlântico andaluz. Seu trabalho valoriza espécies marinhas subutilizadas, ingredientes de estuário, conservação de habitats e investigação científica. O Aponiente conquistou a terceira estrela Michelin em 2017 para a edição 2018 e recebeu o Sustainable Restaurant Award do The World's 50 Best em 2022."
   },
   "awards": [
     {
+      "year": 2010,
+      "title": "Primeira estrela Michelin — Aponiente"
+    },
+    {
+      "year": 2014,
+      "title": "Segunda estrela Michelin — Aponiente"
+    },
+    {
+      "year": 2017,
+      "title": "Terceira estrela Michelin, anunciada para o Guia Espanha & Portugal 2018"
+    },
+    {
+      "year": 2022,
+      "title": "Sustainable Restaurant Award — The World's 50 Best Restaurants"
+    },
+    {
       "year": 2026,
-      "title": "The 50 Best Restaurants — 100º lugar no ranking mundial"
+      "title": "Três estrelas Michelin mantidas — Guia Michelin Espanha 2026"
+    },
+    {
+      "year": 2026,
+      "title": "The 50 Best Restaurants — nº 100, lista mundial estendida"
     }
   ],
   "sources": [
-    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.aponiente.com/",
+    "https://guide.michelin.com/es/es/articulo/people/aponiente-el-sueno-alcanzado-de-angel-leon",
+    "https://guide.michelin.com/es/es/articulo/people/estrellas-del-mar",
+    "https://guide.michelin.com/es/es/articulo/michelin-guide-ceremony/todos-los-restaurantes-con-estrellas-michelin-en-espana-2026",
+    "https://www.the50.com/stories/News/the-worlds-most-progressive-restaurants.html",
+    "https://www.7canibales.com/restaurantes/aponiente-angel-leon/",
+    "https://windpress.info/es/press-release/1064541/aponiente-2026-ngel-len-se-sumerge-en-la-marisma-y-transforma-la-experiencia-gastronmica-mateo-and-co",
+    "https://commons.wikimedia.org/wiki/File:Restaurante_Aponiente_-_IMG_20220703_112311.jpg"
   ],
   "slug": "aponiente",
   "rank": 100,
@@ -34,5 +65,74 @@
     "license": "CC BY-SA 4.0",
     "caption": "Restaurante Aponiente, no antigo moinho de marés em El Puerto de Santa María, em 2022",
     "illustrative": false
+  },
+  "founders": [
+    "Ángel León"
+  ],
+  "dishes": [
+    {
+      "name": "Caranguejo-azul e zurrapa",
+      "desc": "Passagem da marisma no menu de 2026, combinando caranguejo-azul com um preparo concentrado.",
+      "photo": null
+    },
+    {
+      "name": "Camarão e alface-do-mar",
+      "desc": "Crustáceo servido com algas comestíveis, referência ao ecossistema da marisma, no menu de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Ostra com flores da marisma",
+      "desc": "Ostra e salpicão com flores de plantas adaptadas ao ambiente salino, receita descrita para a temporada 2026.",
+      "photo": null
+    },
+    {
+      "name": "Robalo com pil-pil e brasa",
+      "desc": "Peixe preparado com técnicas de fogo e molho emulsionado, registrado no menu marítimo de 2026.",
+      "photo": null
+    },
+    {
+      "name": "Calamar, baunilha e abóbora",
+      "desc": "Combinação de lula com notas doces e aromáticas, apresentada na seção marítima salgada do menu 2026.",
+      "photo": null
+    },
+    {
+      "name": "Flan de ovas, maçã e funcho",
+      "desc": "Sobremesa autoral que utiliza ovas de pescado em combinação com fruta e funcho, apresentada em 2026.",
+      "photo": null
+    },
+    {
+      "name": "Torta de algas",
+      "desc": "Sobremesa que explora a utilização de algas em confeitaria, parte do percurso de 2026.",
+      "photo": null
+    }
+  ],
+  "practical": {
+    "address": "Molino de Mareas El Caño, Calle Francisco Cossi Ochoa, s/n, 11500 El Puerto de Santa María, Cádiz, Espanha",
+    "website": "https://www.aponiente.com/",
+    "reservationUrl": "https://www.aponiente.com/",
+    "reservation": "Reservas somente pelos canais oficiais apresentados em aponiente.com ou pelo departamento de reservas no telefone +34 606 22 58 59 e e-mail reservas@aponiente.com. O restaurante alerta para sites não oficiais que usam indevidamente sua identidade. Para mudanças ou cancelamentos, recomenda-se comunicar com ao menos 72 horas; para grupos de sete pessoas ou mais, com pelo menos cinco dias. Confirme as condições atuais e o acesso antes de reservar. Disponibilidade não consultada em tempo real.",
+    "price": "Menu degustação de 2026: €400 por pessoa, impostos incluídos, segundo a apresentação pública da temporada de abril de 2026. Bebidas e serviços adicionais não incluídos; confirmar no canal oficial antes de reservar."
+  },
+  "facade": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante_Aponiente_-_IMG_20220703_112311.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Restaurante_Aponiente_-_IMG_20220703_112311.jpg",
+    "author": "El Pantera",
+    "license": "CC BY-SA 4.0",
+    "caption": "Fotografia real do exterior do Aponiente no Molino de Mareas El Caño, em El Puerto de Santa María, registrada em julho de 2022, com crédito a El Pantera e licença CC BY-SA 4.0.",
+    "illustrative": false
+  },
+  "gallery": [],
+  "photoReference": {
+    "kind": "fachada",
+    "publisher": "Wikimedia Commons — Restaurante Aponiente",
+    "url": "https://commons.wikimedia.org/wiki/File:Restaurante_Aponiente_-_IMG_20220703_112311.jpg",
+    "note": "Fotografia real da sede do Aponiente no antigo moinho de marés, registrada em 2022 e publicada com licença CC BY-SA 4.0. Imagens mais recentes dos salões, equipe e menu estão em veículos e galerias oficiais, sem licença aberta de reprodução identificada.",
+    "additionalSources": [
+      {
+        "publisher": "7 Caníbales — temporada 2026",
+        "url": "https://www.7canibales.com/restaurantes/aponiente-angel-leon/",
+        "note": "Reportagem sobre o percurso na marisma e a pesquisa de 2026, com fotos jornalísticas mantidas na publicação."
+      }
+    ]
   }
 }
