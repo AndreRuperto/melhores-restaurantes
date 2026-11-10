@@ -601,7 +601,7 @@ Relatório: [fase-2-L07.md](lotes/fase-2-L07.md). Perfis 53 a 62.
 | Frente | Progresso comprovado | O que continua aberto |
 | --- | --- | --- |
 | 2.2 | 19 usos e 15 arquivos conferidos; legenda da galeria do Frantzén corrigida (cardápio impresso, não etapa do menu) | Fotos licenciadas dos próprios restaurantes em seis dos dez perfis (P2) |
-| 2.4 | Site e reserva falsos do Fu He Hui retirados; preços oficiais do Nelita, Sazenka e Florilège; prêmio inexistente do Ling Long retirado; Estrela Verde do Hiša Franko corrigida; preço não confirmado do Frantzén retirado | 18 itens com fonte única e 4 não verificados; sites do Frantzén e do Hiša Franko bloqueados para leitura automática |
+| 2.4 | Site e link de reserva do Fu He Hui, que apontavam para a ficha do Michelin, retirados; preços oficiais do Nelita, Sazenka e Florilège; prêmio inexistente do Ling Long retirado; Estrela Verde do Hiša Franko corrigida; preço não confirmado do Frantzén retirado | 18 itens com fonte única e 4 não verificados; sites do Frantzén e do Hiša Franko bloqueados para leitura automática |
 | F2-04 | Dez perfis no contrato estrito; total de 65 perfis e 278 fotos com direito aprovado | Revisor humano |
 | 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 

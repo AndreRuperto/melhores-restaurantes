@@ -80,3 +80,15 @@ O console mostrou 55 erros `ERR_CONNECTION_REFUSED` herdados da aba, do servidor
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [937eb2e](https://github.com/AndreRuperto/melhores-restaurantes/commit/937eb2eef44f893b1abebc1d2e8cb1bdf3250991); Railway `29d9e994-2935-4b30-bab6-30f020c36484` em SUCCESS. O domínio público passou a servir o build novo (`index-BR7xhwuv.js`), e os pacotes dos perfis foram conferidos por download direto:
+
+- **Fu He Hui:** traz as duas estrelas de 2026 (Guia Xangai, Jiangsu e Zhejiang). O link do Michelin ficou só na lista de fontes e na referência externa de fotos, não como site ou reserva.
+- **Frantzén:** traz a legenda do cardápio impresso.
+- **Nelita:** traz os preços do cardápio oficial e a burrata com tomates.
+- **Hiša Franko:** traz o link do Venuo.
+- **Sazenka:** traz o preço de ¥ 71.500 e o sistema de reserva oficial.
+
+“SEK 5.500” (Frantzén) só aparece em `priceDetails.note`, e “Nova entrada mais alta” (Ling Long) só nas notas de `fieldReviews`; nenhum componente exibe esses campos. A conferência pública foi feita por conteúdo, não por navegador; o layout foi testado no ambiente local.
