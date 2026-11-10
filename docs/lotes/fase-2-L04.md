@@ -63,3 +63,13 @@ Os dez perfis estão em modo estrito (`partial`). Canais: oito `online`, Masque 
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [4976870](https://github.com/AndreRuperto/melhores-restaurantes/commit/4976870a4b43d899fed21fcdf0c879f4a5456fa2); Railway `8c6976a8-223f-4ad1-92d8-87346bca8da9` em SUCCESS. Conferido no domínio público, por acesso direto, sem erros de console:
+
+- **Lasai:** traz a mudança para o Sofitel Ipanema e o e-mail; não há mais o preço antigo de R$ 1.380 nem imagens quebradas.
+- **Reale:** mostra o baccalà do menu atual e "Ver instruções de reserva"; não diz mais "desde março de 2022".
+- **Masque:** mostra o e-mail de reservas, as harmonizações e "Ver instruções de reserva".
+- **Celele:** o link de reserva aponta para `celele.mesa247.co/reservas/celele` e o aviso de acessibilidade aparece.
+- **Potong:** traz a estreia no top 50 e a edição 2023 do Guia Michelin.
