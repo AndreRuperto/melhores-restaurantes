@@ -10,8 +10,8 @@
     "style": "Coreana contemporânea com ingredientes nórdicos",
     "paragraphs": [
       "O Koan usa fermentações, arroz, ervas e temperos tradicionais coreanos em produtos do norte da Europa. Frutos do mar, vegetais da estação e conservas convivem com apresentações de alta precisão.",
-      "Uma das assinaturas é o kkwabaegi, releitura do pão torcido coreano, servida quente com manteiga de gergelim e mel aromatizado com ginseng. Em outras passagens, a equipe já apresentou tofu com pinhões, caviar e morangos fermentados, e uma flor feita de kimchi de couve-rábano.",
-      "Pratos como arroz em panela gamasot, acompanhado de pequenos banchan, ou macarrão frio com lagosta mostram como a memória culinária coreana pode ser traduzida com ingredientes nórdicos. O cardápio é uma degustação sazonal com opção vegetariana; nenhuma dessas preparações é garantida em todas as datas."
+      "Uma das assinaturas é o kkwabaegi, releitura salgada do pão torcido coreano, preparado na hora; em 2024 foi descrito com sal de pinho e creme batido de maçã. Em outras passagens, a equipe já apresentou tofu aveludado com pinhões e coberto de caviar, e uma flor feita de kimchi de couve-rábano.",
+      "Pratos como arroz em panela gamasot, com camarões de fiorde, ou macarrão frio com lagosta mostram como a memória culinária coreana pode ser traduzida com ingredientes nórdicos. O cardápio é uma degustação sazonal com opção vegetariana; nenhuma dessas preparações é garantida em todas as datas."
     ]
   },
   "chef": {
@@ -48,6 +48,9 @@
     "https://commons.wikimedia.org/wiki/File:Langeliniekaj_02.jpg"
   ],
   "slug": "koan",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 57,
   "founded": 2023,
   "founders": [
@@ -59,17 +62,27 @@
     "author": "Leif Jørgensen",
     "license": "CC BY-SA 4.0",
     "caption": "O cais Langeliniekaj, em Copenhague, fotografado em 2016, antes da abertura do Koan. Imagem contextual do entorno, NÃO da entrada ou do salão do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Cais Langeliniekaj, Copenhague (2016)",
+    "alt": "Cais vazio com mesas e o porto de Copenhague sob céu nublado",
+    "capturedAt": "2016-12-08",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Leif Jørgensen, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
-      "name": "Kkwabaegi com gergelim e ginseng",
-      "desc": "Releitura de pão torcido coreano, leve e servido quente, acompanhado de manteiga de gergelim e mel aromatizado com ginseng.",
+      "name": "Kkwabaegi",
+      "desc": "Releitura salgada do pão torcido coreano, feita na hora; em 2024, servida com sal de pinho e creme batido de maçã.",
       "photo": null
     },
     {
       "name": "Tofu com pinhões e caviar",
-      "desc": "Tofu de textura aveludada coberto por caviar, com acidez de morangos fermentados em algumas versões históricas.",
+      "desc": "Tofu de textura aveludada com pinhões, coberto por caviar, em versão documentada em 2024.",
       "photo": null
     },
     {
@@ -78,8 +91,8 @@
       "photo": null
     },
     {
-      "name": "Arroz gamasot e banchan",
-      "desc": "Arroz feito em panela tradicional e servido com pequenos acompanhamentos, em interpretações nórdicas da mesa coreana.",
+      "name": "Arroz gamasot",
+      "desc": "Arroz feito em panela tradicional gamasot, em 2024 com camarões de fiorde, numa interpretação nórdica da mesa coreana.",
       "photo": null
     },
     {
@@ -92,8 +105,20 @@
     "address": "Langeliniekaj 5, 2100 København Ø, Dinamarca",
     "website": "https://www.koancph.dk/",
     "reservationUrl": "https://koan.superbexperience.com/",
-    "reservation": "Reservas pelo sistema Superb Experience indicado no site oficial, ou contato por booking@koancph.dk e +45 28 74 78 40. Serviço regular de terça a sexta (com almoço também às sextas, segundo o Michelin); confirmar datas e restrições alimentares antes de finalizar.",
-    "price": "Menu degustação normal ou vegetariano: DKK 3.800 por pessoa, duração mínima aproximada de três horas, conforme a página oficial de informações consultada em novembro de 2026."
+    "reservation": "Reservas pelo sistema Superb Experience indicado no site oficial; dúvidas e restrições alimentares devem ser enviadas antes da reserva para booking@koancph.dk (o telefone +45 28 74 78 40 aparece em guias como o The 50 Best, mas não no site oficial). Segundo a página de contato, o jantar é servido de terça a sexta e o almoço às sextas; em algumas semanas há serviço aos sábados, e então o almoço passa para o sábado.",
+    "price": "Menu degustação normal ou vegetariano: DKK 3.800 por pessoa, duração mínima aproximada de três horas, conforme a página oficial de informações consultada em novembro de 2026.",
+    "reservationMode": "online",
+    "phone": "+45 28 74 78 40",
+    "email": "booking@koancph.dk",
+    "priceDetails": {
+      "amount": 3800,
+      "currency": "DKK",
+      "basis": "Menu degustação normal ou vegetariano, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.koancph.dk/info",
+      "checkedAt": "2026-11-10",
+      "note": "Moeda implícita no formato \"3.800,-\"; duração mínima de três horas; harmonizações de DKK 2.000 a 15.000; taxa em cartões corporativos e de fora da UE."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -113,5 +138,48 @@
         "note": "Fotos e exemplos documentados do repertório da cozinha de Baumann."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.koancph.dk/contact",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Página do Superb Experience não renderizou. Telefone só em guias, não no site oficial."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.koancph.dk/info",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Descrições de 2024 (National Geographic); manteiga de gergelim, mel de ginseng, morangos fermentados e banchan sem fonte (retirados)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Duas estrelas de 2025 e 2026 só em fontes secundárias. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano do projeto temporário (2020) só na National Geographic."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

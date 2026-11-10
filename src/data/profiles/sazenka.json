@@ -3,7 +3,7 @@
   "history": [
     "O Sazenka abriu em fevereiro de 2017 no bairro residencial de Minamiazabu, em uma antiga residência diplomática adaptada para restaurante. O nome combina os conceitos de chá, zen e flor/China e resume a proposta de aproximar duas culturas sem transformá-las em uma fusão superficial.",
     "Tomoya Kawada estudou por anos os fundamentos das cozinhas chinesas e também trabalhou na alta gastronomia japonesa. Na casa, desenvolveu o princípio wakon-kansai — espírito japonês e talento ou técnica chinesa — para explorar caldos, ingredientes de estação, pimentas e preparos de delicadeza incomum.",
-    "O reconhecimento foi imediato: ainda em 2017 recebeu duas estrelas Michelin para o guia de Tóquio 2018. Em 2020, a casa recebeu a terceira estrela na edição 2021, destacando-se como restaurante de cozinha chinesa no Japão com o reconhecimento máximo.",
+    "O reconhecimento foi imediato: ainda em 2017 recebeu duas estrelas Michelin para o guia de Tóquio 2018. Em 2020, a casa recebeu a terceira estrela na edição 2021, distinção mantida no guia de 2026.",
     "O restaurante ganhou projeção em rankings asiáticos, como o 23º lugar em 2019 e o 12º em 2021. Em 2026, a lista estendida do The 50 Best Restaurants o colocou em 56º no mundo. As salas privadas e o salão principal mantêm uma experiência de serviço discreta e concentrada em poucos convidados."
   ],
   "cuisine": {
@@ -16,7 +16,7 @@
   },
   "chef": {
     "name": "Tomoya Kawada",
-    "bio": "Tomoya Kawada é o chef executivo do Sazenka. Antes de abrir a casa em 2017, trabalhou cerca de uma década com cozinha chinesa em Azabu Chōkō e depois passou aproximadamente cinco anos pelo restaurante japonês Ryugin. Seu trabalho pesquisa a essência da cozinha chinesa e a expressa a partir dos ingredientes e da atenção às estações no Japão."
+    "bio": "Tomoya Kawada é o chef executivo do Sazenka. Antes de abrir a casa em 2017, trabalhou com cozinha chinesa no Azabu Chōkō e depois passou cerca de cinco anos no restaurante japonês Nihonryori RyuGin. Seu trabalho pesquisa a essência da cozinha chinesa e a expressa a partir dos ingredientes e da atenção às estações no Japão."
   },
   "awards": [
     {
@@ -30,6 +30,10 @@
     {
       "year": 2020,
       "title": "Três estrelas Michelin — Guia Michelin Tóquio 2021"
+    },
+    {
+      "year": 2020,
+      "title": "Asia's 50 Best Restaurants — nº 29"
     },
     {
       "year": 2021,
@@ -52,9 +56,13 @@
     "https://sazenka.com/chef",
     "https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/sazenka",
     "https://commons.wikimedia.org/wiki/File:Arisugawa_park.jpg",
-    "https://www.tenpodesign.com/work/detail/24792"
+    "https://www.tenpodesign.com/work/detail/24792",
+    "https://sazenka.com/food"
   ],
   "slug": "sazenka",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 56,
   "dishes": [
     {
@@ -64,7 +72,7 @@
     },
     {
       "name": "Caldo de faisão",
-      "desc": "Sopa límpida construída com técnica chinesa de extração de sabor; preparo destacado em perfis gastronômicos, sujeito à estação.",
+      "desc": "Sopa límpida construída com técnica chinesa de extração de sabor; preparo destacado em perfis gastronômicos, sujeito à estação; sem confirmação no menu atual.",
       "photo": null
     },
     {
@@ -94,14 +102,35 @@
     "author": "Syced",
     "license": "CC0 1.0",
     "caption": "Parque Arisugawa-no-miya, em Minamiazabu, Tóquio, fotografado em 2020. Foto ilustrativa do bairro; NÃO retrata o Sazenka.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Parque Arisugawa-no-miya, Minamiazabu (2020)",
+    "alt": "Fonte cercada de pedras e um relógio entre árvores de outono",
+    "capturedAt": "2020",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Syced, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "website": "https://sazenka.com/",
     "address": "4-7-5 Minamiazabu, Minato-ku, Tóquio 106-0047, Japão",
-    "reservationUrl": "https://sazenka.com/reservation",
-    "reservation": "Reservas pela página oficial (sistema online e telefone +81 50-3188-8819, atendimento das 10h às 16h em dias úteis de funcionamento). Novas datas abrem no dia 1º para até dois meses à frente; jantar e horários variam segundo calendário atualizado. Avisar alergias antecipadamente e verificar a política de cancelamento antes de concluir.",
-    "price": "Menu omakase sazonal de cozinha chinesa; o preço atualizado não aparece com clareza na página mais recente de informações. Solicitar o valor exibido na reserva, sem usar como atual valores de páginas antigas."
+    "reservationUrl": "https://sazenka.com/web_reservation",
+    "reservation": "Reservas pelo sistema online oficial, disponível 24 horas, ou pelo telefone +81 50-3188-8819 (das 10h às 16h em dias de funcionamento; nem sempre atendem). No dia 1º de cada mês abrem as datas até o fim do segundo mês seguinte. A casa liga cerca de uma semana antes para confirmar; cancelamentos a partir de três dias antes têm cobrança de 50%, e de 100% nas últimas 24 horas (grupos de 2 a 4). Avisar alergias antecipadamente.",
+    "price": "De meados de outubro a meados de janeiro, a casa serve apenas cursos com caranguejo de Xangai, a partir de ¥ 71.500 por pessoa (impostos incluídos); há opções de ¥ 104.500 e ¥ 132.000. Acrescenta-se taxa de serviço de 10% no salão e 15% nas salas privadas. Fora dessa temporada, confirmar valores na página oficial do cardápio.",
+    "reservationMode": "online",
+    "phone": "+81 50-3188-8819",
+    "priceDetails": {
+      "amount": 71500,
+      "currency": "JPY",
+      "basis": "Curso com caranguejo de Xangai, por pessoa, a partir de (meados de outubro a meados de janeiro)",
+      "taxesIncluded": true,
+      "sourceUrl": "https://sazenka.com/food",
+      "checkedAt": "2026-11-10",
+      "note": "Serviço de 10% (salão) ou 15% (sala privada) à parte; outros cursos a ¥ 104.500 e ¥ 132.000; página sem data; preços fora da temporada não publicados."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -116,5 +145,48 @@
         "note": "Fotografias reais da fachada e do interior da casa em Minamiazabu, documentadas pelo escritório responsável pelo projeto de 2017; imagem externa não republicada."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://sazenka.com/reservation",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://sazenka.com/food",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preço agora publicado no site oficial; página sem data."
+    },
+    {
+      "field": "founders",
+      "sourceUrl": "https://sazenka.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O site oficial não nomeia proprietário; Ryoji Hayashi só na Wikipédia."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://sazenka.com/chef",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Tempo no Azabu Chōkō diverge entre as fontes (3 ou cerca de 10 anos); retirado."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://sazenka.com/chef",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 29º lugar asiático de 2020. Três estrelas de 2026 só em fonte secundária."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

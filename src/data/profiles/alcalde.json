@@ -2,9 +2,9 @@
   "lede": "Em Guadalajara, Francisco 'Paco' Ruano transforma ingredientes de Jalisco em uma cozinha mexicana contemporânea direta e sazonal. Fundado em 2013, o Alcalde combina a hospitalidade de uma casa de bairro com técnicas aprendidas pelo chef em restaurantes internacionais e um repertório que respeita a origem dos produtos.",
   "history": [
     "O restaurante Alcalde abriu em 2013, no bairro Vallarta Norte, em Guadalajara. Sua proposta foi apresentada desde o começo como 'cocina franca': uma cozinha aberta, sincera e ligada aos ciclos da terra, em que o ingrediente aparece com clareza e os pratos evitam excessos de elaboração.",
-    "Francisco Ruano, conhecido como Paco, nasceu em Guadalajara e aprendeu a valorizar os sabores da culinária mexicana tradicional. Trabalhou em navios e estudou na escola Luis Irizar, na Espanha, antes de passar por casas como Mugaritz, El Celler de Can Roca e Noma. Essas experiências influenciaram a forma de tratar técnicas e produtos de Jalisco.",
-    "A casa ocupa diferentes níveis em um endereço da Avenida México. O salão do andar superior tem cozinha aberta, mesas de madeira e elementos decorativos como cerâmicas de Talavera. O serviço oferece degustação longa e opções à la carte, com pratos que mudam conforme a temporada.",
-    "A trajetória internacional inclui crescimento nas listas da América Latina, como a 12ª posição em 2024 e a 15ª em 2025, além da presença na lista mundial. Em 2026, o Alcalde recebeu uma estrela Michelin e ficou em 55º no The 50 Best Restaurants. A foto publicada pelo A Carta documenta a fachada real da casa em 2020."
+    "Francisco Ruano, conhecido como Paco, nasceu em Guadalajara e aprendeu a valorizar os sabores da culinária mexicana tradicional. Estudou na escola Luis Irizar, na Espanha, antes de passar por casas como Mugaritz, El Celler de Can Roca e Noma. Essas experiências influenciaram a forma de tratar técnicas e produtos de Jalisco.",
+    "A casa fica na Avenida México e tem um nível superior com sala reservada para até 16 pessoas. O salão tem cozinha aberta, mesas de madeira e elementos decorativos como peças de Talavera. O serviço oferece degustação longa e opções à la carte, com pratos que mudam conforme a temporada.",
+    "A trajetória internacional inclui crescimento nas listas da América Latina, como a 12ª posição em 2024 e a 15ª em 2025, além da presença na lista mundial. Em 2026, o Alcalde recebeu uma estrela Michelin e ficou em 55º no The 50 Best Restaurants."
   ],
   "cuisine": {
     "style": "Mexicana contemporânea de Jalisco, com ênfase na sazonalidade",
@@ -16,9 +16,17 @@
   },
   "chef": {
     "name": "Francisco 'Paco' Ruano",
-    "bio": "Natural de Guadalajara, Paco Ruano começou a carreira em cozinhas de navios, estudou na escola Luis Irizar na Espanha e trabalhou em restaurantes como Mugaritz, El Celler de Can Roca e Noma. De volta a Jalisco, criou o Alcalde em 2013 para aplicar técnica internacional a uma cozinha mexicana direta, centrada no produto, na sazonalidade e nas tradições locais."
+    "bio": "Natural de Guadalajara, Paco Ruano estudou na escola Luis Irizar, na Espanha, e trabalhou em restaurantes como Mugaritz, El Celler de Can Roca e Noma. De volta a Jalisco, criou o Alcalde em 2013 para aplicar técnica internacional a uma cozinha mexicana direta, centrada no produto, na sazonalidade e nas tradições locais."
   },
   "awards": [
+    {
+      "year": 2016,
+      "title": "One To Watch Award — Latin America's 50 Best Restaurants"
+    },
+    {
+      "year": 2017,
+      "title": "Highest New Entry Award — Latin America's 50 Best Restaurants (nº 36)"
+    },
     {
       "year": 2019,
       "title": "Highest Climber Award — Latin America's 50 Best Restaurants"
@@ -55,9 +63,13 @@
     "https://tequiero.guadalajara.gob.mx/lugares/restaurante-alcalde",
     "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
     "https://www.eluniversal.com.mx/destinos/asi-es-alcalde-uno-de-los-50-mejores-restaurantes-en-latinoamerica/",
-    "https://commons.wikimedia.org/wiki/File:Restaurante_Alcalde_(2020).jpg"
+    "https://commons.wikimedia.org/wiki/File:Restaurante_Alcalde_(2020).jpg",
+    "https://grupoanimal.mx/gastronomia/donde-comer/guadalajara-restaurantes-guia-michelin-recorrido"
   ],
   "slug": "alcalde",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 55,
   "founded": 2013,
   "founders": [
@@ -69,7 +81,17 @@
     "author": "kaart_1 / Mapillary",
     "license": "CC BY-SA 4.0",
     "caption": "Fotografia real da fachada do Restaurante Alcalde na Av. México 2903, Guadalajara, em junho de 2020. O exterior pode ter mudado desde então.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Alcalde (2020)",
+    "alt": "Prédio de esquina com o letreiro Alcalde sobre janelas escuras",
+    "capturedAt": "2020-06-13",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "kaart_1 / Mapillary, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante%20Alcalde%20%282020%29.jpg?width=603",
@@ -77,7 +99,17 @@
     "author": "kaart_1 / Mapillary",
     "license": "CC BY-SA 4.0",
     "caption": "Fotografia real da fachada do Restaurante Alcalde na Av. México 2903, Guadalajara, em junho de 2020. O exterior pode ter mudado desde então.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Alcalde (2020)",
+    "alt": "Prédio de esquina com o letreiro Alcalde sobre janelas escuras",
+    "capturedAt": "2020-06-13",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "kaart_1 / Mapillary, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
@@ -92,12 +124,12 @@
     },
     {
       "name": "Vieira com molho de cinzas picante",
-      "desc": "Molusco servido em molho de cinzas com notas picantes, também descrito pelo Guia Michelin.",
+      "desc": "Molusco servido em molho de cinzas com notas picantes, também descrito pelo Guia Michelin; não confirmado no menu de 2026.",
       "photo": null
     },
     {
       "name": "Tostada de abalone",
-      "desc": "Preparação que usa abalone sobre uma base crocante, citada entre os pratos de mar da casa.",
+      "desc": "Preparação que usa abalone sobre uma base crocante, citada entre os pratos de mar da casa; não confirmado no menu de 2026.",
       "photo": null
     },
     {
@@ -114,9 +146,21 @@
   "practical": {
     "address": "Avenida México 2903, Vallarta Norte, Guadalajara, Jalisco 44690, México",
     "website": "https://alcalde.com.mx/",
-    "reservationUrl": "https://www.opentable.com.mx/r/alcalde-guadalajara",
+    "reservationUrl": "https://www.opentable.com.mx/restaurant/profile/105676/reserve?rid=105676&restref=105676",
     "reservation": "Reservas pela seção oficial do restaurante ou pela página do Alcalde no OpenTable. Telefone +52 33 3615 7400 e e-mail hola@alcalde.com.mx. Aberto de segunda a sábado, das 13h30 às 23h; fechado domingo. O horário divulgado para degustação é das 14h às 16h30 e das 19h às 22h.",
-    "price": "O menu degustação de dez etapas foi reportado por MXN 3.000 por pessoa em reportagem de 2026; não é valor confirmado pelo site institucional no momento da consulta. Confirmar preço, condições e composição antes de reservar."
+    "price": "O menu degustação foi reportado por MXN 3.150 por pessoa (harmonização por MXN 2.100) em reportagem de setembro de 2026; o site oficial não publica preços nem informa se impostos e serviço estão incluídos. Confirmar valor e condições antes de reservar.",
+    "reservationMode": "online",
+    "phone": "+52 33 3615 7400",
+    "email": "hola@alcalde.com.mx",
+    "priceDetails": {
+      "amount": 3150,
+      "currency": "MXN",
+      "basis": "Menu degustação, por pessoa (harmonização a MXN 2.100)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://grupoanimal.mx/gastronomia/donde-comer/guadalajara-restaurantes-guia-michelin-recorrido",
+      "checkedAt": "2026-11-10",
+      "note": "Fonte de imprensa (Animal Gourmet, setembro de 2026); o El Universal (agosto de 2026) citava MXN 3.000; o site oficial não publica preços."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -131,5 +175,49 @@
         "note": "Fotografias recentes do restaurante e do chef, além dos contatos."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://alcalde.com.mx/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O botão do site oficial leva ao OpenTable; link atualizado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://grupoanimal.mx/gastronomia/donde-comer/guadalajara-restaurantes-guia-michelin-recorrido",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço só na imprensa."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/Alcalde.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Trabalho em navios sem fonte (retirado); escola Luis Irizar só em fonte secundária."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/alcalde-highest-climber-latin-americas-50-best-2019.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Acrescentados One To Watch 2016 e Highest New Entry 2017. Estrela de 2026 confirmada pela imprensa. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/Alcalde.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Vieira e abalone citados pelo Michelin sem leitura do guia; marcados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Foto real da fachada, de 2020; frase sobre a foto retirada da história."
+    }
+  ]
 }

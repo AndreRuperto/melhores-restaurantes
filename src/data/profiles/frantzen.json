@@ -2,7 +2,7 @@
   "lede": "O Frantzén ocupa três andares de uma casa histórica no centro de Estocolmo e transforma a degustação em um percurso por salões, cozinha aberta e lounge. Björn Frantzén combina ingredientes nórdicos, técnica francesa e influências japonesas na primeira casa da Suécia a conquistar três estrelas Michelin.",
   "history": [
     "Em 2008, o chef Björn Frantzén abriu o Frantzén/Lindeberg em Gamla Stan com o confeiteiro Daniel Lindeberg. A casa nasceu pequena, com poucos funcionários e ambição de oferecer alta cozinha nórdica em diálogo com as grandes referências francesas. A primeira estrela Michelin veio em 2009 e a segunda em 2010.",
-    "Depois da saída de Lindeberg, o restaurante passou a se chamar Frantzén. Em julho de 2016, encerrou o serviço na antiga sede para preparar a mudança de conceito e endereço. Em 30 de agosto de 2017, reabriu em uma casa histórica na Klara Norra Kyrkogata 26, com três andares dedicados à experiência dos convidados.",
+    "Depois da saída de Lindeberg, o restaurante passou a se chamar Frantzén. No verão de 2016, encerrou o serviço na antiga sede para preparar a mudança de conceito e endereço. Em 30 de agosto de 2017, reabriu em uma casa histórica na Klara Norra Kyrkogata 26, com três andares dedicados à experiência dos convidados.",
     "O novo espaço manteve aproximadamente 23 assentos, mas ampliou a área de trabalho e criou etapas distintas de serviço. Os clientes passam pelo lounge, conhecem ingredientes e preparações, descem para comer diante da cozinha e encerram a refeição em outro ambiente. O fogo direto passou a fazer parte importante do repertório.",
     "Em 2018, o Frantzén conquistou a terceira estrela Michelin, tornando-se o primeiro restaurante da Suécia a atingir esse reconhecimento. Foi 6º no ranking mundial em 2021, líder do La Liste em 2023 e apareceu em 58º na lista mundial estendida de 2026."
   ],
@@ -11,12 +11,12 @@
     "paragraphs": [
       "O menu combina produtos do norte da Europa com caldos, molhos e técnicas clássicas e referências japonesas, como preparações a vapor e condimentos fermentados. O fogo vivo, os vinagres produzidos ou selecionados com precisão e as texturas contrastantes são marcas da casa.",
       "O serviço costuma percorrer cerca de dez etapas. Uma das assinaturas históricas é a French Toast Grand Tradition 2008, torrada salgada de massa fermentada com cebola, queijo Vacche Rosse, trufa e toque ácido. A preparação expressa o equilíbrio que Björn busca entre ingredientes familiares e execução refinada.",
-      "Outras criações documentadas ao longo da história incluem råraka, uma preparação sueca crocante de batata, pequenas entradas com frutos do mar e creme salgado de ovos no estilo chawanmushi. A sequência exata depende da estação; a fotografia de uma etapa de 2023 não é um registro do menu de 2026."
+      "Outras criações documentadas ao longo da história incluem råraka, uma preparação sueca crocante de batata, pequenas entradas com frutos do mar e creme salgado de ovos no estilo chawanmushi. A sequência exata depende da estação; o cardápio impresso fotografado em 2023 não é o menu de 2026."
     ]
   },
   "chef": {
     "name": "Björn Frantzén",
-    "bio": "Nascido em Estocolmo em 1977, Björn Frantzén deixou a carreira de futebol após um problema cardíaco e entrou na gastronomia como aprendiz no Edsbacka Krog. Trabalhou depois em cozinhas de referência na Inglaterra e na França, incluindo L'Arpège. Fundou o Frantzén/Lindeberg em 2008, liderou a mudança para a sede atual em 2017 e recebeu três estrelas Michelin em 2018. Também criou Zén em Singapura e FZN em Dubai."
+    "bio": "Nascido em 1977, Björn Frantzén deixou a carreira de futebol no AIK após um problema cardíaco congênito e entrou na gastronomia como estagiário no Edsbacka Krog. Trabalhou depois em cozinhas de referência na Inglaterra e na França, incluindo L'Arpège. Fundou o Frantzén/Lindeberg em 2008, liderou a mudança para a sede atual em 2017 e recebeu três estrelas Michelin em 2018. Também criou Zén em Singapura e FZN em Dubai."
   },
   "awards": [
     {
@@ -48,6 +48,14 @@
       "title": "Nº 1 — La Liste"
     },
     {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 35"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 38"
+    },
+    {
       "year": 2026,
       "title": "Três estrelas Michelin mantidas — Guia Michelin Países Nórdicos"
     },
@@ -65,9 +73,14 @@
     "https://guide.michelin.com/sg/en/article/features/behind-the-dish-restaurant-zen-s-french-toast",
     "https://commons.wikimedia.org/wiki/File:Restaurant_Frantzen,_Stockholm_(37548701784).jpg",
     "https://commons.wikimedia.org/wiki/File:Klara_norra_kyrkogata_26.jpg",
-    "https://commons.wikimedia.org/wiki/File:Franzen,_menu_sept_2023_03.jpg"
+    "https://commons.wikimedia.org/wiki/File:Franzen,_menu_sept_2023_03.jpg",
+    "https://www.visitstockholm.com/o/frantzen/",
+    "https://stockholmtourism.org/michelin-star-restaurants-stockholm/"
   ],
   "slug": "frantzen",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 58,
   "founded": 2008,
   "founders": [
@@ -80,7 +93,17 @@
     "author": "Per-Olof Forsberg",
     "license": "CC BY 2.0",
     "caption": "Registro real do restaurante Frantzén em Estocolmo, fotografado em novembro de 2017, pouco depois da abertura da sede atual.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Entrada do Frantzén (2017)",
+    "alt": "Porta de madeira com o nome frantzén e o número 26 acima",
+    "capturedAt": "2017-11-07",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Per-Olof Forsberg, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Klara%20norra%20kyrkogata%2026.jpg?width=960",
@@ -88,7 +111,17 @@
     "author": "I99pema",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada de Klara Norra Kyrkogata 26 em 2018, edifício que abriga o Frantzén desde 2017.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Klara Norra Kyrkogata 26, Estocolmo (2018)",
+    "alt": "Rua de prédios históricos coloridos no centro de Estocolmo",
+    "capturedAt": "2018-02-04",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "I99pema, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -96,8 +129,18 @@
       "page": "https://commons.wikimedia.org/wiki/File:Franzen,_menu_sept_2023_03.jpg",
       "author": "I99pema",
       "license": "CC BY-SA 4.0",
-      "caption": "Registro de uma das etapas da experiência no Frantzén em setembro de 2023. Fotografia de um menu histórico; não representa o cardápio atual.",
-      "illustrative": false
+      "caption": "Cardápio impresso do Frantzén em setembro de 2023, com o menu e as harmonizações daquela temporada. Registro histórico; não representa o cardápio atual.",
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Cardápio do Frantzén (setembro de 2023)",
+      "alt": "Cardápio impresso aberto, com o menu e as harmonizações de vinho",
+      "capturedAt": "2023-09-26",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+      "attribution": "I99pema, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "dishes": [
@@ -130,9 +173,21 @@
   "practical": {
     "website": "https://www.restaurantfrantzen.com/",
     "address": "Klara Norra Kyrkogata 26, 111 22 Estocolmo, Suécia",
-    "reservationUrl": "https://www.restaurantfrantzen.com/",
-    "reservation": "Reservas diretamente pelo botão do site oficial. Novas mesas para o mês seguinte são abertas no dia 1º, às 10h no horário local. A casa serve almoço e jantar de terça a sexta; grupos maiores devem consultar reservation@restaurantfrantzen.com. A página oficial informa que não exige pré-pagamento.",
-    "price": "Menu degustação fixo: SEK 5.500 por pessoa, tanto no almoço quanto no jantar, conforme o site oficial consultado em novembro de 2026."
+    "reservationUrl": "https://www.restaurantfrantzen.com/reservations/",
+    "reservation": "Reservas pela página de reservas do site oficial. A casa serve almoço e jantar de terça a sexta; grupos e dúvidas podem ser tratados por reservation@restaurantfrantzen.com ou pelo telefone +46 8 20 85 80. A regra de abertura da agenda e a política de pré-pagamento devem ser conferidas no site no momento da reserva.",
+    "price": "Menu degustação fixo, com bebidas cobradas à parte. O valor não pôde ser confirmado no site oficial em novembro de 2026; guias recentes citam a partir de cerca de SEK 5.800 por pessoa (junho de 2026). Confirmar no momento da reserva.",
+    "reservationMode": "online",
+    "phone": "+46 8 20 85 80",
+    "email": "reservation@restaurantfrantzen.com",
+    "priceDetails": {
+      "amount": null,
+      "currency": "SEK",
+      "basis": "Menu degustação fixo, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://stockholmtourism.org/michelin-star-restaurants-stockholm/",
+      "checkedAt": "2026-11-10",
+      "note": "Site oficial atrás de verificação anti-robô; fontes secundárias divergem (SEK 4.800 em 2024, cerca de SEK 5.800 em junho de 2026). O valor anterior de SEK 5.500 não foi confirmado."
+    }
   },
   "photoReference": {
     "kind": "fachada",
@@ -146,5 +201,49 @@
         "note": "Fotos atuais de salões e pratos; as imagens do site oficial não foram copiadas porque os direitos de reutilização não estavam explícitos."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.visitstockholm.com/o/frantzen/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Site oficial ilegível (verificação anti-robô); regra do dia 1º e ausência de pré-pagamento não confirmadas (retiradas)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://stockholmtourism.org/michelin-star-restaurants-stockholm/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Valores diferentes nas fontes secundárias; preço retirado do texto."
+    },
+    {
+      "field": "practical.address",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Uma página do grupo cita Nybrogatan 11, provavelmente endereço administrativo; mantido Klara Norra Kyrkogata 26."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Anos da primeira e segunda estrelas e o nº 6 de 2021 só em páginas do próprio grupo. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.bjornfrantzen.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Local de nascimento sem fonte (retirado)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Legenda da galeria corrigida: a foto mostra o cardápio impresso, não uma etapa do menu."
+    }
+  ]
 }

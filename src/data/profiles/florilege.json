@@ -1,5 +1,5 @@
 {
-  "lede": "No Azabudai Hills, em Tóquio, o Florilège de Hiroyasu Kawate reinventa a alta cozinha de matriz francesa com vegetais japoneses e compromisso ambiental. Os convidados compartilham uma mesa longa, em vez do antigo balcão em U, acompanhando uma experiência marcada pela sazonalidade e pelo diálogo.",
+  "lede": "No Azabudai Hills, em Tóquio, o Florilège de Hiroyasu Kawate reinventa a alta cozinha de matriz francesa com vegetais japoneses e compromisso ambiental. Os convidados compartilham uma mesa longa, em vez do antigo balcão, acompanhando uma experiência marcada pela sazonalidade e pelo diálogo.",
   "history": [
     "O chef Hiroyasu Kawate nasceu em 1978, em uma família de cozinheiros de Tóquio. Trabalhou no Le Bourguignion, no francês Jardin des Sens e no Quintessence de Shuzo Kishida antes de abrir o Florilège no bairro Minami-Aoyama, em 2009.",
     "Em 2015, a casa mudou-se para Jingumae e tornou conhecido um salão organizado ao redor de uma cozinha central, com serviço de observação próxima dos preparos. A proposta ganhou reconhecimento na lista Asia's 50 Best, incluindo o prêmio One To Watch de 2016 e duas estrelas Michelin conquistadas em 2018.",
@@ -60,6 +60,9 @@
     "https://commons.wikimedia.org/wiki/File:Official_opening_of_Azabudai_Hills.jpg"
   ],
   "slug": "florilege",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 61,
   "dishes": [
     {
@@ -79,7 +82,7 @@
     },
     {
       "name": "Principal vegetal ou de carne",
-      "desc": "Na experiência atual o visitante informa a preferência por um prato principal vegetal ou com carne, conforme a reserva oficial.",
+      "desc": "Na experiência atual o visitante informa a preferência por um prato principal vegetal ou com carne, conforme a reserva oficial; a opção vegetal não equivale a um menu vegetariano.",
       "photo": null
     },
     {
@@ -98,14 +101,35 @@
     "author": "Syced",
     "license": "CC0 1.0",
     "caption": "Vista do complexo Azabudai Hills em sua inauguração, em novembro de 2023. Imagem contextual do empreendimento que abriga o Florilège, NÃO da entrada nem do salão.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Azabudai Hills na inauguração (2023)",
+    "alt": "Prédios novos de Azabudai Hills com árvores na calçada",
+    "capturedAt": "2023",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Syced, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "address": "2º andar, Azabudai Hills Garden Plaza D, 5-10-7 Toranomon, Minato-ku, Tóquio 105-0001, Japão",
     "website": "https://www.aoyama-florilege.jp/en/",
-    "reservationUrl": "https://aoyama-florilege.jp/reservations.html",
-    "reservation": "Reservas online pela página oficial, abertas à 0h no horário japonês um mês antes da data pretendida. Grupos de até quatro pessoas; o site informa almoço com chegada entre 12h e 12h30 e jantar entre 18h e 18h30, sujeito aos dias de funcionamento e fechamentos extraordinários. Telefone +81 3-6435-8018.",
-    "price": "Almoço ¥ 12.000 e jantar ¥ 24.000 por pessoa, mais 10% de serviço, segundo a página oficial de reservas consultada em novembro de 2026. Valores sujeitos a alteração."
+    "reservationUrl": "https://www.tablecheck.com/shops/florilege/reserve",
+    "reservation": "Reservas online pelo sistema TableCheck, indicado na página oficial; as vagas abrem diariamente à 0h no horário japonês para a mesma data do mês seguinte. Grupos de até quatro pessoas; o almoço começa às 12h, com último pedido às 12h30, e o jantar às 18h, com último pedido às 18h30. A casa fecha no jantar de domingo, às segundas e no almoço de terça, além de fechamentos extraordinários. Telefone +81 3-6435-8018.",
+    "price": "Almoço ¥ 12.000 e jantar ¥ 24.000 por pessoa, com impostos incluídos e 10% de serviço à parte, segundo a página oficial de reservas consultada em novembro de 2026. Harmonizações são cobradas separadamente. Valores sujeitos a alteração.",
+    "reservationMode": "online",
+    "phone": "+81 3-6435-8018",
+    "priceDetails": {
+      "amount": 24000,
+      "currency": "JPY",
+      "basis": "Menu degustação do jantar, por pessoa (almoço a ¥ 12.000)",
+      "taxesIncluded": true,
+      "sourceUrl": "https://aoyama-florilege.jp/reservations.html",
+      "checkedAt": "2026-11-10",
+      "note": "10% de serviço à parte; harmonizações não incluídas; página sem data."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -120,5 +144,49 @@
         "note": "Registro do salão atual e descrição da proposta vegetal do restaurante."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://aoyama-florilege.jp/reservations.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Link trocado pelo TableCheck indicado na página oficial; horários eram de último pedido, não de chegada."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://aoyama-florilege.jp/reservations.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Impostos incluídos; serviço à parte; página sem data."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/florilege.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrelas de 2018 e 2026 só no The 50 Best e no site oficial. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/florilege.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "\"Abóbora\" e \"Camarão-listrado\" sem fonte localizada; o perfil já os trata como registros de temporadas anteriores."
+    },
+    {
+      "field": "lede",
+      "sourceUrl": "https://www.aoyama-florilege.jp/en/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Formato em U do antigo balcão sem fonte (retirado)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

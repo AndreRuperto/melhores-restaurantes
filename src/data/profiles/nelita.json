@@ -1,16 +1,16 @@
 {
   "lede": "No bairro de Pinheiros, em São Paulo, o Nelita une a formação italiana de Tássia Magalhães às memórias do Vale do Paraíba. A cozinha aberta, conduzida por uma equipe feminina, permite acompanhar de perto massas artesanais, ingredientes brasileiros e uma proposta de alta gastronomia intimista.",
   "history": [
-    "Tássia Magalhães cresceu em Guaratinguetá, no Vale do Paraíba, e se formou em hotelaria e gastronomia no Senac de Campos do Jordão. Começou a carreira em confeitaria e depois se especializou em cozinha italiana, com estágios em restaurantes europeus como Kadeau, Amass e Geranium.",
+    "Tássia Magalhães cresceu em Guaratinguetá, no Vale do Paraíba, e se formou no Senac de Campos do Jordão. Começou a carreira em confeitaria e depois se especializou em cozinha italiana, com estágios em restaurantes europeus como Kadeau, Amass e Geranium.",
     "O Nelita abriu em 2021, em Pinheiros, com o objetivo de combinar a precisão de massas e preparações italianas com produtos e lembranças afetivas da chef. A abertura coincidiu com restrições sanitárias, e a casa precisou interromper as atividades pouco depois de iniciar o atendimento, retomando posteriormente o serviço.",
     "O projeto foi estruturado com uma equipe de cozinha feminina e um balcão de mármore de frente para os preparos. O sócio Danyel Steinle responde pela hospitalidade e pela seleção da carta. O nome Nelita faz referência à mãe da chef, reforçando o caráter afetivo do restaurante.",
-    "A projeção cresceu rapidamente: o Nelita entrou no Latin America's 50 Best em 2022, subiu ao 12º lugar em 2025, e Tássia recebeu o Latin America's Best Female Chef Award em 2025. Em 2026, a casa estreou no ranking mundial estendido na 54ª posição. O grupo também criou a padaria Mag Market e o bar gastronômico Lita."
+    "A projeção cresceu rapidamente: o Nelita estreou no Latin America's 50 Best em 2022, na 39ª posição, foi 21º em 2023, 26º em 2024 e subiu ao 12º lugar em 2025, e Tássia recebeu o Latin America's Best Female Chef Award em 2025. Em 2026, a casa estreou no ranking mundial estendido na 54ª posição. O casal também criou a padaria Mag Market, em 2023, e o bar de vinhos Lita, em 2025."
   ],
   "cuisine": {
     "style": "Cozinha autoral brasileira de inspiração italiana",
     "paragraphs": [
       "O Nelita desenvolve uma cozinha centrada na habilidade de fazer massas, nos ingredientes locais e nas lembranças culinárias da chef. O resultado combina técnicas de origem italiana com legumes, peixes, carnes e produtos brasileiros, num repertório que muda conforme a estação.",
-      "Segundo o Guia Michelin consultado em novembro de 2026, existem três caminhos para a refeição: a experiência de onze etapas no balcão da cozinha, uma degustação menor de seis etapas e pratos à la carte. O perfil do 50 Best de 2025 descrevia cinco ou onze etapas, o que evidencia mudanças entre as temporadas.",
+      "Segundo o cardápio oficial de 2026, existem três caminhos para a refeição: a degustação de onze tempos, uma versão menor de seis tempos e pratos à la carte. O perfil do 50 Best de 2025 descrevia cinco ou onze etapas, o que evidencia mudanças entre as temporadas.",
       "Entre as criações documentadas estão agnolotti de cabra com limão confit, alho-negro e mel, pappardelle com polvo e guanciale, codorna com chocolate e cebola, além de combinações de truta, cenoura e massa folhada. A composição atual deve ser confirmada no menu da casa."
     ]
   },
@@ -40,8 +40,8 @@
       "photo": null
     },
     {
-      "name": "Burrata com hortelã e macadâmia",
-      "desc": "Entrada descrita no perfil da casa no Latin America's 50 Best, sujeita a mudanças de carta.",
+      "name": "Burrata com tomates e hortelã",
+      "desc": "Entrada da carta à la carte de 2026; uma versão anterior, descrita pelo 50 Best, levava macadâmia.",
       "photo": null
     },
     {
@@ -62,6 +62,10 @@
     {
       "year": 2022,
       "title": "Tássia Magalhães — Chef do Ano, Prazeres da Mesa"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants — nº 21"
     },
     {
       "year": 2024,
@@ -92,16 +96,33 @@
     "https://www.the50.com/restaurants/best-in-latin-america/Awards/best-female-chef.html",
     "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
     "https://www.bloomberglinea.com.br/estilo-de-vida/menu-de-r-790-e-reservas-em-alta-como-os-premios-impulsionaram-o-sucesso-do-nelita/",
-    "https://commons.wikimedia.org/wiki/File:Pinheiros,_Sao_Paulo.jpg"
+    "https://commons.wikimedia.org/wiki/File:Pinheiros,_Sao_Paulo.jpg",
+    "https://nelitarestaurante.com.br/wp/wp-content/uploads/2026/09/Menu-Nelita-2026-site.pdf",
+    "https://www.the50.com/discovery/Establishments/Brazil/S%C3%A3o-Paulo/Nelita.html"
   ],
   "slug": "nelita",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 54,
   "practical": {
     "address": "Rua Ferreira de Araújo 330, Pinheiros, São Paulo - SP, 05428-000, Brasil",
     "website": "https://nelitarestaurante.com.br/",
     "reservationUrl": "https://nelitarestaurante.com.br/",
-    "reservation": "Para o menu degustação, reserve pelo canal indicado no site oficial; WhatsApp +55 11 99886-2384, telefone +55 11 2626-1496 e e-mail contato@eatgroup.com.br. O site informa possibilidade de atendimento sem agendamento em lugares limitados para outras opções. Segunda a sexta das 19h às 23h; sábado das 12h às 16h e 19h às 23h; domingo fechado.",
-    "price": "O menu degustação foi reportado por R$ 790 em reportagem publicada em outubro de 2026; a página institucional consultada não confirma preço atualizado. Verificar diretamente com o Nelita antes da reserva."
+    "reservation": "Para o menu degustação, reserve pelo canal indicado no site oficial; WhatsApp +55 11 99886-2384, telefone +55 11 2626-1496 e e-mail contato@eatgroup.com.br. O menu degustação exige reserva; para visitas de última hora ao menu fixo, o site informa que sempre há um lugar reservado. Segunda a sexta, das 19h às 23h; sábado, das 12h às 16h e das 19h às 23h; feriados, das 12h às 16h; domingo fechado.",
+    "price": "Segundo o cardápio oficial de 2026, o menu degustação de 11 tempos custa R$ 790 (harmonização alcoólica, R$ 650) e o de 6 tempos, R$ 450 (harmonização, R$ 390), sujeito a disponibilidade. Taxa de serviço de 15%, opcional, não incluída. Há também carta à la carte.",
+    "reservationMode": "phone",
+    "phone": "+55 11 2626-1496",
+    "email": "contato@eatgroup.com.br",
+    "priceDetails": {
+      "amount": 790,
+      "currency": "BRL",
+      "basis": "Menu degustação de 11 tempos, por pessoa, sem harmonização",
+      "taxesIncluded": false,
+      "sourceUrl": "https://nelitarestaurante.com.br/wp/wp-content/uploads/2026/09/Menu-Nelita-2026-site.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Cardápio oficial de setembro de 2026; 6 tempos a R$ 450; harmonizações a R$ 650 e R$ 390; serviço de 15% opcional à parte."
+    }
   },
   "founded": 2021,
   "founders": [
@@ -114,7 +135,17 @@
     "author": "Slyronit",
     "license": "CC BY-SA 4.0",
     "caption": "Imagem de Pinheiros, São Paulo, fotografada em março de 2016. Foto contextual do bairro; NÃO mostra a fachada verde nem o interior do Nelita, aberto em 2021.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Largo da Batata, Pinheiros (2016)",
+    "alt": "Praça ampla com pombos, prédios altos e céu nublado",
+    "capturedAt": "2016-03-13",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Slyronit, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -129,5 +160,49 @@
         "note": "Fotografias da equipe, cozinha e informações oficiais para reservas."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://nelitarestaurante.com.br/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem plataforma de reservas; WhatsApp, telefone ou e-mail. O The 50 Best publica outro telefone (+55 11 3798-9827)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://nelitarestaurante.com.br/wp/wp-content/uploads/2026/09/Menu-Nelita-2026-site.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preços agora publicados no cardápio oficial; a reportagem antes citada era de setembro, não outubro."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Brazil/S%C3%A3o-Paulo/Nelita.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 21º lugar de 2023. O New Talent Award do La Liste aparece como 2023 no site do restaurante e 2024 nas outras fontes; mantido 2024."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://nelitarestaurante.com.br/wp/wp-content/uploads/2026/09/Menu-Nelita-2026-site.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pratos conferidos no cardápio de 2026; a burrata mudou."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/nelita.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Senac de Campos do Jordão só em fonte secundária; nome do curso sem fonte (retirado)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "history": [
     "O edifício que hoje abriga o Hiša Franko tem uma história de hospitalidade que remonta ao século XIX. A casa fica em Staro Selo, perto de Kobarid, no vale do rio Soča, zona de montanhas, pequenos povoados e tradição de laticínios, caça e pesca.",
     "Ana Roš não seguiu uma formação profissional convencional em cozinha: deixou um caminho possível na diplomacia e assumiu o restaurante familiar. Com aprendizado autodidata, desenvolveu uma linguagem muito própria baseada nos ingredientes do vale e na relação direta com coletores, pastores, queijeiros e agricultores.",
-    "A chef foi eleita The World's Best Female Chef em 2017 e consolidou a projeção internacional da casa. Na primeira edição do Guia Michelin Eslovênia, em 2020, o Hiša Franko recebeu duas estrelas e a Estrela Verde, que reconhece práticas ligadas à sustentabilidade. Em 2023, conquistou a terceira estrela.",
+    "A chef foi eleita The World's Best Female Chef em 2017 e consolidou a projeção internacional da casa. Na primeira edição do Guia Michelin Eslovênia, em 2020, o Hiša Franko recebeu duas estrelas. Em 2023, conquistou a terceira estrela e manteve a Estrela Verde, que reconhece práticas ligadas à sustentabilidade.",
     "Em 2026, a casa mantinha três estrelas Michelin e apareceu em 60º no ranking mundial estendido. O menu daquele ano, Euphorest, buscou dar voz ao trabalho de quem cultiva, coleta e cria na região, adaptando os pratos ao que a paisagem oferece em cada estação."
   ],
   "cuisine": {
@@ -16,7 +16,7 @@
   },
   "chef": {
     "name": "Ana Roš",
-    "bio": "Ana Roš dirige o Hiša Franko e construiu sua trajetória culinária por aprendizado autodidata, a partir da região onde vive. Seu trabalho reúne produtores, coletores, agricultores e artesãos do vale do Soča em uma gastronomia que expressa o território. Foi eleita The World's Best Female Chef em 2017; a casa recebeu duas estrelas Michelin e Estrela Verde em 2020, passando a três estrelas em 2023."
+    "bio": "Ana Roš dirige o Hiša Franko e construiu sua trajetória culinária por aprendizado autodidata, a partir da região onde vive. Seu trabalho reúne produtores, coletores, agricultores e artesãos do vale do Soča em uma gastronomia que expressa o território. Foi eleita The World's Best Female Chef em 2017; a casa recebeu duas estrelas Michelin em 2020 e a terceira em 2023, com a Estrela Verde."
   },
   "awards": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "year": 2020,
-      "title": "Duas estrelas Michelin e Estrela Verde — primeira edição do Guia Michelin Eslovênia"
+      "title": "Duas estrelas Michelin — primeira edição do Guia Michelin Eslovênia"
     },
     {
       "year": 2023,
@@ -33,7 +33,7 @@
     },
     {
       "year": 2024,
-      "title": "Ana Roš — Best Chef Voted by Professionals"
+      "title": "Ana Roš — Best Chef Voted by Professionals, The Best Chef Awards"
     },
     {
       "year": 2025,
@@ -59,31 +59,45 @@
     "https://www.anaros.eu/en/hisa-franko",
     "https://www.anaros.eu/en/about",
     "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_03.jpg",
-    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_07.jpg"
+    "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_07.jpg",
+    "https://si.gaultmillau.com/en/restaurants/hisa-franko"
   ],
   "slug": "hisa-franko",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 60,
   "dishes": [
     {
       "name": "Beignet de milho com queijo fresco fermentado",
-      "desc": "Pequena massa de milho com queijo fermentado, ovas de truta defumadas e ervas; assinatura documentada em fotografia feita no restaurante em 2022.",
+      "desc": "Pequena massa de milho com queijo fermentado, ovas de truta defumadas e ervas; prato documentado em fotografia feita no restaurante em agosto de 2022.",
       "photo": {
         "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dinner%20at%20Hi%C5%A1a%20Franko%2C%20summer%202022%2003.jpg?width=960",
         "page": "https://commons.wikimedia.org/wiki/File:Dinner_at_Hiša_Franko,_summer_2022_03.jpg",
         "author": "Dclemens1971",
         "license": "CC BY 4.0",
         "caption": "Beignet de milho com queijo fresco fermentado, ovas de truta defumadas e cebolinha silvestre, servido no Hiša Franko em agosto de 2022. Fotografia real de menu histórico.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Beignet de milho com queijo fermentado (2022)",
+        "alt": "Bolinho dourado e empanado sobre uma base de madeira",
+        "capturedAt": "2022-08-05",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+        "attribution": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Batata assada em crosta de feno",
-      "desc": "Preparação histórica da cozinha de Ana Roš que usa feno seco para remeter às paisagens de montanha.",
+      "desc": "Preparação histórica da cozinha de Ana Roš que usa feno seco para remeter às paisagens de montanha; sem fonte que confirme o prato.",
       "photo": null
     },
     {
       "name": "Pastrami de língua e água de tomate",
-      "desc": "Língua curada com cristal de alga e ervas, servida em uma etapa de degustação de 2022 ao lado de água de tomate fermentado, flor de sabugueiro e morangos.",
+      "desc": "Pastrami de língua bovina com cristal de alga, jalapeño e flores silvestres, servida em uma etapa de degustação de 2022 ao lado de água de tomate fermentado, flor de sabugueiro e morangos.",
       "photo": null
     },
     {
@@ -95,12 +109,22 @@
         "author": "Dclemens1971",
         "license": "CC BY 4.0",
         "caption": "Sobremesa de leite azedo, melão e frutos vermelhos do jardim, servida no Hiša Franko em agosto de 2022; prato de temporada histórica.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Leite azedo, melão e frutos do jardim (2022)",
+        "alt": "Tigela branca com frutos vermelhos, uma pétala roxa e folhas",
+        "capturedAt": "2022-08-05",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+        "attribution": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Truta e ingredientes do rio Soča",
-      "desc": "Família de preparações sazonais com pescado da região; composição não fixa e dependente da pesca e da estação.",
+      "desc": "Família de preparações sazonais com pescado da região; composição não fixa e dependente da pesca e da estação; sem fonte que confirme o prato.",
       "photo": null
     }
   ],
@@ -110,7 +134,17 @@
     "author": "Lars Plougmann",
     "license": "CC BY-SA 2.0",
     "caption": "Edifício do restaurante e hotel Hiša Franko, em foto de 2006",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Hiša Franko, Staro Selo (2006)",
+    "alt": "Casa rosada de dois andares com terraço e guarda-sóis",
+    "capturedAt": "2006-07-08",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Lars Plougmann, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -119,7 +153,17 @@
       "author": "Dclemens1971",
       "license": "CC BY 4.0",
       "caption": "Pratos servidos no Hiša Franko em 2022: pastrami de língua e água de tomate fermentado",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "dish",
+      "subject": "Pastrami de língua e água de tomate (2022)",
+      "alt": "Dois pequenos bocados com folhas e flores sobre um prato cinza",
+      "capturedAt": "2022-08-05",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+      "attribution": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "founders": [
@@ -129,8 +173,20 @@
     "website": "https://www.hisafranko.com/en",
     "address": "Staro Selo 1, 5222 Kobarid, Eslovênia",
     "reservationUrl": "https://r.venuo.net/hisa-franko/",
-    "reservation": "Reservas pelo sistema Venuo indicado no site oficial, confirmadas por e-mail. Serviço de quarta a domingo, no almoço e no jantar; fechado às segundas e terças. A experiência dura cerca de três horas. O restaurante pede aviso prévio de restrições alimentares com pelo menos uma semana de antecedência; a política de cancelamento deve ser conferida na reserva.",
-    "price": "Euphorest 2026: € 335 por pessoa, bebidas não incluídas, segundo o menu oficial de novembro de 2026. A plataforma também divulga uma temporada 2027 com € 345, valor não aplicável a todas as datas de 2026."
+    "reservation": "Reservas online pelo sistema Venuo indicado no site oficial ou pelo e-mail informado na página de perguntas frequentes. Serviço de quarta a domingo, no almoço e no jantar; fechado às segundas e terças. A experiência dura cerca de três horas. Restrições alimentares devem ser informadas no momento da reserva; dietas veganas ou sem laticínios não são atendidas, e a idade mínima é 12 anos. Não há pré-pagamento nas reservas comuns, e o cancelamento é gratuito até 72 horas antes; depois disso, ou em caso de não comparecimento, cobra-se uma taxa. O restaurante funciona por temporadas: a de 2027 começa em 9 de abril, e a data exata da pausa de inverno 2026–2027 não foi divulgada nas fontes consultadas.",
+    "price": "Euphorest 2026: € 335 por pessoa, bebidas não incluídas, segundo a plataforma oficial de reservas Venuo, consultada em novembro de 2026. Para a temporada 2027, que começa em 9 de abril, o menu-degustação custa € 345 por pessoa.",
+    "reservationMode": "online",
+    "phone": "+386 5 389 4120",
+    "email": "info@hisafranko.com",
+    "priceDetails": {
+      "amount": 335,
+      "currency": "EUR",
+      "basis": "Menu-degustação Euphorest (temporada 2026), por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://r.venuo.net/hisa-franko/",
+      "checkedAt": "2026-11-10",
+      "note": "Temporada 2027 (a partir de 9 de abril) a € 345; impostos e serviço não informados; menu em hisafranko.com ilegível (verificação anti-robô)."
+    }
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Franko_restaurant_and_hotel_-_P1030770_(186801953).jpg?width=960",
@@ -138,7 +194,17 @@
     "author": "Lars Plougmann",
     "license": "CC BY-SA 2.0",
     "caption": "Edifício real do Hiša Franko, restaurante e hospedaria em Staro Selo, fotografado em 2006. A aparência atual pode ter mudado desde então.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Hiša Franko, Staro Selo (2006)",
+    "alt": "Casa rosada de dois andares com terraço e guarda-sóis",
+    "capturedAt": "2006-07-08",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L07.json).",
+    "attribution": "Lars Plougmann, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "photoReference": {
     "kind": "ambientes",
@@ -152,5 +218,49 @@
         "note": "Descrição do menu vigente, duração, preço e canal de reserva."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://r.venuo.net/hisa-franko/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Regra de uma semana para restrições sem fonte; política do Venuo aplicada. E-mail só em trecho indexado da página de perguntas frequentes."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://r.venuo.net/hisa-franko/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fonte é a plataforma de reservas, não o menu oficial (ilegível)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.gov.si/en/news/2020-06-16-slovenian-stars-in-the-michelin-constellation/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Estrela Verde não consta do anúncio de 2020; confirmada em 2023. Estrelas de 2026 só em título de notícia oficial. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "founders",
+      "sourceUrl": "https://si.gaultmillau.com/en/restaurants/hisa-franko",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Gault&Millau cita Ana Roš e Valter Kramar e o fundador Franko Kramar; não confirmado em página legível."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Hospitalidade desde o século XIX e carreira diplomática sem fonte legível."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Edifício de 2006 e pratos de 2022 conferidos com as descrições do Commons."
+    }
+  ]
 }

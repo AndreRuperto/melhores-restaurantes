@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-10",
+  "env": "servidor de desenvolvimento Vite, painel de navegador Chromium do Claude Desktop",
+  "method": "scrollWidth vs clientWidth e elementos fora da viewport (exceto SVG decorativo recortado); imagens sem atributo alt; links da seção Antes de ir",
+  "defectFound": null,
+  "consoleErrors": "55 erros ERR_CONNECTION_REFUSED herdados da aba, do servidor do lote anterior já encerrado; nenhum erro novo ao recarregar um perfil",
+  "cases": [
+    {
+      "slug": "ling-long",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "ling-long",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "nelita",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "nelita",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "alcalde",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "alcalde",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "sazenka",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "sazenka",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "koan",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "koan",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "frantzen",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "frantzen",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "narisawa",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "narisawa",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "hisa-franko",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "hisa-franko",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "florilege",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "florilege",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "fu-he-hui",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "fu-he-hui",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    }
+  ]
+}
