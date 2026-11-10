@@ -1,22 +1,22 @@
 {
-  "lede": "Em Saint-Vrain, ao sul de Paris, os chefs australianos James Henry e Shaun Kelly transformaram antigas cavalariças da propriedade Mortemart em restaurante, hospedaria e fazenda. No Le Doyenné, os vegetais da horta regenerativa e os animais criados na propriedade definem uma cozinha francesa campestre que muda a cada colheita.",
+  "lede": "Em Saint-Vrain, ao sul de Paris, os chefs australianos James Henry e Shaun Kelly transformaram antigas cavalariças da propriedade Mortemart em restaurante, hospedaria e fazenda. No Le Doyenné, os vegetais da horta regenerativa definem uma cozinha francesa campestre que muda a cada colheita.",
   "history": [
     "O Le Doyenné ocupa as antigas cavalariças da propriedade de Château de Saint-Vrain, a cerca de 41 quilômetros ao sul do centro de Paris. O terreno pertence à família Mortemart há mais de dois séculos e conserva a memória de artistas que trabalharam ali, incluindo Niki de Saint Phalle e Jean Tinguely.",
-    "Os chefs australianos James Henry e Shaun Kelly passaram por restaurantes parisienses como Au Passage, Bones, Yard e Spring. Os dois, com a família proprietária, recuperaram a construção rural e montaram um projeto em que a horta precedeu e inspirou o restaurante.",
-    "Na abertura em 2022, o Le Doyenné reuniu restaurante, produção agrícola e onze quartos de hospedagem. Uma horta trabalhada com compostagem e agricultura regenerativa cultiva mais de cem variedades de vegetais, frutas e ervas, incluindo sementes e espécies tradicionais.",
+    "Os chefs australianos James Henry e Shaun Kelly passaram por restaurantes parisienses como Au Passage, Bones, Yard e Saturne. Os dois, com a família proprietária, recuperaram a construção rural e montaram um projeto em que a horta precedeu e inspirou o restaurante.",
+    "Com a abertura, o Le Doyenné reuniu restaurante, produção agrícola e onze quartos de hospedagem. A horta murada, retomada em 2017 com compostagem e sem revolvimento do solo, cultiva centenas de variedades tradicionais de legumes e ervas, além de centenas de árvores frutíferas e arbustos.",
     "Em 2024, o restaurante entrou no ranking mundial estendido The 50 Best Restaurants em 70º lugar, seguiu em 77º em 2025 e foi classificado em 84º em 2026. Mais do que uma sequência fixa de receitas, a proposta combina a produção da propriedade, hospitalidade rural e técnica de cozinha contemporânea."
   ],
   "cuisine": {
     "style": "Cozinha francesa de fazenda, colheita e agricultura regenerativa",
     "paragraphs": [
-      "A despensa começa na horta do próprio terreno, com vegetais colhidos no ponto de maturação. A equipe usa também aves e outros animais criados na propriedade, aproveitando cascas e folhas em vinagres e condimentos; compostagem e cuidado com o solo fazem parte da rotina.",
-      "Na carta sazonal divulgada no site oficial aparecem peixe-são-pedro de pesca de linha com vagem e tomate, galinha-d'angola grelhada, salada da horta com gazpacho de tomate e legumes crus. Uma tábua de charcutaria própria e brioche compõem algumas das pequenas entradas.",
-      "Há o menu Carte Blanche de várias etapas e uma versão menor para o almoço de sexta-feira. As receitas são exemplos publicados e mudam diariamente com a colheita, portanto a experiência exige confirmação do menu no dia da visita."
+      "A despensa começa na horta do próprio terreno, com vegetais colhidos no ponto de maturação. A equipe aproveita cascas e folhas em vinagres e condimentos; compostagem e cuidado com o solo fazem parte da rotina.",
+      "No exemplo de menu de outono publicado no site oficial aparecem bonito de pesca de linha com berinjela e gengibre myoga, sardinhas com rabanete, maçã e tomatillo, e frango de Gâtinais de uma fazenda vizinha; entre as sobremesas, sorvete de flor de funcho com mel e gaufrette com creme de alecrim e marmelo.",
+      "Há o menu Carte Blanche de várias etapas e uma versão menor para o almoço de sexta-feira. As receitas mudam diariamente com a colheita."
     ]
   },
   "chef": {
     "name": "James Henry e Shaun Kelly",
-    "bio": "Os australianos James Henry e Shaun Kelly formaram suas trajetórias em cozinhas de Melbourne e Paris. Henry esteve ligado a Au Passage e ao Bones; Kelly passou por Au Passage, Yard e outras equipes francesas. No Le Doyenné, criaram uma experiência que integra cozinha, hospedagem e uma horta regenerativa de mais de cem variedades de plantas."
+    "bio": "Os australianos James Henry e Shaun Kelly formaram suas trajetórias em cozinhas de Melbourne e Paris. Henry esteve ligado a Au Passage e ao Bones; Kelly passou pelo St John, em Londres, e por Saturne, Au Passage e Yard, em Paris. No Le Doyenné, criaram uma experiência que integra cozinha, hospedagem e uma horta regenerativa de centenas de variedades de plantas."
   },
   "awards": [
     {
@@ -39,35 +39,34 @@
     "https://ledoyennerestaurant.com/book-now/",
     "https://guide.michelin.com/en/ile-de-france/saint-vrain/restaurant/le-doyenne",
     "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
-    "https://commons.wikimedia.org/wiki/File:Saint-Vrain_-_IMG_6389.jpg"
+    "https://commons.wikimedia.org/wiki/File:Saint-Vrain_-_IMG_6389.jpg",
+    "https://ledoyennerestaurant.com/faq/"
   ],
   "slug": "le-doyenne",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 84,
   "dishes": [
     {
-      "name": "Peixe-são-pedro, vagem e tomates",
-      "desc": "Pescado de linha acompanhado de vagens e tomates, preparado segundo a carta sazonal do restaurante.",
-      "photo": null
+      "name": "Bonito, berinjela e myoga",
+      "desc": "Bonito de pesca de linha com berinjela e gengibre myoga, no exemplo de menu de outono de 2026."
     },
     {
-      "name": "Galinha-d'angola grelhada",
-      "desc": "Ave criada e preparada com técnica de grelha, prato publicado na degustação Carte Blanche.",
-      "photo": null
+      "name": "Sardinhas, rabanete e tomatillo",
+      "desc": "Sardinhas com rabanete, maçã e tomatillo, no exemplo de menu de outono de 2026."
     },
     {
-      "name": "Salada de horta com gazpacho de tomate",
-      "desc": "Folhas e vegetais da propriedade, com caldo frio de tomate, em uma das versões de verão do menu.",
-      "photo": null
+      "name": "Frango de Gâtinais",
+      "desc": "Frango de uma fazenda vizinha, prato principal do exemplo de menu de outono de 2026."
     },
     {
-      "name": "Tarte de tomate e sardinha",
-      "desc": "Pequena entrada da seleção de hors d'œuvres, combinando produto de horta e pescado.",
-      "photo": null
+      "name": "Sorvete de flor de funcho",
+      "desc": "Sorvete de flor de funcho com mel, sobremesa do menu de outono."
     },
     {
-      "name": "Savarin, pêssego, nozes e figo assado",
-      "desc": "Sobremesa sazonal do menu apresentado pelo Le Doyenné, sujeita a variação de frutas.",
-      "photo": null
+      "name": "Gaufrette, alecrim e marmelo",
+      "desc": "Gaufrette com creme de alecrim e marmelo, sobremesa do menu de outono."
     }
   ],
   "founded": 2022,
@@ -81,15 +80,37 @@
     "page": "https://commons.wikimedia.org/wiki/File:Saint-Vrain_-_IMG_6389.jpg",
     "author": "Poudou99",
     "license": "CC BY 3.0",
-    "caption": "Prefeitura de Saint-Vrain, no departamento de Essonne, fotografada em agosto de 2012. Foto contextual da comuna, NÃO das cavalariças do Le Doyenné nem do château da família Mortemart.",
-    "illustrative": true
+    "caption": "Prefeitura de Saint-Vrain, no departamento de Essonne, fotografada em agosto de 2012. Foto contextual da comuna; não mostra as cavalariças do Le Doyenné nem o château da família Mortemart.",
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Prefeitura de Saint-Vrain (2012)",
+    "alt": "Prédio da prefeitura de uma pequena comuna francesa",
+    "capturedAt": "2012-08-20",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "Poudou99, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "website": "https://ledoyennerestaurant.com/",
     "address": "5 rue Saint-Antoine, 91770 Saint-Vrain, França",
     "reservationUrl": "https://ledoyennerestaurant.com/book-now/",
-    "reservation": "Reservas obrigatórias pelo sistema Zenchef no site oficial. Jantar às segundas e quintas; almoço e jantar de sexta a domingo; fechado terça e quarta. O restaurante solicita depósito de €50 para reservar mesa. Hospedagem e mesa são reservadas separadamente, e reservar quarto não assegura lugar no restaurante.",
-    "price": "Menu Carte Blanche: €135 por pessoa; almoço de sexta-feira: €95 por pessoa. A carta no site indica que exemplos de etapas mudam diariamente; preços consultados em novembro de 2026 e sujeitos a atualização."
+    "reservation": "Reservas obrigatórias pelo sistema Zenchef no site oficial, com depósito de €50, reembolsável até 48 horas antes; as datas abrem por temporada, com três meses de antecedência. Jantar às segundas e quintas; almoço e jantar de sexta a domingo; fechado terça e quarta. Hospedagem e mesa são reservadas separadamente, e reservar quarto não assegura lugar no restaurante. Telefone +33 1 60 80 00 99; e-mail info@ledoyennerestaurant.com.",
+    "price": "Menu Carte Blanche: €135 por pessoa; almoço de sexta-feira: €95 por pessoa. Harmonização de vinhos por €80 (Carte Blanche) ou €65 (almoço); queijos à parte. Preços consultados em novembro de 2026.",
+    "reservationMode": "online",
+    "phone": "+33 1 60 80 00 99",
+    "email": "info@ledoyennerestaurant.com",
+    "priceDetails": {
+      "amount": 135,
+      "currency": "EUR",
+      "basis": "Menu Carte Blanche, por pessoa (almoço de sexta a €95)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://ledoyennerestaurant.com/restaurant-en-2/",
+      "checkedAt": "2026-11-10",
+      "note": "Harmonização a €80 ou €65; queijos +€18; depósito de €50 na reserva; impostos e serviço não informados."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -104,5 +125,48 @@
         "note": "Fotos da propriedade e texto sobre agricultura regenerativa e pratos da casa."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://ledoyennerestaurant.com/book-now/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A página de perguntas frequentes ainda cita a Tock; a reserva atual é pela Zenchef."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://ledoyennerestaurant.com/restaurant-en-2/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://ledoyennerestaurant.com/restaurant-en-2/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Os cinco pratos eram do menu de verão; trocados pelo exemplo de outono."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://ledoyennerestaurant.com/about/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Spring e animais criados na propriedade sem fonte (retirados); \"mais de cem\" variedades eram centenas."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://www.gourmettraveller.com.au/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Ano de abertura não consta do site; fontes secundárias citam 2022 ou 2023."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

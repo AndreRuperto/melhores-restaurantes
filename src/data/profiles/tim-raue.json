@@ -4,14 +4,14 @@
     "Tim Raue nasceu em Berlim em 1974 e desenvolveu a carreira em cozinhas da cidade, incluindo restaurantes de hotel. Antes de ter uma casa própria, recebeu reconhecimento Michelin e Gault&Millau em projetos como o Restaurant 44 e o Ma Tim Raue.",
     "Em 2010, abriu o Restaurant Tim Raue com Marie-Anne Wild em Kreuzberg, perto do Checkpoint Charlie. A casa escolheu uma identidade cosmopolita, sem buscar reproduzir fielmente uma cozinha nacional asiática: pratos alemães de memória afetiva passaram a conviver com especiarias e condimentos de viagens pela China, pelo Japão e pela Tailândia.",
     "O restaurante conquistou a primeira estrela Michelin pouco depois da abertura e a segunda na etapa inicial de sua história, reconhecida nos guias da década de 2010. Marie-Anne Wild coordena o acolhimento e a operação; o ambiente urbano prioriza serviço próximo em vez de formalidade cerimonial.",
-    "Em 2024, ficou em 30º no ranking mundial The World's 50 Best Restaurants, passando a 58º em 2025 e a 85º na lista estendida de 2026. A casa manteve duas estrelas Michelin em 2026 e continua operando no endereço Rudi-Dutschke-Straße 26."
+    "Depois de figurar em 26º em 2022 e 40º em 2023, ficou em 30º no ranking mundial The World's 50 Best Restaurants em 2024, passando a 58º em 2025 e a 85º na lista estendida de 2026. A casa manteve duas estrelas Michelin em 2026 e continua operando no endereço Rudi-Dutschke-Straße 26."
   ],
   "cuisine": {
     "style": "Europeia contemporânea com influências asiáticas e identidade berlinense",
     "paragraphs": [
       "Os sabores mais reconhecíveis do chef unem acidez, notas picantes e toques adocicados, frequentemente equilibrados por vegetais crocantes e molhos concentrados. A técnica europeia encontra temperos, métodos de preparo e ingredientes de diferentes cozinhas asiáticas.",
       "O menu Kolibri x Berlin revisita produtos e memórias gastronômicas da cidade; o menu Koi concentra as criações mais diretamente influenciadas pela Ásia. Existe ainda uma degustação Vegan que aplica os mesmos contrastes aromáticos a preparações sem produtos animais.",
-      "Assinaturas documentadas pelo Guia Michelin incluem lagostim com wasabi, pato Marie-Anne e Königsberger Klops 'Grandma Gerda'. O site oficial também descreve um menu Early Kolibri de cinco etapas oferecido no início da noite de sexta e sábado, quando houver lugares."
+      "Entre as assinaturas da casa estão o lagostim com wasabi, o pato Marie-Anne e os Königsberger Klops 'Grandma Gerda'. O site oficial também descreve um menu Early Kolibri de cinco etapas, servido no início da noite, com a mesa disponível até as 19h."
     ]
   },
   "chef": {
@@ -34,6 +34,14 @@
     {
       "year": 2021,
       "title": "The World's 50 Best Restaurants — nº 31"
+    },
+    {
+      "year": 2022,
+      "title": "The World's 50 Best Restaurants — nº 26"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 40"
     },
     {
       "year": 2024,
@@ -62,9 +70,13 @@
     "https://www.the50.com/discovery/Establishments/Germany/Berlin/Restaurant-Tim-Raue.html",
     "https://www.four-magazine.com/chefs/tim-raue/",
     "https://commons.wikimedia.org/wiki/File:Tim_Raue_IMG_0804_(31147513582).jpg",
-    "https://commons.wikimedia.org/wiki/File:Kreuzberg_Rudi-Dutschke-Straße.JPG"
+    "https://commons.wikimedia.org/wiki/File:Kreuzberg_Rudi-Dutschke-Straße.JPG",
+    "https://tim-raue.com/wp-content/uploads/2026/04/KOLIBRI_ENG.pdf"
   ],
   "slug": "tim-raue",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 85,
   "founded": 2010,
   "founders": [
@@ -76,8 +88,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:Tim_Raue_IMG_0804_(31147513582).jpg",
     "author": "City Foodsters",
     "license": "CC BY 2.0",
-    "caption": "Tim Raue em evento gastronômico em Copenhague em maio de 2016. Retrato real do chef, NÃO do salão nem da fachada do restaurante em Berlim.",
-    "illustrative": false
+    "caption": "Tim Raue em evento gastronômico em Copenhague em maio de 2016. Retrato real do chef, não mostra o salão nem a fachada do restaurante em Berlim.",
+    "illustrative": false,
+    "kind": "chef",
+    "subject": "Tim Raue em Copenhague (2016)",
+    "alt": "Tim Raue entre outros participantes de um evento gastronômico",
+    "capturedAt": "2016-05-23",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -85,14 +107,24 @@
       "page": "https://commons.wikimedia.org/wiki/File:Kreuzberg_Rudi-Dutschke-Straße.JPG",
       "author": "Fridolin freudenfett",
       "license": "CC BY-SA 4.0",
-      "caption": "Rudi-Dutschke-Straße em Kreuzberg, Berlim, fotografada em fevereiro de 2014. Imagem da rua onde fica o restaurante, NÃO da entrada localizada no pátio interno do número 26.",
-      "illustrative": true
+      "caption": "Rudi-Dutschke-Straße em Kreuzberg, Berlim, fotografada em fevereiro de 2014. Imagem da rua onde fica o restaurante, não a entrada localizada no pátio interno do número 26.",
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Rudi-Dutschke-Straße, Kreuzberg (2014)",
+      "alt": "Rua de Kreuzberg com o prédio alto da GSW ao fundo",
+      "capturedAt": "2014-02-23",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+      "attribution": "Fridolin freudenfett, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "dishes": [
     {
       "name": "Lagostim com wasabi",
-      "desc": "Criação assinatura citada pelo Guia Michelin, com notas picantes de wasabi e contraste de acidez.",
+      "desc": "Criação assinatura com notas picantes de wasabi e contraste de acidez, citada pelo The 50 Best e servida como etapa extra.",
       "photo": null
     },
     {
@@ -102,7 +134,7 @@
     },
     {
       "name": "Königsberger Klops 'Grandma Gerda'",
-      "desc": "Releitura de almôndegas alemãs associada à memória familiar do chef, apresentada em seus menus.",
+      "desc": "Releitura de almôndegas alemãs associada à memória familiar do chef, oferecida como etapa adicional opcional do menu Kolibri x Berlin.",
       "photo": null
     },
     {
@@ -112,12 +144,12 @@
     },
     {
       "name": "Coquetel de camarão 'KaDeWe'",
-      "desc": "Releitura da entrada berlinense de camarão com mandarina e alface, citada no menu de uma temporada anterior.",
+      "desc": "Releitura da entrada berlinense de camarão com mandarina e alface, presente no menu Kolibri x Berlin atual.",
       "photo": null
     },
     {
       "name": "Kolibri de cinco etapas",
-      "desc": "Versão reduzida da experiência de sexta e sábado no início do serviço; a composição concreta varia conforme o menu.",
+      "desc": "Versão reduzida da experiência, servida no início da noite (Early Kolibri, €212); a composição concreta varia conforme o menu.",
       "photo": null
     }
   ],
@@ -125,8 +157,20 @@
     "website": "https://tim-raue.com/en/",
     "address": "Rudi-Dutschke-Straße 26, 10969 Berlim, Alemanha",
     "reservationUrl": "https://tim-raue.com/en/",
-    "reservation": "Reservas exclusivamente pelo sistema online da página oficial, com abertura de até três meses de antecedência. Terça a quinta das 18h à meia-noite e sexta e sábado a partir das 17h; fechado domingo e segunda. A entrada fica no pátio interno do edifício. O site informa fechamento de férias de 24/12/2026 até 04/01/2027. Contato +49 30 25937930.",
-    "price": "Menus Kolibri x Berlin, Koi e Vegan com preços sujeitos a atualização. Um arquivo de cardápio datado de 2025 anunciava €292 para Kolibri, mas o preço de novembro de 2026 não foi confirmado diretamente no fluxo de reservas; consultar antes de finalizar."
+    "reservation": "Reservas exclusivamente pelo sistema online da página oficial, com abertura de até três meses de antecedência. Terça a quinta das 18h à meia-noite e sexta e sábado a partir das 17h; fechado domingo e segunda. A entrada fica no pátio interno do edifício. O site informa fechamento de férias de 24/12/2026 até 04/01/2027. Contato +49 30 25937930; e-mail office@tim-raue.com. O site oficial alerta para e-mails fraudulentos ligados ao sistema de reservas; mensagens legítimas vêm apenas do domínio do restaurante.",
+    "price": "Menu Kolibri x Berlin: €292 por pessoa, com 7% de IVA incluído, segundo o cardápio oficial publicado em abril de 2026; harmonizações a partir de €168. O Early Kolibri, de cinco etapas, custa €212. Valores do Koi e do Vegan não constam nos cardápios atuais disponíveis.",
+    "reservationMode": "online",
+    "phone": "+49 30 25937930",
+    "email": "office@tim-raue.com",
+    "priceDetails": {
+      "amount": 292,
+      "currency": "EUR",
+      "basis": "Menu Kolibri x Berlin, por pessoa",
+      "taxesIncluded": true,
+      "sourceUrl": "https://tim-raue.com/wp-content/uploads/2026/04/KOLIBRI_ENG.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Inclui 7% de IVA; Early Kolibri a €212; harmonizações a partir de €168; serviço não mencionado; Koi e Vegan sem preço atual."
+    }
   },
   "photoReference": {
     "kind": "ambientes",
@@ -140,5 +184,47 @@
         "note": "Fotos atuais da equipe, do salão e de preparações, além da descrição das opções Kolibri, Koi e Vegan."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://tim-raue.com/en/contact/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://tim-raue.com/wp-content/uploads/2026/04/KOLIBRI_ENG.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preço agora confirmado no cardápio de abril de 2026; PDFs do Koi e do Vegan dão 404."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Faltavam 2022 (26º) e 2023 (40º); ano da segunda estrela diverge (2011 ou 2012)."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://tim-raue.com/wp-content/uploads/2026/04/KOLIBRI_ENG.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Coquetel de camarão e Klops estão no menu atual; atribuição ao Michelin retirada."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://tim-raue.com/en/team/tim-raue/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Retrato do chef em evento de 2016 e rua do endereço."
+    }
+  ]
 }

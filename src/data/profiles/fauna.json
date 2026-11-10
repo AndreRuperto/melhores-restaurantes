@@ -1,16 +1,16 @@
 {
-  "lede": "No Vale de Guadalupe, em Baja California, o Fauna de David Castro Hussong e Maribel Aldaco Silva apresenta uma cozinha mexicana sazonal, intensa e pensada para compartilhar. A casa, aberta em 2017, trabalha com agricultores e pescadores da região e reúne os convidados ao redor de mesas comunitárias entre a paisagem do vale.",
+  "lede": "No Vale de Guadalupe, em Baja California, o Fauna de David Castro Hussong e Maribel Aldaco Silva apresenta uma cozinha mexicana sazonal, intensa e pensada para compartilhar. A casa, aberta em 2017, trabalha com agricultores e pescadores da região, em meio à paisagem do vale.",
   "history": [
     "David Castro Hussong nasceu e cresceu em Ensenada, na região de Baja California. Depois de estudar gastronomia e trabalhar em cozinhas como Noma, Blue Hill at Stone Barns e Eleven Madison Park, voltou ao norte do México com a intenção de explorar os ingredientes de sua terra natal.",
-    "Em 2017, ele e a chef de confeitaria Maribel Aldaco Silva fundaram o Fauna, no Vale de Guadalupe. A propriedade possui um salão aberto e mesas comunitárias concebidas para aproximar os visitantes de uma proposta de refeição compartilhada.",
+    "Em 2017, ele e a chef de confeitaria Maribel Aldaco Silva fundaram o Fauna, no Vale de Guadalupe. A refeição compartilhada é central na proposta da casa.",
     "O restaurante desenvolveu uma rede de pequenos fornecedores. Ervas são cultivadas no local; hortaliças chegam de produtores próximos; pescados são selecionados junto a um fornecedor dedicado. O menu muda constantemente para refletir colheitas e produtos do litoral.",
-    "O Fauna recebeu o One To Watch do Latin America's 50 Best em 2020, o Highest New Entry em 2022 e foi o melhor restaurante do México na edição latino-americana de 2023. Maribel Aldaco recebeu o Latin America's Best Pastry Chef em 2023. A casa ficou em 17º na América Latina em 2025 e retornou à lista mundial estendida de 2026 em 99º."
+    "O Fauna recebeu o One To Watch do Latin America's 50 Best em 2020, o Highest New Entry em 2022 e foi o melhor restaurante do México na edição latino-americana de 2023. Maribel Aldaco recebeu o Latin America's Best Pastry Chef em 2023. Estreou na lista mundial estendida em 2024, em 100º; ficou em 17º na América Latina em 2025 e retornou à lista mundial estendida de 2026 em 99º."
   ],
   "cuisine": {
     "style": "Mexicana contemporânea de Baja California, fogo e ingredientes sazonais",
     "paragraphs": [
       "A cozinha combina vegetais locais, produtos do litoral e diferentes cortes de carne em preparações que valorizam brasa, defumação e molhos de sabores pronunciados. A experiência é informal no serviço, mas cuidadosa na execução.",
-      "O Guia Michelin destaca repolho grelhado em fogo intenso, cenouras com tutano e tortillas, vieiras com purê de berinjela e codorna defumada com molho de chile. São pratos associados ao repertório da casa, não necessariamente fixos na carta.",
+      "A carta oficial inclui repolho assado com molho de chilhuacle, cenoura com tutano e molho negro, vieiras com purê de berinjela e codorna defumada. São pratos do repertório da casa, não necessariamente fixos na carta.",
       "O cardápio pode ser escolhido à la carte para compartilhar ou na forma de uma degustação sazonal. A confeitaria de Maribel Aldaco utiliza produtos regionais e combinações como churro quente com goiaba e sorvete de doce de leite."
     ]
   },
@@ -32,6 +32,10 @@
       "title": "Maribel Aldaco Silva — Latin America's Best Pastry Chef"
     },
     {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 100 (lista estendida)"
+    },
+    {
       "year": 2025,
       "title": "Latin America's 50 Best Restaurants — nº 17"
     },
@@ -45,9 +49,14 @@
     "https://www.opentable.com.mx/r/fauna-ensenada",
     "https://guide.michelin.com/us/en/baja-california/valle-de-guadalupe_7770290/restaurant/fauna-1208366",
     "https://www.theworlds50best.com/latinamerica/en/the-list/fauna.html",
-    "https://www.theworlds50best.com/latinamerica/en/list/1-50"
+    "https://www.theworlds50best.com/latinamerica/en/list/1-50",
+    "https://www.brumawineresort.com/fauna-guadalupe-valley",
+    "https://symphony.cdn.tambourine.com/bruma-wine-resort/media/bruma_fauna_menu-69497c575f74a.pdf"
   ],
   "slug": "fauna",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "reference-only",
   "rank": 99,
   "founded": 2017,
   "founders": [
@@ -60,23 +69,23 @@
   },
   "dishes": [
     {
-      "name": "Repolho grelhado na brasa",
-      "desc": "Repolho marcado intensamente pelo fogo, descrito pelo Guia Michelin como expressão da técnica do restaurante.",
+      "name": "Repolho assado com molho de chilhuacle",
+      "desc": "Repolho assado com molho de chilhuacle, prato da carta oficial.",
       "photo": null
     },
     {
-      "name": "Cenouras, tutano e tortillas",
-      "desc": "Preparação de vegetais e tutano servida com tortillas quentes, em combinação registrada pelo Michelin.",
+      "name": "Cenoura, tutano e molho negro",
+      "desc": "Cenoura com tutano e molho negro, prato da carta oficial.",
       "photo": null
     },
     {
       "name": "Vieiras com purê de berinjela",
-      "desc": "Frutos do mar acompanhados por purê vegetal, prato descrito na seleção Michelin da região.",
+      "desc": "Vieiras acompanhadas de purê de berinjela, prato da carta oficial.",
       "photo": null
     },
     {
-      "name": "Codorna defumada com molho de chile",
-      "desc": "Codorna preparada em técnica de defumação, servida com molho picante, em versão do repertório da casa.",
+      "name": "Codorna defumada",
+      "desc": "Codorna preparada em técnica de defumação, prato da carta oficial.",
       "photo": null
     },
     {
@@ -86,23 +95,35 @@
     },
     {
       "name": "Churro com goiaba e sorvete de doce de leite",
-      "desc": "Sobremesa quente e fria destacada pela crítica Michelin e ligada à confeitaria da casa.",
+      "desc": "Sobremesa quente e fria destacada pela crítica Michelin e ligada à confeitaria da casa; não consta do cardápio oficial publicado.",
       "photo": null
     }
   ],
   "practical": {
-    "address": "Carretera Federal México 3, km 73, Valle de Guadalupe, Francisco Zarco, Ensenada, Baja California 22750, México",
-    "website": "https://www.opentable.com.mx/r/fauna-ensenada",
-    "reservationUrl": "https://www.opentable.com.mx/r/fauna-ensenada",
-    "reservation": "Reservas pelo perfil do restaurante no OpenTable ou por contato direto com a equipe. O Guia Michelin informa +52 646 267 0774. Horários publicados: todos os dias a partir de 13h, com encerramento às 20h de segunda a quinta e domingo e às 21h às sextas e sábados. Disponibilidade não consultada em tempo real.",
-    "price": "Pratos à la carte e degustação sazonal, conforme disponibilidade. Não foi localizado preço atual confirmado na página institucional do restaurante; consultar o cardápio ou a plataforma antes da visita."
+    "address": "Carretera Federal México 3, km 73, Francisco Zarco, Valle de Guadalupe, Ensenada, Baja California 22760, México",
+    "website": "https://www.brumawineresort.com/fauna-guadalupe-valley",
+    "reservationUrl": "https://www.brumawineresort.com/fauna-guadalupe-valley",
+    "reservation": "Reservas on-line pela página oficial do Fauna, no site do Bruma Wine Resort. Para dúvidas, o resort informa o telefone +52 646 291 4997, o WhatsApp +52 646 116 8031 e o e-mail reservaciones@brumawineresort.com.",
+    "price": "Menu degustação Festín por MXN 2.535 por pessoa, com harmonização opcional por MXN 1.335; pratos à la carte entre cerca de MXN 235 e MXN 1.015. Valores com impostos incluídos, segundo o cardápio oficial publicado em dezembro de 2025.",
+    "reservationMode": "online",
+    "phone": "+52 646 291 4997",
+    "email": "reservaciones@brumawineresort.com",
+    "priceDetails": {
+      "amount": 2535,
+      "currency": "MXN",
+      "basis": "Menú Festín (degustação), por pessoa; harmonização a MXN 1.335",
+      "taxesIncluded": true,
+      "sourceUrl": "https://symphony.cdn.tambourine.com/bruma-wine-resort/media/bruma_fauna_menu-69497c575f74a.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Cardápio oficial de dezembro de 2025; impostos incluídos; serviço não mencionado."
+    }
   },
   "gallery": [],
   "photoReference": {
     "kind": "ambientes",
     "publisher": "Guia Michelin — Fauna",
     "url": "https://guide.michelin.com/us/en/baja-california/valle-de-guadalupe_7770290/restaurant/fauna-1208366",
-    "note": "Fotografias reais do restaurante, da equipe e dos pratos estão no Guia Michelin e no perfil gastronômico do 50 Best. Não foi identificada licença aberta para republicação.",
+    "note": "Fotografias reais do restaurante, da equipe e dos pratos estão no Guia Michelin e no perfil gastronômico do 50 Best.",
     "additionalSources": [
       {
         "publisher": "Latin America's 50 Best — Fauna",
@@ -110,5 +131,49 @@
         "note": "Galeria do restaurante e biografias dos chefs, sem licença de reutilização publicada."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.brumawineresort.com/fauna-guadalupe-valley",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O site oficial agora é o do Bruma Wine Resort; a página embute OpenTable e a home do resort leva ao CoverManager. Telefones divergem (resort, The 50 Best, Michelin); horários não conferidos (retirados)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://symphony.cdn.tambourine.com/bruma-wine-resort/media/bruma_fauna_menu-69497c575f74a.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preço agora publicado no cardápio oficial."
+    },
+    {
+      "field": "practical.address",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/Fauna.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "CEP corrigido para 22760."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2024-51-100-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava a estreia mundial em 2024 (100º); posições latino-americanas de 2022 a 2024 só em fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://symphony.cdn.tambourine.com/bruma-wine-resort/media/bruma_fauna_menu-69497c575f74a.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pratos conferidos no cardápio oficial; atribuição ao Michelin retirada; churro não consta."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://guide.michelin.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto licenciada; só referência externa."
+    }
+  ]
 }

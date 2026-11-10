@@ -1,22 +1,22 @@
 {
   "lede": "Em Notting Hill, Londres, o The Ledbury de Brett Graham alia técnica francesa a uma atenção extraordinária aos ingredientes britânicos. Aberto em 2005, passou por uma pausa e reabertura em 2022; recuperou projeção internacional ao conquistar três estrelas Michelin em 2024 e mantém o reconhecimento em 2026.",
   "history": [
-    "O The Ledbury abriu em 2005 em uma antiga casa comercial de Notting Hill, no número 127 de Ledbury Road. O chef australiano Brett Graham desenvolveu ali uma cozinha britânica contemporânea apoiada na tradição francesa, com serviço próximo e atenção a produtores.",
+    "O The Ledbury abriu em 2005 no prédio de um antigo pub de Notting Hill, no número 127 de Ledbury Road. O chef australiano Brett Graham desenvolveu ali uma cozinha britânica contemporânea apoiada na tradição francesa, com serviço próximo e atenção a produtores.",
     "A casa conquistou duas estrelas Michelin durante sua primeira fase e tornou-se conhecida pela precisão dos molhos, pelo uso de vegetais e pela valorização de caça e carnes de criadores especializados. Graham construiu ligações diretas com produtores, chegando a criar e cultivar parte dos ingredientes usados em seus pratos.",
-    "Após o fechamento durante a pandemia, o restaurante reabriu em 2022, com salão renovado e foco ainda maior na proveniência. O projeto inclui a criação de animais em suas fazendas e um espaço próprio para cultivar cogumelos de diferentes variedades.",
+    "Após o fechamento durante a pandemia, o restaurante reabriu em 2022, com salão renovado e foco ainda maior na proveniência. O projeto inclui a criação de animais em fazendas ligadas ao chef.",
     "Em 2024, a casa recebeu sua terceira estrela Michelin, integrou a elite gastronômica londrina e foi eleita o melhor restaurante do Reino Unido no National Restaurant Awards daquele ano. Manteve três estrelas na edição 2026 e reentrou na lista mundial estendida do The 50 Best Restaurants em 83º."
   ],
   "cuisine": {
     "style": "Britânica moderna, técnica francesa e produção própria",
     "paragraphs": [
-      "Brett Graham prioriza produtos sazonais britânicos, incluindo vegetais, cogumelos cultivados no próprio restaurante, carne de produtores e criações em fazendas ligadas ao projeto. Técnicas clássicas de molhos e controle de cocção ajudam a revelar cada ingrediente.",
+      "Brett Graham prioriza produtos sazonais britânicos, incluindo vegetais, carne de produtores e criações em fazendas ligadas ao projeto. Técnicas clássicas de molhos e controle de cocção ajudam a revelar cada ingrediente.",
       "O Guia Michelin destaca um pombo maturado em feno com cogumelos girolle, vadouvan, cerejas e chucrute como exemplo de precisão e camadas de sabor. O restaurante também trabalha com veado de sua produção e outros ingredientes de caça, conforme a estação.",
-      "Os menus degustação têm composição variável: seis ou oito etapas no almoço e um percurso mais longo no jantar. Em razão da dependência das safras, os ingredientes e pratos destacados não são garantia de disponibilidade na data escolhida."
+      "Os menus degustação têm composição variável: seis ou oito etapas no almoço e um percurso mais longo no jantar. Ingredientes e pratos mudam com as safras."
     ]
   },
   "chef": {
     "name": "Brett Graham",
-    "bio": "Australiano e chef do The Ledbury desde sua abertura em 2005, Brett Graham formou uma cozinha baseada em ingredientes britânicos e execução francesa. Trabalha com fazendas e criadores associados ao restaurante e desenvolveu um espaço próprio de cultivo de cogumelos. Liderou a reabertura de 2022 e a conquista da terceira estrela Michelin em 2024."
+    "bio": "Australiano e chef do The Ledbury desde sua abertura em 2005, Brett Graham formou uma cozinha baseada em ingredientes britânicos e execução francesa. Trabalha com fazendas e criadores associados ao restaurante. Liderou a reabertura de 2022 e a conquista da terceira estrela Michelin em 2024."
   },
   "awards": [
     {
@@ -52,9 +52,14 @@
     "https://guide.michelin.com/gb/en/article/michelin-guide-ceremony/every-michelin-star-restaurant-in-london-full-list",
     "https://www.independent.co.uk/life-style/food-and-drink/news/the-ledbury-national-restaurant-awards-b2560355.html",
     "https://commons.wikimedia.org/wiki/File:Ledbury,_Notting_Hill,_W11_(5499132198).jpg",
-    "https://commons.wikimedia.org/wiki/File:The_Ledbury_on_Ledbury_Road_in_Notting_Hill_-_geograph.org.uk_-_4016926.jpg"
+    "https://commons.wikimedia.org/wiki/File:The_Ledbury_on_Ledbury_Road_in_Notting_Hill_-_geograph.org.uk_-_4016926.jpg",
+    "https://www.opentable.co.uk/the-ledbury",
+    "https://capabilitygraham.co.uk/"
   ],
   "slug": "the-ledbury",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 83,
   "founded": 2005,
   "founders": [
@@ -66,7 +71,17 @@
     "author": "Ewan Munro",
     "license": "CC BY-SA 2.0",
     "caption": "Fachada real do The Ledbury, no número 127 de Ledbury Road, fotografada em fevereiro de 2011. Registro histórico anterior à reforma e reabertura de 2022.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do The Ledbury (2011)",
+    "alt": "Prédio de esquina claro com térreo escuro em arcos e plantas na calçada",
+    "capturedAt": "2011-02-08",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "Ewan Munro, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Ledbury%20on%20Ledbury%20Road%20in%20Notting%20Hill%20-%20geograph.org.uk%20-%204016926.jpg?width=1280",
@@ -74,17 +89,27 @@
     "author": "Roger Davies",
     "license": "CC BY-SA 2.0",
     "caption": "Fachada real do The Ledbury, em Notting Hill, fotografada em junho de 2014. A entrada pode ter mudado após a reforma de 2022.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do The Ledbury (2014)",
+    "alt": "Esquina de Ledbury Road com o prédio do restaurante, de térreo escuro e andares claros",
+    "capturedAt": "2014-06-07",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "Roger Davies, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
       "name": "Pombo maturado em feno com girolles",
-      "desc": "Pombo maturado com cogumelos girolle, vadouvan, cerejas e chucrute, preparação destacada pelo Guia Michelin.",
+      "desc": "Pombo maturado com cogumelos girolle, vadouvan, cerejas e chucrute, preparação destacada pelo Guia Michelin; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
       "name": "Cogumelos do fungarium",
-      "desc": "Variedades cultivadas no próprio restaurante são usadas em passagens de degustação, conforme a temporada; não se trata de prato fixo.",
+      "desc": "Variedades cultivadas no próprio restaurante são usadas em passagens de degustação, conforme a temporada; não se trata de prato fixo; cultivo próprio de cogumelos sem fonte localizada.",
       "photo": null
     },
     {
@@ -106,9 +131,21 @@
   "practical": {
     "website": "https://www.theledbury.com/",
     "address": "127 Ledbury Road, Notting Hill, Londres W11 2AQ, Reino Unido",
-    "reservationUrl": "https://www.theledbury.com/",
-    "reservation": "Reservas exclusivamente por link do site oficial, que encaminha ao OpenTable, ou dúvidas pelo telefone +44 20 7792 9090. Jantar de terça a sábado e almoço de sexta e sábado; o site anuncia almoços também às quintas em novembro e dezembro. O restaurante atende crianças a partir de 12 anos. Informar restrições alimentares na reserva.",
-    "price": "Almoço de seis etapas £220; oito etapas £270; jantar degustação £295, segundo a carta oficial consultada em novembro de 2026. Acrescenta-se taxa de serviço discricionária de 12,5%."
+    "reservationUrl": "https://www.opentable.co.uk/the-ledbury",
+    "reservation": "Reservas pelo OpenTable, indicado no site oficial, ou dúvidas pelo telefone +44 20 7792 9090 e pelo e-mail info@theledbury.com. Informar restrições alimentares na reserva.",
+    "price": "Menus degustação no almoço (seis ou oito etapas) e no jantar; os valores estão na página oficial e no OpenTable e não puderam ser lidos nesta revisão.",
+    "reservationMode": "online",
+    "phone": "+44 20 7792 9090",
+    "email": "info@theledbury.com",
+    "priceDetails": {
+      "amount": null,
+      "currency": "GBP",
+      "basis": "Menu degustação, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.theledbury.com/",
+      "checkedAt": "2026-11-10",
+      "note": "Página oficial de menus não legível na revisão; fontes secundárias divergem (£ 180 a £ 295). Os valores anteriores (£ 220, £ 270, £ 295 mais 12,5%) não foram confirmados."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -123,5 +160,49 @@
         "note": "Fotos atuais do salão e pratos, menu vigente e acesso ao OpenTable; sem licença livre de republicação."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.theledbury.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Link de reserva trocado pelo OpenTable; almoços de quinta e idade mínima de 12 anos sem fonte legível (retirados)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.theledbury.com/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Preço não confirmado; retirado do texto."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Ledbury",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Prédio de antigo pub segundo o Commons; cultivo próprio de cogumelos sem fonte (retirado)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrelas de 2006, 2010 e 2024 e manutenção em 2026 com fontes secundárias. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://capabilitygraham.co.uk/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Pombo atribuído ao Michelin sem leitura do guia; cogumelos próprios sem fonte."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fachada real em 2011 e 2014."
+    }
+  ]
 }

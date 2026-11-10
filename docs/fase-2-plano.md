@@ -633,3 +633,16 @@ Relatório: [fase-2-L09.md](lotes/fase-2-L09.md). Perfis 73 a 82.
 | 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+## 22. Atualização de execução — 10/11/2026, lote L10 em revisão (cobertura completa)
+
+Relatório: [fase-2-L10.md](lotes/fase-2-L10.md). Os 15 perfis restantes das posições 83 a 100.
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 16 usos e 13 arquivos conferidos; foto do ARCA retirada por autoria e licença em conflito no Commons | Sete perfis do lote sem foto licenciada (`reference-only`); fotos dos próprios restaurantes na maioria dos 100 perfis (P2) |
+| 2.4 | Preços oficiais do Tim Raue, Baan Tepa, Labyrinth e Fauna; site e link de reserva do Lamdre, que apontavam para páginas do The 50 Best e do Michelin, retirados; preço não confirmado do The Ledbury retirado; prêmios completados em quase todos os perfis; frases editoriais retiradas | 18 itens com fonte única, 10 não verificados e 12 divergentes |
+| F2-04 | **Os 100 perfis no contrato estrito; 316 fotos com direito aprovado** | Revisor humano |
+| 2.3 | 30 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.** A revisão de fontes cobriu os 100 perfis; a homologação depende do revisor humano e da matriz completa de testes.

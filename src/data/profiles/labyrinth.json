@@ -1,22 +1,22 @@
 {
   "lede": "No Esplanade Mall, junto a Marina Bay em Singapura, o Labyrinth de Han Liguang revisita pratos que marcaram a infância e a culinária de rua da cidade-estado. Aberto em 2014, o restaurante usa técnica contemporânea, ingredientes sazonais e humor para contar histórias da gastronomia singapuriana.",
   "history": [
-    "Han Liguang, conhecido como LG Han, cresceu em uma família ligada à restauração em Singapura. Antes de seguir a carreira culinária, trabalhou no setor financeiro. Em 2014 fundou o Labyrinth com uma proposta inicial de gastronomia de vanguarda e técnicas moleculares.",
+    "Han Liguang, conhecido como LG Han, cresceu em uma família ligada à restauração em Singapura. Em 2014 fundou o Labyrinth.",
     "Com o amadurecimento do projeto, o chef voltou a atenção para as memórias familiares e para os pratos populares de Singapura. A pesquisa passou a investigar receitas associadas a mercados, vendedores de rua e tradições de diferentes comunidades da cidade.",
     "A casa funciona no Esplanade Mall, na região de Marina Bay. O interior combina peças de arte singapurianas, fotografias e objetos que convidam os visitantes a reconhecer elementos de épocas diferentes, enquanto o serviço explica a inspiração de cada etapa.",
-    "O Labyrinth recebeu sua primeira estrela Michelin em 2017, conquistou o Sustainable Restaurant Award da Ásia em 2021 e o Highest Climber do Asia's 50 Best em 2023, quando alcançou o 11º lugar. Em 2026, foi 40º na lista asiática e 98º na lista mundial estendida, mantendo uma estrela Michelin."
+    "O Labyrinth recebeu sua primeira estrela Michelin em 2017, conquistou o Sustainable Restaurant Award da Ásia em 2021 e o Highest Climber do Asia's 50 Best em 2023, quando alcançou o 11º lugar. Na lista mundial estendida, estreou em 97º em 2023, foi 92º em 2024 e 97º em 2025; em 2026, foi 40º na lista asiática e 98º na lista mundial estendida, mantendo uma estrela Michelin."
   ],
   "cuisine": {
     "style": "Nova cozinha singapuriana, memórias locais e técnicas contemporâneas",
     "paragraphs": [
       "Han interpreta clássicos da cidade como chicken rice, bak kut teh, mee rebus e preparações de camarão com cereais, procurando preservar o sabor reconhecível enquanto transforma textura, formato ou forma de servir.",
-      "Entre os pratos documentados pelo Asia's 50 Best estão o arroz de frango preparado em donabe e o abalone spaghettoni inspirado no mee rebus. Uma sobremesa recria camarão com ovo salgado e cereal em uma embalagem semelhante à de cereais matinais, com intenção lúdica.",
-      "A casa apresenta degustações centradas em produtos do mar, com menus que mudam conforme a estação; por isso não publica uma lista fixa de pratos no site. A equipe informa que não consegue atender dietas veganas ou vegetarianas, celíacos e algumas alergias. As restrições devem ser verificadas antes de reservar."
+      "Entre os pratos documentados pelo Asia's 50 Best estão o arroz de frango preparado em donabe e uma releitura do bak kut teh. Uma sobremesa recria camarão com ovo salgado e cereal em uma embalagem semelhante à de cereais matinais, com intenção lúdica.",
+      "A casa apresenta degustações centradas em produtos do mar, com menus que mudam conforme a estação; por isso não publica uma lista fixa de pratos no site. A equipe informa que não atende dietas veganas, vegetarianas, sem pimenta ou para celíacos, nem alergias a laticínios, glúten, cogumelos, alho e cebola, soja, ovo e coco."
     ]
   },
   "chef": {
     "name": "Han Liguang (LG Han)",
-    "bio": "Han Liguang é chef e fundador do Labyrinth, aberto em 2014. Depois de uma etapa profissional no setor financeiro, passou a desenvolver uma cozinha autoral que hoje se concentra nas tradições culinárias de Singapura e nas memórias de sua família. Recebeu uma estrela Michelin em 2017 e conduziu a casa ao 11º lugar no Asia's 50 Best em 2023."
+    "bio": "Han Liguang é chef e fundador do Labyrinth, aberto em 2014. Vindo de uma família ligada à restauração, desenvolveu uma cozinha autoral centrada nas tradições culinárias de Singapura e nas memórias de infância. Recebeu uma estrela Michelin em 2017 e conduziu a casa ao 11º lugar no Asia's 50 Best em 2023."
   },
   "awards": [
     {
@@ -32,12 +32,24 @@
       "title": "Asia's 50 Best Restaurants — nº 11 e Highest Climber Award"
     },
     {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants — nº 97 (lista estendida)"
+    },
+    {
       "year": 2024,
       "title": "Asia's 50 Best Restaurants — nº 30"
     },
     {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 92 (lista estendida)"
+    },
+    {
       "year": 2025,
       "title": "Asia's 50 Best Restaurants — nº 37"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 97 (lista estendida)"
     },
     {
       "year": 2026,
@@ -65,6 +77,9 @@
     "https://www.the50.com/restaurants/best-in-asia/the-list/Labyrinth.html"
   ],
   "slug": "labyrinth",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "reference-only",
   "rank": 98,
   "founded": 2014,
   "founders": [
@@ -78,17 +93,17 @@
     },
     {
       "name": "Bak kut teh reinterpretado",
-      "desc": "Leitura contemporânea da sopa de costela suína, prato de tradição singapuriana, descrita entre as criações do Labyrinth.",
+      "desc": "Leitura contemporânea da sopa de costela suína, prato de tradição singapuriana, descrita entre as criações do Labyrinth; fora dos menus atuais.",
       "photo": null
     },
     {
       "name": "Abalone spaghettoni inspirado no mee rebus",
-      "desc": "Massa com referência ao mee rebus e abalone grelhado, combinando ingredientes e técnicas de diferentes tradições.",
+      "desc": "Massa com referência ao mee rebus e abalone grelhado, combinando ingredientes e técnicas de diferentes tradições; fora dos menus atuais.",
       "photo": null
     },
     {
       "name": "Sobremesa de cereal e ovo salgado",
-      "desc": "Interpretação doce e lúdica de camarão com cereal e ovo salgado, tradicional combinação de Singapura, apresentada em embalagem personalizada.",
+      "desc": "Interpretação doce e lúdica de camarão com cereal e ovo salgado, tradicional combinação de Singapura, apresentada em embalagem personalizada; fora dos menus atuais.",
       "photo": null
     },
     {
@@ -101,15 +116,27 @@
     "address": "Esplanade Mall, #02-23, 8 Raffles Avenue, Singapura 039802",
     "website": "https://www.restaurantlabyrinth.com/",
     "reservationUrl": "https://www.restaurantlabyrinth.com/reservations",
-    "reservation": "Reservas pela página oficial. O site informa jantar de quarta a domingo, com almoço também de sexta a domingo; fechado segunda e terça. Para dúvidas ou restrições alimentares, escrever para reservations@labyrinth.com.sg ou telefonar para +65 6223 4098. A casa não consegue atender a algumas alergias e restrições alimentares, de acordo com o menu publicado. Disponibilidade não verificada em tempo real.",
-    "price": "Menu de almoço SGD 208++ por pessoa; degustação do jantar SGD 298++ por pessoa, segundo a página oficial /menu consultada em novembro de 2026. Outra página antiga do próprio restaurante indica SGD 288++ no jantar; verificar o valor no checkout."
+    "reservation": "Reservas pela página oficial. O site informa jantar de quarta a domingo, com almoço também de sexta a domingo; fechado segunda e terça. Para dúvidas ou restrições alimentares, escrever para reservations@labyrinth.com.sg ou telefonar para +65 6223 4098. A casa não consegue atender a algumas alergias e restrições alimentares, de acordo com o menu publicado.",
+    "price": "Menu de almoço SGD 208++ por pessoa e Chef's Tasting Menu (jantar) SGD 288++ por pessoa, segundo a página de menu do site oficial em novembro de 2026. Os valores estão sujeitos a 10% de serviço e impostos locais. Harmonização de vinhos opcional: SGD 108 no almoço e SGD 158 no jantar.",
+    "reservationMode": "online",
+    "phone": "+65 6223 4098",
+    "email": "reservations@labyrinth.com.sg",
+    "priceDetails": {
+      "amount": 288,
+      "currency": "SGD",
+      "basis": "Chef's Tasting Menu (jantar), por pessoa (almoço SGD 208)",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.restaurantlabyrinth.com/menu-1",
+      "checkedAt": "2026-11-10",
+      "note": "Valores ++: 10% de serviço e impostos à parte; harmonizações de SGD 78 a 158."
+    }
   },
   "gallery": [],
   "photoReference": {
     "kind": "ambientes",
     "publisher": "Labyrinth — site oficial",
     "url": "https://www.restaurantlabyrinth.com/",
-    "note": "A galeria oficial oferece fotos reais da comida e do salão no Esplanade Mall, sem licença aberta confirmada para incorporação. Nenhuma imagem genérica de Marina Bay foi apresentada como fotografia da casa.",
+    "note": "A galeria oficial oferece fotos reais da comida e do salão no Esplanade Mall, sem licença aberta confirmada para incorporação.",
     "additionalSources": [
       {
         "publisher": "Guia Michelin — Labyrinth",
@@ -117,5 +144,49 @@
         "note": "Fotos reais do ambiente e descrição da proposta do chef Han Liguang."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.restaurantlabyrinth.com/contact",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Plataforma de reserva não identificada; telefone só no The 50 Best."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.restaurantlabyrinth.com/menu-1",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O perfil trocava as páginas: a atual (menu-1) diz SGD 288++, a antiga SGD 298++."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.restaurantlabyrinth.com/our-restaurant",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Carreira no setor financeiro e início molecular sem fonte (retirados)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltavam as listas mundiais estendidas de 2023 a 2025; posições asiáticas de 2024 e 2025 só no site da casa."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.restaurantlabyrinth.com/menu-1",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Só o chicken rice em donabe segue no menu; três pratos marcados como fora dos menus atuais."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://www.restaurantlabyrinth.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto licenciada; só referência externa."
+    }
+  ]
 }

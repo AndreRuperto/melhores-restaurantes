@@ -4,14 +4,14 @@
     "O Mil foi inaugurado em 2018 nos arredores das antigas terrazas incas de Moray, na região de Maras, próximo a Cusco. O projeto nasceu da pesquisa de Virgilio Martínez, Pía León e Malena Martínez sobre a biodiversidade dos Andes e sua relação com os modos de vida das comunidades.",
     "A casa reúne um restaurante e atividades de pesquisa ligadas à Mater, organização que documenta produtos, sementes, técnicas agrícolas e saberes alimentares. As comunidades de Mullak’as-Misminay e K’acllaraccay participam do projeto por meio de cultivo, troca de conhecimentos e experiências de imersão.",
     "A aproximadamente 3.568 metros de altitude, a equipe trabalha com uma rede de mais de 300 produtores, agricultores e artesãos locais, em territórios com diferentes ecossistemas. O restaurante procura respeitar a paisagem de Moray e servir principalmente insumos encontrados ou cultivados nos arredores.",
-    "O Mil estrutura sua refeição como uma viagem por oito ecossistemas andinos. No Latin America's 50 Best de 2025 foi classificado em 49º; no ranking mundial estendido de 2026 ficou em 95º. A experiência atual oferece degustação simples ou modalidades ampliadas que incluem visitas e aprendizado com comunidades e pesquisadores."
+    "O Mil estrutura sua refeição como uma viagem por oito ecossistemas andinos. No Latin America's 50 Best, foi 39º em 2023 e 49º em 2024 e 2025; na lista mundial estendida, ficou em 90º em 2021, 73º em 2024, 75º em 2025 e 95º em 2026. A experiência atual oferece degustação simples ou modalidades ampliadas que incluem visitas e aprendizado com comunidades e pesquisadores."
   ],
   "cuisine": {
     "style": "Cozinha andina contemporânea de altitude, território e pesquisa",
     "paragraphs": [
       "A proposta parte de ingredientes de comunidades próximas, incluindo batatas e outros tubérculos nativos, variedades de milho, grãos andinos, ervas e produtos de ambientes mais altos ou de transição. Os pratos são pensados como pequenos retratos de ecossistemas.",
       "A degustação oficial percorre oito momentos, com versão regular Mundo MIL e versão vegetal Mundo Vegetal. O repertório descrito pela organização do 50 Best inclui batatas com erva chincho e argila chaco, ingredientes de florestas andinas como abacate e tarwi, além de produtos de altitude extrema como alpaca e quinoa negra.",
-      "Além da degustação, o restaurante oferece rotas que levam ao projeto de pesquisa Mater, às plantações ou ao encontro com comunidades andinas. As imersões são produtos separados da refeição de duas horas e não devem ser descritas como simples reservas de mesa."
+      "Além da degustação, o restaurante oferece rotas que levam ao projeto de pesquisa Mater, às plantações ou ao encontro com comunidades andinas. As imersões são experiências à parte, que se somam à degustação de cerca de duas horas."
     ]
   },
   "chef": {
@@ -21,7 +21,23 @@
   "awards": [
     {
       "year": 2019,
-      "title": "Menção entre destinos gastronômicos fora dos circuitos tradicionais — The World Restaurant Awards, categoria Off-Map Destination"
+      "title": "Finalista da categoria Off-Map Destination — The World Restaurant Awards"
+    },
+    {
+      "year": 2021,
+      "title": "The World's 50 Best Restaurants — nº 90 (lista estendida)"
+    },
+    {
+      "year": 2023,
+      "title": "Latin America's 50 Best Restaurants — nº 39"
+    },
+    {
+      "year": 2024,
+      "title": "Latin America's 50 Best Restaurants — nº 49"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 73 (lista estendida)"
     },
     {
       "year": 2025,
@@ -47,6 +63,9 @@
     "https://commons.wikimedia.org/wiki/File:View_of_the_inca_ruins_of_the_immensity_of_Moray.jpg"
   ],
   "slug": "mil",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 95,
   "founded": 2018,
   "founders": [
@@ -59,8 +78,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:View_of_the_inca_ruins_of_the_immensity_of_Moray.jpg",
     "author": "F Delventhal",
     "license": "CC BY 2.0",
-    "caption": "Panorama real das terrazas incas de Moray, com o edifício do restaurante Mil ao fundo, fotografado em dezembro de 2018. NÃO é uma foto próxima da fachada ou do salão; o foco é a paisagem arqueológica.",
-    "illustrative": false
+    "caption": "Terrazas incas de Moray com o edifício do Mil ao fundo, segundo a descrição do Wikimedia Commons, em foto de dezembro de 2018; a imagem mostra a paisagem, não o salão.",
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Terrazas de Moray com o Mil ao fundo (2018)",
+    "alt": "Terraços agrícolas circulares de Moray numa encosta verde, com construções no alto",
+    "capturedAt": "2018",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "F Delventhal, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "dishes": [
@@ -100,7 +129,19 @@
     "address": "Via a Moray, distrito de Maras, Vale Sagrado, Cusco, Peru; 3.568 m de altitude, a aproximadamente 53 km a nordeste de Cusco",
     "reservationUrl": "https://milcentro.pe/book",
     "reservation": "Reservas oficiais pela página do Mil, para grupos de 1 a 6 pessoas com até quatro meses de antecedência, com calendário anunciado até dezembro de 2026. Para grupos maiores, contato por reservas@milcentro.pe ou +51 970 645 908. Almoços de terça a domingo a partir de 12h; experiências de imersão começam em horários próprios. É importante organizar deslocamento e confirmar as condições da experiência escolhida.",
-    "price": "Degustação Mundo MIL ou Mundo Vegetal: US$360 por pessoa. Experiência Ruta Botánica com degustação: US$620; Ruta Warmi: US$660; Ruta Qollqa: US$720, conforme a página oficial consultada em novembro de 2026. Modalidades têm atividades distintas; verificar inclusões e preço final no checkout."
+    "price": "Degustação Mundo MIL ou Mundo Vegetal: a partir de US$360. Experiência Ruta Botánica com degustação: US$620; Ruta Warmi: US$660; Ruta Qollqa: US$720, conforme a página oficial consultada em novembro de 2026. Verifique inclusões, impostos e valor final no checkout.",
+    "reservationMode": "online",
+    "phone": "+51 970 645 908",
+    "email": "reservas@milcentro.pe",
+    "priceDetails": {
+      "amount": 360,
+      "currency": "USD",
+      "basis": "Degustação Mundo MIL ou Mundo Vegetal, oito momentos (a página não diz \"por pessoa\")",
+      "taxesIncluded": null,
+      "sourceUrl": "https://milcentro.pe/book",
+      "checkedAt": "2026-11-10",
+      "note": "Rotas com degustação a US$620, 660 e 720; o widget de reserva cita PEN com impostos, em conflito com os valores em dólar; confirmar no checkout."
+    }
   },
   "photoReference": {
     "kind": "ambientes",
@@ -114,5 +155,49 @@
         "note": "Imagens, descrição das rotas de visita e preços separados da degustação."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://milcentro.pe/book",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O The 50 Best publica outro telefone (+51 926 948 088); mantido o oficial."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://milcentro.pe/book",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Página oficial em dólar sem dizer \"por pessoa\"; o sistema de reserva cita soles."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/latin-americas-50-best-restaurants-2025-1-50-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O Mil foi finalista, não vencedor, do Off-Map 2019 (só fontes secundárias); faltavam listas mundiais de 2021 e 2024 e latino-americanas de 2023 e 2024."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://milcentro.pe/about",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano de abertura (2018) só em fontes secundárias."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/Mil.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos do The 50 Best e de reportagem de outubro de 2026."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Terrazas com o edifício do Mil ao fundo, segundo a descrição do Commons."
+    }
+  ]
 }

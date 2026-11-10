@@ -4,7 +4,7 @@
     "O ARCA foi desenvolvido na zona costeira de Tulum como uma experiência de jantar ao ar livre, numa área de vegetação próxima à estrada Boca Paila. A arquitetura de materiais naturais e a cozinha aberta integram a paisagem da selva à visita.",
     "O chef e coproprietário José Luis Hinostroza cresceu na Califórnia em uma família mexicana, num ambiente agrícola. Passou pela equipe de pesquisa do Noma Mexico durante a residência temporária do restaurante em Tulum, trazendo essa experiência ao trabalho com ingredientes locais do ARCA.",
     "A casa estabelece relações com produtores, pescadores e coletores da península de Yucatán para obter alimentos frescos. Em vez de reproduzir fielmente receitas tradicionais, a equipe usa brasa, fermentações e condimentos regionais para apresentar combinações contemporâneas.",
-    "O ARCA passou a integrar a seleção do Guia Michelin México como endereço recomendado, mas essa distinção não deve ser confundida com estrela Michelin. Em 2026, entrou na lista mundial estendida do The 50 Best Restaurants em 87º lugar."
+    "O ARCA integra a seleção do Guia Michelin México como restaurante recomendado, sem estrela. Estreou na lista mundial estendida do The 50 Best Restaurants em 2025, no 67º lugar, e no mesmo ano ficou em 22º no Latin America's 50 Best Restaurants; em 2026 aparece em 87º."
   ],
   "cuisine": {
     "style": "Mexicana contemporânea de brasa, selva e ingredientes da península de Yucatán",
@@ -24,6 +24,14 @@
       "title": "Presença na seleção do Guia Michelin México — categoria recomendada, sem estrela"
     },
     {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 67, estreia na lista estendida"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 22"
+    },
+    {
       "year": 2026,
       "title": "Reconhecimento na seleção do Guia Michelin México, sem atribuição de estrela"
     },
@@ -37,9 +45,12 @@
     "https://arcatulum.com/",
     "https://arcatulum.com/menu",
     "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/arca-1208263",
-    "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg"
+    "https://www.opentable.com/r/arca-tulum"
   ],
   "slug": "arca",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "reference-only",
   "rank": 87,
   "dishes": [
     {
@@ -49,12 +60,12 @@
     },
     {
       "name": "Tutano ao fogo",
-      "desc": "Tutano preparado em forno de lenha com glacê de tamarindo e pasilla, pão grelhado e salsa serrano.",
+      "desc": "Tutano assado com glacê de tamarindo e pasilla, pão grelhado e salsa serrano.",
       "photo": null
     },
     {
       "name": "Tlayuda de cogumelos",
-      "desc": "Preparação à la carte com cogumelos grelhados, mole de huitlacoche e sementes de gergelim.",
+      "desc": "Preparação à la carte com cogumelos grelhados e sementes de gergelim.",
       "photo": null
     },
     {
@@ -76,30 +87,70 @@
   "practical": {
     "website": "https://arcatulum.com/",
     "address": "Carretera Tulum–Boca Paila, km 7,6, Tulum Beach, Quintana Roo 77780, México",
-    "reservationUrl": "https://arcatulum.com/",
-    "reservation": "Reservas pelo botão 'Reservations' do site oficial ou informações pelo telefone +52 984 177 2231. Atendimento todos os dias a partir de 17h30, sujeito à agenda. Menu degustação recomendado com 24 horas de antecedência e aplicado à mesa inteira, com limite indicado de quatro pessoas no cardápio consultado. Disponibilidade não conferida em tempo real.",
-    "price": "Degustação de 12 etapas: MXN 4.500 por pessoa na carta oficial consultada em novembro de 2026. Há opções à la carte com preços individuais sujeitos a alteração."
-  },
-  "hero": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante%20ARCA.jpg?width=1280",
-    "page": "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg",
-    "author": "Paul Keller (arquivo publicado no Flickr; metadados fotográficos identificam Sara Kolster)",
-    "license": "CC BY 2.0",
-    "caption": "Fotografia real do espaço aberto do ARCA, junto à selva de Tulum, feita em março de 2017. Registro histórico: disposição e decoração podem ter mudado.",
-    "illustrative": false
+    "reservationUrl": "https://www.opentable.com/r/arca-tulum",
+    "reservation": "Reservas pelo OpenTable (link \"Reserve Now\" do site oficial), por telefone ou WhatsApp (+52 984 177 2231) ou pelo Instagram. Atendimento todos os dias a partir das 17h30. O menu degustação deve ser reservado com 24 horas de antecedência e vale para a mesa inteira, até quatro pessoas.",
+    "price": "Degustação de 12 etapas: MXN 4.500 por pessoa, IVA incluído; harmonização MXN 3.000, conforme a carta oficial consultada em novembro de 2026. Há pratos à la carte com preços individuais.",
+    "reservationMode": "online",
+    "phone": "+52 984 177 2231",
+    "email": "contact@arcatulum.com",
+    "priceDetails": {
+      "amount": 4500,
+      "currency": "MXN",
+      "basis": "Menu degustação de 12 etapas, por pessoa (mesa inteira, até quatro)",
+      "taxesIncluded": true,
+      "sourceUrl": "https://arcatulum.com/menu",
+      "checkedAt": "2026-11-10",
+      "note": "IVA incluído; harmonização a MXN 3.000; serviço não mencionado; carta sem data."
+    }
   },
   "gallery": [],
   "photoReference": {
     "kind": "ambientes",
-    "publisher": "Wikimedia Commons — ARCA Tulum",
-    "url": "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg",
-    "note": "Uma fotografia real de 2017 do restaurante, reutilizável sob CC BY 2.0, aparece como capa com crédito. Fotos mais recentes do ambiente e dos pratos podem ser vistas no site oficial; sem licença aberta confirmada para republicação.",
-    "additionalSources": [
-      {
-        "publisher": "ARCA Tulum — galeria oficial",
-        "url": "https://arcatulum.com/",
-        "note": "Fotografias recentes do espaço, da equipe e de pratos, disponíveis na publicação original."
-      }
-    ]
-  }
+    "publisher": "ARCA Tulum — site oficial",
+    "url": "https://arcatulum.com/",
+    "note": "Fotografias recentes do espaço, da equipe e de pratos, sem licença aberta confirmada para republicação."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://arcatulum.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O botão de reserva leva ao OpenTable; e-mail oficial acrescentado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://arcatulum.com/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltavam o 67º mundial e o 22º latino-americano de 2025; 2026 não é estreia. Recomendação do Michelin por trecho de busca."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://arcatulum.com/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pratos conferidos na carta; forno a lenha e mole de huitlacoche não constam (retirados)."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://arcatulum.com/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "A biografia oficial diz sul da Califórnia; o The 50 Best diz Tijuana. Mantida a oficial."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Foto retirada: o EXIF credita Sara Kolster como autora e detentora dos direitos, mas a licença foi dada pela conta de Paul Keller no Flickr, sem autorização registrada; os campos de licença do Commons divergem (CC BY 2.0 e CC BY 4.0)."
+    }
+  ]
 }

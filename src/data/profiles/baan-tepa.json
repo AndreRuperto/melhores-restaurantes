@@ -4,14 +4,14 @@
     "O Baan Tepa funciona numa casa histórica pertencente à família de Chudaree Debhakam há três gerações. A antiga residência de sua avó, Lady Suwaree Debhakam, foi transformada em um projeto gastronômico que preserva partes da arquitetura original e incorpora jardim, cozinha e espaço de pesquisa.",
     "Conhecida como Chef Tam, Chudaree Debhakam estudou Nutrição e Ciência dos Alimentos na Universidade de Nottingham, formou-se também no International Culinary Center, em Nova York, e trabalhou em cozinhas como Jean-Georges e Blue Hill at Stone Barns. Essas experiências influenciaram sua abordagem de agricultura e gastronomia responsáveis.",
     "A experiência começa com a apresentação da casa e dos ingredientes. A equipe utiliza ervas cultivadas no jardim e alimentos de pequenos produtores tailandeses, aplicando técnicas de fermentação, conservação e recuperação de subprodutos para minimizar desperdícios.",
-    "O Baan Tepa recebeu duas estrelas Michelin na edição de 2024 e a Estrela Verde por suas práticas ambientais; manteve as distinções em 2026. Chudaree recebeu reconhecimento de jovem chef no Guia Michelin e foi escolhida Asia's Best Female Chef em 2025. Na lista mundial estendida de 2026, a casa ocupa a 90ª posição."
+    "O Baan Tepa recebeu duas estrelas Michelin na edição de 2024 e a Estrela Verde na edição de 2025, por suas práticas ambientais; manteve as distinções em 2026. Chudaree recebeu o MICHELIN Young Chef Award 2024 e foi escolhida Asia's Best Female Chef em 2025. Em 2026, a casa fechou temporariamente para uma reforma que acrescentou bar, lugares de balcão e jardim ampliado; ficou em 53º na lista asiática estendida, recebeu o Sustainable Restaurant Award do Asia's 50 Best e estreou em 90º na lista mundial estendida."
   ],
   "cuisine": {
     "style": "Cozinha tailandesa contemporânea, regenerativa e ligada a produtores locais",
     "paragraphs": [
       "A cozinha busca apresentar ingredientes, culturas agrícolas e receitas tailandesas por meio de sete etapas. Cada passagem traz referências a regiões e métodos de produção, combinando produtos colhidos no jardim com itens de agricultores parceiros.",
       "O menu publicado no site oficial apresenta Paa Khao, com pepino recheado e vegetais fermentados; Tom Jued, caldo de frango e raízes; Pla Tod Nam Pla, peixe pomfret com manga e molho de peixe defumado; e Legumes, uma composição de sementes e vegetais locais.",
-      "Outras passagens incluem camarão de rio com fruta sazonal e chamuang, cortes bovinos menos valorizados e sobremesas com arroz glutinoso, coco e ervas. Uma experiência denominada Baan Tepa 2.0 aparece no calendário de reservas em outubro de 2026, com preço diferente da carta institucional — a composição deve ser confirmada na data escolhida."
+      "Outras passagens incluem camarão de rio com fruta sazonal e chamuang, cortes bovinos menos valorizados e sobremesas com arroz glutinoso, coco e ervas. Após a reforma, o restaurante passou a oferecer o menu Baan Tepa 2.0, de sete etapas, disponível no sistema de reservas até fevereiro de 2027."
     ]
   },
   "chef": {
@@ -25,11 +25,19 @@
     },
     {
       "year": 2024,
+      "title": "Chudaree Debhakam — MICHELIN Young Chef Award, Guia Michelin Tailândia 2024"
+    },
+    {
+      "year": 2025,
       "title": "Estrela Verde Michelin — práticas ambientais e abastecimento responsável"
     },
     {
       "year": 2025,
       "title": "Chudaree Debhakam — Asia's Best Female Chef, Asia's 50 Best Restaurants"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 44"
     },
     {
       "year": 2026,
@@ -38,6 +46,10 @@
     {
       "year": 2026,
       "title": "The 50 Best Restaurants — nº 90, estreia na lista mundial estendida"
+    },
+    {
+      "year": 2026,
+      "title": "Asia's 50 Best Restaurants — nº 53 e Sustainable Restaurant Award"
     }
   ],
   "sources": [
@@ -47,9 +59,13 @@
     "https://baantepabkk.com/menu",
     "https://baantepabkk.com/contact",
     "https://www.tablecheck.com/en/shops/baan-tepa-culinary-space/reserve",
-    "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/baan-tepa"
+    "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/baan-tepa",
+    "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/michelin-guide-thailand-2025"
   ],
   "slug": "baan-tepa",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "reference-only",
   "rank": 90,
   "founders": [
     "Chudaree 'Tam' Debhakam"
@@ -95,8 +111,20 @@
     "website": "https://baantepabkk.com/",
     "address": "561 Ramkhamhaeng Road, Hua Mak, Bang Kapi, Bangkok 10240, Tailândia",
     "reservationUrl": "https://www.tablecheck.com/en/shops/baan-tepa-culinary-space/reserve",
-    "reservation": "Reservas antecipadas pela plataforma TableCheck, com agenda de até 60 dias. Jantar de quarta a domingo, com horários de entrada exibidos no sistema; fechado segunda e terça. Reservas para uma pessoa são aceitas somente pelo e-mail reservation@baantepabkk.com. Telefone +66 98 696 9074. Confirmar restrições alimentares e regras de pré-pagamento no checkout.",
-    "price": "O site oficial ainda exibe menu de sete etapas a THB 6.200++, acrescido de 10% de serviço e 7% de imposto. Para datas após outubro de 2026, a plataforma TableCheck lista o 'Baan Tepa 2.0' a THB 8.004 por pessoa com serviço e impostos incluídos. Há divergência entre fontes; conferir o valor aplicável à data escolhida no sistema de reserva."
+    "reservation": "Reservas pela plataforma TableCheck, com até 60 dias de antecedência, para grupos de até seis pessoas; grupos maiores e reservas para uma pessoa pelo e-mail reservation@baantepabkk.com. Jantar de quarta a domingo, com entradas às 17h30, 18h30 e 20h; fechado segunda e terça (em dezembro, abre todos os dias). Telefone +66 98 696 9074. Sinal de 50% do menu; cancelamento com reembolso integral até sete dias antes.",
+    "price": "Menu de sete etapas a THB 6.800++ (mais 10% de serviço e 7% de imposto), equivalente a THB 8.004 por pessoa com serviço e impostos incluídos no TableCheck (menu Baan Tepa 2.0). Harmonizações de THB 10.123 a 13.301. Sinal de 50% na reserva.",
+    "reservationMode": "online",
+    "phone": "+66 98 696 9074",
+    "email": "reservation@baantepabkk.com",
+    "priceDetails": {
+      "amount": 8004,
+      "currency": "THB",
+      "basis": "Menu de sete etapas (Baan Tepa 2.0), por pessoa",
+      "taxesIncluded": true,
+      "sourceUrl": "https://www.tablecheck.com/en/shops/baan-tepa-culinary-space/reserve",
+      "checkedAt": "2026-11-10",
+      "note": "Site oficial: THB 6.800++, sem 10% de serviço e 7% de imposto; harmonizações à parte."
+    }
   },
   "photoReference": {
     "kind": "ambientes",
@@ -110,5 +138,49 @@
         "note": "Fotografias reais do restaurante e reconhecimento de sua proposta sustentável."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://baantepabkk.com/contact",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Reserva para uma pessoa: o site diz só por e-mail, o TableCheck aceita pelo balcão."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.tablecheck.com/en/shops/baan-tepa-culinary-space/reserve",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "THB 6.200 estava desatualizado; THB 6.800++ e THB 8.004 conferem entre si."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/michelin-guide-thailand-2025",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Estrela Verde era datada de 2024; é da edição de 2025. Acrescentados prêmios de 2024 a 2026."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Baan-Tepa.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Reforma de 2026 com fontes de imprensa; data exata de reabertura não localizada."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://baantepabkk.com/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sete etapas conferidas no cardápio do site, sem data."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://baantepabkk.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto licenciada; só referência externa."
+    }
+  ]
 }

@@ -4,14 +4,14 @@
     "Elena Reygadas abriu o Rosetta em 2010, em uma casa de arquitetura clássica na Colima 166, no bairro Roma Norte da Cidade do México. Sua formação passou por estudos literários e pela cozinha europeia, antes de construir um projeto que inicialmente se destacava pelas massas e pela panificação.",
     "Com o tempo, o restaurante deixou de ser entendido apenas como uma mesa de influência italiana. Reygadas voltou a atenção aos produtos regionais mexicanos, à biodiversidade do milho e ao trabalho dos pequenos agricultores. A carta à la carte passou a expressar o diálogo entre técnicas internacionais e sabores do território.",
     "O espaço conserva a atmosfera de residência antiga, com pátio, plantas e pequenos ambientes de jantar. A mesma pesquisa da chef inspirou outros projetos de panificação e hospitalidade, mas o Rosetta continua sua casa de referência.",
-    "Reygadas recebeu o prêmio Latin America's Best Female Chef em 2014 e The World's Best Female Chef em 2023. O Rosetta apareceu em 49º no ranking mundial de 2023, recebeu sua primeira estrela Michelin na seleção mexicana de 2024 e foi classificado em 96º na lista mundial estendida de 2026."
+    "Reygadas recebeu o prêmio Latin America's Best Female Chef em 2014 e The World's Best Female Chef em 2023. O Rosetta apareceu em 49º no ranking mundial de 2023, subiu para 34º em 2024 e ficou em 46º em 2025; recebeu sua primeira estrela Michelin na seleção mexicana de 2024 e foi classificado em 96º na lista mundial estendida de 2026."
   ],
   "cuisine": {
     "style": "Mexicana contemporânea com raízes italianas e produtos de pequenos agricultores",
     "paragraphs": [
-      "A carta atual, publicada em 7 de novembro de 2026, reforça a importância de vegetais, grãos, pimentas e raízes do México, em pratos que combinam técnica italiana e receitas locais. O formato é à la carte e privilegia o compartilhamento, não um menu degustação fixo.",
+      "A carta consultada em novembro de 2026 reforça a importância de vegetais, grãos, pimentas e raízes do México, em pratos que combinam técnica italiana e receitas locais. O formato é à la carte e privilegia o compartilhamento, não um menu degustação fixo.",
       "Entre as entradas estão os tacos de couve com pipián de pistache e romeritos, o tamal de milho e huitlacoche com creme defumado e o mole branco com cenouras fermentadas. As massas incluem gnocchi com Taleggio e radicchio e tagliolini de chile cascabel com escamoles e caldo de camarão.",
-      "Também aparecem robalo em crosta de sal com verdolagas e salicórnia e, entre as sobremesas, nicuatole de tamarindo com piloncillo. Esses são registros de uma data específica; a chef modifica a carta conforme os ingredientes disponíveis."
+      "Também aparecem robalo em crosta de sal com verdolagas e salicórnia e, entre as sobremesas, nicuatole de tamarindo com piloncillo. A chef modifica a carta conforme os ingredientes disponíveis."
     ]
   },
   "chef": {
@@ -40,6 +40,18 @@
       "title": "Primeira estrela Michelin — Guia Michelin México"
     },
     {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 34"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 46"
+    },
+    {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 39"
+    },
+    {
       "year": 2026,
       "title": "The 50 Best Restaurants — nº 96, lista mundial estendida"
     }
@@ -53,9 +65,13 @@
     "https://elenareygadas.com/lugares/rosetta/",
     "https://guide.michelin.com/mx/es/ciudad-de-mexico/cuauhtemoc_1995126/restaurante/rosetta",
     "https://www.opentable.com.mx/rosetta-mexico/",
-    "https://commons.wikimedia.org/wiki/File:Restaurante_Rosetta,_Ciudad_de_M%C3%A9xico_(2024).jpg"
+    "https://commons.wikimedia.org/wiki/File:Restaurante_Rosetta,_Ciudad_de_M%C3%A9xico_(2024).jpg",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html"
   ],
   "slug": "rosetta",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 96,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante_Rosetta,_Ciudad_de_M%C3%A9xico_(2024).jpg?width=960",
@@ -63,7 +79,17 @@
     "author": "Tbhotch",
     "license": "CC BY-SA 4.0",
     "caption": "Entrada do restaurante Rosetta, no bairro Roma da Cidade do México, em 2024",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Entrada do Rosetta, Roma Norte (2024)",
+    "alt": "Porta de madeira em arco com o nome Rosetta, cercada de plantas, e o salão ao fundo",
+    "capturedAt": "2024-05-21",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "Tbhotch, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2010,
   "founders": [
@@ -72,7 +98,7 @@
   "dishes": [
     {
       "name": "Tacos de col rizada com pipián de pistache",
-      "desc": "Couve e folhas verdes com molho de pistache e romeritos, conforme a carta oficial de 7/11/2026.",
+      "desc": "Couve e folhas verdes com molho de pistache e romeritos, conforme a carta oficial de novembro de 2026.",
       "photo": null
     },
     {
@@ -105,8 +131,20 @@
     "address": "Colima 166, Roma Norte, Cuauhtémoc, Cidade do México 06700, México",
     "website": "https://rosetta.com.mx/",
     "reservationUrl": "https://rosetta.com.mx/reservaciones",
-    "reservation": "Reservas pela página oficial. Para alterações, dúvidas e mesas de cinco a doze pessoas, entrar em contato por reservaciones@rrosetta.com.mx, telefone +52 55 5533 7804 ou WhatsApp +52 55 3931 4702. Grupos de 13 pessoas ou mais utilizam o setor de eventos. O restaurante atende de segunda a sábado no almoço e jantar; fechado aos domingos. Não foi consultada disponibilidade em tempo real.",
-    "price": "Cardápio à la carte com valores sujeitos a mudança. A página de menu consultada em 7/11/2026 apresenta os pratos, mas não os preços; consultar o sistema de reserva ou o restaurante antes da visita."
+    "reservation": "Reservas pela página oficial. Para alterações, dúvidas e mesas de cinco a doze pessoas, entrar em contato por reservaciones@rrosetta.com.mx, telefone +52 55 5533 7804 ou WhatsApp +52 55 3931 4702. Grupos de 13 pessoas ou mais utilizam o setor de eventos. O restaurante atende de segunda a sábado no almoço e jantar; fechado aos domingos.",
+    "price": "Cardápio à la carte com valores sujeitos a mudança. A página de menu consultada em 7/11/2026 apresenta os pratos, mas não os preços; consultar o sistema de reserva ou o restaurante antes da visita.",
+    "reservationMode": "online",
+    "phone": "+52 55 5533 7804",
+    "email": "reservaciones@rrosetta.com.mx",
+    "priceDetails": {
+      "amount": null,
+      "currency": "MXN",
+      "basis": "À la carte",
+      "taxesIncluded": null,
+      "sourceUrl": "https://rosetta.com.mx/menu",
+      "checkedAt": "2026-11-10",
+      "note": "Carta sem preços publicados em novembro de 2026; a plataforma de reservas (Tock) ficou ilegível."
+    }
   },
   "gallery": [],
   "facade": {
@@ -114,13 +152,67 @@
     "page": "https://commons.wikimedia.org/wiki/File:Restaurante_Rosetta,_Ciudad_de_M%C3%A9xico_(2024).jpg",
     "author": "Tbhotch",
     "license": "CC BY-SA 4.0",
-    "caption": "Fotografia real da entrada do Rosetta, na Colima 166, Cidade do México, em 2024, publicada no Wikimedia Commons com atribuição a Tbhotch e licença CC BY-SA 4.0.",
-    "illustrative": false
+    "caption": "Entrada do Rosetta, na rua Colima, Cidade do México, em 2024.",
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Entrada do Rosetta, Roma Norte (2024)",
+    "alt": "Porta de madeira em arco com o nome Rosetta, cercada de plantas, e o salão ao fundo",
+    "capturedAt": "2024-05-21",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L10.json).",
+    "attribution": "Tbhotch, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "photoReference": {
     "kind": "fachada",
     "publisher": "Wikimedia Commons — Restaurante Rosetta",
     "url": "https://commons.wikimedia.org/wiki/File:Restaurante_Rosetta,_Ciudad_de_M%C3%A9xico_(2024).jpg",
     "note": "A capa e a fachada exibem o mesmo registro do estabelecimento, fotografado em 2024, com licença aberta. O site oficial apresenta fotos de pratos e dos ambientes atuais, não republicadas sem permissão."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://rosetta.com.mx/reservaciones",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Widget da Tock embutido; horários só no site da chef. O domínio do e-mail é mesmo \"rrosetta\"."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://rosetta.com.mx/menu",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Sem preço publicado."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2024-the-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltavam os lugares de 2024 (34º), 2025 (46º) e o 39º latino-americano de 2025. Estrela de 2024 com fonte do próprio site da chef."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://rosetta.com.mx/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Todos os pratos constam da carta de novembro de 2026."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://elenareygadas.com/lugares/rosetta/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano de abertura (2010) só em fonte secundária."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Entrada real de 2024; legenda da fachada sem nota de licença."
+    }
+  ]
 }
