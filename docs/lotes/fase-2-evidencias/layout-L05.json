@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-10",
+  "env": "servidor de desenvolvimento Vite, painel de navegador Chromium do Claude Desktop",
+  "method": "scrollWidth vs clientWidth e elementos fora da viewport (exceto SVG decorativo recortado); imagens sem alt; links da seção Antes de ir",
+  "defectFound": "Atelier Moessmer a 320 px: largura do documento 384 px por e-mail sem quebra; corrigido em Profile.jsx com minmax(0,1fr) e overflow-wrap:anywhere",
+  "cases": [
+    {
+      "slug": "elkano",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "elkano",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "le-coquillage",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "le-coquillage",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "la-colombe",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "la-colombe",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "ru-yuan",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "ru-yuan",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "nuema",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "nuema",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "atelier-moessmer-norbert-niederkofler",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0,
+      "beforeFix": {
+        "scrollWidth": 384,
+        "overflowElements": 5,
+        "cause": "e-mail longo sem quebra na seção Antes de ir"
+      }
+    },
+    {
+      "slug": "atelier-moessmer-norbert-niederkofler",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "schloss-schauenstein",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "schloss-schauenstein",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "jordn-r",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "jordn-r",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "onjium",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "onjium",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "bozar",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "bozar",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    }
+  ],
+  "consoleErrors": 0,
+  "notTested": [
+    "375, 768 e 1024 px",
+    "tema escuro em 320 px",
+    "teclado",
+    "Firefox",
+    "Safari",
+    "zoom 200%",
+    "leitor de tela"
+  ]
+}

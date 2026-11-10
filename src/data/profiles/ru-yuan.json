@@ -1,10 +1,10 @@
 {
   "lede": "Em um edifício discreto de três andares, cercado pelas árvores do Jardim Botânico de Hangzhou, o Ru Yuan recupera o repertório da cozinha hangbang: peixe do Lago Oeste ao vinagre, camarões com chá Longjing e uma torre de barriga de porco delicadamente fatiada. À frente da casa, Fu Yueliang fez da preservação das técnicas de Zhejiang um projeto contemporâneo, premiado com duas estrelas Michelin e a 36ª posição mundial em 2026.",
   "history": [
-    "A culinária de Hangzhou está ligada ao Lago Oeste, ao Grande Canal e ao período em que a cidade foi capital da dinastia Song do Sul. Fu Yueliang, nascido na região, passou mais de três décadas pesquisando esse repertório. Quando criou o Ru Yuan no início da década de 2020, a proposta não era transformar os pratos históricos em uma cozinha de fusão, mas recuperar seus métodos com precisão e apresentá-los a públicos locais e internacionais.",
+    "A culinária de Hangzhou está ligada ao Lago Oeste, ao Grande Canal e ao período em que a cidade foi capital da dinastia Song do Sul. Fu Yueliang, nascido na região, passou mais de três décadas pesquisando esse repertório. Quando abriu o Ru Yuan, em 2023, a proposta não era transformar os pratos históricos em uma cozinha de fusão, mas recuperar seus métodos com precisão e apresentá-los a públicos locais e internacionais.",
     "A casa fica na área do Jardim Botânico de Hangzhou, na rua Yuquan, e ocupa um prédio contemporâneo de três andares em meio à vegetação. A arquitetura de madeira, as janelas voltadas para árvores e a decoração de poucos elementos remetem à serenidade de pavilhões clássicos da região. O térreo abriga a área principal de refeições, enquanto os pisos superiores reúnem salas reservadas; a intimidade da experiência é parte do projeto.",
     "O chef estudou a tradição com Dong Shunxiang, mestre da culinária de Zhejiang, e trabalhou no restaurante Hubin 28 do Hyatt de Hangzhou. Numa entrevista ao jornal Hangzhou Daily em abril de 2026, contou que começou a profissão em 1992 e que passou um período de aprendizado numa cozinha de Shanghai para observar outras formas de organização de equipe. De volta à cozinha regional, adotou a ideia de aperfeiçoar receitas chinesas com técnicas chinesas, em vez de reproduzir modelos estrangeiros.",
-    "O reconhecimento se acelerou em 2025, quando o Ru Yuan se tornou o primeiro restaurante de Hangzhou a receber duas estrelas Michelin. Em janeiro de 2026 veio a classificação de dois diamantes do guia chinês Black Pearl. Em março, a casa entrou diretamente na 10ª posição da lista Asia's 50 Best Restaurants, conquistando o Highest New Entry Award. Em novembro de 2026, alcançou o 36º lugar no ranking mundial, a primeira entrada de um restaurante de Hangzhou entre os 50 primeiros."
+    "O reconhecimento veio rápido: em 2024, poucos meses após a abertura, a casa recebeu sua primeira estrela Michelin e, em 2025, tornou-se o primeiro restaurante de Hangzhou com duas estrelas. Também em 2025 apareceu em 59º lugar na lista estendida do Asia's 50 Best Restaurants. Em janeiro de 2026 veio a classificação de dois diamantes do guia chinês Black Pearl, e em março a casa saltou para a 10ª posição da lista asiática, com o Highest New Entry Award. Em novembro de 2026, alcançou o 36º lugar no ranking mundial, a primeira entrada de um restaurante de Hangzhou entre os 50 primeiros."
   ],
   "cuisine": {
     "style": "Cozinha hangbang de Zhejiang, preservação de receitas e técnica refinada",
@@ -16,7 +16,7 @@
   },
   "chef": {
     "name": "Fu Yueliang (傅月良)",
-    "bio": "Natural de Hangzhou, Fu Yueliang começou a trabalhar em cozinhas profissionais em 1992 e se formou na tradição do mestre Dong Shunxiang, por sua vez discípulo de Hu Zhongying, referência da culinária hangbang. Atuou no restaurante Hubin 28, ligado ao Hyatt de Hangzhou, onde ajudou a projetar a cozinha regional para visitantes chineses e estrangeiros. Depois de estudar o funcionamento de uma cozinha de alto padrão em Shanghai, passou a valorizar mais a coordenação de equipe e a precisão dos métodos. No Ru Yuan, busca proteger as técnicas de Zhejiang e fazê-las dialogar com o presente, recuperando preparos que considera excessivamente simplificados. Em 2026, viu a casa chegar ao 10º lugar da lista asiática e ao 36º lugar mundial."
+    "bio": "Natural de Hangzhou, Fu Yueliang começou a trabalhar em cozinhas profissionais em 1992 e se formou na tradição do mestre Dong Shunxiang, por sua vez discípulo de Hu Zhongying, referência da culinária hangbang. Atuou no restaurante Hubin 28, ligado ao Hyatt de Hangzhou, período em que o restaurante figurou por três anos seguidos na lista Asia's 50 Best e ele se tornou consultor de cozinha chinesa do grupo Hyatt na Ásia-Pacífico. Depois de estudar o funcionamento de uma cozinha de alto padrão em Shanghai, passou a valorizar mais a coordenação de equipe e a precisão dos métodos. No Ru Yuan, busca proteger as técnicas de Zhejiang e fazê-las dialogar com o presente, recuperando preparos que considera excessivamente simplificados. Em 2026, viu a casa chegar ao 10º lugar da lista asiática e ao 36º lugar mundial."
   },
   "dishes": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Peixe do Lago Oeste ao vinagre (Xihu cuyu)",
-      "desc": "Peixe de água doce preparado com molho equilibrado entre acidez e doçura. Segundo reportagem do Hangzhou Daily de novembro de 2026, a receita da casa havia sido reformulada 76 vezes para refinar textura e sabor.",
+      "desc": "Peixe de água doce preparado com molho equilibrado entre acidez e doçura. Segundo reportagem do portal Zhejiang Online de novembro de 2026, a receita da casa havia sido reformulada 76 vezes para refinar textura e sabor.",
       "photo": null
     },
     {
@@ -57,8 +57,20 @@
   ],
   "awards": [
     {
+      "year": 2024,
+      "title": "Guia Michelin: primeira estrela, poucos meses após a abertura"
+    },
+    {
       "year": 2025,
       "title": "Guia Michelin: Ru Yuan torna-se o primeiro restaurante de Hangzhou a receber duas estrelas"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants: nº 59 (lista 51–100, estreia)"
+    },
+    {
+      "year": 2025,
+      "title": "Black Pearl Restaurant Guide: um diamante"
     },
     {
       "year": 2026,
@@ -70,7 +82,7 @@
     },
     {
       "year": 2026,
-      "title": "Asia's 50 Best Restaurants: estreia em 10º lugar"
+      "title": "Asia's 50 Best Restaurants: nº 10"
     },
     {
       "year": 2026,
@@ -83,8 +95,19 @@
   ],
   "practical": {
     "address": "11 Yuquan Road (玉泉路11号), distrito de Xihu, área do Jardim Botânico de Hangzhou, Zhejiang, China",
-    "price": "O Guia Michelin classifica o Ru Yuan na faixa de preço ¥¥¥, sem divulgar valores de cardápio. A plataforma Ctrip/Trip.com informa gasto médio relatado por visitantes de aproximadamente CNY 718 por pessoa (consulta em 08/11/2026); trata-se de uma média de avaliações, NÃO de menu ou preço oficial garantido.",
-    "reservation": "O Guia Michelin informa que o próprio restaurante administra as reservas: telefone +86 571 8707 9088 (dentro da China: 0571 8707 9088). O guia de viagens SilverKris relata abertura de agenda no dia 1º de cada mês; confirme a janela e a disponibilidade diretamente com a equipe. O Ctrip indica almoço das 11h30 às 14h e jantar das 17h30 às 21h, sujeitos a alterações. Não foi verificado um link público de reserva direta; não considere as páginas de avaliação como confirmação de mesa."
+    "price": "O Guia Michelin não divulga valores de cardápio. A plataforma Ctrip/Trip.com informa gasto médio relatado por visitantes de aproximadamente CNY 718 por pessoa (consulta em 08/11/2026); trata-se de uma média de avaliações, NÃO de menu ou preço oficial garantido.",
+    "reservation": "O Guia Michelin informa que o próprio restaurante administra as reservas: telefone +86 571 8707 9088 (dentro da China: 0571 8707 9088). O guia de viagens SilverKris relata abertura de agenda no dia 1º de cada mês; confirme a janela e a disponibilidade diretamente com a equipe. O Ctrip indica almoço das 11h30 às 14h e jantar das 17h30 às 21h, sujeitos a alterações. Não foi verificado um link público de reserva direta; não considere as páginas de avaliação como confirmação de mesa.",
+    "reservationMode": "phone",
+    "phone": "+86 571 8707 9088",
+    "priceDetails": {
+      "amount": null,
+      "currency": "CNY",
+      "basis": "Sem menu ou preço oficial publicado",
+      "taxesIncluded": null,
+      "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/144301678.html",
+      "checkedAt": "2026-11-10",
+      "note": "Média relatada por usuários do Ctrip de cerca de CNY 718 por pessoa; não é preço oficial."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/ru-yuan.html",
@@ -107,6 +130,9 @@
     "https://commons.wikimedia.org/wiki/File:WestLake_-_Hangzhou.jpg"
   ],
   "slug": "ru-yuan",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 36,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20241105_Hangzhou_Zhiwuyuan.jpg?width=1280",
@@ -114,7 +140,17 @@
     "author": "Yumeto",
     "license": "CC BY-SA 4.0",
     "caption": "Imagem contextual: Jardim Botânico de Hangzhou, onde fica o Ru Yuan, fotografado em novembro de 2024. NÃO é fotografia do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Jardim Botânico de Hangzhou, onde fica o Ru Yuan (2024)",
+    "alt": "Lago calmo refletindo árvores e canteiros floridos",
+    "capturedAt": "2024-11-05",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Yumeto, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -123,7 +159,17 @@
       "author": "CatOnMars",
       "license": "CC BY-SA 4.0",
       "caption": "Flores de ameixeira no Jardim Botânico de Hangzhou, em fevereiro de 2023. Imagem do entorno, não do interior do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Ameixeiras em flor no Jardim Botânico de Hangzhou (2023)",
+      "alt": "Árvores com flores rosadas junto a um riacho e uma casa branca",
+      "capturedAt": "2023-02-15",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "CatOnMars, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Longjing_tea_village_Hangzhou.jpg?width=960",
@@ -131,7 +177,17 @@
       "author": "Niklas Dougherty",
       "license": "CC BY-SA 4.0",
       "caption": "Paisagem de cultivo de chá Longjing em Hangzhou, fotografada em 2017. Imagem da origem de um ingrediente regional; não mostra o Ru Yuan.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Plantações de chá Longjing em Hangzhou (2017)",
+      "alt": "Vilarejo de casas brancas cercado por encostas com fileiras de chá",
+      "capturedAt": "2017-10-20",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Niklas Dougherty, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Longjing_tea.jpg?width=960",
@@ -139,7 +195,17 @@
       "author": "Difference engine",
       "license": "CC BY-SA 4.0",
       "caption": "Folhas de chá verde Longjing, fotografadas em 2017. Imagem do ingrediente tradicional, não de um prato preparado no Ru Yuan.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Folhas de chá verde Longjing (2017)",
+      "alt": "Folhas secas e achatadas de chá verde sobre fundo branco",
+      "capturedAt": "2017-06-17",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Difference engine, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/WestLake_-_Hangzhou.jpg?width=960",
@@ -147,7 +213,17 @@
       "author": "Vanvelthem Cédric",
       "license": "CC BY-SA 4.0",
       "caption": "Vegetação às margens do Lago Oeste, em Hangzhou, em 2014. Referência à paisagem da cozinha regional, não à sede do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Árvore às margens do Lago Oeste (2014)",
+      "alt": "Tronco de árvore visto de baixo entre galhos com folhas finas",
+      "capturedAt": "2014-08-22",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Vanvelthem Cédric, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -155,5 +231,42 @@
     "publisher": "Tatler Asia",
     "url": "https://www.tatlerasia.com/dining/ru-yuan",
     "note": "Fotografias do pátio, andar térreo e salões do Ru Yuan, no Jardim Botânico de Hangzhou."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.the50.com/the-list/ru-yuan.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Telefone é o único canal; não há site oficial, conta de WeChat ou página de reservas, só um perfil no Instagram. Abertura da agenda no dia 1º vem só da revista SilverKris."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/144301678.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Sem preço oficial; o símbolo de preço do Michelin varia entre versões do site e foi retirado."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://mdaily.hangzhou.com.cn/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Abertura em 2023, primeira estrela em 2024 e 59º lugar na lista asiática estendida em 2025 acrescentados."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/ru-yuan.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Bolinhos Si Xi Jiao, raiz de lótus com osmanthus e sopa de ervilhas não confirmados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

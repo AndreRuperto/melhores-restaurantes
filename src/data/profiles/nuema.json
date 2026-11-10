@@ -1,7 +1,7 @@
 {
   "lede": "Em Quito, Alejandro Chamorro e Pía Salazar transformaram a biodiversidade do Equador em um menu degustação que cruza os Andes, a costa do Pacífico, a Amazônia e as Galápagos. Fundado em 2014, o Nuema apresenta uma cozinha de ingredientes nativos e sobremesas que desafiam a fronteira entre doce e salgado; em 2026, tornou-se o primeiro restaurante equatoriano entre os 50 melhores do mundo, na 37ª posição.",
   "history": [
-    "O Nuema nasceu em Quito em 2014, quando os chefs Alejandro Chamorro e Pía Salazar decidiram criar uma casa própria para mostrar a diversidade alimentar do Equador. Os dois se conheceram trabalhando no Astrid y Gastón de Quito. Segundo Salazar, a decisão tomou forma quando encontrou um imóvel disponível para alugar; a ideia inicial era abrir um bistrô, mas evoluiu para um menu degustação determinado pelos produtos que pequenos fornecedores poderiam entregar.",
+    "O Nuema nasceu em Quito em 2014, quando os chefs Alejandro Chamorro e Pía Salazar decidiram criar uma casa própria para mostrar a diversidade alimentar do Equador. Os dois se conheceram no Astrid y Gastón: ela trabalhava na unidade de Quito, e ele passou pela casa de Lima. Segundo Salazar, a decisão tomou forma quando encontrou um imóvel disponível para alugar; a ideia inicial era abrir um bistrô, mas evoluiu para um menu degustação determinado pelos produtos que pequenos fornecedores poderiam entregar.",
     "O nome Nuema é formado pela combinação dos nomes dos três filhos dos chefs: Nuria, Emilio e Martín. O projeto passou a explorar ingredientes pouco conhecidos fora do país, com relações diretas com agricultores, pescadores e coletores das quatro grandes regiões equatorianas. A dupla defende duas prioridades — preservação cultural e sustentabilidade — e adapta as receitas à sazonalidade, em vez de seguir uma carta imutável.",
     "A cozinha de Chamorro e a confeitaria de Salazar desenvolveram identidades complementares. Ele pesquisa formas geométricas e a apresentação dos ingredientes; ela começou com sobremesas feitas de rabanete e nabo, depois criou preparações com ervilhas, camomila, moringa, frutas nativas e ervas. Salazar recebeu o prêmio latino-americano de melhor chef de confeitaria em 2022 e o mundial em 2023, ajudando a tornar o restaurante conhecido internacionalmente.",
     "O Nuema entrou na lista Latin America's 50 Best Restaurants em 2020, na 48ª posição; em 2022 subiu para 24º e em 2023 e 2024 alcançou o 11º lugar. Em 2025 chegou ao 10º posto latino-americano e recebeu novamente o reconhecimento de melhor restaurante do Equador. Na lista mundial ficou em 61º em 2024 e 2025; em 4 de novembro de 2026 avançou para 37º, tornando-se o primeiro restaurante equatoriano a entrar no top 50 global. Em 2025, Chamorro recebeu também o Chefs' Choice Award latino-americano."
@@ -78,7 +78,7 @@
     },
     {
       "year": 2023,
-      "title": "The World's 50 Best Restaurants: estreia na lista ampliada, em 76º lugar, segundo retrospectiva oficial do The 50 Best"
+      "title": "The World's 50 Best Restaurants: estreia na lista ampliada (51–100), em 79º lugar"
     },
     {
       "year": 2024,
@@ -116,9 +116,21 @@
   "practical": {
     "website": "https://nuema.ec/",
     "address": "Bello Horizonte E11-12 y Coruña, Quito 170517, Equador",
-    "price": "O The 50 Best Discovery informa menu degustação a partir de US$ 85 por pessoa; trata-se de uma referência publicada pelo guia, não de tabela oficial atualizada para novembro de 2026. Outro serviço de recomendações indica cerca de US$ 50–100 por pessoa. Preço exato, número de etapas e eventuais taxas devem ser confirmados diretamente com o Nuema.",
+    "price": "O The 50 Best Discovery informa menu degustação a partir de US$ 85 por pessoa, com cerca de doze etapas; o site oficial não publica preços. Valor, impostos e serviço devem ser confirmados diretamente com o Nuema.",
     "reservation": "Reservas pela seção 'Reservaciones' do site oficial, que incorpora uma plataforma externa de agendamento, ou por contato com a equipe: +593 99 250 9160, +593 99 850 2726 e reservas@nuema.ec. O The 50 Best Discovery indica almoço e jantar de terça a sábado. A disponibilidade e eventuais condições de cancelamento não puderam ser verificadas; confirme com o restaurante antes de visitar.",
-    "reservationUrl": "https://nuema.ec/reservas.html"
+    "reservationUrl": "https://nuema.ec/reservas.html",
+    "reservationMode": "online",
+    "phone": "+593 99 250 9160",
+    "email": "reservas@nuema.ec",
+    "priceDetails": {
+      "amount": 85,
+      "currency": "USD",
+      "basis": "Menu degustação, a partir de, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Ecuador/Quito/Nuema.html",
+      "checkedAt": "2026-11-10",
+      "note": "Valor de referência do guia Discovery; o site oficial não publica preço, impostos nem serviço."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/nuema.html",
@@ -141,6 +153,9 @@
     "https://commons.wikimedia.org/wiki/File:Andes_Quito_Ecuador_1489.jpg"
   ],
   "slug": "nuema",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 37,
   "founded": 2014,
   "founders": [
@@ -153,7 +168,17 @@
     "author": "David Adam Kess",
     "license": "CC BY-SA 4.0",
     "caption": "Imagem contextual: vista panorâmica da região andina de Quito, em 2019. NÃO mostra o restaurante Nuema.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Região andina de Quito (2019)",
+    "alt": "Encosta com casas e uma torre, vista de um terraço com bandeira do Equador",
+    "capturedAt": "2019-07-13",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "David Adam Kess, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -162,7 +187,17 @@
       "author": "Arabsalam",
       "license": "CC BY-SA 4.0",
       "caption": "Centro Histórico de Quito, fotografado em 2022. Foto da cidade, não do salão do Nuema.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Centro Histórico de Quito (2022)",
+      "alt": "Rua de casarões coloniais com táxis amarelos e uma torre de igreja ao fundo",
+      "capturedAt": "2022-04-27",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Arabsalam, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cocoa_Pod%C2%B4s_in_Ecuador_South_America.jpg?width=960",
@@ -170,7 +205,17 @@
       "author": "David Adam Kess",
       "license": "CC BY-SA 4.0",
       "caption": "Fruto de cacau fotografado no Equador em 2019, ilustrando a biodiversidade local. NÃO é fotografia de um prato servido no Nuema.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Fruto de cacau do Equador (2019)",
+      "alt": "Dois frutos de cacau secos e escuros sobre o chão de pedra",
+      "capturedAt": "2019-07-13",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "David Adam Kess, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Andes_Quito_Ecuador_1489.jpg?width=960",
@@ -178,7 +223,17 @@
       "author": "Arabsalam",
       "license": "CC BY-SA 4.0",
       "caption": "Paisagem dos Andes na região de Quito. Imagem contextual das origens geográficas de ingredientes equatorianos.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Campos nos arredores de Quito (2022)",
+      "alt": "Campo verde com uma casinha grafitada e montanhas ao fundo",
+      "capturedAt": "2022-04-26",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Arabsalam, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -186,5 +241,49 @@
     "publisher": "Expreso",
     "url": "https://www.expreso.ec/actualidad/economia/nuema-100-mejores-restaurantes-mundo-200939.html",
     "note": "Reportagem de 2024 com imagem identificada expressamente como fachada do Nuema, cedida pelo restaurante."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://nuema.ec/reservas.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Formulário Eveve embutido no site; depósito e cancelamento não puderam ser lidos."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Ecuador/Quito/Nuema.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Sem preço oficial; a faixa de US$ 50–100 sem fonte foi retirada."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.hot-dinners.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Estreia mundial de 2023 foi em 79º, não 76º; posição latino-americana de 2020 (48º) com fonte única."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/stories/News/pia-salazar-nuema-ecuador-worlds-best-pastry-chef.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Local onde o casal se conheceu ajustado: ela em Quito, ele em Lima."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/nuema.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O site oficial não lista pratos; vários são de matérias de anos anteriores."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

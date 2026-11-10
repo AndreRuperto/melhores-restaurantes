@@ -567,3 +567,16 @@ Relatório: [fase-2-L04.md](lotes/fase-2-L04.md). Perfis 22 a 32, sem o Steirere
 | 2.3 | 20 casos de layout sem overflow | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+## 17. Atualização de execução — 10/11/2026, lote L5 em revisão
+
+Relatório: [fase-2-L05.md](lotes/fase-2-L05.md). Perfis 33 a 42.
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 44 usos e 41 arquivos conferidos; duas legendas com identidade errada corrigidas (Onjium e Bozar) | Fotos licenciadas dos próprios restaurantes em oito dos dez perfis (P2) |
+| 2.4 | Pratos do Atelier trocados pelos do cardápio atual; história e prêmios do Ru Yuan, Nuema e Onjium corrigidos; trechos sem fonte retirados | 13 itens com fonte única e 5 não verificados; Ru Yuan segue sem site oficial |
+| F2-04 | Dez perfis no contrato estrito; total de 45 perfis e 249 fotos com direito aprovado | Revisor humano |
+| 2.3 | Defeito de overflow por e-mail longo encontrado e corrigido no componente de informações práticas; 20 casos aprovados após a correção | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**

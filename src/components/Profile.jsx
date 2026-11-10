@@ -246,11 +246,15 @@ const longDate = (iso) => {
 // Rótulo do link conforme o canal: quem só reserva por telefone não ganha botão de "reservar online".
 const reservationLinkLabel = (mode) => (mode === 'phone' ? 'Ver instruções de reserva ↗' : 'Abrir página de reservas ↗')
 
+// minmax(0, 1fr) e overflow-wrap: anywhere impedem que e-mails e endereços longos,
+// sem espaços, alarguem a coluna além da tela em celulares.
+const ROW = 'grid grid-cols-[minmax(0,1fr)] gap-1 py-5 sm:grid-cols-[8rem_minmax(0,1fr)] sm:gap-6'
+
 function Row({ label, children }) {
   return (
-    <div className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
+    <div className={ROW}>
       <dt className="smallcaps pt-1 text-wine">{label}</dt>
-      <dd>{children}</dd>
+      <dd className="min-w-0 [overflow-wrap:anywhere]">{children}</dd>
     </div>
   )
 }
@@ -269,9 +273,9 @@ export function Practical({ p }) {
       <Kicker kicker="Na prática" title="Antes de ir" center />
       <dl className="box mx-auto mt-10 max-w-3xl divide-y divide-rule px-6 sm:px-10">
         {rows.map(([k, v]) => (
-          <div key={k} className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
+          <div key={k} className={ROW}>
             <dt className="smallcaps pt-1 text-wine">{k}</dt>
-            <dd className="leading-relaxed text-ink-2">{v}</dd>
+            <dd className="min-w-0 leading-relaxed text-ink-2 [overflow-wrap:anywhere]">{v}</dd>
           </div>
         ))}
         {x.phone && (

@@ -16,7 +16,7 @@
   },
   "chef": {
     "name": "Andreas Caminada (fundador) e Marcel Skibba (chef de cozinha e sócio)",
-    "bio": "Andreas Caminada nasceu em 1977 no cantão suíço de Graubünden. Formou-se no Hotel Signina, em Laax, e aperfeiçoou suas técnicas em cozinhas como Walserhof, Wiesengrund e Bareiss, na Alemanha. Em 2003, aos 26 anos, assumiu o Schloss Schauenstein para criar um restaurante próprio. Ganhou uma estrela Michelin em 2004, duas em 2007 e três em 2010; recebeu o prêmio Mentor do Guia Michelin em 2020. Ao lado de Sarah Caminada criou a Fundaziun Uccelin e ampliou o projeto de gastronomia e hospitalidade em Fürstenau. Marcel Skibba é chef de cozinha, colaborador de longa data e sócio no Schloss Schauenstein. Juntos, defendem uma gastronomia baseada em produtores de Graubünden, uma horta de permacultura e a formação contínua da equipe. O site oficial identifica Elise Czakó e Lara Kasteel como codiretoras do salão."
+    "bio": "Andreas Caminada nasceu em 1977 no cantão suíço de Graubünden. Formou-se no Hotel Signina, em Laax, e aperfeiçoou suas técnicas no Walserhof, em Klosters, no Wiesengrund, em Uetikon am See, e no Bareiss, em Baiersbronn, na Alemanha. Em 2003, aos 26 anos, assumiu o Schloss Schauenstein para criar um restaurante próprio. Ganhou uma estrela Michelin em 2004, duas em 2007 e três em 2010; recebeu o prêmio Mentor do Guia Michelin em 2020. Ao lado de Sarah Caminada criou a Fundaziun Uccelin e ampliou o projeto de gastronomia e hospitalidade em Fürstenau. Marcel Skibba é chef de cozinha, colaborador de longa data e sócio no Schloss Schauenstein. Juntos, defendem uma gastronomia baseada em produtores de Graubünden, uma horta de permacultura e a formação contínua da equipe. O site oficial identifica Elise Czakó e Lara Kasteel como codiretoras do salão."
   },
   "dishes": [
     {
@@ -161,9 +161,21 @@
   "practical": {
     "website": "https://www.schauenstein.ch/restaurant",
     "address": "Obergass 15, CH-7414 Fürstenau, Graubünden, Suíça",
-    "price": "Preços oficiais consultados em 8/11/2026: menu de 3 etapas CHF 266; 4 etapas CHF 298; 5 etapas CHF 318, por pessoa. Os valores são de comida e incluem contribuição de CHF 2 à Fundaziun Uccelin. Extras e condições de serviço devem ser confirmados ao reservar.",
-    "reservation": "Reservas pelo formulário oficial do Schloss Schauenstein, aceitas com até oito meses de antecedência, ou pelo telefone +41 81 632 10 80 e e-mail kontakt@schauenstein.ch. Almoço de quinta a domingo a partir de 11h45; jantar de quarta a domingo a partir de 18h45. A casa anuncia fechamento de 19/10 a 10/11/2026, de 21 a 25/12/2026 e de 4 a 26/01/2027. Confirmar a confirmação de mesa, as condições de alteração e a disponibilidade diretamente com a equipe. Animais de estimação não entram nas salas do restaurante.",
-    "reservationUrl": "https://www.schauenstein.ch/reservierung"
+    "price": "Preços oficiais consultados em 8/11/2026: menu de 3 etapas CHF 266; 4 etapas CHF 298; 5 etapas CHF 318, por pessoa. Os valores são de comida e incluem contribuição de CHF 2 à Fundaziun Uccelin. Extras e condições de serviço devem ser confirmados ao reservar. Para o menu de 5 etapas há harmonização de vinhos (CHF 186) e sem álcool (CHF 110).",
+    "reservation": "Reservas pelo formulário oficial do Schloss Schauenstein, aceitas com até oito meses de antecedência, ou pelo telefone +41 81 632 10 80 e e-mail kontakt@schauenstein.ch. Almoço de quinta a domingo a partir de 11h45; jantar de quarta a domingo a partir de 18h45. A casa anuncia fechamento de 19/10 a 10/11/2026, de 21 a 25/12/2026 e de 4 a 26/01/2027. Confirme a reserva, as condições de alteração e a disponibilidade diretamente com a equipe.",
+    "reservationUrl": "https://www.schauenstein.ch/reservierung",
+    "reservationMode": "contact",
+    "phone": "+41 81 632 10 80",
+    "email": "kontakt@schauenstein.ch",
+    "priceDetails": {
+      "amount": 266,
+      "currency": "CHF",
+      "basis": "Menu de três etapas por pessoa; quatro etapas por CHF 298 e cinco por CHF 318",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.schauenstein.ch/restaurant",
+      "checkedAt": "2026-11-10",
+      "note": "Inclui doação de CHF 2 à Fundaziun Uccelin; bebidas à parte; impostos e serviço não informados."
+    }
   },
   "sources": [
     "https://www.schauenstein.ch/restaurant",
@@ -188,6 +200,9 @@
     "https://commons.wikimedia.org/wiki/File:SchlossSchauenstein.JPG"
   ],
   "slug": "schloss-schauenstein",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 39,
   "founded": 2003,
   "hero": {
@@ -196,7 +211,17 @@
     "author": "Adrian Michael",
     "license": "CC BY-SA 3.0",
     "caption": "Vista real do Schloss Schauenstein em Fürstenau, fotografado em julho de 2023.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Schloss Schauenstein em Fürstenau (2023)",
+    "alt": "Castelo de fachada clara visto do jardim, com balaustrada e caminho entre canteiros",
+    "capturedAt": "2023-07-20",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Adrian Michael, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founders": [
     "Andreas Caminada"
@@ -208,7 +233,17 @@
       "author": "Adrian Michael",
       "license": "CC BY-SA 1.0",
       "caption": "Salão interior do Schloss Schauenstein, registrado em abril de 2011. Fotografia do ambiente real; a decoração pode ter mudado.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Salão do Schloss Schauenstein (2011)",
+      "alt": "Sala com painéis pintados, lareira e poltronas listradas",
+      "capturedAt": "2011-04-15",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Adrian Michael, CC BY-SA 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Unteres_Schloss_F%C3%BCrstenau_Garten.jpg?width=960",
@@ -216,7 +251,17 @@
       "author": "Adrian Michael",
       "license": "CC BY-SA 1.0",
       "caption": "Terraços do jardim do castelo em Fürstenau, fotografados em abril de 2011.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Terraços do jardim do castelo (2011)",
+      "alt": "Jardim em terraços com escada de pedra e muros cobertos de hera",
+      "capturedAt": "2011-04-15",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Adrian Michael, CC BY-SA 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SchlossSchauenstein.JPG?width=960",
@@ -224,7 +269,17 @@
       "author": "Peter Berger",
       "license": "CC BY-SA 3.0",
       "caption": "Fotografia histórica do próprio castelo, feita em agosto de 2005, dois anos após a abertura do restaurante.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Schloss Schauenstein em 2005",
+      "alt": "Torre rosada com janelas de venezianas verdes, atrás de um portão",
+      "capturedAt": "2005-08-08",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Peter Berger, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "facade": {
@@ -233,6 +288,59 @@
     "author": "Adrian Michael",
     "license": "CC BY-SA 1.0",
     "caption": "Fachada do Schloss Schauenstein vista de frente, em abril de 2011.",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Schloss Schauenstein (2011)",
+    "alt": "Fachada branca de castelo com porta de madeira em arco e árvores sem folhas",
+    "capturedAt": "2011-04-09",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Adrian Michael, CC BY-SA 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.schauenstein.ch/reservierung",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pedido de reserva por formulário, telefone ou e-mail; regra sobre animais vinha de fonte secundária e foi retirada."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.schauenstein.ch/restaurant",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.andreascaminada.com/medienbereich",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Walserhof e Wiesengrund ficam na Suíça, não na Alemanha; texto corrigido."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.schauenstein.ch/awards",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Prêmios conferidos na cronologia do próprio restaurante; posições anuais não conferidas uma a uma nas listas do The 50 Best."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/schloss-schauenstein.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos de entrevista de julho de 2026; descrição atribuída ao Michelin não confirmada."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Schloss_Schauenstein",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Castelo, jardim e salão conferidos visualmente; fotos de 2005 a 2023."
+    }
+  ]
 }

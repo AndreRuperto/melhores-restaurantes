@@ -4,13 +4,13 @@
     "O Bozar Restaurant faz parte do Palais des Beaux-Arts, o grande centro cultural de Bruxelas projetado por Victor Horta e construído entre 1922 e 1929. A proposta da casa aproveita a força arquitetônica do edifício: um ambiente em que exposições, música e refeição dividem a mesma paisagem cultural.",
     "Karen Torosyan, de família armênia e nascido na Geórgia, mudou-se para a Bélgica ainda jovem. Desenvolveu sua carreira com profundo interesse pelo artesanato de cozinha: massas folhadas, terrinas e preparações que exigem muitos estágios de montagem e cocção. Seu trabalho no Bozar trouxe essas técnicas tradicionais para o centro de uma experiência contemporânea.",
     "Na cozinha, Torosyan trabalha com a chef executiva Cassandre Ercolini e uma equipe que apresenta parte das peças de massa antes do forno. A experiência combina o espetáculo discreto de uma execução rigorosa com uma leitura pessoal de clássicos franceses e belgas, sem afastar o cliente do sabor dos ingredientes.",
-    "A notoriedade do restaurante consolidou-se com o reconhecimento do Guia Michelin, que lhe concedeu a segunda estrela em 2023. Torosyan foi escolhido Chef do Ano 2026 pelo Gault&Millau belga; no mesmo ano, o Bozar estreou em 42º no ranking mundial The 50 Best."
+    "A notoriedade do restaurante consolidou-se com o reconhecimento do Guia Michelin, que lhe concedeu a segunda estrela em 2023. Em novembro de 2025, Torosyan foi escolhido Chef do Ano 2026 pelo Gault&Millau belga; em 2026, o Bozar manteve as duas estrelas Michelin e estreou em 42º no ranking mundial The 50 Best."
   ],
   "cuisine": {
     "style": "Francesa e belga moderna, com grande domínio de massas",
     "paragraphs": [
       "O ponto de partida da casa é o respeito às estruturas da cozinha clássica: massas crocantes de múltiplas camadas, recheios suculentos e molhos preparados para reforçar o sabor de cada produto. O pithivier e o pâté en croûte são manifestações emblemáticas dessa abordagem.",
-      "O menu oficial oferece percursos degustação e seleções de clássicos. Na carta consultada em novembro de 2026 constavam caranguejo da Bretanha com azedinha, lagosta-azul com guanciale e estragão, robalo ikejime com algas, vitela com vegetais e sobremesas sazonais.",
+      "O menu oficial oferece percursos degustação e seleções de clássicos. Na carta consultada em novembro de 2026 constavam caranguejo da Bretanha com azedinha e caviar, lagosta-azul com guanciale e óleo de estragão, robalo ikejime com espinafre e algas, poulette de Racan com torta de batata e abóbora e sobremesas sazonais de pera e maçã.",
       "Especialidades como pithivier e Granivore exigem reserva com pelo menos 48 horas, conforme a carta oficial. O boeuf Wellington e o mille-feuille montado no momento sintetizam o compromisso da cozinha com temperatura, textura e precisão."
     ]
   },
@@ -48,7 +48,17 @@
         "author": "Arie M. den Toom",
         "license": "CC BY-SA 4.0",
         "caption": "Pâté en croûte tradicional, fotografado fora do Bozar. Imagem ilustrativa do tipo de preparo; não é prato servido no restaurante.",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Pâté en croûte tradicional (ilustrativa)",
+        "alt": "Fatia de pâté en croûte com massa dourada e recheio de carne, com legendas em holandês",
+        "capturedAt": "2019-09-07",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+        "attribution": "Arie M. den Toom, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -63,7 +73,7 @@
     },
     {
       "year": 2026,
-      "title": "Karen Torosyan: Chef do Ano, Gault&Millau Bélgica"
+      "title": "Karen Torosyan: Chef do Ano 2026, Gault&Millau Bélgica (anunciado em novembro de 2025)"
     },
     {
       "year": 2026,
@@ -74,8 +84,20 @@
     "address": "Rue Baron Horta 3, 1000 Bruxelas, Bélgica",
     "website": "https://bozarrestaurant.be/en/",
     "reservationUrl": "https://bozarrestaurant.be/en/reservation",
-    "price": "Menu Bozar: € 275 (7 etapas); Menu Horta: € 195 (5 etapas, dias selecionados); almoço degustação: € 115 (3 etapas), valores publicados no menu consultado em novembro de 2026.",
-    "reservation": "Reservas diretamente na página oficial. Pithiviers e Granivore exigem antecedência mínima de 48 horas; para grupos acima de 8 pessoas, escrever para info@bozarrestaurant.be. Normalmente fechado às segundas e domingos; confirmar o horário ao reservar."
+    "price": "Menu Bozar: € 275 (7 etapas); Menu Horta: € 195 (5 etapas, exceto jantares de sexta e sábado); almoço: € 115 (3 etapas); menus clássicos (Wellington, Pithiviers ou Granivore): € 325 por pessoa, mínimo de 2 pessoas. Harmonizações de vinho à parte. Valores publicados no menu consultado em novembro de 2026; a carta não informa se o serviço está incluído.",
+    "reservation": "Reservas diretamente na página oficial. Pithiviers e Granivore exigem antecedência mínima de 48 horas; para grupos acima de 8 pessoas, escrever para info@bozarrestaurant.be. Fechado aos domingos e segundas e no almoço de terça e de sábado, segundo a página de contato; confirmar o horário ao reservar.",
+    "reservationMode": "online",
+    "phone": "+32 2 503 00 00",
+    "email": "info@bozarrestaurant.be",
+    "priceDetails": {
+      "amount": 275,
+      "currency": "EUR",
+      "basis": "Menu Bozar, sete etapas, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://bozarrestaurant.be/en/menu",
+      "checkedAt": "2026-11-10",
+      "note": "Horta € 195 (exceto jantares de sexta e sábado); almoço € 115; clássicos € 325 por pessoa (mínimo de 2); vinhos à parte; carta sem data e sem menção a serviço ou IVA."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/bozar.html",
@@ -93,14 +115,27 @@
     "https://commons.wikimedia.org/wiki/File:Pat%C3%A9_en_croute.jpg"
   ],
   "slug": "bozar",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 42,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruxelles_-_Palais_des_Beaux-Arts_%283%29.jpg?width=1280",
     "page": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Palais_des_Beaux-Arts_(3).jpg",
     "author": "Fred Romero",
     "license": "CC BY 2.0",
-    "caption": "Entrada da área do restaurante no Palais des Beaux-Arts, complexo de Victor Horta em Bruxelas, fotografada em 2015.",
-    "illustrative": false
+    "caption": "Salão do restaurante no Palais des Beaux-Arts (Bozar), edifício de Victor Horta em Bruxelas, fotografado em 2015; a decoração pode ter mudado desde então.",
+    "illustrative": false,
+    "kind": "interior",
+    "subject": "Salão do restaurante do Bozar, no Palais des Beaux-Arts (2015)",
+    "alt": "Salão amplo com teto claro trabalhado, mesas postas e banquetas de couro",
+    "capturedAt": "2015",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Fred Romero, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -114,7 +149,60 @@
     "page": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Palais_des_Beaux-Arts_(3).jpg",
     "author": "Fred Romero",
     "license": "CC BY 2.0",
-    "caption": "Entrada da área do restaurante no Palais des Beaux-Arts, complexo de Victor Horta em Bruxelas, fotografada em 2015.",
-    "illustrative": false
-  }
+    "caption": "Salão do restaurante no Palais des Beaux-Arts (Bozar), edifício de Victor Horta em Bruxelas, fotografado em 2015; a decoração pode ter mudado desde então.",
+    "illustrative": false,
+    "kind": "interior",
+    "subject": "Salão do restaurante do Bozar, no Palais des Beaux-Arts (2015)",
+    "alt": "Salão amplo com teto claro trabalhado, mesas postas e banquetas de couro",
+    "capturedAt": "2015",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Fred Romero, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://bozarrestaurant.be/en/contact",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fechamentos completados com os almoços de terça e sábado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://bozarrestaurant.be/en/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://bozarrestaurant.be/en/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Não há vitela no menu; o prato de carne é a poulette de Racan; texto corrigido."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.brusselstimes.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Chef do Ano 2026 anunciado em novembro de 2025; duas estrelas mantidas em maio de 2026."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.brusselstimes.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Cargo atual de Cassandre Ercolini e datas do edifício de Horta não confirmados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Bozar_Restaurant",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A capa é do salão do restaurante em 2015, não da entrada; legenda corrigida."
+    }
+  ]
 }

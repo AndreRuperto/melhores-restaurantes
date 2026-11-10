@@ -28,7 +28,17 @@
         "author": "ayustety",
         "license": "CC BY-SA 2.0",
         "caption": "Tangpyeongchae tradicional fotografado fora do Onjium; imagem ilustrativa da receita pesquisada.",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Tangpyeongchae tradicional (ilustrativa)",
+        "alt": "Tigela de geleia de feijão-mungo cortada em tiras, com legumes e cogumelos",
+        "capturedAt": "2007-09-17",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+        "attribution": "ayustety, CC BY-SA 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -40,7 +50,17 @@
         "author": "Junho Jung",
         "license": "CC BY-SA 3.0",
         "caption": "Galbi-jjim coreano fotografado em outro restaurante, em 2009; imagem ilustrativa, não é prato do Onjium.",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Galbi-jjim coreano (ilustrativa)",
+        "alt": "Panela de metal com costela braseada, cogumelos, castanhas e raízes",
+        "capturedAt": "2009-02-01",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+        "attribution": "Junho Jung, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -51,12 +71,12 @@
   ],
   "awards": [
     {
-      "year": 2019,
-      "title": "Primeiros reconhecimentos Michelin após a abertura do restaurante (1 estrela, segundo material turístico coreano)"
+      "year": 2020,
+      "title": "Primeira estrela Michelin — Guia Michelin Seul 2020 (anunciado em novembro de 2019)"
     },
     {
-      "year": 2025,
-      "title": "Uma estrela Michelin — Guia Michelin Seul"
+      "year": 2026,
+      "title": "Uma estrela Michelin — Guia Michelin Seul & Busan 2026"
     },
     {
       "year": 2026,
@@ -70,8 +90,20 @@
   "practical": {
     "address": "4º andar, 49 Hyoja-ro, Jongno-gu, Seul 03043, Coreia do Sul",
     "website": "https://onjium.org/",
-    "price": "Menu degustação sazonal; preço atualizado não confirmado em fonte oficial aberta. Confirmar com o restaurante.",
-    "reservation": "Reservas geridas diretamente pelo restaurante. Contato: +82 2-6952-0024. Segundo o Guia Michelin, almoço e jantar de terça a sexta-feira; fechado sábado, domingo e segunda. Disponibilidade não verificada em tempo real."
+    "price": "Menu degustação sazonal, a partir de US$ 116 segundo o guia Discovery do The 50 Best (valor indicativo, consultado em novembro de 2026); preço oficial em wons não confirmado. Confirmar com o restaurante.",
+    "reservation": "Reservas on-line pela plataforma CatchTable, segundo a página do restaurante na Tatler Asia; telefone +82 2 6952 0024. Segundo o The 50 Best, almoço e jantar de terça a sexta-feira; fechado sábado, domingo e segunda. Disponibilidade não verificada em tempo real.",
+    "reservationMode": "online",
+    "reservationUrl": "https://catchtable.net/shop/onjiumrestaurant",
+    "phone": "+82 2 6952 0024",
+    "priceDetails": {
+      "amount": 116,
+      "currency": "USD",
+      "basis": "Menu degustação, a partir de, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/South-Korea/Seoul/Onjium.html",
+      "checkedAt": "2026-11-10",
+      "note": "Valor indicativo do guia, provavelmente convertido; preço oficial em wons não confirmado."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/onjium.html",
@@ -88,6 +120,9 @@
     "https://commons.wikimedia.org/wiki/File:Korean_braised_beef_short_ribs-Galbijjim.jpg"
   ],
   "slug": "onjium",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 41,
   "founded": 2018,
   "founders": [
@@ -100,8 +135,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_seoul.jpg",
     "author": "Sgroey",
     "license": "CC BY-SA 4.0",
-    "caption": "Gwanghwamun, entrada do complexo de Gyeongbokgung em Seul, fotografada em 2024. Imagem do entorno histórico; não mostra o Onjium.",
-    "illustrative": true
+    "caption": "Torres de escritórios na região de Gwanghwamun, no centro de Seul, perto do Onjium (2024); a foto não mostra o restaurante nem o palácio",
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Região de Gwanghwamun, no centro de Seul (2024)",
+    "alt": "Torres de escritórios de vidro sob céu azul, vistas de uma rua arborizada",
+    "capturedAt": "2024-08-19",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Sgroey, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -109,5 +154,42 @@
     "publisher": "Tatler Asia",
     "url": "https://www.tatlerasia.com/dining/onjium?listId=281",
     "note": "Galeria com fotos reais do interior, dos pratos, da equipe e do exterior do Onjium. Os direitos dessas fotografias não autorizam republicação automática."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.tatlerasia.com/dining/onjium",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Canal CatchTable indicado só pela Tatler; o site oficial e a página da CatchTable não puderam ser lidos."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/South-Korea/Seoul/Onjium.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Sem preço oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.thestaffcanteen.com/News/two-new-two-star-restaurants-in-the-michelin-guide-seoul-2020",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Primeira estrela é da edição 2020 (anúncio em novembro de 2019); a estrela de 2026 vem de fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/onjium.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Site oficial ilegível; pratos do perfil já marcados como fora do menu atual."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Legenda da capa corrigida: a foto mostra torres de escritórios de Gwanghwamun, não o portão do palácio."
+    }
+  ]
 }

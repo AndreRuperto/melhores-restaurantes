@@ -1,8 +1,8 @@
 {
   "lede": "Nas encostas arborizadas de Constantia Nek, perto da Cidade do Cabo, o La Colombe serve uma degustação de ingredientes sul-africanos com técnicas francesas e apresentações interativas. Criada em Constantia Uitsig nos anos 1990, a casa mudou-se para Silvermist em 2014; hoje, sob o chef executivo James Gaag, voltou ao top 50 mundial em 2026, na 35ª posição, como a melhor colocada da África.",
   "history": [
-    "O La Colombe nasceu em 1996, na propriedade Constantia Uitsig, em uma região montanhosa ao sul da Cidade do Cabo. Sua história reúne diferentes gerações de cozinheiros: Franck Dangereux foi um dos responsáveis pela primeira fase de prestígio, e Luke Dale-Roberts assumiu a cozinha em 2006. Nesse período, a casa se projetou na cena gastronômica sul-africana, entrou na lista mundial The World's 50 Best e recebeu o prêmio de melhor restaurante do país nas edições de 2008 e 2009 dos Eat Out Awards.",
-    "Após a saída de Dale-Roberts, Scot Kirton liderou a cozinha e depois a direção do grupo. Em outubro de 2014, transferiu o La Colombe de Constantia Uitsig para a Silvermist Wine Estate, nas encostas de Constantia Nek. A vista para a vegetação e o vale passou a integrar a experiência: o salão de linhas claras, ampliado e reformado em 2018, tem grandes superfícies envidraçadas e uma atmosfera semelhante à de uma casa entre as árvores.",
+    "O La Colombe nasceu em 1996, na propriedade Constantia Uitsig, em uma região montanhosa ao sul da Cidade do Cabo. Sua história reúne diferentes gerações de cozinheiros: Franck Dangereux foi um dos responsáveis pela primeira fase de prestígio, e Luke Dale-Roberts assumiu a cozinha em 2006. A casa já havia estreado na lista The World's 50 Best em 2006, em 28º lugar; sob Dale-Roberts, chegou ao 12º lugar em 2010 e recebeu o prêmio de melhor restaurante do país nas edições de 2008 e 2009 dos Eat Out Awards.",
+    "Após a saída de Dale-Roberts, Scot Kirton liderou a cozinha e depois a direção do grupo. Em 2014, transferiu o La Colombe de Constantia Uitsig para a Silvermist Wine Estate, nas encostas de Constantia Nek. A vista para a vegetação e o vale passou a integrar a experiência: o salão de linhas claras, reformado em 2018 com inspiração nas árvores ao redor, tem grandes superfícies envidraçadas e uma atmosfera semelhante à de uma casa entre as árvores.",
     "James Gaag ingressou na equipe em 2010, ainda estudante. Depois de trabalhar com Raymond Blanc no Le Manoir aux Quat'Saisons, na Inglaterra, retornou em 2014 como chef de cozinha; em abril de 2018 tornou-se chef executivo. Sua proposta manteve o serviço de degustação e a técnica clássica, mas incorporou mais referências locais, elementos de encenação e pequenas surpresas à mesa. Em 2019, a equipe voltou a receber o título de restaurante do ano na África do Sul pelo Eat Out.",
     "Depois de figurar em 49º lugar no ranking global em 2024, o La Colombe passou para a lista estendida, na 55ª posição, em 2025. A cerimônia do The 50 Best em Lima, em 4 de novembro de 2026, marcou o retorno ao top 50: 35º no mundo e melhor restaurante da África. A casa também recebeu em 2026 os títulos de melhor restaurante da África e da África do Sul no World Culinary Awards, premiações independentes do The 50 Best."
   ],
@@ -73,7 +73,7 @@
     },
     {
       "year": 2010,
-      "title": "The World's 50 Best Restaurants: 12º lugar"
+      "title": "The World's 50 Best Restaurants: 12º lugar e melhor restaurante do Oriente Médio e da África"
     },
     {
       "year": 2015,
@@ -145,7 +145,19 @@
     "address": "Silvermist Wine Estate, Main Road, Constantia Nek, Cidade do Cabo 7806, África do Sul",
     "price": "Preços publicados no site oficial e consultados em 8/11/2026: Chef's Menu de R 2.595 por pessoa, e almoço de primavera em dias úteis de R 1.695 por pessoa, válido até 30/11/2026. Existem versões vegetarianas com os mesmos valores. O restaurante informa taxa de serviço discricionária de 13,5%; cardápios e preços podem mudar.",
     "reservation": "Solicite uma mesa pelo botão Book Online na página oficial, que encaminha à plataforma Dineplan. A reserva exige um depósito pago no agendamento (o valor exato aparece no sistema); sem o pagamento, pode ser cancelada. Cancelamentos até 48 horas antes recebem reembolso integral do depósito, conforme política publicada. A casa não recebe crianças com menos de 8 anos. Dúvidas pelo telefone +27 21 794 2390 ou pelo e-mail reservations@lacolombe.co.za. A disponibilidade deve ser confirmada na plataforma.",
-    "reservationUrl": "https://www.lacolombe.restaurant/la-colombe"
+    "reservationUrl": "https://www.lacolombe.restaurant/la-colombe",
+    "reservationMode": "online",
+    "phone": "+27 21 794 2390",
+    "email": "reservations@lacolombe.co.za",
+    "priceDetails": {
+      "amount": 2595,
+      "currency": "ZAR",
+      "basis": "Chef's Menu por pessoa; versão vegetariana pelo mesmo valor",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.lacolombe.restaurant/la-colombe",
+      "checkedAt": "2026-11-10",
+      "note": "Almoço de primavera em dias úteis a R 1.695 até 30/11/2026; taxa de serviço discricionária de 13,5% à parte; IVA não informado."
+    }
   },
   "sources": [
     "https://www.lacolombe.restaurant/la-colombe",
@@ -169,6 +181,9 @@
     "https://commons.wikimedia.org/wiki/File:Eagles_Nest,_Table_Mountain.JPG"
   ],
   "slug": "la-colombe",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 35,
   "founded": 1996,
   "hero": {
@@ -177,7 +192,17 @@
     "author": "Michael Rowe",
     "license": "CC BY-SA 4.0",
     "caption": "Imagem contextual: vista das encostas e do vale de Constantia Nek, fotografada em 2021. NÃO é uma imagem do restaurante La Colombe.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Encostas de Constantia Nek (2021)",
+    "alt": "Trilha entre vegetação de fynbos com montanhas iluminadas ao fundo",
+    "capturedAt": "2021",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Michael Rowe, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -186,7 +211,17 @@
       "author": "Xiphon (Wikipédia em inglês)",
       "license": "CC BY-SA 3.0",
       "caption": "Montanha Constantiaberg, fotografada em 2005. Imagem contextual da região, não do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Montanha Constantiaberg (2005)",
+      "alt": "Montanha de encosta rochosa acima de telhados e árvores",
+      "capturedAt": "2005",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Xiphon (Wikipédia em inglês), CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eagles_Nest%2C_Table_Mountain.JPG?width=960",
@@ -194,7 +229,17 @@
       "author": "Zaian",
       "license": "Domínio público (PD-self)",
       "caption": "Mirante Eagle's Nest com vista para Constantia Nek e o vale de Hout Bay, em 2009. Imagem da paisagem, não do La Colombe.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Mirante Eagle's Nest, sobre Constantia Nek (2009)",
+      "alt": "Afloramentos rochosos no alto de uma encosta verde",
+      "capturedAt": "2009-11-22",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Zaian, Domínio público (PD-self), via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -202,5 +247,47 @@
     "publisher": "La Colombe (site oficial)",
     "url": "https://www.lacolombe.restaurant/la-colombe",
     "note": "Galeria e apresentação do restaurante na Silvermist Estate, em Constantia; foto de fachada não identificada."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.lacolombe.restaurant/la-colombe",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.lacolombe.restaurant/la-colombe",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.lacolombe.restaurant/la-colombe",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Mês da mudança (outubro de 2014) e \"ampliado\" em 2018 sem fonte; retirados. Datas de 1996 e da equipe vêm de fontes secundárias."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/la-colombe.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Título regional de 2010 acrescentado."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.lacolombe.restaurant/la-colombe",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Os seis pratos estão no menu de almoço de novembro de 2026."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

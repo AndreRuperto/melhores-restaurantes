@@ -4,7 +4,7 @@
     "O Elkano abriu em abril de 1964, quando Pedro Arregui converteu um pequeno comércio da família em bar na rua Elkano, em Getaria. A mãe Joxepa, que trabalhara em cozinhas de referência da época, participou do começo do negócio; María José Artano, mais tarde esposa de Pedro, também assumiu responsabilidades no restaurante. Ao lado do bar, o fundador instalou uma grelha de rua, expressão de uma prática já enraizada entre pescadores e tabernas da região.",
     "Uma grande captura de rodovalho mudaria a forma de trabalhar da casa. Diante de um peixe que não cabia na grelha habitual, Pedro decidiu assá-lo inteiro entre duas grelhas, sem retirar a pele. Passou ainda a grelhar cabeças de pescada que antes eram reservadas sobretudo a sopas. O objetivo era aproveitar as diferenças de gordura, colágeno, textura e sabor do mesmo animal e respeitar a matéria-prima trazida do mar.",
     "Aitor Arregui, nascido em Getaria em 1971, cresceu entre a cozinha da avó, o trabalho da mãe no salão e as grelhas do pai. Foi jogador profissional de futebol por cerca de uma década e voltou em definitivo ao negócio familiar em 2002. Reconhecido em 2007 pela direção de sala, aprofundou a conversa com pescadores, fornecedores e convidados. O conceito de 'paisagem culinária' que defende considera as espécies, a estação, a temperatura e a latitude das capturas e a alimentação do peixe.",
-    "Pedro morreu em fevereiro de 2014. No mesmo ano, a família reabriu o bar Elkano Txiki e, em novembro, o restaurante principal recebeu sua primeira estrela Michelin, para a edição de 2015 do guia. Em 2016, a editora Planeta publicou o livro 'Elkano, Paisaje Culinario'. A casa entrou na lista estendida do The World's 50 Best em 2018, em 77º, e passou a figurar entre os cinquenta melhores nas edições seguintes. Em 2026 ocupa a 33ª posição mundial e mantém uma estrela Michelin e três Sóis Repsol."
+    "Pedro morreu em 2014. No mesmo ano, a família reabriu o bar Elkano Txiki e, em novembro, o restaurante principal recebeu sua primeira estrela Michelin, para a edição de 2015 do guia. Em 2016, a editora Planeta publicou o livro 'Elkano, Paisaje Culinario'. A casa entrou na lista estendida do The World's 50 Best em 2018, em 77º, e passou a figurar entre os cinquenta melhores nas edições seguintes. Em 2026 ocupa a 33ª posição mundial e mantém uma estrela Michelin e três Sóis Repsol."
   ],
   "cuisine": {
     "style": "Pescado do Cantábrico na grelha basca e interpretação da paisagem culinária",
@@ -128,8 +128,20 @@
     "website": "https://www.restauranteelkano.com/",
     "address": "Herrerieta Kalea 2, 20808 Getaria, Gipuzkoa, Espanha",
     "price": "O site oficial anuncia uma proposta gastronômica para presente por €200 por pessoa, sem bebidas (consultado em 8/11/2026). Reportagem de 5/11/2026 cita degustação de €195 e refeições à la carte entre €100 e €180. São modalidades e fontes diferentes: confirme o valor e a composição do menu no momento da reserva.",
-    "reservation": "Solicite a mesa pela página oficial, com confirmação posterior do restaurante, ou pelo telefone +34 943 14 00 24; a casa também informa o e-mail reservas@restauranteelkano.com. Horários habituais: terça a quinta, almoço das 13h às 15h; sexta e sábado, almoço das 13h às 15h e jantar das 20h30 às 22h; fechado segunda e domingo. Horários de verão podem variar.",
-    "reservationUrl": "https://www.restauranteelkano.com/reservas/"
+    "reservation": "Solicite a mesa pela página oficial, com confirmação posterior do restaurante, ou pelo telefone +34 943 14 00 24; a casa também informa o e-mail reservas@restauranteelkano.com. Horários habituais: terça a quinta, almoço das 13h às 15h; sexta e sábado, almoço das 13h às 15h e jantar das 20h30 às 22h; fechado segunda e domingo. Em julho e agosto, o almoço também é servido às segundas-feiras (13h às 15h); o atendimento telefônico funciona de terça a sábado, das 10h às 17h.",
+    "reservationUrl": "https://www.restauranteelkano.com/reservas/",
+    "reservationMode": "online",
+    "phone": "+34 943 14 00 24",
+    "email": "reservas@restauranteelkano.com",
+    "priceDetails": {
+      "amount": 200,
+      "currency": "EUR",
+      "basis": "Proposta gastronômica do vale-presente oficial, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.restauranteelkano.com/regala-elkano/",
+      "checkedAt": "2026-11-10",
+      "note": "Bebidas não incluídas; IVA não mencionado; a imprensa cita degustação de € 195 e carta de € 100 a € 180, e o Guía Repsol um menu de € 170."
+    }
   },
   "sources": [
     "https://www.restauranteelkano.com/",
@@ -154,11 +166,13 @@
     "https://commons.wikimedia.org/wiki/File:Puerto_de_Getaria_(Gipuzkoa).jpg"
   ],
   "slug": "elkano",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 33,
   "founded": 1964,
   "founders": [
-    "Pedro Arregui",
-    "María José Artano (gestão e salão)"
+    "Pedro Arregui"
   ],
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Getaria%2C_Harbour_and_Mount_San_Anton.jpg?width=1280",
@@ -166,7 +180,17 @@
     "author": "Cosal",
     "license": "CC BY-SA 4.0",
     "caption": "Imagem contextual: porto de Getaria e monte San Antón, em 2016. A fotografia NÃO mostra o restaurante Elkano.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Porto de Getaria e monte San Antón (2016)",
+    "alt": "Porto com barcos de pesca coloridos ao pé de um morro verde",
+    "capturedAt": "2016-06-14",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "Cosal, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -175,7 +199,17 @@
       "author": "Cosal",
       "license": "CC BY-SA 4.0",
       "caption": "Barcos e instalações do porto pesqueiro de Getaria, em junho de 2016. Imagem do ambiente marítimo, não do Elkano.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Porto pesqueiro de Getaria (2016)",
+      "alt": "Cais com barcos de pesca atracados e carros estacionados",
+      "capturedAt": "2016-06-14",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Cosal, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Getaria_-_Puerto_1.JPG?width=960",
@@ -183,7 +217,17 @@
       "author": "Zarateman",
       "license": "CC0 1.0",
       "caption": "Vista do porto de Getaria em janeiro de 2015. Fotografia de contexto, não do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Porto de Getaria visto do alto (2015)",
+      "alt": "Vista do alto do porto, com torre de igreja e o morro de San Antón",
+      "capturedAt": "2015-01-09",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Zarateman, CC0 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Getaria_-_Puerto_3.JPG?width=960",
@@ -191,7 +235,17 @@
       "author": "Zarateman",
       "license": "CC0 1.0",
       "caption": "Outra vista do porto de Getaria, fotografada em 2015. Não é uma imagem do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Porto de Getaria (2015)",
+      "alt": "Barco de pesca vermelho e marina vistos de um telhado",
+      "capturedAt": "2015-01-09",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Zarateman, CC0 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto_de_Getaria.jpg?width=960",
@@ -199,7 +253,17 @@
       "author": "Arseniog",
       "license": "CC BY-SA 4.0",
       "caption": "Vista panorâmica do porto de Getaria, em setembro de 2013. Foto do ambiente marítimo, não do restaurante Elkano.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Panorama do porto de Getaria (2013)",
+      "alt": "Baía azul com barcos e o morro de San Antón ao fundo",
+      "capturedAt": "2013-09-22",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Arseniog, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Puerto_de_Getaria_(Gipuzkoa).jpg?width=960",
@@ -207,7 +271,17 @@
       "author": "Eleder",
       "license": "CC BY-SA 3.0",
       "caption": "Pescadores recolhendo redes no porto de Getaria, em outubro de 2011. Imagem do trabalho pesqueiro, não do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Pescadores recolhendo redes em Getaria (2011)",
+      "alt": "Grupo de pescadores puxando redes avermelhadas no cais",
+      "capturedAt": "2011-10-02",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Eleder, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -215,5 +289,48 @@
     "publisher": "Turismo Euskadi",
     "url": "https://turismo.euskadi.eus/en/restaurants/elkano-restaurant/webtur00-content/en/",
     "note": "O órgão de turismo da região identifica uma fotografia como exterior do Elkano, em Getaria."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.restauranteelkano.com/reservas/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.restauranteelkano.com/regala-elkano/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Valores diferentes conforme a fonte (€ 200, € 195, € 170); o texto já avisa."
+    },
+    {
+      "field": "founders",
+      "sourceUrl": "https://www.restauranteelkano.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O dossiê da família diz que María José Artano se juntou depois da abertura; fundador mantido só Pedro."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/21-30/Elkano.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Posições de 2021, 2022 e 2023 com fonte secundária única; estrela Michelin de 2026 não conferida no guia."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.restauranteelkano.com/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Origem do rodovalho na grelha e mês da morte de Pedro sem fonte; mês retirado."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

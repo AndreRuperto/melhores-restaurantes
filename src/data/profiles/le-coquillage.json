@@ -10,7 +10,7 @@
     "style": "Cozinha marítima da Bretanha: pesca artesanal, algas, hortas e especiarias",
     "paragraphs": [
       "Le Coquillage não tenta reproduzir um menu rígido de pescados: a seleção acompanha o estado do mar, o vento, as marés e a colheita. Segundo a casa e o Guia Michelin, a equipe trabalha com peixes e crustáceos de pequena pesca cujos estoques não estejam ameaçados, algas recolhidas na região, ervas do jardim e vegetais sazonais. Não serve carne, e parte da pesquisa culinária consiste em construir molhos e caldos profundamente saborosos sem recorrer a bases de carne.",
-      "O percurso principal recebe o nome de Au Gré du Vent et de la Lune, literalmente 'ao sabor do vento e da lua'. Entre os nomes apresentados na carta de 2026 estão Fleur de mer, Mirasol, Histoires de homard, Laminaria digitata e Ile flottante / Terre en Vue. O menu do almoço, A l'Abri des Flots, reúne menos etapas. O restaurante avisa que os pratos podem ser substituídos conforme as condições da pesca e da colheita; os nomes abaixo documentam o repertório da casa, mas não asseguram sua presença numa visita futura.",
+      "O percurso principal recebe o nome de Au Gré du Vent et de la Lune, literalmente 'ao sabor do vento e da lua'. Entre os nomes apresentados na carta consultada em novembro de 2026 estão Fleur de mer, Mirasol, Histoires de homard (apenas no menu completo), Estran e Ile flottante / Terre en Vue. O menu do almoço, A l'Abri des Flots, reúne menos etapas. O restaurante avisa que os pratos podem ser substituídos conforme as condições da pesca e da colheita; os nomes abaixo documentam o repertório da casa, mas não asseguram sua presença numa visita futura.",
       "Algumas criações têm ingredientes mais bem documentados. Em Histoires de homard, o The 50 Best descreve lagosta bretona envolta em repolho, seguida de ensopado das pinças com notas defumadas e picantes. Chemin des Douaniers, outra assinatura citada pelo Guia Michelin, combina caranguejo-aranha com gema temperada em vinagre de sabugueiro, molho de coral e ervas costeiras. Os molhos, as texturas de algas e o uso sutil de especiarias fazem parte da assinatura de Hugo, sem abandonar o protagonismo do produto."
     ]
   },
@@ -26,12 +26,7 @@
     },
     {
       "name": "Chemin des Douaniers — caranguejo-aranha e ervas costeiras",
-      "desc": "Prato descrito pelo Guia Michelin em março de 2025: caranguejo-aranha, gema temperada com vinagre de sabugueiro, molho de coral e ervas recolhidas na costa. Uma referência à paisagem marítima e ao trabalho com algas e vegetais.",
-      "photo": null
-    },
-    {
-      "name": "Laminaria digitata",
-      "desc": "Etapa que leva o nome de uma espécie de alga marinha, presente nas duas versões de menu publicadas pela casa em 2026. Os demais componentes não são detalhados na carta pública.",
+      "desc": "Prato descrito pelo The 50 Best: caranguejo-aranha com molho de ervas recolhidas na costa, uma referência à paisagem marítima. Não aparece nos menus oficiais publicados em novembro de 2026.",
       "photo": null
     },
     {
@@ -40,7 +35,7 @@
       "photo": null
     },
     {
-      "name": "Pain maritime — pão de fermentação natural",
+      "name": "Pão de fermentação natural do Château Richeux",
       "desc": "Pão produzido no forno a lenha junto ao Château Richeux, com farinhas antigas, locais e biológicas. Faz parte do trabalho da família com panificação e produtos agrícolas.",
       "photo": null
     },
@@ -90,7 +85,19 @@
     "address": "Château Richeux, Le Buot, 35350 Saint-Méloir-des-Ondes, Bretanha, França",
     "price": "Carta oficial consultada em novembro de 2026: menu Au Gré du Vent et de la Lune a €290 por pessoa, sem bebidas; menu menor A l’Abri des Flots, apenas no almoço, a €230. A tábua de queijos da Bretanha é um suplemento opcional de €32. Os preços e as etapas podem mudar conforme a estação.",
     "reservation": "Reservas pelo site oficial (Zenchef), telefone +33 2 99 89 64 76 ou e-mail info@roellinger-bricourt.com. Aberto de terça a sábado, com chegada ao almoço às 12h ou até 12h30 e jantar das 19h30 às 20h. A casa solicita pré-autorização de €200 por pessoa no cartão para confirmar a reserva, com política de cancelamento de 48 horas. Para grupos de 5 a 8 pessoas, entrar em contato diretamente. O restaurante anuncia fechamento de 3 de janeiro a 18 de março de 2027, inclusive. Confirme os detalhes antes de planejar a visita.",
-    "reservationUrl": "https://www.maisons-de-bricourt.com/fr/page/reserver"
+    "reservationUrl": "https://www.maisons-de-bricourt.com/fr/page/reserver",
+    "reservationMode": "online",
+    "phone": "+33 2 99 89 64 76",
+    "email": "info@roellinger-bricourt.com",
+    "priceDetails": {
+      "amount": 290,
+      "currency": "EUR",
+      "basis": "Menu Au Gré du Vent et de la Lune, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.maisons-de-bricourt.com/fr/page/le-coquillage",
+      "checkedAt": "2026-11-10",
+      "note": "Menu A l'Abri des Flots a € 230, só no almoço; queijos + € 32; impostos e serviço não mencionados."
+    }
   },
   "sources": [
     "https://www.maisons-de-bricourt.com/fr/page/le-coquillage",
@@ -116,6 +123,9 @@
     "https://commons.wikimedia.org/wiki/File:Le_chateau_richeux_a_st_meloir_des_ondes_-_panoramio.jpg"
   ],
   "slug": "le-coquillage",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 34,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vue_sur_la_baie_du_mont_st_michel_depuis_le_mont_dol_-_panoramio.jpg?width=1280",
@@ -123,7 +133,17 @@
     "author": "chisloup",
     "license": "CC BY 3.0",
     "caption": "Imagem contextual: vista da baía do Mont-Saint-Michel a partir do Mont-Dol, em 2014. NÃO é uma foto do restaurante Le Coquillage.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Baía do Mont-Saint-Michel vista do Mont-Dol (2014)",
+    "alt": "Planície verde com campos e vilarejos sob céu nublado",
+    "capturedAt": "2014",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "chisloup, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -132,7 +152,17 @@
       "author": "Obit",
       "license": "CC BY-SA 3.0",
       "caption": "Panorama da baía do Mont-Saint-Michel em 2010. Foto da paisagem da região, não da propriedade onde fica Le Coquillage.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Panorama da baía do Mont-Saint-Michel (2010)",
+      "alt": "Baía plana com a silhueta do Mont-Saint-Michel ao longe",
+      "capturedAt": "2010-09-05",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Obit, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mont_Saint-Michel-_Vue_panoramique.jpg?width=960",
@@ -140,7 +170,17 @@
       "author": "Fjaubert",
       "license": "CC BY-SA 4.0",
       "caption": "Vista panorâmica de Mont-Saint-Michel, em 2017. Imagem ilustrativa da baía; não representa o restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Mont-Saint-Michel ao pôr do sol (2017)",
+      "alt": "Passarela que leva ao Mont-Saint-Michel, com o sol se pondo atrás",
+      "capturedAt": "2017-06-21",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Fjaubert, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hu%C3%AEtres_%C3%A0_Cancale.jpg?width=960",
@@ -148,7 +188,17 @@
       "author": "Renhour48",
       "license": "CC0 1.0",
       "caption": "Ostras fotografadas em Cancale, em novembro de 2023. Foto contextual do produto típico da costa; não é um prato servido no Le Coquillage.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Ostras em Cancale (2023)",
+      "alt": "Caixas plásticas cheias de ostras numa banca",
+      "capturedAt": "2023-11-15",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Renhour48, CC0 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cancale_-_2026-08-13_-_March%C3%A9_aux_Hu%C3%AEtres_-_oyster_beach_medium.jpg?width=960",
@@ -156,7 +206,17 @@
       "author": "Fuzheado",
       "license": "CC BY-SA 4.0",
       "caption": "Conchas na área do mercado de ostras em Cancale, fotografadas em 2026. Contexto da vida marítima regional, não do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Conchas no mercado de ostras de Cancale (2026)",
+      "alt": "Monte de conchas de ostras junto a uma escadaria de pedra",
+      "capturedAt": "2026-08-13",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Fuzheado, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "founded": 1992,
@@ -170,6 +230,58 @@
     "author": "chisloup",
     "license": "CC BY 3.0",
     "caption": "Vista real do Château Richeux, edifício que abriga o Le Coquillage, em novembro de 2014. A fachada e os jardins podem ter mudado desde então.",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Château Richeux, que abriga o Le Coquillage (2014)",
+    "alt": "Casarão de telhado de ardósia entre árvores de outono e um caminho de cascalho",
+    "capturedAt": "2014",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "chisloup, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.maisons-de-bricourt.com/fr/page/reserver",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.maisons-de-bricourt.com/fr/page/le-coquillage",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.maisons-de-bricourt.com/fr/page/le-coquillage",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Laminaria digitata não consta dos menus atuais (retirado); Chemin des Douaniers marcado como fora do menu; nome \"Pain maritime\" sem fonte."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/el-coquillage.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Três estrelas de 2026 confirmadas só pela imprensa; o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://www.roellinger-bricourt.com/fr/page/famille-roellinger",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O Château Richeux data de 1992; o nome Le Coquillage nesse ano não é datado explicitamente."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fachada do Château Richeux conferida visualmente; demais fotos são da região."
+    }
+  ]
 }

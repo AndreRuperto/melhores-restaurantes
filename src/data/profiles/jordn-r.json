@@ -1,8 +1,8 @@
 {
   "lede": "No Gentofte Hotel, ao norte de Copenhague, Eric e Tina Kragh Vildgaard criaram um restaurante de alta gastronomia onde a hospitalidade acolhedora se une à precisão técnica. Aberto em 2017, o Jordnær — nome que remete a ter os pés no chão — especializou-se em peixes, frutos do mar e vegetais, conquistou três estrelas Michelin em 2024 e alcançou o 40º lugar mundial em 2026.",
   "history": [
-    "Tina e Eric Kragh Vildgaard abriram o Jordnær em 2017, dentro do histórico Gentofte Hotel, na localidade de Gentofte, perto de Copenhague. O espaço foi renovado para receber uma experiência gastronômica própria, e o casal começou o projeto sem apoio financeiro de grandes investidores. A palavra Jordnær significa aproximadamente 'pé no chão', expressão escolhida para representar uma refeição refinada sem formalidades exageradas.",
-    "Antes do restaurante, Eric trabalhou durante cerca de três anos no Noma com René Redzepi e participou da cozinha do Almanak, em Copenhague. Conheceu Tina no Fredensborg Store Kro, onde ela atuava na gestão. Os dois decidiram criar uma casa que valorizasse tanto a equipe de cozinha quanto o contato com os convidados. Eric ficou responsável pelos pratos e Tina assumiu a recepção e a experiência do salão, reconhecida pelo atendimento próximo e atento.",
+    "Tina e Eric Kragh Vildgaard abriram o Jordnær em 2017, dentro do histórico Gentofte Hotel, na localidade de Gentofte, perto de Copenhague. A palavra Jordnær significa aproximadamente 'pé no chão', expressão escolhida para representar uma refeição refinada sem formalidades exageradas.",
+    "Antes do restaurante, Eric trabalhou durante cerca de três anos no Noma com René Redzepi e foi chef de cozinha do Almanak, em Copenhague, por quase dois anos. Conheceu Tina no Fredensborg Store Kro, onde ela atuava na gestão. Os dois decidiram criar uma casa que valorizasse tanto a equipe de cozinha quanto o contato com os convidados. Eric ficou responsável pelos pratos e Tina assumiu a recepção e a experiência do salão, reconhecida pelo atendimento próximo e atento.",
     "Em 2018, apenas dez meses após a abertura, o Jordnær recebeu a primeira estrela Michelin. A segunda veio em fevereiro de 2020, quando Tina também ganhou o Michelin Nordic Countries Welcome & Service Award pelo trabalho de hospitalidade. Em 2022, a casa apareceu pela primeira vez no grupo principal do The World's 50 Best Restaurants, em 38º lugar. Em 2023 recebeu o título de Restaurante do Ano na Dinamarca, concedido pela Den Danske Spiseguide.",
     "Em 27 de maio de 2024, o Jordnær tornou-se o terceiro restaurante dinamarquês com três estrelas Michelin. Eric também foi classificado entre os principais chefs do mundo no The Best Chef Awards de 2024. Na classificação global, a casa ficou em 56º em 2025, antes de retornar ao top 50 em 4 de novembro de 2026, com o 40º lugar. A edição nórdica do Guia Michelin de 2026 manteve suas três estrelas."
   ],
@@ -118,9 +118,21 @@
   "practical": {
     "website": "https://restaurantjordnaer.dk/",
     "address": "Gentoftegade 29, 2820 Gentofte, perto de Copenhague, Dinamarca (no Gentofte Hotel)",
-    "price": "Menu degustação Jordnær 2026: DKK 4.500 por pessoa, segundo o cardápio oficial consultado em 8 de novembro de 2026. Serviços e acompanhamentos opcionais são cobrados separadamente; há aviso sobre tarifas adicionais para determinados cartões de crédito. Confirme o preço ao reservar.",
-    "reservation": "Reservas por meio do botão 'Book et bord' no site oficial, que encaminha à plataforma Superb Experience. A casa funciona de terça a sexta a partir das 18h e oferece almoço no primeiro sábado de cada mês a partir das 13h. Informa fechamento nas semanas 7, 28 a 30, 42 e 51 a 52. Telefone +45 22 40 80 20; e-mail info@restaurantjordnaer.dk. Algumas restrições alimentares exigem aviso e confirmação pelo menos 48 horas antes; não há menu vegetariano ou vegano. A política de cancelamento não foi confirmada em fonte oficial aberta: leia as condições antes de reservar.",
-    "reservationUrl": "https://jordnaer.superbexperience.com/reserve/experience"
+    "price": "Menu degustação Jordnær 2026: DKK 4.500, segundo o cardápio oficial consultado em 8 de novembro de 2026. O cardápio não detalha bebidas, harmonizações nem taxa de serviço. Cartões corporativos e cartões pessoais emitidos fora da UE estão sujeitos a tarifa de processamento. Confirme o preço ao reservar.",
+    "reservation": "Reservas por meio do botão 'Book et bord' no site oficial, que encaminha à plataforma Superb Experience. A casa funciona de terça a sexta a partir das 18h e oferece almoço no primeiro sábado de cada mês a partir das 13h. Informa fechamento nas semanas 7, 28 a 30, 42 e 51 a 52 (o site não indica o ano). Telefone +45 22 40 80 20; e-mail info@restaurantjordnaer.dk. Algumas restrições alimentares exigem aviso e confirmação pelo menos 48 horas antes; não há menu vegetariano ou vegano. A política de cancelamento não foi confirmada em fonte oficial aberta: leia as condições antes de reservar.",
+    "reservationUrl": "https://jordnaer.superbexperience.com/reserve/experience",
+    "reservationMode": "online",
+    "phone": "+45 22 40 80 20",
+    "email": "info@restaurantjordnaer.dk",
+    "priceDetails": {
+      "amount": 4500,
+      "currency": "DKK",
+      "basis": "Menu degustação Jordnær 2026, de 15 etapas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://restaurantjordnaer.dk/evening-menu/",
+      "checkedAt": "2026-11-10",
+      "note": "O cardápio não diz explicitamente \"por pessoa\" nem informa bebidas ou serviço; tarifa para cartões corporativos e cartões emitidos fora da UE."
+    }
   },
   "sources": [
     "https://restaurantjordnaer.dk/",
@@ -143,6 +155,9 @@
     "https://commons.wikimedia.org/wiki/File:Gentofte_S%C3%B8_(Denmark).jpg"
   ],
   "slug": "jordn-r",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 40,
   "founded": 2017,
   "founders": [
@@ -155,7 +170,17 @@
     "author": "PaigePhault",
     "license": "CC0 1.0",
     "caption": "Fotografia real do Gentofte Hotel, edifício que abriga o Jordnær, em junho de 2025. A imagem mostra o hotel, não o salão do restaurante.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Gentofte Hotel, que abriga o Jordnær (2025)",
+    "alt": "Fachada amarela do Gentofte Hotel com letreiro, mastros de bandeira e escadaria",
+    "capturedAt": null,
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "PaigePhault, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -164,7 +189,17 @@
       "author": "Karin Helene Pagter Duparc",
       "license": "CC BY-SA 3.0",
       "caption": "Lago Gentofte Sø, visto do lado norte em abril de 2007. Fotografia contextual da região, não do Jordnær.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Lago Gentofte Sø (2007)",
+      "alt": "Lago calmo refletindo árvores sob céu azul",
+      "capturedAt": "2007-04-30",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Karin Helene Pagter Duparc, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gentofte_S%C3%B8_%28Denmark%29.jpg?width=960",
@@ -172,7 +207,17 @@
       "author": "Hunter Desportes",
       "license": "CC BY 2.0",
       "caption": "Outra vista do lago Gentofte Sø em julho de 2010. Fotografia contextual, não do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Lago Gentofte Sø (2010)",
+      "alt": "Lago com patos e uma igreja de tijolo vermelho na margem",
+      "capturedAt": "2010-07-04",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+      "attribution": "Hunter Desportes, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "facade": {
@@ -181,6 +226,60 @@
     "author": "PaigePhault",
     "license": "CC0 1.0",
     "caption": "Fotografia real do Gentofte Hotel, edifício que abriga o Jordnær, em junho de 2025. A imagem mostra o hotel, não o salão do restaurante.",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Gentofte Hotel, que abriga o Jordnær (2025)",
+    "alt": "Fachada amarela do Gentofte Hotel com letreiro, mastros de bandeira e escadaria",
+    "capturedAt": null,
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L05.json).",
+    "attribution": "PaigePhault, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://restaurantjordnaer.dk/kontakt",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Política de cancelamento não confirmada (Superb ilegível)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://restaurantjordnaer.dk/evening-menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A frase sobre serviços cobrados à parte não tinha fonte; trocada pelo que diz o cardápio."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://lex.dk/Restaurant_Jordn%C3%A6r",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Reforma do espaço e \"sem investidores\" sem fonte; retirados. Eric foi chef do Almanak por quase dois anos."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/jordn-r.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Três estrelas de 2026, prêmio da Den Danske Spiseguide e 12º no Best Chef 2023 com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://restaurantjordnaer.dk/evening-menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Os nove pratos estão no menu de 2026."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fotos do hotel que abriga o restaurante e do lago."
+    }
+  ]
 }
