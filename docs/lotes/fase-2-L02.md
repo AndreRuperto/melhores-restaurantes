@@ -66,3 +66,7 @@ Os dez perfis estão em modo estrito: `verificationStatus: partial`, data de rev
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [37d8b15](https://github.com/AndreRuperto/melhores-restaurantes/commit/37d8b155cd597ddc012de77717fc47c4771df3d8); Railway `1cbb3cc1-86c6-45ec-a33a-53ad060271f8` em SUCCESS. No domínio público, por acesso direto: Alchemist mostra o Intermission e o e-mail de reservas, sem imagens quebradas; The Chairman mostra Canberra (e não Sydney), o crédito de Almandine e o alerta sobre sites falsos; Kjolle mostra a Mesa 24/7 e o prato Vaca y Tarwi, sem o preço antigo de S/ 256; Kadeau traz a nota sobre Copenhague na capa e não fala mais em 24 lugares; Plénitude não cita mais os cinco toques e mostra telefone e e-mail. Sem erros de console.
