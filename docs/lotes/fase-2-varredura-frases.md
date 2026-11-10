@@ -70,3 +70,9 @@ Saíram as frases que instruem o leitor ("não deve ser tratada como…", "não 
 - `npm run check:profiles`: saída 0, 11 avisos editoriais (os mesmos de antes).
 - `npm run build`: concluído.
 - Formato mantido: `JSON.stringify(o, null, 2)` com CRLF e CRLF final. O script recusava qualquer arquivo que não estivesse nesse formato antes da troca.
+
+## Integração na main — 10/11/2026
+
+A branch `claude/varredura-frases-instrucao` (commit `1b12767`) foi integrada na main por merge, sem conflitos: nenhum dos 32 perfis alterados foi mexido pelo lote L10. Na conferência depois do merge, sobrou uma frase do mesmo tipo no Aponiente (piloto L1), "Disponibilidade não consultada em tempo real", que foi retirada. Validador com saída 0 e os mesmos 13 avisos; build com saída 0.
+
+Ressalva: no Cocina Hermanos Torres, a varredura tirou a marca "não confirmado" de cinco pratos. Eles continuam com a fonte citada no texto, e a ressalva segue registrada em `fieldReviews`.
