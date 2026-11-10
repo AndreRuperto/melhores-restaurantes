@@ -126,3 +126,7 @@ Nenhum perfil recebeu `verified`: há revisões não confirmadas e falta o aceit
 **Interface:** `alt` próprio nas imagens (capa, galeria, fachada e pratos), com a legenda como reserva; linhas de telefone (`tel:`) e e-mail (`mailto:`) nas informações práticas; o link do Den passa a se chamar “Ver instruções de reserva”, em vez de sugerir reserva online; nota com a data da conferência abaixo das informações práticas. Os perfis sem metadados não mudam (conferido no Gaggan).
 
 **Verificação:** check:profiles com saída 0 ([log](fase-2-evidencias/check-profiles-L01.txt)), com os mesmos 10 avisos, 5 perfis no contrato e 15 fotos com direito aprovado; build com saída 0; Den, Aponiente, Etxebarri e Gaggan conferidos no servidor local, sem erros de console.
+
+**Publicação do F2-04:** commit [93e8cee](https://github.com/AndreRuperto/melhores-restaurantes/commit/93e8ceeaff872eeb178025da82b0b9e6844df5b8); Railway `88489585-09b2-4813-872e-348bab16da30` em SUCCESS. No domínio público, o Den mostra o telefone com link `tel:`, “Ver instruções de reserva” e a nota de conferência; o Aponiente mostra telefone, e-mail, link de reservas e o `alt` novo da capa, sem imagens quebradas; o Gaggan, fora do piloto, segue sem a nota. Sem erros de console.
+
+**Pendente para homologar o piloto:** Firefox, Safari, zoom de 200% e leitor de tela; resolver os itens com fonte única ou divergente registrados em `fieldReviews`; nomear revisor e registrar o aceite de produto.
