@@ -72,3 +72,14 @@ As revisões de campo somam 58 registros: 39 confirmados, 13 com fonte única, 5
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [d50ba9c](https://github.com/AndreRuperto/melhores-restaurantes/commit/d50ba9c711b9cdda1384a8c9f549442e5118f024); Railway `f4121a19-9b28-448b-afdf-9b135fedb123` em SUCCESS. No domínio público, por acesso direto:
+
+- **Atelier Moessmer:** a 320 px a página tem 320 px de largura, com a correção do e-mail aplicada. Mostra os pratos do cardápio de outono e o prêmio do subchef, sem os pratos antigos.
+- **Onjium:** traz a legenda corrigida da capa, a CatchTable e a edição 2020 do Guia Michelin.
+- **Ru Yuan:** traz a abertura em 2023 e o 59º lugar de 2025, sem a frase "estreia em 10º".
+- **Bozar:** não cita mais vitela; mostra a poulette de Racan e a legenda corrigida do salão, sem imagens quebradas.
+
+Sem erros de console.
