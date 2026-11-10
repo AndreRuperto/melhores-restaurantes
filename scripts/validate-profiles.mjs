@@ -9,7 +9,105 @@ const errors = []
 const warnings = []
 const allFiles = readdirSync(dir).filter((file) => file.endsWith('.json'))
 const expected = new Set(restaurants.map((r) => `${r.slug}.json`))
-const summary = { profiles: 0, covers: 0, facades: 0, photoReferences: 0, featuredPlacePhotos: 0, galleries: 0, dishes: 0, dishesWithPhotos: 0, chefBios: 0, practical: 0 }
+const summary = { profiles: 0, covers: 0, facades: 0, photoReferences: 0, featuredPlacePhotos: 0, galleries: 0, dishes: 0, dishesWithPhotos: 0, chefBios: 0, practical: 0, reviewMeta: 0, photosWithRights: 0 }
+
+// Contrato de metadados da Fase 2 (plano, seções 4.3 e 4.4). Os campos são opcionais no
+// acervo; um perfil que declara verificationStatus passa a exigir o contrato completo.
+const today = new Date().toISOString().slice(0, 10)
+const ENUMS = {
+  verificationStatus: ['pending', 'partial', 'verified', 'needs-review'],
+  imageStatus: ['pending', 'licensed-real', 'historical-or-context', 'reference-only', 'none'],
+  reviewStatus: ['confirmed', 'divergent', 'single-source', 'unverified'],
+  reservationMode: ['online', 'phone', 'email', 'contact', 'unknown'],
+  kind: ['facade', 'interior', 'chef', 'dish', 'building', 'context'],
+  rightsStatus: ['pending', 'approved', 'rejected'],
+}
+const REAL_KINDS = new Set(['facade', 'interior', 'chef', 'dish'])
+const isDate = (v) => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v) && !Number.isNaN(Date.parse(`${v}T00:00:00Z`)) && new Date(`${v}T00:00:00Z`).toISOString().startsWith(v)
+const isPartialDate = (v) => typeof v === 'string' && (/^\d{4}$/.test(v) || /^\d{4}-\d{2}$/.test(v) || isDate(v))
+const isHttps = (v) => { try { return new URL(v).protocol === 'https:' } catch { return false } }
+const isText = (v) => typeof v === 'string' && v.trim().length > 0
+const checkDate = (v, label, push, { nullable = false } = {}) => {
+  if (v === undefined) return
+  if (v === null) { if (!nullable) push(`${label} não pode ser nulo`); return }
+  if (!isDate(v)) push(`${label} não é data ISO (AAAA-MM-DD): ${v}`)
+  else if (v > today) push(`${label} no futuro: ${v}`)
+}
+const checkEnum = (v, name, label, push) => {
+  if (v !== undefined && !ENUMS[name].includes(v)) push(`${label} fora do vocabulário (${ENUMS[name].join(', ')}): ${v}`)
+}
+
+function validateReviewMeta(p, file, photos, push, warn) {
+  const strict = p.verificationStatus !== undefined
+  const e = (msg) => push(`${msg}: ${file}`)
+  checkEnum(p.verificationStatus, 'verificationStatus', 'verificationStatus', e)
+  checkEnum(p.imageStatus, 'imageStatus', 'imageStatus', e)
+  checkDate(p.lastReviewedAt, 'lastReviewedAt', e, { nullable: true })
+
+  if (p.fieldReviews !== undefined) {
+    if (!Array.isArray(p.fieldReviews)) e('fieldReviews deve ser lista')
+    else p.fieldReviews.forEach((r, i) => {
+      const at = `fieldReviews[${i}]`
+      if (!isText(r?.field)) e(`${at} sem field`)
+      if (!isHttps(r?.sourceUrl)) e(`${at} sem sourceUrl HTTPS`)
+      checkDate(r?.checkedAt, `${at}.checkedAt`, e)
+      if (r?.checkedAt === undefined) e(`${at} sem checkedAt`)
+      checkEnum(r?.status, 'reviewStatus', `${at}.status`, e)
+      if (r?.status === undefined) e(`${at} sem status`)
+      if (r?.status && r.status !== 'confirmed' && !isText(r?.note)) e(`${at} com status ${r.status} exige nota`)
+    })
+  }
+
+  const x = p.practical || {}
+  checkEnum(x.reservationMode, 'reservationMode', 'practical.reservationMode', e)
+  if (x.phone !== undefined && x.phone !== null && !/^\+\d[\d\s()-]{5,}$/.test(x.phone)) e(`practical.phone fora do formato internacional (+código): ${x.phone}`)
+  if (x.email !== undefined && x.email !== null && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(x.email)) e(`practical.email inválido: ${x.email}`)
+  if (x.reservationMode === 'phone' && !x.phone) e('reservationMode phone exige practical.phone')
+  if (x.reservationMode === 'email' && !x.email) e('reservationMode email exige practical.email')
+  if (x.reservationMode === 'online' && !isHttps(x.reservationUrl)) e('reservationMode online exige reservationUrl HTTPS')
+  if (x.priceDetails !== undefined && x.priceDetails !== null) {
+    const d = x.priceDetails
+    if (!(d.amount === null || (typeof d.amount === 'number' && d.amount > 0))) e('priceDetails.amount deve ser número positivo ou null')
+    if (d.amount !== null && !/^[A-Z]{3}$/.test(d.currency || '')) e('priceDetails.currency deve ser código ISO 4217')
+    if (!isText(d.basis)) e('priceDetails sem basis')
+    if (!(d.taxesIncluded === null || typeof d.taxesIncluded === 'boolean')) e('priceDetails.taxesIncluded deve ser booleano ou null')
+    if (!isHttps(d.sourceUrl)) e('priceDetails sem sourceUrl HTTPS')
+    checkDate(d.checkedAt, 'priceDetails.checkedAt', e)
+    if (d.checkedAt === undefined) e('priceDetails sem checkedAt')
+  }
+
+  const counted = new Set()
+  for (const [i, photo] of photos.entries()) {
+    const at = `imagem ${i + 1} (${photo.page || photo.src})`
+    checkEnum(photo.kind, 'kind', `${at}.kind`, e)
+    checkEnum(photo.rightsStatus, 'rightsStatus', `${at}.rightsStatus`, e)
+    if (photo.rightsStatus === 'rejected') e(`${at} publicada com direito rejeitado`)
+    if (photo.rightsStatus === 'pending') warn(`Imagem publicada com direito pendente: ${file}`)
+    if (photo.capturedAt !== undefined && photo.capturedAt !== null && !isPartialDate(photo.capturedAt)) e(`${at}.capturedAt deve ser AAAA, AAAA-MM ou AAAA-MM-DD`)
+    checkDate(photo.verifiedAt, `${at}.verifiedAt`, e)
+    if (photo.licenseUrl !== undefined && !isHttps(photo.licenseUrl)) e(`${at}.licenseUrl deve ser HTTPS`)
+    if (photo.rightsStatus === 'approved') {
+      if (!counted.has(photo.page)) { counted.add(photo.page); summary.photosWithRights++ }
+      for (const k of ['licenseUrl', 'rightsEvidence', 'attribution', 'verifiedAt']) if (!photo[k]) e(`${at} aprovada sem ${k}`)
+    }
+    if (strict) for (const k of ['kind', 'subject', 'alt', 'rightsStatus']) if (!isText(photo[k])) e(`${at} sem ${k} (perfil com verificationStatus)`)
+  }
+
+  if (!strict) return
+  summary.reviewMeta++
+  for (const k of ['lastReviewedAt', 'imageStatus', 'fieldReviews']) if (p[k] === undefined) e(`perfil com verificationStatus sem ${k}`)
+  if (!x.reservationMode) e('perfil com verificationStatus sem practical.reservationMode')
+  const real = photos.some((ph) => REAL_KINDS.has(ph.kind) && ph.rightsStatus === 'approved')
+  if (p.imageStatus === 'licensed-real' && !real) e('imageStatus licensed-real sem foto real do estabelecimento com direito aprovado')
+  if (p.imageStatus === 'reference-only' && (photos.length || !p.photoReference?.url)) e('imageStatus reference-only exige photoReference e nenhuma foto incorporada')
+  if (p.imageStatus === 'none' && photos.length) e('imageStatus none com fotos incorporadas')
+  if (p.imageStatus === 'historical-or-context' && real) warn(`imageStatus historical-or-context com foto real aprovada: ${file}`)
+  if (p.verificationStatus === 'verified') {
+    if (!p.lastReviewedAt) e('verified exige lastReviewedAt')
+    if (!p.fieldReviews?.length || p.fieldReviews.some((r) => r.status !== 'confirmed')) e('verified exige todas as fieldReviews confirmadas')
+    if (p.imageStatus === 'pending' || photos.some((ph) => ph.rightsStatus !== 'approved')) e('verified exige imagens com direito aprovado')
+  }
+}
 
 for (const r of restaurants) {
   const file = `${r.slug}.json`
@@ -42,6 +140,7 @@ for (const r of restaurants) {
       errors.push(`Imagem sem URL, autoria, licença ou legenda: ${file}`)
     }
   }
+  validateReviewMeta(p, file, photos, (m) => errors.push(m), (m) => warnings.push(m))
   if (p.hero?.src) summary.covers++
   if (p.facade?.src) summary.facades++
   if (p.photoReference?.url) {

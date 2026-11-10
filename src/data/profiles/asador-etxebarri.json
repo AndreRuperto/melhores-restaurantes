@@ -1,5 +1,8 @@
 {
   "slug": "asador-etxebarri",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Num vilarejo de montanha entre Bilbao e San Sebastián, o cozinheiro autodidata Bittor Arguinzoniz passa praticamente tudo o que serve pela brasa, em grelhas que ele mesmo projetou. Aberto em 1990 numa casa de pedra diante da praça de Axpe, o Asador Etxebarri foi eleito o melhor restaurante do mundo em 2026.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Axpe_from_Mendigoikoa.jpg/1920px-Axpe_from_Mendigoikoa.jpg",
@@ -7,7 +10,17 @@
     "author": "PaU1570",
     "license": "CC BY-SA 4.0",
     "caption": "Vista geral de Axpe-Marzana, bairro de Atxondo, cercado de pastos e montanhas.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Axpe-Marzana, bairro de Atxondo onde fica o restaurante",
+    "alt": "Vale verde com casas de telhado vermelho espalhadas entre pastos e montanhas",
+    "capturedAt": "2023-06-28",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+    "attribution": "PaU1570, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 1990,
   "founders": [
@@ -39,7 +52,17 @@
         "author": "Ryan Snyder",
         "license": "CC BY 2.0",
         "caption": "Bisteca de vaca grelhada e fatiada, servida no Etxebarri em julho de 2014.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Bisteca de vaca grelhada servida no Etxebarri, 2014",
+        "alt": "Bisteca com osso tostada na brasa, fatiada sobre prato branco",
+        "capturedAt": "2014-07-13",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+        "attribution": "Ryan Snyder, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -51,7 +74,17 @@
         "author": "Ryan Snyder",
         "license": "CC BY 2.0",
         "caption": "Camarões de Palamós grelhados, servidos no Etxebarri em julho de 2014.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Camarões de Palamós servidos no Etxebarri, 2014",
+        "alt": "Camarões vermelhos grelhados inteiros, servidos num prato",
+        "capturedAt": "2014-07-13",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+        "attribution": "Ryan Snyder, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -63,7 +96,17 @@
         "author": "Krista",
         "license": "CC BY 2.0",
         "caption": "Tigela de angulas servida no Asador Etxebarri, em abril de 2011.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Angulas servidas no Etxebarri, 2011",
+        "alt": "Tigela com filhotes de enguia",
+        "capturedAt": "2011-04-29",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+        "attribution": "Krista, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -75,7 +118,17 @@
         "author": "Ryan Snyder",
         "license": "CC BY 2.0",
         "caption": "Pepino-do-mar com vagem, servido no Etxebarri em julho de 2014.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Pepino-do-mar com vagem servido no Etxebarri, 2014",
+        "alt": "Pedaços de pepino-do-mar grelhado sobre vagens",
+        "capturedAt": "2014-07-13",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+        "attribution": "Ryan Snyder, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -87,7 +140,17 @@
         "author": "Ryan Snyder",
         "license": "CC BY 2.0",
         "caption": "Sorvete de leite defumado com suco de beterraba, servido no Etxebarri em julho de 2014.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Sorvete de leite defumado com suco de beterraba servido no Etxebarri, 2014",
+        "alt": "Sorvete branco sobre poça de suco vermelho de beterraba",
+        "capturedAt": "2014-07-13",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+        "attribution": "Ryan Snyder, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -165,7 +228,18 @@
     "price": "Menu-degustação (ou à la carte, servido para toda a mesa) a 300 euros por pessoa, com IVA incluído e sem bebidas; pagamento antecipado do valor total da reserva (informação de 2026, site oficial). Não há menu vegetariano ou vegano.",
     "reservation": "Muito difícil. As reservas são feitas por solicitação no site oficial, para grupos de 2 a 6 pessoas; a confirmação chega por e-mail em até 7 dias, e sem resposta nesse prazo o pedido vai para a lista de espera. O restaurante recebe cerca de mil e-mails de pedido por dia. Abre só para almoço, fecha às segundas e terças, de 24 de dezembro a 10 de janeiro e durante todo o mês de agosto. Cancelamentos com reembolso exigem aviso de pelo menos 5 dias.",
     "website": "https://www.asadoretxebarri.com/",
-    "address": "Plaza San Juan, 1, 48291 Axpe (Atxondo), Bizkaia, Espanha"
+    "address": "Plaza San Juan, 1, 48291 Axpe (Atxondo), Bizkaia, Espanha",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.asadoretxebarri.com/",
+    "priceDetails": {
+      "amount": 300,
+      "currency": "EUR",
+      "basis": "Menu-degustação ou à la carte para toda a mesa, por pessoa, sem bebidas",
+      "taxesIncluded": true,
+      "sourceUrl": "https://www.asadoretxebarri.com/",
+      "checkedAt": "2026-11-10",
+      "note": "Pagamento antecipado do valor total da reserva."
+    }
   },
   "gallery": [
     {
@@ -174,7 +248,17 @@
       "author": "Winniepix",
       "license": "CC BY 2.0",
       "caption": "A porta de madeira do Asador Etxebarri, com o nome da casa na parede de pedra, em setembro de 2015.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Entrada do Asador Etxebarri",
+      "alt": "Porta de madeira em parede de pedra com o nome etxebarri em letras de metal",
+      "capturedAt": "2015-09-27",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+      "attribution": "Winniepix, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Etxebarri%2C_Axpe%2C_Spain_%2814651703331%29.jpg/1920px-Etxebarri%2C_Axpe%2C_Spain_%2814651703331%29.jpg",
@@ -182,7 +266,17 @@
       "author": "Ryan Snyder",
       "license": "CC BY 2.0",
       "caption": "Praça de Axpe, com um chafariz de pedra e as montanhas ao fundo, em julho de 2014.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Praça de Axpe",
+      "alt": "Chafariz de pedra numa praça, com montanha rochosa ao fundo",
+      "capturedAt": "2014-07-13",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+      "attribution": "Ryan Snyder, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Atxondo_crester%C3%ADa_Anboto_Alluitz.jpg/1920px-Atxondo_crester%C3%ADa_Anboto_Alluitz.jpg",
@@ -190,7 +284,17 @@
       "author": "Txo",
       "license": "CC BY-SA 4.0",
       "caption": "A crista de calcário entre o Anboto e o Alluitz, vista do colo de Larrano, em Atxondo.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Crista do Anboto e do Alluitz, em Atxondo",
+      "alt": "Crista de montanha calcária acima de encostas cobertas de floresta",
+      "capturedAt": "2021-04-14",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+      "attribution": "Txo, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -219,6 +323,63 @@
     "author": "Winniepix",
     "license": "CC BY 2.0",
     "caption": "A casa de pedra do Asador Etxebarri, vista do outro lado da praça de Axpe, em junho de 2015.",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Casa de pedra do Asador Etxebarri na praça de Axpe",
+    "alt": "Casa de pedra e reboco branco com sacada florida, vista entre árvores do outro lado da praça",
+    "capturedAt": "2015-06-06",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+    "attribution": "Winniepix, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.asadoretxebarri.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.asadoretxebarri.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://www.the50.com/stories/News/asador-etxebarri-atxondo-the-worlds-best-restaurant-2026.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A Wikipédia em espanhol indica 1991; prevalece 1990, da página oficial do 50 Best."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.restaurantonline.co.uk/Article/2015/06/01/The-World-s-50-Best-Restaurants-list-2015",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Posições de 2016 a 2022 conferidas em listas publicadas no ano; 2022 com fonte única."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/stories/News/victor-arguinzoniz-chefs-choice-award.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Asador_Etxebarri_(Spanish_restaurant)",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/stories/News/asador-etxebarri-atxondo-the-worlds-best-restaurant-2026.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Compra do edifício em 1989 e idade da casa não reconferidas."
+    }
+  ]
 }

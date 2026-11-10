@@ -93,7 +93,7 @@ export default function Restaurant() {
         {profile?.hero?.src && (
           <figure className="fade mt-14 sm:-mx-8">
             <div className="aspect-[4/3] overflow-hidden border border-rule bg-paper-2 sm:aspect-[16/8]">
-              <img src={profile.hero.src} alt={profile.hero.caption || r.name} className="photo h-full w-full object-cover" />
+              <img src={profile.hero.src} alt={profile.hero.alt || profile.hero.caption || r.name} className="photo h-full w-full object-cover" />
             </div>
             <figcaption className="mt-2 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-0.5 px-0 sm:px-8">
               <span className="flex flex-col gap-1">

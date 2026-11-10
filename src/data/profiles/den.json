@@ -92,6 +92,9 @@
     "https://www.theworlds50best.com/stories/News/zaiyu-hasegawa-chefs-who-inspired-my-career.html"
   ],
   "slug": "den",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "reference-only",
   "rank": 91,
   "founded": 2007,
   "founders": [
@@ -102,7 +105,18 @@
     "address": "Architect House Hall JIA, 2-3-18 Jingumae, Shibuya-ku, Tóquio 150-0001, Japão",
     "reservationUrl": "https://www.jimbochoden.com/en/reserve/",
     "reservation": "Reservas exclusivamente por telefone, +81 3-6455-5433, de segunda a sábado entre 12h e 17h no horário de Tóquio; a página oficial de reservas informa que a casa não aceita reservas online nem autoriza plataformas, agências ou intermediários. Jantar de segunda a sábado a partir das 18h; fecha aos domingos e em períodos anunciados no site. Mudanças ou cancelamentos devem ser comunicados até dois dias antes; cancelamentos ou reduções no próprio dia são cobrados pelo valor integral do menu. Para reservas de segunda-feira, ligar até o sábado anterior. Informação conferida no site oficial em novembro de 2026.",
-    "price": "Menu omakase sazonal; preço exato atualizado não confirmado em página oficial pública. Solicitar a tarifa ao telefone no momento da reserva."
+    "price": "Menu omakase sazonal; preço exato atualizado não confirmado em página oficial pública. Solicitar a tarifa ao telefone no momento da reserva.",
+    "reservationMode": "phone",
+    "phone": "+81 3-6455-5433",
+    "priceDetails": {
+      "amount": null,
+      "currency": "JPY",
+      "basis": "Menu omakase sazonal",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.jimbochoden.com/en/reserve/",
+      "checkedAt": "2026-11-10",
+      "note": "O site oficial não publica o preço; informado por telefone."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -117,5 +131,34 @@
         "note": "Apresentações oficiais de monaka, Dentucky e salada sazonal, com fotografias do restaurante."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.jimbochoden.com/en/reserve/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.jimbochoden.com/en/reserve/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Preço não publicado na fonte oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/asia/en/the-list/Den.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Primeira estrela em 2011 e duas estrelas atuais vêm de fontes secundárias; a página do Guia Michelin não carregou."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://www.jimbochoden.com/en/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto incorporada; apenas referência externa."
+    }
+  ]
 }

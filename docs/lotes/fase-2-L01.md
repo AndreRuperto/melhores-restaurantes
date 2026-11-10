@@ -102,3 +102,27 @@ Teste no domínio público, por acesso direto a cada rota:
 | Asador Etxebarri | Categoria do Premio Nacional; biografia ajustada; zero imagens quebradas | Aprovado |
 
 Sem erros de console. O teste confirma o conteúdo publicado, não a homologação do lote: F2-04, a matriz de navegadores e o aceite de produto continuam pendentes.
+
+## F2-04 — contrato de metadados no piloto (10/11/2026)
+
+**Validador** (`scripts/validate-profiles.mjs`): os campos das seções 4.3 e 4.4 do plano passam a ser conferidos sempre que existem, em qualquer perfil. Um perfil que declara `verificationStatus` entra no modo estrito e precisa ter `lastReviewedAt`, `imageStatus`, `fieldReviews` e `practical.reservationMode`, além de `kind`, `subject`, `alt` e `rightsStatus` em todas as imagens. Os outros 95 perfis seguem válidos sem os campos novos.
+
+Regras principais: datas ISO reais e não futuras; vocabulários fechados para os status; `fieldReviews` com fonte HTTPS, data e nota obrigatória quando o status não é `confirmed`; telefone em formato internacional e e-mail válido; `reservationMode` coerente com o canal (`phone` exige telefone, `online` exige link HTTPS); `priceDetails` com valor positivo ou `null`, moeda ISO 4217, base, impostos booleano ou `null`, fonte e data; imagem `rejected` bloqueia, `pending` gera aviso, `approved` exige licença, evidência, atribuição e data; `licensed-real` exige foto real do estabelecimento aprovada; `reference-only` exige referência externa e nenhuma foto incorporada; `verified` exige todas as revisões confirmadas e todas as imagens aprovadas.
+
+**Teste negativo:** um perfil adulterado de propósito com 14 violações (data inexistente, data futura, fonte HTTP, status sem nota, e-mail inválido, modo telefone sem telefone, seis falhas em `priceDetails`, `licensed-real` sem foto e `verified` com revisão divergente) gerou exatamente os 14 erros esperados. O arquivo foi restaurado sem diferença.
+
+**Dados do piloto:**
+
+| Perfil | verificationStatus | imageStatus | Canal | Revisões de campo | Imagens com direito aprovado |
+| --- | --- | --- | --- | --- | ---: |
+| Asador Etxebarri | partial | licensed-real | online | 7 (1 com fonte única) | 10 |
+| Steirereck | partial | licensed-real | online + telefone | 5 (1 com fonte única) | 4 |
+| Den | partial | reference-only | phone | 4 (1 com fonte única, 1 não verificada) | 0 |
+| Khufu’s | partial | reference-only | contact | 5 (1 divergente) | 0 |
+| Aponiente | partial | licensed-real | online + telefone + e-mail | 6 (1 com fonte única) | 1 arquivo (capa e fachada) |
+
+Nenhum perfil recebeu `verified`: há revisões não confirmadas e falta o aceite de produto. A aprovação de direito das 15 fotos se baseia na licença aberta conferida no Commons; o revisor humano continua a designar. Os campos `width`, `height`, `bytes`, `format`, `originalSrc` e `localPath` ficam para a etapa de derivados locais (2.2), porque hoje as imagens são servidas pelo próprio Commons.
+
+**Interface:** `alt` próprio nas imagens (capa, galeria, fachada e pratos), com a legenda como reserva; linhas de telefone (`tel:`) e e-mail (`mailto:`) nas informações práticas; o link do Den passa a se chamar “Ver instruções de reserva”, em vez de sugerir reserva online; nota com a data da conferência abaixo das informações práticas. Os perfis sem metadados não mudam (conferido no Gaggan).
+
+**Verificação:** check:profiles com saída 0 ([log](fase-2-evidencias/check-profiles-L01.txt)), com os mesmos 10 avisos, 5 perfis no contrato e 15 fotos com direito aprovado; build com saída 0; Den, Aponiente, Etxebarri e Gaggan conferidos no servidor local, sem erros de console.

@@ -118,7 +118,18 @@
     "address": "Am Heumarkt 2a, Stadtpark, 1030 Viena, Áustria",
     "price": "No cardápio oficial de jantar consultado em novembro de 2026: menu de 6 etapas por €255 e de 7 etapas por €275, sem bebidas; harmonização de vinhos de €120 a €135 e harmonização sem álcool de €75 a €88. O menu degustação é servido para toda a mesa, alterações podem ter acréscimo e o couvert custa €9,50. Pratos à la carte entre €56 e €79. Os valores mudam com o cardápio sazonal; confirmar na reserva.",
     "reservation": "Reservas pelo site oficial ou pelo telefone +43 (1) 713 31 68; para mais de seis pessoas, a equipe atende pedidos por escrito ou telefone de segunda a sexta, das 8h às 18h. Funciona de segunda a sexta: almoço das 11h30 às 16h (último horário de reserva às 12h45) e jantar a partir das 18h30 (último horário de reserva às 21h). Fecha aos fins de semana e feriados nacionais. Crianças a partir de 6 anos são bem-vindas. Confirmar requisitos e política de cancelamento no momento da reserva.",
-    "reservationUrl": "https://www.steirereck.at/steirereck-tisch.html"
+    "reservationUrl": "https://www.steirereck.at/steirereck-tisch.html",
+    "reservationMode": "online",
+    "phone": "+43 1 713 31 68",
+    "priceDetails": {
+      "amount": 255,
+      "currency": "EUR",
+      "basis": "Menu de 6 etapas no jantar, por pessoa, sem bebidas; 7 etapas por €275",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.steirereck.at/upload/speisekarten/evening_at_steirereck.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "O cardápio não informa se o valor inclui impostos; couvert de €9,50."
+    }
   },
   "sources": [
     "https://www.steirereck.at/steirereck.en.html",
@@ -141,6 +152,9 @@
     "https://guide.michelin.com/en/article/michelin-guide-ceremony/steirereck-in-vienna-is-austria-s-new-3-michelin-star-restaurant"
   ],
   "slug": "steirereck",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 30,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg?width=1200",
@@ -148,7 +162,17 @@
     "author": "Diego Delso",
     "license": "CC BY-SA 4.0",
     "caption": "Exterior do restaurante Steirereck, no Stadtpark de Viena, em janeiro de 2020",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Edifício da antiga Meierei no Stadtpark, que abriga o Steirereck",
+    "alt": "Casarão de telhado de ardósia com pavilhão envidraçado iluminado no térreo, ao entardecer",
+    "capturedAt": "2020-01-31",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+    "attribution": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -157,7 +181,17 @@
       "author": "Gugerell (Peter Gugerell)",
       "license": "CC0 1.0",
       "caption": "Outro ângulo da fachada do Steirereck, fotografado em 2021.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Pavilhões espelhados do Steirereck no Stadtpark",
+      "alt": "Fachada de aço espelhado refletindo as árvores do parque",
+      "capturedAt": "2021-06-20",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+      "attribution": "Gugerell (Peter Gugerell), CC0 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/201510_Steirereck_am_Abend.jpg?width=960",
@@ -165,7 +199,17 @@
       "author": "HatschiKa",
       "license": "CC BY-SA 4.0",
       "caption": "Edifício da antiga Meierei no Stadtpark ao anoitecer, em outubro de 2015; fotografia do local do Steirereck.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "building",
+      "subject": "Edifício da antiga Meierei no Stadtpark, que abriga o Steirereck",
+      "alt": "Casarão com pavilhão de vidro iluminado sob céu azul escuro ao anoitecer",
+      "capturedAt": "2015-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+      "attribution": "HatschiKa, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "founded": 1970,
@@ -179,6 +223,49 @@
     "author": "Gugerell (Peter Gugerell)",
     "license": "CC0 1.0",
     "caption": "Vista externa do Steirereck, no Stadtpark de Viena, em junho de 2021.",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Pavilhões espelhados do Steirereck no Stadtpark",
+    "alt": "Volumes revestidos de aço espelhado entre árvores, com escada de acesso",
+    "capturedAt": "2021-06-20",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+    "attribution": "Gugerell (Peter Gugerell), CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.steirereck.at/steirereck-tisch.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.steirereck.at/upload/speisekarten/evening_at_steirereck.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.steirereck.at/upload/speisekarten/evening_at_steirereck.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://guide.michelin.com/en/article/michelin-guide-ceremony/steirereck-in-vienna-is-austria-s-new-3-michelin-star-restaurant",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Toques do Gault&Millau de 1983, 1986 e 1992 com fonte regional única; 33º lugar em 2025 deduzido da reportagem de 2026."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Restaurant_Steirereck",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

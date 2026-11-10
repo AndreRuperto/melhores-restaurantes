@@ -60,6 +60,9 @@
     "https://commons.wikimedia.org/wiki/File:Restaurante_Aponiente_-_IMG_20220703_112311.jpg"
   ],
   "slug": "aponiente",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 100,
   "founded": 2007,
   "hero": {
@@ -68,7 +71,17 @@
     "author": "El Pantera",
     "license": "CC BY-SA 4.0",
     "caption": "Restaurante Aponiente, no antigo moinho de marés em El Puerto de Santa María, em 2022",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Sede do Aponiente no Molino de Mareas El Caño",
+    "alt": "Passarela de madeira entre muros de aço oxidado levando ao edifício branco do antigo moinho de marés",
+    "capturedAt": "2022-07-03",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+    "attribution": "El Pantera, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founders": [
     "Ángel León"
@@ -115,7 +128,19 @@
     "website": "https://www.aponiente.com/",
     "reservationUrl": "https://www.aponiente.com/reservas/",
     "reservation": "Reservas pela página oficial de reservas em aponiente.com, pelos telefones +34 956 851 870 e +34 606 225 859 ou pelo e-mail reservas@aponiente.com; as datas são abertas aos poucos e há lista de espera. Segundo o guia oficial da temporada 2027, quatro dias antes da visita é feita uma pré-autorização de €300 por pessoa no cartão, liberada na chegada; cancelamentos nas 72 horas anteriores ou não comparecimento convertem esse valor em penalidade, e reduções de pessoas não são aceitas dentro desse prazo. Grupos recebem condições específicas por e-mail. Alergias e restrições devem ser informadas com pelo menos 48 horas de antecedência, sem garantia de adaptação; não há menu vegetariano. A temporada costuma ir de meados de março ao fim de outubro ou início de novembro, com almoço e jantar. Disponibilidade não consultada em tempo real.",
-    "price": "Temporada 2026: menu degustação a €400 por pessoa, IVA incluído, segundo o cardápio oficial publicado em junho de 2026. Harmonizações opcionais de €180 (NoLo, sem álcool ou com baixo teor alcoólico) a €350; menu com experiência de bioluminescência e arroz de plâncton a €550, mediante reserva prévia. O preço da temporada 2027 ainda não havia sido divulgado em novembro de 2026; confirmar no canal oficial."
+    "price": "Temporada 2026: menu degustação a €400 por pessoa, IVA incluído, segundo o cardápio oficial publicado em junho de 2026. Harmonizações opcionais de €180 (NoLo, sem álcool ou com baixo teor alcoólico) a €350; menu com experiência de bioluminescência e arroz de plâncton a €550, mediante reserva prévia. O preço da temporada 2027 ainda não havia sido divulgado em novembro de 2026; confirmar no canal oficial.",
+    "reservationMode": "online",
+    "phone": "+34 606 225 859",
+    "email": "reservas@aponiente.com",
+    "priceDetails": {
+      "amount": 400,
+      "currency": "EUR",
+      "basis": "Menu degustação da temporada 2026, por pessoa, sem harmonização",
+      "taxesIncluded": true,
+      "sourceUrl": "https://www.aponiente.com/wp-content/uploads/2026/06/APONIENTE-MENU-2026.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Preço da temporada 2027 ainda não divulgado."
+    }
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurante_Aponiente_-_IMG_20220703_112311.jpg?width=960",
@@ -123,7 +148,17 @@
     "author": "El Pantera",
     "license": "CC BY-SA 4.0",
     "caption": "Fotografia real do exterior do Aponiente no Molino de Mareas El Caño, em El Puerto de Santa María, registrada em julho de 2022, com crédito a El Pantera e licença CC BY-SA 4.0.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Sede do Aponiente no Molino de Mareas El Caño",
+    "alt": "Passarela de madeira entre muros de aço oxidado levando ao edifício branco do antigo moinho de marés",
+    "capturedAt": "2022-07-03",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L01.json).",
+    "attribution": "El Pantera, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -138,5 +173,45 @@
         "note": "Reportagem sobre o percurso na marisma e a pesquisa de 2026, com fotos jornalísticas mantidas na publicação."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.aponiente.com/wp-content/uploads/2026/11/FAQ-2027.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.aponiente.com/wp-content/uploads/2026/06/APONIENTE-MENU-2026.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://windpress.info/es/press-release/1064541/aponiente-2026-ngel-len-se-sumerge-en-la-marisma-y-transforma-la-experiencia-gastronmica-mateo-and-co",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos de 2026 vêm do comunicado de imprensa; o cardápio oficial publicado traz só preços."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://guide.michelin.com/es/es/articulo/people/estrellas-del-mar",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Outras fontes citam 2005; prevalece 2007, do Guia Michelin."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://guide.michelin.com/es/es/articulo/michelin-guide-ceremony/todos-los-restaurantes-con-estrellas-michelin-en-espana-2026",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Restaurante_Aponiente_-_IMG_20220703_112311.jpg",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

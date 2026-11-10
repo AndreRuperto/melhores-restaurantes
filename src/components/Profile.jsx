@@ -40,7 +40,7 @@ export function Photo({ photo, className = '', ratio = 'aspect-[4/3]', caption =
       <div className={`${ratio} overflow-hidden border border-rule bg-paper-2`}>
         <img
           src={sized(photo.src, 960)}
-          alt={photo.caption || ''}
+          alt={photo.alt || photo.caption || ''}
           loading={eager ? 'eager' : 'lazy'}
           decoding="async"
           className="photo h-full w-full object-cover"
@@ -236,6 +236,25 @@ export function Facade({ p }) {
   )
 }
 
+const MONTHS = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
+// data ISO (AAAA-MM-DD) por extenso, sem passar por Date para não deslocar o dia pelo fuso
+const longDate = (iso) => {
+  const [y, m, d] = (iso || '').split('-').map(Number)
+  return y && m && d ? `${d} de ${MONTHS[m - 1]} de ${y}` : null
+}
+
+// Rótulo do link conforme o canal: quem só reserva por telefone não ganha botão de "reservar online".
+const reservationLinkLabel = (mode) => (mode === 'phone' ? 'Ver instruções de reserva ↗' : 'Abrir página de reservas ↗')
+
+function Row({ label, children }) {
+  return (
+    <div className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
+      <dt className="smallcaps pt-1 text-wine">{label}</dt>
+      <dd>{children}</dd>
+    </div>
+  )
+}
+
 export function Practical({ p }) {
   const x = p.practical || {}
   const rows = [
@@ -244,6 +263,7 @@ export function Practical({ p }) {
     ['Endereço', x.address],
   ].filter(([, v]) => v)
   if (!rows.length && !x.website) return null
+  const reviewed = longDate(p.lastReviewedAt)
   return (
     <section className="pt-20">
       <Kicker kicker="Na prática" title="Antes de ir" center />
@@ -254,23 +274,32 @@ export function Practical({ p }) {
             <dd className="leading-relaxed text-ink-2">{v}</dd>
           </div>
         ))}
+        {x.phone && (
+          <Row label="Telefone">
+            <a href={`tel:${x.phone.replace(/[^\d+]/g, '')}`} className="link-u text-ink lnum">{x.phone}</a>
+          </Row>
+        )}
+        {x.email && (
+          <Row label="E-mail">
+            <a href={`mailto:${x.email}`} className="link-u text-ink">{x.email}</a>
+          </Row>
+        )}
         {x.reservationUrl && (
-          <div className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
-            <dt className="smallcaps pt-1 text-wine">Reservar</dt>
-            <dd>
-              <a href={x.reservationUrl} target="_blank" rel="noreferrer" className="link-u text-ink">Abrir página de reservas ↗</a>
-            </dd>
-          </div>
+          <Row label="Reservar">
+            <a href={x.reservationUrl} target="_blank" rel="noreferrer" className="link-u text-ink">{reservationLinkLabel(x.reservationMode)}</a>
+          </Row>
         )}
         {x.website && (
-          <div className="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
-            <dt className="smallcaps pt-1 text-wine">Site</dt>
-            <dd>
-              <a href={x.website} target="_blank" rel="noreferrer" className="link-u text-ink">{host(x.website)} ↗</a>
-            </dd>
-          </div>
+          <Row label="Site">
+            <a href={x.website} target="_blank" rel="noreferrer" className="link-u text-ink">{host(x.website)} ↗</a>
+          </Row>
         )}
       </dl>
+      {reviewed && (
+        <p className="mx-auto mt-4 max-w-3xl text-center text-sm italic text-muted">
+          Informações conferidas nas fontes oficiais em {reviewed}. Preços, horários e regras de reserva podem mudar; confirme com o restaurante.
+        </p>
+      )}
     </section>
   )
 }

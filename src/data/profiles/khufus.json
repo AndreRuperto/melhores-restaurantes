@@ -56,6 +56,9 @@
     "https://www.bbcgoodfoodme.com/news/menas-50-best-restaurants-2024-list-is-out/"
   ],
   "slug": "khufus",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "reference-only",
   "rank": 97,
   "founded": 2022,
   "founders": [
@@ -99,7 +102,17 @@
     "website": "https://khufus.com/",
     "reservationUrl": "https://khufus.com/reservations/",
     "reservation": "Reservas recomendadas pela página oficial; pedidos e dúvidas são feitos pelo formulário de contato do site. Visitantes sem reserva são aceitos quando há mesas, sem garantia de lugar. O acesso é feito somente pela entrada do portão de Fayoum (Fayoum Gate) do complexo das pirâmides, e cada cliente precisa comprar o ingresso do planalto de Gizé na bilheteria ou antecipadamente online; um ônibus interno leva do sítio arqueológico ao restaurante. Há opções vegetarianas no cardápio; outras alergias ou restrições devem ser informadas com antecedência, e os pratos não podem ser preparados sem alho ou cebola. Não confundir com o Khufu’s Bistro, outra casa do grupo, com regras e horários próprios. Informação conferida no site oficial em novembro de 2026.",
-    "price": "Site oficial em novembro de 2026: gasto médio de café da manhã por volta de EGP 1.500++ por pessoa; menu composto de almoço a partir de EGP 1.950++ por pessoa. Impostos e taxa de serviço não incluídos. Preço e eventual ingresso no complexo devem ser confirmados separadamente."
+    "price": "Site oficial em novembro de 2026: gasto médio de café da manhã por volta de EGP 1.500++ por pessoa; menu composto de almoço a partir de EGP 1.950++ por pessoa. Impostos e taxa de serviço não incluídos. Preço e eventual ingresso no complexo devem ser confirmados separadamente.",
+    "reservationMode": "contact",
+    "priceDetails": {
+      "amount": 1950,
+      "currency": "EGP",
+      "basis": "Menu composto de almoço, a partir de, por pessoa",
+      "taxesIncluded": false,
+      "sourceUrl": "https://khufus.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "note": "Impostos e taxa de serviço à parte (++); ingresso do planalto de Gizé não incluído."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -114,5 +127,39 @@
         "note": "Fotografias editoriais e informações sobre o chef e os prêmios, mantidas na fonte original."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://khufus.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://khufus.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-best-restaurant-in-mena-2026-khufus-egypt.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/stories/News/the-best-restaurant-in-mena-2026-khufus-egypt.html",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Páginas do 50 Best datam o título do Top Chef Middle East de 2017 ou de 2018."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://khufus.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto incorporada; apenas referência externa."
+    }
+  ]
 }

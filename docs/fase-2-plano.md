@@ -415,7 +415,8 @@ Relatório: [fase-2-L01.md](lotes/fase-2-L01.md). Inventários atualizados para 
 | 2.2 | 16 usos e 15 arquivos únicos do piloto com autor, licença e data iguais aos do Commons, HTTP 200 e sujeito conferido visualmente | Capa de contexto do Etxebarri e arquivo repetido no Aponiente (P2); metadados novos por imagem |
 | 2.4 | Reservas e preços dos cinco perfis conferidos nos sites oficiais; links de reserva do Den e do Aponiente corrigidos; pratos do Steirereck trocados pelos do cardápio vigente; regra de acesso do Khufu’s acrescentada; duas afirmações sem fonte retiradas do Aponiente. Prêmios e rankings dos cinco conferidos; quatro prêmios ausentes acrescentados e duas imprecisões de biografia corrigidas | Três itens com fonte única (estrela de 2011 do Den, toques Gault&Millau do Steirereck, estrela verde do Aponiente) |
 | 2.3 | 25 casos de layout sem overflow (cinco perfis, temas claro e escuro); foco visível nos 45 elementos percorridos por teclado no Aponiente | 1024 px, Firefox, Safari, zoom 200% e leitor de tela |
-| 2.6 | check:profiles e build com saída 0 após as correções; renderização local conferida | Metadados F2-04, deploy e teste público do piloto |
+| F2-04 | Contrato de metadados validado em modo estrito nos cinco perfis; 15 fotos com direito aprovado; teste negativo com 14 violações detectadas; telefone, e-mail e data de conferência renderizados | Campos de derivados locais (dimensões e bytes) para a etapa 2.2; revisor humano |
+| 2.6 | check:profiles e build com saída 0; correções do piloto publicadas e conferidas no domínio público (deploy 2cf4c1e4) | Publicação do F2-04, matriz de navegadores e aceite de produto |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
 
