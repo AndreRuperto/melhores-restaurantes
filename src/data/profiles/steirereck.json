@@ -3,14 +3,14 @@
   "history": [
     "O Steirereck nasceu em 1º de janeiro de 1970, quando Heinz e Margarethe Reitbauer abriram um restaurante no terceiro distrito de Viena. No início, serviam pratos da Estíria a preços populares, como sopa de legumes e o bolinho doce germknödel. A casa foi ganhando ambição gastronômica: recebeu um toque do guia Gault&Millau em 1983, dois em 1986 e quatro em 1992.",
     "A segunda geração deu novos rumos ao negócio. Heinz Reitbauer, filho dos fundadores, estudou hotelaria na Baviera e passou por cozinhas austríacas e europeias, incluindo o trabalho com Alain Chapel na França e Anton Mosimann em Londres. Em 1996, participou da abertura da pousada e restaurante Steirereck am Pogusch, na Estíria. A partir de 2001, ele e Birgit Reitbauer assumiram a operação principal em Viena.",
-    "Em 2005, o restaurante mudou-se da Rasumofskygasse para uma construção do início do século XX no Stadtpark, antiga leiteria de uso público conhecida como Meierei. Uma intervenção arquitetônica entre 2013 e 2014 acrescentou volumes envidraçados com grandes painéis que se abrem para o jardim no tempo quente. O contraste entre o edifício histórico e os módulos contemporâneos tornou-se parte da identidade visual da casa.",
+    "Em 2005, o restaurante mudou-se da Rasumofskygasse para uma construção do início do século XX no Stadtpark, antiga leiteria de uso público conhecida como Meierei. Uma intervenção arquitetônica entre 2013 e 2014 acrescentou volumes revestidos de aço espelhado e vidro, com grandes painéis que se abrem para o jardim no tempo quente. O contraste entre o edifício histórico e os módulos contemporâneos tornou-se parte da identidade visual da casa.",
     "Enquanto Heinz define o repertório e a pesquisa gastronômica, Birgit lidera a hospitalidade e o salão. A cozinha trabalha com produtores de toda a Áustria e com a fazenda da família em Pogusch. Em 2025, o Steirereck conquistou sua terceira estrela Michelin; em março de 2026 manteve as três estrelas. Na lista mundial The 50 Best ficou em 33º em 2025 e subiu para 30º em novembro de 2026."
   ],
   "cuisine": {
     "style": "Alta cozinha austríaca contemporânea, produtos raros e pesquisa agrícola",
     "paragraphs": [
       "A cozinha do Steirereck busca ingredientes pouco usuais da Áustria: antigas variedades de frutas, verduras e cereais, peixes de água doce e espécies criadas por produtores locais. Ervas crescem no jardim do telhado; cítricos podem vir da antiga Orangerie de Schönbrunn e outras matérias-primas da propriedade familiar em Pogusch. Mais do que seguir receitas fixas, a equipe procura apresentar cada ingrediente na estação em que ele faz sentido.",
-      "O prato é frequentemente organizado em torno de uma matéria-prima austríaca e alguns contrastes. No cardápio divulgado em 2026 aparecem truta de montanha com pastinaca, amora e espinheiro-marítimo; mexilhões Bouchot com maçã Topaz e verbena; berinjela com couve-rábano e limão; e barriga ou outros cortes em combinações com vegetais de temporada. O restaurante oferece menus degustação e serviço à la carte, além de opções de almoço mais curtas.",
+      "O prato é frequentemente organizado em torno de uma matéria-prima austríaca e alguns contrastes. No cardápio de jantar consultado em novembro de 2026, o menu de seis ou sete etapas oferecia duas opções em cada passo, como truta-tigre com pepinos e pólen de funcho, vôngoles com rutabaga, beterraba dourada com aipo-rábano e buchu, salvelino-ártico com abóbora e raiz-forte e pato selvagem com laranja-sanguínea. O menu degustação é servido para toda a mesa; há também serviço à la carte e opções de almoço mais curtas.",
       "O atendimento também é parte da experiência. Um carrinho de pães reúne diversas variedades feitas por padeiros austríacos, e a apresentação de queijos da Meierei liga o restaurante à tradição leiteira do edifício. O Guia Michelin destaca a integração entre a cozinha de Heinz Reitbauer, a equipe comandada por Michael Bauböck e a hospitalidade de Birgit Reitbauer."
     ]
   },
@@ -20,28 +20,33 @@
   },
   "dishes": [
     {
-      "name": "Truta de montanha com pastinaca, amora e espinheiro-marítimo",
-      "desc": "Peixe de água doce com vegetal de raiz, fruta silvestre e notas ácidas de espinheiro-marítimo. Preparação documentada no menu oficial disponibilizado em 2026.",
+      "name": "Truta-tigre com diversidade de pepinos, pólen de funcho e pimenta-limão",
+      "desc": "Peixe de água doce servido com várias texturas e variedades de pepino. Etapa do menu degustação no cardápio oficial de jantar consultado em novembro de 2026; o repertório muda com a estação.",
       "photo": null
     },
     {
-      "name": "Mexilhões Bouchot com cenoura, maçã Topaz e verbena",
-      "desc": "Combinação de marisco com cenoura, maçã de variedade específica e erva aromática, presente no cardápio de degustação divulgado pela casa.",
+      "name": "Vôngoles com rutabaga, abóbora-espaguete e agrião",
+      "desc": "Marisco com raiz, abóbora e erva picante, oferecido como alternativa à truta na primeira etapa. Etapa do menu degustação no cardápio oficial de jantar consultado em novembro de 2026; o repertório muda com a estação.",
       "photo": null
     },
     {
-      "name": "Berinjela com couve-rábano, erva-do-gelo e limão",
-      "desc": "Etapa centrada em vegetais e contrastes de textura e acidez, registrada no menu oficial; demonstra o interesse do restaurante por ingredientes pouco convencionais.",
+      "name": "“Badger Flame”: beterraba dourada com aipo-rábano, cítricos e buchu",
+      "desc": "Prato de vegetais batizado com o nome de uma variedade de beterraba dourada e temperado com a erva sul-africana buchu. Etapa do menu degustação no cardápio oficial de jantar consultado em novembro de 2026; o repertório muda com a estação.",
       "photo": null
     },
     {
-      "name": "Peixe-gato com milho-doce, pepino em conserva, sabugueiro e calêndula",
-      "desc": "Prato de peixe acompanhado de ingredientes vegetais de temporada, documentado no cardápio oficial divulgado pelo restaurante.",
+      "name": "Salvelino-ártico com abóbora-manteiga, physalis e raiz-forte",
+      "desc": "Peixe de água fria com abóbora, fruta ácida e o ardor da raiz-forte. Etapa do menu degustação no cardápio oficial de jantar consultado em novembro de 2026; o repertório muda com a estação.",
       "photo": null
     },
     {
-      "name": "Flor de margarida: nêspera, limão Meyer, verbena e merengue",
-      "desc": "Sobremesa floral e cítrica presente no menu degustação oficial, com nêspera e notas de verbena.",
+      "name": "Pato selvagem com variedades de couve, laranja-sanguínea e pimenta de Sichuan",
+      "desc": "Prato de caça do outono, também oferecido à la carte. Etapa do menu degustação no cardápio oficial de jantar consultado em novembro de 2026; o repertório muda com a estação.",
+      "photo": null
+    },
+    {
+      "name": "Queijos selecionados da Meierei",
+      "desc": "Seleção de queijos da Meierei, o espaço do mesmo edifício ligado à tradição leiteira do Stadtpark; aparece como opção de etapa no menu degustação de novembro de 2026.",
       "photo": null
     },
     {
@@ -76,6 +81,10 @@
       "title": "The World's 50 Best Restaurants: 12º lugar"
     },
     {
+      "year": 2021,
+      "title": "Art of Hospitality Award — The World's 50 Best Restaurants"
+    },
+    {
       "year": 2022,
       "title": "The World's 50 Best Restaurants: 13º lugar"
     },
@@ -89,7 +98,7 @@
     },
     {
       "year": 2025,
-      "title": "Guia Michelin Áustria: conquista da terceira estrela"
+      "title": "Guia Michelin Áustria: conquista da terceira estrela, anunciada em janeiro de 2025"
     },
     {
       "year": 2025,
@@ -107,15 +116,14 @@
   "practical": {
     "website": "https://www.steirereck.at/steirereck.en.html",
     "address": "Am Heumarkt 2a, Stadtpark, 1030 Viena, Áustria",
-    "price": "No cardápio oficial de jantar consultado em novembro de 2026: menu de 6 etapas por €255 e de 7 etapas por €275, sem bebidas. A casa divulga versões sazonais do menu, e os valores podem mudar; confirmar na reserva. Existem opções à la carte e menus de almoço mais curtos.",
-    "reservation": "Reservas pelo site oficial ou pelo telefone +43 (1) 713 31 68. Funciona de segunda a sexta: almoço a partir das 11h30 (último horário de reserva às 12h45) e jantar a partir de 18h30 (último horário de reserva às 21h). Fecha aos fins de semana e feriados nacionais. Crianças a partir de 6 anos são bem-vindas. Confirmar requisitos e política de cancelamento no momento da reserva.",
+    "price": "No cardápio oficial de jantar consultado em novembro de 2026: menu de 6 etapas por €255 e de 7 etapas por €275, sem bebidas; harmonização de vinhos de €120 a €135 e harmonização sem álcool de €75 a €88. O menu degustação é servido para toda a mesa, alterações podem ter acréscimo e o couvert custa €9,50. Pratos à la carte entre €56 e €79. Os valores mudam com o cardápio sazonal; confirmar na reserva.",
+    "reservation": "Reservas pelo site oficial ou pelo telefone +43 (1) 713 31 68; para mais de seis pessoas, a equipe atende pedidos por escrito ou telefone de segunda a sexta, das 8h às 18h. Funciona de segunda a sexta: almoço das 11h30 às 16h (último horário de reserva às 12h45) e jantar a partir das 18h30 (último horário de reserva às 21h). Fecha aos fins de semana e feriados nacionais. Crianças a partir de 6 anos são bem-vindas. Confirmar requisitos e política de cancelamento no momento da reserva.",
     "reservationUrl": "https://www.steirereck.at/steirereck-tisch.html"
   },
   "sources": [
     "https://www.steirereck.at/steirereck.en.html",
     "https://www.steirereck.at/steirereck-tisch.html",
     "https://www.steirereck.at/upload/speisekarten/evening_at_steirereck.pdf",
-    "https://steirereck.net/pdf/speisekarten/lunch_at_steirereck.pdf",
     "https://guide.michelin.com/at/en/article/michelin-guide-ceremony/101-michelin-starred-restaurants-in-austria-2026",
     "https://guide.michelin.com/en/vienna/wien/restaurant/steirereck-im-stadtpark",
     "https://www.michelin.com/en/publications/products-and-services/michelin-guide-austria-2026",
@@ -129,7 +137,8 @@
     "https://commons.wikimedia.org/wiki/File:Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg",
     "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_a.jpg",
     "https://commons.wikimedia.org/wiki/File:Wien_03_Steirereck_b.jpg",
-    "https://commons.wikimedia.org/wiki/File:201510_Steirereck_am_Abend.jpg"
+    "https://commons.wikimedia.org/wiki/File:201510_Steirereck_am_Abend.jpg",
+    "https://guide.michelin.com/en/article/michelin-guide-ceremony/steirereck-in-vienna-is-austria-s-new-3-michelin-star-restaurant"
   ],
   "slug": "steirereck",
   "rank": 30,

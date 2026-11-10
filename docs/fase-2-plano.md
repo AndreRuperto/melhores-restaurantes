@@ -1,7 +1,7 @@
 # A Carta — plano detalhado da Fase 2
 
 **Data de abertura:** 9 de novembro de 2026  
-**Estado:** em execução — L0 iniciado; estrutura e rotas conferidas, revisão factual e de imagens pendente  
+**Estado:** em execução — L0 estrutural concluído; piloto L1 em revisão de fontes, imagens e canais (seção 13)  
 **Escopo:** os 100 perfis do acervo de 2026, suas imagens, dados, navegação e publicação  
 **Entrega deste documento:** plano vivo, atualizado com inventários, medições e correções verificadas  
 **Fluxo de publicação:** commits pequenos diretamente na `main`, conforme orientação do projeto
@@ -405,6 +405,19 @@ Os logs e medições identificam a base `9efc8eb0b4149a653c01e6a6541cca62081f9c9
 **Publicação verificada:** commit [d08fab7](https://github.com/AndreRuperto/melhores-restaurantes/commit/d08fab7de5a6afe9698492df74548f9e1a689a70), deploy Railway `9c39bd01-fed1-470b-a193-ad81c91f2186` em SUCCESS. Teste público da lista em 320/375/768/1024/1440 aprovado, sem corte dos links/tema; [evidência](lotes/fase-2-evidencias/publicacao-L0.json). Registro de 09/11/2026, 18h08 BRT, referente à versão de código observada.
 
 **Registro de testes:** npm ci, check:profiles e build executados; presença estrutural dos 100 perfis e rotas locais conferida. Resultados e limites no [relatório L0](lotes/fase-2-auditoria-inicial.md). Fontes, direitos e fatos não verificados continuam pendentes; não foram enviadas solicitações de autorização nem realizadas reservas.
+
+## 13. Atualização de execução — 10/11/2026, piloto L1 em revisão
+
+Relatório: [fase-2-L01.md](lotes/fase-2-L01.md). Inventários atualizados para os cinco perfis do piloto; [evidência das imagens no Commons](lotes/fase-2-evidencias/commons-L01.json).
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 16 usos e 15 arquivos únicos do piloto com autor, licença e data iguais aos do Commons, HTTP 200 e sujeito conferido visualmente | Capa de contexto do Etxebarri e arquivo repetido no Aponiente (P2); metadados novos por imagem |
+| 2.4 | Reservas e preços dos cinco perfis conferidos nos sites oficiais; links de reserva do Den e do Aponiente corrigidos; pratos do Steirereck trocados pelos do cardápio vigente; regra de acesso do Khufu’s acrescentada; duas afirmações sem fonte retiradas do Aponiente. Prêmios e rankings dos cinco conferidos; quatro prêmios ausentes acrescentados e duas imprecisões de biografia corrigidas | Três itens com fonte única (estrela de 2011 do Den, toques Gault&Millau do Steirereck, estrela verde do Aponiente) |
+| 2.3 | 25 casos de layout sem overflow (cinco perfis, temas claro e escuro); foco visível nos 45 elementos percorridos por teclado no Aponiente | 1024 px, Firefox, Safari, zoom 200% e leitor de tela |
+| 2.6 | check:profiles e build com saída 0 após as correções; renderização local conferida | Metadados F2-04, deploy e teste público do piloto |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**
 
 ## Apêndice A — Inventário nominal dos 100 perfis
 

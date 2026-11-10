@@ -55,12 +55,24 @@
       "title": "One To Watch Award — The World's 50 Best Restaurants"
     },
     {
+      "year": 2019,
+      "title": "Chefs' Choice Award do Asia's 50 Best Restaurants para Zaiyu Hasegawa"
+    },
+    {
       "year": 2021,
       "title": "The World's 50 Best Restaurants — nº 11"
     },
     {
       "year": 2022,
       "title": "Asia's 50 Best Restaurants — nº 1, melhor da Ásia e do Japão"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 32"
+    },
+    {
+      "year": 2025,
+      "title": "Asia's 50 Best Restaurants — nº 22"
     },
     {
       "year": 2026,
@@ -70,11 +82,14 @@
   "sources": [
     "https://www.the50.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
     "https://www.jimbochoden.com/en/",
+    "https://www.jimbochoden.com/en/reserve/",
     "https://guide.michelin.com/hk/en/tokyo-region/tokyo/restaurant/den",
     "https://tokyotokyo-delicious-museum.jp/portal/2023/english/dan.html",
     "https://www.theworlds50best.com/stories/News/asias-50-best-restaurant-no1-den.html",
     "https://www.tokyoweekender.com/food-and-drink/restaurants-and-bars/den-restaurant-tokyo-michelin-starred/",
-    "https://www.theworlds50best.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html"
+    "https://www.theworlds50best.com/stories/News/the-50-best-restaurants-2026-51-100-extended-list-revealed.html",
+    "https://www.the50.com/asia/en/the-list/Den.html",
+    "https://www.theworlds50best.com/stories/News/zaiyu-hasegawa-chefs-who-inspired-my-career.html"
   ],
   "slug": "den",
   "rank": 91,
@@ -85,8 +100,8 @@
   "practical": {
     "website": "https://www.jimbochoden.com/en/",
     "address": "Architect House Hall JIA, 2-3-18 Jingumae, Shibuya-ku, Tóquio 150-0001, Japão",
-    "reservationUrl": "https://www.jimbochoden.com/en/",
-    "reservation": "Reservas exclusivamente por telefone, +81 3-6455-5433, de segunda a sábado entre 12h e 17h no horário de Tóquio. O site oficial afirma explicitamente que NÃO autoriza plataformas de reserva online, intermediários ou agências. Serviço de segunda a sábado a partir de 18h, domingo fechado. Cancelamentos no dia podem gerar cobrança integral; comunicar mudanças com pelo menos dois dias de antecedência.",
+    "reservationUrl": "https://www.jimbochoden.com/en/reserve/",
+    "reservation": "Reservas exclusivamente por telefone, +81 3-6455-5433, de segunda a sábado entre 12h e 17h no horário de Tóquio; a página oficial de reservas informa que a casa não aceita reservas online nem autoriza plataformas, agências ou intermediários. Jantar de segunda a sábado a partir das 18h; fecha aos domingos e em períodos anunciados no site. Mudanças ou cancelamentos devem ser comunicados até dois dias antes; cancelamentos ou reduções no próprio dia são cobrados pelo valor integral do menu. Para reservas de segunda-feira, ligar até o sábado anterior. Informação conferida no site oficial em novembro de 2026.",
     "price": "Menu omakase sazonal; preço exato atualizado não confirmado em página oficial pública. Solicitar a tarifa ao telefone no momento da reserva."
   },
   "gallery": [],

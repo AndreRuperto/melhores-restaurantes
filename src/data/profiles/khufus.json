@@ -16,7 +16,7 @@
   },
   "chef": {
     "name": "Mostafa Seif (chef executivo) · Giovanni Bolandrini (fundador)",
-    "bio": "Mostafa Seif cresceu em contato com a culinária egípcia e com o ambiente dos restaurantes do Cairo, desenvolvendo sua carreira em cozinhas criativas. Venceu o Top Chef Arabia em 2017 e conduz a interpretação contemporânea da culinária egípcia no Khufu’s. Giovanni Bolandrini é fundador e executivo do grupo Pier88, responsável pelo projeto."
+    "bio": "Mostafa Seif cresceu em contato com a culinária egípcia e com o ambiente dos restaurantes do Cairo, desenvolvendo sua carreira em cozinhas criativas. Venceu a segunda temporada do programa Top Chef Middle East, exibida a partir de outubro de 2017 (páginas do 50 Best datam o título ora de 2017, ora de 2018), e conduz a interpretação contemporânea da culinária egípcia no Khufu’s. Giovanni Bolandrini é fundador e executivo do grupo Pier88, responsável pelo projeto."
   },
   "awards": [
     {
@@ -26,6 +26,10 @@
     {
       "year": 2025,
       "title": "Middle East & North Africa's 50 Best Restaurants — nº 4"
+    },
+    {
+      "year": 2025,
+      "title": "Resy One To Watch Award — The World's 50 Best Restaurants 2025"
     },
     {
       "year": 2026,
@@ -47,7 +51,9 @@
     "https://khufus.com/reservations/",
     "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/the-list/Khufus.html",
     "https://www.thenationalnews.com/lifestyle/2026/02/04/interview-khufus-mena-number-one-restaurant-2026-egyptian-cuisine/",
-    "https://www.prnewswire.com/news-releases/khufus-in-eqypt-is-named-no1-in-the-list-of-middle-east--north-africas-50-best-restaurants-2026-302678075.html"
+    "https://www.prnewswire.com/news-releases/khufus-in-eqypt-is-named-no1-in-the-list-of-middle-east--north-africas-50-best-restaurants-2026-302678075.html",
+    "https://www.the50.com/stories/News/the-best-restaurant-in-mena-2026-khufus-egypt.html",
+    "https://www.bbcgoodfoodme.com/news/menas-50-best-restaurants-2024-list-is-out/"
   ],
   "slug": "khufus",
   "rank": 97,
@@ -92,7 +98,7 @@
     "address": "Interior do complexo das Pirâmides de Gizé, planalto de Gizé, Al Haram, Governadoria de Gizé, Egito",
     "website": "https://khufus.com/",
     "reservationUrl": "https://khufus.com/reservations/",
-    "reservation": "Reservas recomendadas pela página oficial. O restaurante principal permite visitantes sem reserva quando há mesas, mas o acesso exige passar pela entrada autorizada do complexo arqueológico. Em caso de alergias ou necessidades alimentares, consultar a equipe antes da visita; não há preparo sem alho e cebola segundo a política atual. Não confundir com Khufu's Bistro, outra experiência com regras e horários diferentes. Informações pelo formulário de contato oficial.",
+    "reservation": "Reservas recomendadas pela página oficial; pedidos e dúvidas são feitos pelo formulário de contato do site. Visitantes sem reserva são aceitos quando há mesas, sem garantia de lugar. O acesso é feito somente pela entrada do portão de Fayoum (Fayoum Gate) do complexo das pirâmides, e cada cliente precisa comprar o ingresso do planalto de Gizé na bilheteria ou antecipadamente online; um ônibus interno leva do sítio arqueológico ao restaurante. Há opções vegetarianas no cardápio; outras alergias ou restrições devem ser informadas com antecedência, e os pratos não podem ser preparados sem alho ou cebola. Não confundir com o Khufu’s Bistro, outra casa do grupo, com regras e horários próprios. Informação conferida no site oficial em novembro de 2026.",
     "price": "Site oficial em novembro de 2026: gasto médio de café da manhã por volta de EGP 1.500++ por pessoa; menu composto de almoço a partir de EGP 1.950++ por pessoa. Impostos e taxa de serviço não incluídos. Preço e eventual ingresso no complexo devem ser confirmados separadamente."
   },
   "gallery": [],

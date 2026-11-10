@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-10",
+  "env": "servidor de desenvolvimento Vite, painel de navegador Chromium do Claude Desktop",
+  "method": "scrollWidth vs clientWidth e elementos (exceto SVG decorativo recortado) fora da viewport, apos carregar o perfil",
+  "cases": [
+    {
+      "slug": "asador-etxebarri",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "steirereck",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "den",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "khufus",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "aponiente",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "asador-etxebarri",
+      "theme": "light",
+      "viewport": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "overflowElements": 0
+    },
+    {
+      "slug": "steirereck",
+      "theme": "light",
+      "viewport": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "overflowElements": 0
+    },
+    {
+      "slug": "den",
+      "theme": "light",
+      "viewport": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "overflowElements": 0
+    },
+    {
+      "slug": "khufus",
+      "theme": "light",
+      "viewport": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "overflowElements": 0
+    },
+    {
+      "slug": "aponiente",
+      "theme": "light",
+      "viewport": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "overflowElements": 0
+    },
+    {
+      "slug": "asador-etxebarri",
+      "theme": "light",
+      "viewport": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "overflowElements": 0
+    },
+    {
+      "slug": "steirereck",
+      "theme": "light",
+      "viewport": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "overflowElements": 0
+    },
+    {
+      "slug": "den",
+      "theme": "light",
+      "viewport": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "overflowElements": 0
+    },
+    {
+      "slug": "khufus",
+      "theme": "light",
+      "viewport": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "overflowElements": 0
+    },
+    {
+      "slug": "aponiente",
+      "theme": "light",
+      "viewport": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "overflowElements": 0
+    },
+    {
+      "slug": "asador-etxebarri",
+      "theme": "dark",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "steirereck",
+      "theme": "dark",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "den",
+      "theme": "dark",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "khufus",
+      "theme": "dark",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "aponiente",
+      "theme": "dark",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0
+    },
+    {
+      "slug": "asador-etxebarri",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "steirereck",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "den",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "khufus",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "aponiente",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    }
+  ],
+  "notTested": [
+    "1024 px",
+    "tema escuro em 375/768/1024",
+    "Firefox",
+    "Safari",
+    "zoom 200%",
+    "leitor de tela"
+  ],
+  "accessibility": {
+    "imagesWithoutAlt": 0,
+    "linksOrButtonsWithoutName": 0,
+    "scope": "5 perfis em 320 px tema claro"
+  },
+  "keyboard": {
+    "page": "/restaurante/aponiente",
+    "viewport": 1440,
+    "theme": "dark",
+    "tabPresses": 45,
+    "focusEvents": 45,
+    "withoutVisibleFocus": 0,
+    "order": "logo, voltar, tema, creditos da foto, reserva, site, controles do mapa, lista lateral, rodape; ciclo retorna ao inicio"
+  }
+}
