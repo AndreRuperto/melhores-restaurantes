@@ -1,0 +1,25 @@
+{
+  "failures": {
+    "cases": false,
+    "errors": 0,
+    "geometry": 0,
+    "occlusion": 0,
+    "overflow": 0,
+    "focus": 0,
+    "contrast": 0,
+    "axe": 0,
+    "fonts": 0,
+    "bundle": 0,
+    "seo": 0
+  },
+  "ratios": {
+    "light": [
+      4.598183384926975
+    ],
+    "dark": [
+      4.520775332354786
+    ]
+  },
+  "chromium": 32,
+  "firefox": 32
+}

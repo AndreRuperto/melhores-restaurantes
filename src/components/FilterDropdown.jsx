@@ -15,7 +15,7 @@ export default function FilterDropdown({
 }) {
   const [open, setOpen] = useState(false)
   const [query, setQuery] = useState('')
-  const [placement, setPlacement] = useState({ right: false, above: false })
+  const [placement, setPlacement] = useState({ left: 16, top: 16, width: 288, maxHeight: 300 })
   const rootRef = useRef(null)
   const triggerRef = useRef(null)
   const searchRef = useRef(null)
@@ -75,11 +75,19 @@ export default function FilterDropdown({
     const position = () => {
       const rect = rootRef.current?.getBoundingClientRect()
       if (!rect) return
-      const menuWidth = Math.min(304, window.innerWidth - 32)
-      const below = window.innerHeight - rect.bottom
+      const gap = 8
+      const margin = 8
+      const menuWidth = Math.min(304, window.innerWidth - margin * 2)
+      const topMargin = Math.max(margin, (document.querySelector('header')?.getBoundingClientRect().bottom || 0) + gap)
+      const below = window.innerHeight - rect.bottom - gap - margin
+      const above = rect.top - gap - topMargin
+      const opensAbove = below < 310 && above > below
+      const maxHeight = Math.max(60, Math.min(310, opensAbove ? above : below))
       setPlacement({
-        right: rect.left + menuWidth > window.innerWidth - 16,
-        above: below < 310 && rect.top > below,
+        left: Math.max(margin, Math.min(rect.left, window.innerWidth - menuWidth - margin)),
+        top: Math.min(window.innerHeight - maxHeight - margin, Math.max(topMargin, opensAbove ? rect.top - gap - maxHeight : rect.bottom + gap)),
+        width: menuWidth,
+        maxHeight,
       })
     }
     position()
@@ -142,17 +150,16 @@ export default function FilterDropdown({
       </button>
       {open && (
         <div
+          style={placement}
           id={panelId}
           role="dialog"
           aria-label={ariaLabel}
           className={[
-            'absolute z-50 w-[min(19rem,calc(100vw-2rem))] overflow-hidden border border-rule bg-paper text-ink shadow-[0_18px_42px_var(--c-shadow)]',
-            placement.above ? 'bottom-full mb-2' : 'top-full mt-2',
-            placement.right ? 'right-0' : 'left-0',
+            'fixed z-50 flex flex-col overflow-hidden border border-rule bg-paper text-ink shadow-[0_18px_42px_var(--c-shadow)]',
           ].join(' ')}
         >
           {searchable && (
-            <div className="border-b border-rule p-2">
+            <div className="shrink-0 border-b border-rule p-2">
               <input
                 ref={searchRef}
                 type="search"
@@ -173,7 +180,7 @@ export default function FilterDropdown({
               />
             </div>
           )}
-          <div ref={listRef} className="filter-dropdown-scroll max-h-[min(16rem,43vh)] overflow-y-auto overscroll-contain p-1" onKeyDown={move}>
+          <div ref={listRef} className="filter-dropdown-scroll min-h-0 overflow-y-auto overscroll-contain p-1" onKeyDown={move}>
             <button
               type="button"
               onClick={() => select('')}

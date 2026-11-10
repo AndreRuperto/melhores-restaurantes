@@ -5,7 +5,7 @@ export default function NotFound() {
   return (
     <>
       <Header />
-      <main className="mx-auto max-w-3xl px-4 sm:px-8 py-32 text-center">
+      <main id="conteudo" tabIndex={-1} className="mx-auto max-w-3xl px-4 sm:px-8 py-32 text-center">
         <div className="smallcaps text-wine">404</div>
         <h1 className="display mt-4 text-6xl">Esse prato <em className="italic text-wine">saiu do cardápio</em></h1>
         <p className="mt-5 text-lg italic text-ink-2">A página que você procurou não existe.</p>

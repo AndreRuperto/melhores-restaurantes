@@ -1,8 +1,9 @@
+import ResponsiveImage from '../components/ResponsiveImage'
 import { useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { restaurants, bySlug } from '../data/restaurants'
 import { Header, Footer, Flag, Ornament, Tags, SITE } from '../components/ui'
-import WorldMap from '../components/WorldMap'
+import WorldMap from '../components/LazyWorldMap'
 import { MenuItem } from '../components/RankingTable'
 import NotFound from './NotFound'
 import { useProfile } from '../data/profiles'
@@ -64,7 +65,7 @@ export default function Restaurant() {
   return (
     <>
       <Header back />
-      <main className="mx-auto max-w-5xl px-4 sm:px-8">
+      <main id="conteudo" tabIndex={-1} className="mx-auto max-w-5xl px-4 sm:px-8">
         {/* capa do prato */}
         <section className="pt-16 text-center sm:pt-20">
           <div className="fade smallcaps flex items-center justify-center gap-2 text-ink-2">
@@ -76,7 +77,7 @@ export default function Restaurant() {
             <div className="mt-5 min-h-5"><Tags r={r} /></div>
           </div>
           {profile?.lede && (
-            <p className="fade display mx-auto mt-8 max-w-2xl text-2xl leading-snug text-ink sm:text-[28px]">{profile.lede}</p>
+            <p className="display mx-auto mt-8 max-w-2xl text-2xl leading-snug text-ink sm:text-[28px]">{profile.lede}</p>
           )}
           <p className={`fade mx-auto max-w-xl leading-relaxed text-ink-2 ${profile?.lede ? 'mt-4 text-base italic' : 'mt-8 text-lg'}`}>
             {r.rank === 1 ? (
@@ -93,7 +94,7 @@ export default function Restaurant() {
         {profile?.hero?.src && (
           <figure className="fade mt-14 sm:-mx-8">
             <div className="aspect-[4/3] overflow-hidden border border-rule bg-paper-2 sm:aspect-[16/8]">
-              <img src={profile.hero.src} alt={profile.hero.alt || profile.hero.caption || r.name} className="photo h-full w-full object-cover" />
+              <ResponsiveImage eager sizes="(min-width: 1024px) 1024px, 100vw" src={profile.hero.src} alt={profile.hero.alt || profile.hero.caption || r.name} className="photo h-full w-full object-cover" />
             </div>
             <figcaption className="mt-2 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-0.5 px-0 sm:px-8">
               <span className="flex flex-col gap-1">

@@ -1,0 +1,612 @@
+{
+  "runs": [
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 48,
+          "y": 387.375,
+          "width": 304,
+          "height": 244.625
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 415.375,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 467.375,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 507.375,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-360-light-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 78,
+          "y": 488.734375,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 516.734375,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 568.734375,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 608.734375,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-390-light-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 369.671875,
+          "y": 579.390625,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 521.671875,
+            "y": 607.390625,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 521.671875,
+            "y": 659.390625,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 521.671875,
+            "y": 699.390625,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-768-light-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 705.671875,
+          "y": 517.28125,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 857.671875,
+            "y": 545.28125,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 857.671875,
+            "y": 597.28125,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 857.671875,
+            "y": 637.28125,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-1440-light-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 48,
+          "y": 387.375,
+          "width": 304,
+          "height": 244.625
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 415.375,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 467.375,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 507.375,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-360-dark-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 78,
+          "y": 488.734375,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 516.734375,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 568.734375,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 608.734375,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-390-dark-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 369.671875,
+          "y": 579.390625,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 521.671875,
+            "y": 607.390625,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 521.671875,
+            "y": 659.390625,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 521.671875,
+            "y": 699.390625,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-768-dark-0.png"
+    },
+    {
+      "name": "chromium",
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 705.671875,
+          "y": 517.28125,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 857.671875,
+            "y": 545.28125,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 857.671875,
+            "y": 597.28125,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 857.671875,
+            "y": 637.28125,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "chromium-hit-retest-1440-dark-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 48,
+          "y": 387,
+          "width": 304,
+          "height": 245
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 415,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 467,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 507,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-360-light-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 78,
+          "y": 489,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 517,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 569,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 609,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-390-light-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 369.683349609375,
+          "y": 579,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 521.683349609375,
+            "y": 607,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 521.683349609375,
+            "y": 659,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 521.683349609375,
+            "y": 699,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-768-light-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 705.683349609375,
+          "y": 517,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 857.683349609375,
+            "y": 545,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 857.683349609375,
+            "y": 597,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 857.683349609375,
+            "y": 637,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-1440-light-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 48,
+          "y": 387,
+          "width": 304,
+          "height": 245
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 415,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 467,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 507,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-360-dark-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 78,
+          "y": 489,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 517,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 569,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 609,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-390-dark-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 369.683349609375,
+          "y": 579,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 521.683349609375,
+            "y": 607,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 521.683349609375,
+            "y": 659,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 521.683349609375,
+            "y": 699,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-768-dark-0.png"
+    },
+    {
+      "name": "firefox",
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "index": 0,
+      "hit": {
+        "box": {
+          "x": 705.683349609375,
+          "y": 517,
+          "width": 304,
+          "height": 310
+        },
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 857.683349609375,
+            "y": 545,
+            "visible": true
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 857.683349609375,
+            "y": 597,
+            "visible": true
+          },
+          {
+            "text": "África do Sul3",
+            "x": 857.683349609375,
+            "y": 637,
+            "visible": true
+          }
+        ]
+      },
+      "screenshot": "firefox-hit-retest-1440-dark-0.png"
+    }
+  ]
+}

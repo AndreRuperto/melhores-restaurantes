@@ -1,0 +1,186 @@
+{
+  "probe": {
+    "selector": "header nav",
+    "timestamp": "2026-11-10T21:09:08.046Z",
+    "url": "http://127.0.0.1:4174/",
+    "viewport": {
+      "width": 1024,
+      "height": 768,
+      "dpr": 1,
+      "visualViewport": {
+        "width": 1024,
+        "height": 768,
+        "scale": 1
+      },
+      "hoverNone": false,
+      "pointerCoarse": false,
+      "reducedMotion": false
+    },
+    "theme": {
+      "dataTheme": "light",
+      "classeDark": false,
+      "colorScheme": "light",
+      "prefersDark": false
+    },
+    "tagName": "NAV",
+    "bounds": {
+      "x": 212.625,
+      "y": 23.75,
+      "width": 790.3125,
+      "height": 16.5,
+      "right": 1002.9375,
+      "bottom": 40.25
+    },
+    "foraDaTela": false,
+    "scroll": {
+      "scrollWidth": 790,
+      "scrollHeight": 17,
+      "clientWidth": 790,
+      "clientHeight": 17
+    },
+    "overflowPagina": {
+      "documentoMaisLargoQueViewport": true,
+      "htmlOverflowX": "visible",
+      "bodyOverflowX": "visible"
+    },
+    "computed": {
+      "gap": "28px",
+      "display": "flex",
+      "width": "790.312px"
+    },
+    "stylesheets": [
+      {
+        "index": 0,
+        "href": "/css2",
+        "disabled": false
+      },
+      {
+        "index": 1,
+        "href": "/assets/index-x1TXfDu6.css",
+        "disabled": false
+      }
+    ],
+    "regraVencedora": "use regra-vencedora.js ou regra-vencedora-cdp.mjs"
+  },
+  "winner": {
+    "elemento": "header nav",
+    "propriedade": "gap",
+    "computado": "28px",
+    "vencedora": {
+      "origem": "/assets/index-x1TXfDu6.css",
+      "seletor": ".sm\\:gap-7",
+      "seletorQueCasou": ".sm\\:gap-7",
+      "especificidade": [
+        0,
+        2,
+        0
+      ],
+      "camada": "utilities",
+      "condicoes": [
+        "(min-width: 40rem)"
+      ],
+      "important": false,
+      "valor": "calc(var(--spacing)*7)",
+      "ordem": 388,
+      "containerNaoAvaliado": false
+    },
+    "candidatas": [
+      {
+        "origem": "/assets/index-x1TXfDu6.css",
+        "seletor": ".sm\\:gap-7",
+        "seletorQueCasou": ".sm\\:gap-7",
+        "especificidade": [
+          0,
+          2,
+          0
+        ],
+        "camada": "utilities",
+        "condicoes": [
+          "(min-width: 40rem)"
+        ],
+        "important": false,
+        "valor": "calc(var(--spacing)*7)",
+        "ordem": 388,
+        "containerNaoAvaliado": false
+      },
+      {
+        "origem": "/assets/index-x1TXfDu6.css",
+        "seletor": ".gap-3",
+        "seletorQueCasou": ".gap-3",
+        "especificidade": [
+          0,
+          1,
+          0
+        ],
+        "camada": "utilities",
+        "condicoes": [],
+        "important": false,
+        "valor": "calc(var(--spacing)*3)",
+        "ordem": 194,
+        "containerNaoAvaliado": false
+      }
+    ],
+    "ordemDasCamadas": [
+      "properties",
+      "theme",
+      "base",
+      "components",
+      "utilities"
+    ],
+    "folhasIlegiveis": [
+      "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
+    ],
+    "viewport": {
+      "width": 1024,
+      "height": 768
+    },
+    "avisos": [
+      "1 folha(s) ilegível(is) por CORS — a vencedora pode estar nelas."
+    ],
+    "metodo": "CSSOM (aproximação; sem número de linha)"
+  },
+  "wide": [
+    {
+      "tag": "BUTTON",
+      "cls": "flex size-8 flex-none items-center justify-center border border-rule text-ink-2 transition-colors hover:border-ink-2 hover:text-wine",
+      "rect": {
+        "x": 1030.9375,
+        "y": 16,
+        "width": 32,
+        "height": 32,
+        "top": 16,
+        "right": 1062.9375,
+        "bottom": 48,
+        "left": 1030.9375
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "[object SVGAnimatedString]",
+      "rect": {
+        "x": 1039.4375,
+        "y": 24.5,
+        "width": 15,
+        "height": 15,
+        "top": 24.5,
+        "right": 1054.4375,
+        "bottom": 39.5,
+        "left": 1039.4375
+      }
+    },
+    {
+      "tag": "path",
+      "cls": "[object SVGAnimatedString]",
+      "rect": {
+        "x": 1042.3397216796875,
+        "y": 27,
+        "width": 9.5977783203125,
+        "height": 9.597835540771484,
+        "top": 27,
+        "right": 1051.9375,
+        "bottom": 36.597835540771484,
+        "left": 1042.3397216796875
+      }
+    }
+  ]
+}

@@ -1,0 +1,1298 @@
+[
+  {
+    "route": "/",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 320,
+    "height": 568,
+    "theme": "light",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 360,
+    "height": 640,
+    "theme": "light",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 390,
+    "height": 844,
+    "theme": "light",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 430,
+    "height": 932,
+    "theme": "light",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 768,
+    "height": 1024,
+    "theme": "light",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1061,
+    "wide": [],
+    "pass": false
+  },
+  {
+    "route": "/restaurantes",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 1024,
+    "height": 768,
+    "theme": "light",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 1440,
+    "height": 900,
+    "theme": "light",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 640,
+    "height": 400,
+    "theme": "light",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 320,
+    "height": 568,
+    "theme": "dark",
+    "scroll": 320,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 360,
+    "height": 640,
+    "theme": "dark",
+    "scroll": 360,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 390,
+    "height": 844,
+    "theme": "dark",
+    "scroll": 390,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 430,
+    "height": 932,
+    "theme": "dark",
+    "scroll": 430,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 768,
+    "height": 1024,
+    "theme": "dark",
+    "scroll": 768,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1061,
+    "wide": [],
+    "pass": false
+  },
+  {
+    "route": "/restaurantes",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 1024,
+    "height": 768,
+    "theme": "dark",
+    "scroll": 1024,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 1440,
+    "height": 900,
+    "theme": "dark",
+    "scroll": 1440,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurantes",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/como-funciona",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/nao-existe",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/arca",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  },
+  {
+    "route": "/restaurante/sorn",
+    "width": 640,
+    "height": 400,
+    "theme": "dark",
+    "scroll": 640,
+    "wide": [],
+    "pass": true
+  }
+]

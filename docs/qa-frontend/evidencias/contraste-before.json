@@ -1,0 +1,122 @@
+{
+  "probe": {
+    "selector": "[role=dialog] .text-muted",
+    "timestamp": "2026-11-10T21:19:52.053Z",
+    "url": "http://127.0.0.1:4174/restaurantes",
+    "viewport": {
+      "width": 1280,
+      "height": 720,
+      "dpr": 1,
+      "visualViewport": {
+        "width": 1280,
+        "height": 720,
+        "scale": 1
+      },
+      "hoverNone": false,
+      "pointerCoarse": false,
+      "reducedMotion": false
+    },
+    "theme": {
+      "dataTheme": "light",
+      "classeDark": false,
+      "colorScheme": "light",
+      "prefersDark": false
+    },
+    "tagName": "SPAN",
+    "bounds": {
+      "x": 1071.75,
+      "y": 164.5,
+      "width": 19.890625,
+      "height": 16,
+      "right": 1091.640625,
+      "bottom": 180.5
+    },
+    "foraDaTela": false,
+    "scroll": {
+      "scrollWidth": 20,
+      "scrollHeight": 16,
+      "clientWidth": 20,
+      "clientHeight": 16
+    },
+    "overflowPagina": {
+      "documentoMaisLargoQueViewport": false,
+      "htmlOverflowX": "visible",
+      "bodyOverflowX": "visible"
+    },
+    "computed": {
+      "color": "rgb(133, 122, 109)",
+      "background-color": "rgba(0, 0, 0, 0)",
+      "font-size": "12px"
+    },
+    "stylesheets": [
+      {
+        "index": 0,
+        "href": "/css2",
+        "disabled": false
+      },
+      {
+        "index": 1,
+        "href": "/assets/index-DhTDKqLW.css",
+        "disabled": false
+      }
+    ],
+    "regraVencedora": "use regra-vencedora.js ou regra-vencedora-cdp.mjs"
+  },
+  "winner": {
+    "elemento": "[role=dialog] .text-muted",
+    "propriedade": "color",
+    "computado": "rgb(133, 122, 109)",
+    "vencedora": {
+      "origem": "/assets/index-DhTDKqLW.css",
+      "seletor": ".text-muted",
+      "seletorQueCasou": ".text-muted",
+      "especificidade": [
+        0,
+        1,
+        0
+      ],
+      "camada": "utilities",
+      "condicoes": [],
+      "important": false,
+      "valor": "var(--color-muted)",
+      "ordem": 331,
+      "containerNaoAvaliado": false
+    },
+    "candidatas": [
+      {
+        "origem": "/assets/index-DhTDKqLW.css",
+        "seletor": ".text-muted",
+        "seletorQueCasou": ".text-muted",
+        "especificidade": [
+          0,
+          1,
+          0
+        ],
+        "camada": "utilities",
+        "condicoes": [],
+        "important": false,
+        "valor": "var(--color-muted)",
+        "ordem": 331,
+        "containerNaoAvaliado": false
+      }
+    ],
+    "ordemDasCamadas": [
+      "properties",
+      "theme",
+      "base",
+      "components",
+      "utilities"
+    ],
+    "folhasIlegiveis": [
+      "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
+    ],
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "avisos": [
+      "1 folha(s) ilegível(is) por CORS — a vencedora pode estar nelas."
+    ],
+    "metodo": "CSSOM (aproximação; sem número de linha)"
+  }
+}

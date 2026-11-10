@@ -1,0 +1,3872 @@
+{
+  "started": "2026-11-10T21:14:31.040Z",
+  "base": "http://127.0.0.1:4174",
+  "geometry": [
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 320,
+      "height": 568,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 160,
+            "y": 379,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 160,
+            "y": 431,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 160,
+            "y": 471,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 8,
+        "y": 351,
+        "width": 304,
+        "height": 209
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "209px",
+        "scrollHeight": 207,
+        "clientHeight": 207
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-home-320x568-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 320,
+      "height": 568,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 160,
+            "y": 375.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 160,
+            "y": 415.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 8,
+        "y": 350.75,
+        "width": 304,
+        "height": 209.25
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "209.25px",
+        "scrollHeight": 207,
+        "clientHeight": 207
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-home-320x568-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 320,
+      "height": 568,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 160,
+            "y": 133,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 160,
+            "y": 185,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 160,
+            "y": 225,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 8,
+        "y": 105,
+        "width": 304,
+        "height": 237.75
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "237.75px",
+        "scrollHeight": 236,
+        "clientHeight": 236
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-home-320x568-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 320,
+      "height": 568,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 160,
+            "y": 379,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 160,
+            "y": 431,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 160,
+            "y": 471,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 8,
+        "y": 351,
+        "width": 304,
+        "height": 209
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "209px",
+        "scrollHeight": 207,
+        "clientHeight": 207
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-lista-320x568-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 360,
+      "height": 640,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 415,
+            "visible": false,
+            "hit": "<span class=\"menu-opening__rank-number\">04</span>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 467,
+            "visible": false,
+            "hit": "<div class=\"menu-opening menu-opening--opening\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Animação de abertura de A Carta\"><div class=\"menu-opening__masthead\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"brand-mark menu-opening__masthead-mark\"></span><"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 507,
+            "visible": false,
+            "hit": "<div class=\"menu-opening menu-opening--opening\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Animação de abertura de A Carta\"><div class=\"menu-opening__masthead\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"brand-mark menu-opening__masthead-mark\"></span><"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 48,
+        "y": 387,
+        "width": 304,
+        "height": 245
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "245px",
+        "scrollHeight": 243,
+        "clientHeight": 243
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-home-360x640-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 360,
+      "height": 640,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 200,
+            "y": 411.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 200,
+            "y": 451.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 48,
+        "y": 386.75,
+        "width": 304,
+        "height": 245.25
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "245.25px",
+        "scrollHeight": 243,
+        "clientHeight": 243
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-home-360x640-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 360,
+      "height": 640,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 133,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 185,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 225,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 48,
+        "y": 105,
+        "width": 304,
+        "height": 273.75
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "273.75px",
+        "scrollHeight": 272,
+        "clientHeight": 272
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-home-360x640-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 360,
+      "height": 640,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 306.70001220703125,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 358.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 398.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 48,
+        "y": 278.70001220703125,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-lista-360x640-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 390,
+      "height": 844,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 517,
+            "visible": false,
+            "hit": "<span class=\"menu-opening__rank-number\">04</span>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 569,
+            "visible": false,
+            "hit": "<div class=\"menu-opening__page menu-opening__right-page\"><div class=\"menu-opening__page-frame\"><div class=\"menu-opening__eyebrow\">A seleção</div><div class=\"menu-opening__list-title\">100 mesas<br><em>extraordinárias</em></div><ol class=\"menu-opening__ranking\">"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 609,
+            "visible": false,
+            "hit": "<div class=\"menu-opening menu-opening--opening\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Animação de abertura de A Carta\"><div class=\"menu-opening__masthead\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"brand-mark menu-opening__masthead-mark\"></span><"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 78,
+        "y": 489,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-home-390x844-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 390,
+      "height": 844,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 230,
+            "y": 513.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 230,
+            "y": 553.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 78,
+        "y": 488.75,
+        "width": 304,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-home-390x844-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 390,
+      "height": 844,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 198.75,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 250.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 290.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 78,
+        "y": 170.75,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-home-390x844-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 390,
+      "height": 844,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 173.73333740234375,
+            "y": 306.70001220703125,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 173.73333740234375,
+            "y": 358.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 173.73333740234375,
+            "y": 398.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 21.733333587646484,
+        "y": 278.70001220703125,
+        "width": 304.00000381469727,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-lista-390x844-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 430,
+      "height": 932,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 270,
+            "y": 561,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 270,
+            "y": 613,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 270,
+            "y": 653,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 118,
+        "y": 533,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-home-430x932-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 430,
+      "height": 932,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 270,
+            "y": 557.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 270,
+            "y": 597.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 118,
+        "y": 532.75,
+        "width": 304,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-home-430x932-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 430,
+      "height": 932,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 270,
+            "y": 606.75,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 270,
+            "y": 658.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 270,
+            "y": 698.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 118,
+        "y": 578.75,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-home-430x932-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 430,
+      "height": 932,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 193.73333740234375,
+            "y": 638.7000122070312,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 193.73333740234375,
+            "y": 690.7000122070312,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 193.73333740234375,
+            "y": 730.7000122070312,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 41.733333587646484,
+        "y": 610.7000122070312,
+        "width": 304.00000381469727,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-lista-430x932-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 640,
+      "height": 400,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 457.683349609375,
+            "y": 101,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 457.683349609375,
+            "y": 153,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 457.683349609375,
+            "y": 193,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 305.6833190917969,
+        "y": 73,
+        "width": 304.0000305175781,
+        "height": 140
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "140px",
+        "scrollHeight": 138,
+        "clientHeight": 138
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-home-640x400-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 640,
+      "height": 400,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 480,
+            "y": 98,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 480,
+            "y": 138,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 328,
+        "y": 73,
+        "width": 304,
+        "height": 140.25
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "140.25px",
+        "scrollHeight": 138,
+        "clientHeight": 138
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-home-640x400-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 640,
+      "height": 400,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 377,
+            "y": 101,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 377,
+            "y": 153,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 377,
+            "y": 193,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 225,
+        "y": 73,
+        "width": 304,
+        "height": 185.75
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "185.75px",
+        "scrollHeight": 184,
+        "clientHeight": 184
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-home-640x400-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 640,
+      "height": 400,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 342.46665954589844,
+            "y": 101,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 342.46665954589844,
+            "y": 153,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 342.46665954589844,
+            "y": 193,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 190.46665954589844,
+        "y": 73,
+        "width": 304.00001525878906,
+        "height": 140
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "140px",
+        "scrollHeight": 138,
+        "clientHeight": 138
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-lista-640x400-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 768,
+      "height": 1024,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 521.683349609375,
+            "y": 607,
+            "visible": false,
+            "hit": "<li class=\"menu-opening__rank-row\"><span class=\"menu-opening__rank-number\">04</span><span class=\"menu-opening__rank-details\"><span class=\"menu-opening__rank-name\">Quintonil</span><span class=\"menu-opening__rank-country\">México</span></span></li>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 521.683349609375,
+            "y": 659,
+            "visible": false,
+            "hit": "<div class=\"menu-opening__page-frame\"><div class=\"menu-opening__eyebrow\">A seleção</div><div class=\"menu-opening__list-title\">100 mesas<br><em>extraordinárias</em></div><ol class=\"menu-opening__ranking\"><li class=\"menu-opening__rank-row\"><span class=\"menu-open"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 521.683349609375,
+            "y": 699,
+            "visible": false,
+            "hit": "<div class=\"menu-opening__page-frame\"><div class=\"menu-opening__eyebrow\">A seleção</div><div class=\"menu-opening__list-title\">100 mesas<br><em>extraordinárias</em></div><ol class=\"menu-opening__ranking\"><li class=\"menu-opening__rank-row\"><span class=\"menu-open"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 369.6833190917969,
+        "y": 579,
+        "width": 304.0000305175781,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-home-768x1024-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 768,
+      "height": 1024,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 457.33331298828125,
+            "y": 603.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 457.33331298828125,
+            "y": 643.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 305.3333435058594,
+        "y": 578.75,
+        "width": 304.0000305175781,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-home-768x1024-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 768,
+      "height": 1024,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 608,
+            "y": 607,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 608,
+            "y": 659,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 608,
+            "y": 699,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 456,
+        "y": 579,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-home-768x1024-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 768,
+      "height": 1024,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 362.73333740234375,
+            "y": 523.6000061035156,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 362.73333740234375,
+            "y": 575.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 362.73333740234375,
+            "y": 615.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 210.73333740234375,
+        "y": 495.6000061035156,
+        "width": 304,
+        "height": 309.9999694824219
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-lista-768x1024-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 1024,
+      "height": 768,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 649.683349609375,
+            "y": 115,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 649.683349609375,
+            "y": 167,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 649.683349609375,
+            "y": 207,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 497.6833190917969,
+        "y": 87,
+        "width": 304.0000305175781,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-home-1024x768-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 1024,
+      "height": 768,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 585.3333129882812,
+            "y": 112.25,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 585.3333129882812,
+            "y": 152.25,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 433.3333435058594,
+        "y": 87.25,
+        "width": 304.0000305175781,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-home-1024x768-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 1024,
+      "height": 768,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 783.3333129882812,
+            "y": 115,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 783.3333129882812,
+            "y": 167,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 783.3333129882812,
+            "y": 207,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 631.3333129882812,
+        "y": 87,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-home-1024x768-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 1024,
+      "height": 768,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 490.73333740234375,
+            "y": 159.60000610351562,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 490.73333740234375,
+            "y": 211.60000610351562,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 490.73333740234375,
+            "y": 251.60000610351562,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 338.73333740234375,
+        "y": 131.60000610351562,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-lista-1024x768-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 857.683349609375,
+            "y": 545,
+            "visible": false,
+            "hit": "<span class=\"menu-opening__rank-name\">Alchemist</span>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 857.683349609375,
+            "y": 597,
+            "visible": false,
+            "hit": "<li class=\"menu-opening__rank-row\"><span class=\"menu-opening__rank-number\">04</span><span class=\"menu-opening__rank-details\"><span class=\"menu-opening__rank-name\">Quintonil</span><span class=\"menu-opening__rank-country\">México</span></span></li>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 857.683349609375,
+            "y": 637,
+            "visible": false,
+            "hit": "<li class=\"menu-opening__rank-row\"><span class=\"menu-opening__rank-number\">04</span><span class=\"menu-opening__rank-details\"><span class=\"menu-opening__rank-name\">Quintonil</span><span class=\"menu-opening__rank-country\">México</span></span></li>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 705.683349609375,
+        "y": 517,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-home-1440x900-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 793.3333129882812,
+            "y": 541.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 793.3333129882812,
+            "y": 581.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 641.3333129882812,
+        "y": 516.75,
+        "width": 304,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-home-1440x900-light-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 991.3333129882812,
+            "y": 545,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 991.3333129882812,
+            "y": 597,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 991.3333129882812,
+            "y": 637,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 839.3333129882812,
+        "y": 517,
+        "width": 303.99993896484375,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-home-1440x900-light-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 698.7333374023438,
+            "y": 523.6000061035156,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 698.7333374023438,
+            "y": 575.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 698.7333374023438,
+            "y": 615.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "light",
+      "box": {
+        "x": 546.7333374023438,
+        "y": 495.6000061035156,
+        "width": 304,
+        "height": 309.9999694824219
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-lista-1440x900-light-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 320,
+      "height": 568,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 160,
+            "y": 379,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 160,
+            "y": 431,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 160,
+            "y": 471,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 8,
+        "y": 351,
+        "width": 304,
+        "height": 209
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "209px",
+        "scrollHeight": 207,
+        "clientHeight": 207
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-home-320x568-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 320,
+      "height": 568,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 160,
+            "y": 375.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 160,
+            "y": 415.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 8,
+        "y": 350.75,
+        "width": 304,
+        "height": 209.25
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "209.25px",
+        "scrollHeight": 207,
+        "clientHeight": 207
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-home-320x568-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 320,
+      "height": 568,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 160,
+            "y": 133,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 160,
+            "y": 185,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 160,
+            "y": 225,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 8,
+        "y": 105,
+        "width": 304,
+        "height": 237.75
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "237.75px",
+        "scrollHeight": 236,
+        "clientHeight": 236
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-home-320x568-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 320,
+      "height": 568,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 160,
+            "y": 379,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 160,
+            "y": 431,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 160,
+            "y": 471,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 8,
+        "y": 351,
+        "width": 304,
+        "height": 209
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "209px",
+        "scrollHeight": 207,
+        "clientHeight": 207
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 320,
+        "innerWidth": 320
+      },
+      "screenshot": "firefox-lista-320x568-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 360,
+      "height": 640,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 415,
+            "visible": false,
+            "hit": "<span class=\"menu-opening__rank-number\">04</span>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 467,
+            "visible": false,
+            "hit": "<div class=\"menu-opening menu-opening--opening\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Animação de abertura de A Carta\"><div class=\"menu-opening__masthead\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"brand-mark menu-opening__masthead-mark\"></span><"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 507,
+            "visible": false,
+            "hit": "<div class=\"menu-opening menu-opening--opening\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Animação de abertura de A Carta\"><div class=\"menu-opening__masthead\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"brand-mark menu-opening__masthead-mark\"></span><"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 48,
+        "y": 387,
+        "width": 304,
+        "height": 245
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "245px",
+        "scrollHeight": 243,
+        "clientHeight": 243
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-home-360x640-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 360,
+      "height": 640,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 200,
+            "y": 411.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 200,
+            "y": 451.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 48,
+        "y": 386.75,
+        "width": 304,
+        "height": 245.25
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "245.25px",
+        "scrollHeight": 243,
+        "clientHeight": 243
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-home-360x640-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 360,
+      "height": 640,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 133,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 185,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 225,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 48,
+        "y": 105,
+        "width": 304,
+        "height": 273.75
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "273.75px",
+        "scrollHeight": 272,
+        "clientHeight": 272
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-home-360x640-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 360,
+      "height": 640,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 200,
+            "y": 306.70001220703125,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 200,
+            "y": 358.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 200,
+            "y": 398.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 48,
+        "y": 278.70001220703125,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 360,
+        "innerWidth": 360
+      },
+      "screenshot": "firefox-lista-360x640-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 390,
+      "height": 844,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 517,
+            "visible": false,
+            "hit": "<span class=\"menu-opening__rank-number\">04</span>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 569,
+            "visible": false,
+            "hit": "<div class=\"menu-opening__page menu-opening__right-page\"><div class=\"menu-opening__page-frame\"><div class=\"menu-opening__eyebrow\">A seleção</div><div class=\"menu-opening__list-title\">100 mesas<br><em>extraordinárias</em></div><ol class=\"menu-opening__ranking\">"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 609,
+            "visible": false,
+            "hit": "<div class=\"menu-opening menu-opening--opening\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Animação de abertura de A Carta\"><div class=\"menu-opening__masthead\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"brand-mark menu-opening__masthead-mark\"></span><"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 78,
+        "y": 489,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-home-390x844-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 390,
+      "height": 844,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 230,
+            "y": 513.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 230,
+            "y": 553.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 78,
+        "y": 488.75,
+        "width": 304,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-home-390x844-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 390,
+      "height": 844,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 230,
+            "y": 198.75,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 230,
+            "y": 250.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 230,
+            "y": 290.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 78,
+        "y": 170.75,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-home-390x844-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 390,
+      "height": 844,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 97,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 173.73333740234375,
+            "y": 306.70001220703125,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 173.73333740234375,
+            "y": 358.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 173.73333740234375,
+            "y": 398.70001220703125,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 21.733333587646484,
+        "y": 278.70001220703125,
+        "width": 304.00000381469727,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 390,
+        "innerWidth": 390
+      },
+      "screenshot": "firefox-lista-390x844-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 430,
+      "height": 932,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 270,
+            "y": 561,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 270,
+            "y": 613,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 270,
+            "y": 653,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 118,
+        "y": 533,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-home-430x932-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 430,
+      "height": 932,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 270,
+            "y": 557.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 270,
+            "y": 597.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 118,
+        "y": 532.75,
+        "width": 304,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-home-430x932-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 430,
+      "height": 932,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 270,
+            "y": 606.75,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 270,
+            "y": 658.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 270,
+            "y": 698.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 118,
+        "y": 578.75,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-home-430x932-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 430,
+      "height": 932,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 193.73333740234375,
+            "y": 638.7000122070312,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 193.73333740234375,
+            "y": 690.7000122070312,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 193.73333740234375,
+            "y": 730.7000122070312,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 41.733333587646484,
+        "y": 610.7000122070312,
+        "width": 304.00000381469727,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 430,
+        "innerWidth": 430
+      },
+      "screenshot": "firefox-lista-430x932-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 640,
+      "height": 400,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 457.683349609375,
+            "y": 101,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 457.683349609375,
+            "y": 153,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 457.683349609375,
+            "y": 193,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 305.6833190917969,
+        "y": 73,
+        "width": 304.0000305175781,
+        "height": 140
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "140px",
+        "scrollHeight": 138,
+        "clientHeight": 138
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-home-640x400-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 640,
+      "height": 400,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 480,
+            "y": 98,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 480,
+            "y": 138,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 328,
+        "y": 73,
+        "width": 304,
+        "height": 140.25
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "140.25px",
+        "scrollHeight": 138,
+        "clientHeight": 138
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-home-640x400-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 640,
+      "height": 400,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 377,
+            "y": 101,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 377,
+            "y": 153,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 377,
+            "y": 193,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 225,
+        "y": 73,
+        "width": 304,
+        "height": 185.75
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "185.75px",
+        "scrollHeight": 184,
+        "clientHeight": 184
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-home-640x400-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 640,
+      "height": 400,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 342.46665954589844,
+            "y": 101,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 342.46665954589844,
+            "y": 153,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 342.46665954589844,
+            "y": 193,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 190.46665954589844,
+        "y": 73,
+        "width": 304.00001525878906,
+        "height": 140
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "140px",
+        "scrollHeight": 138,
+        "clientHeight": 138
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 640,
+        "innerWidth": 640
+      },
+      "screenshot": "firefox-lista-640x400-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1024,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 521.683349609375,
+            "y": 607,
+            "visible": false,
+            "hit": "<li class=\"menu-opening__rank-row\"><span class=\"menu-opening__rank-number\">04</span><span class=\"menu-opening__rank-details\"><span class=\"menu-opening__rank-name\">Quintonil</span><span class=\"menu-opening__rank-country\">México</span></span></li>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 521.683349609375,
+            "y": 659,
+            "visible": false,
+            "hit": "<div class=\"menu-opening__page-frame\"><div class=\"menu-opening__eyebrow\">A seleção</div><div class=\"menu-opening__list-title\">100 mesas<br><em>extraordinárias</em></div><ol class=\"menu-opening__ranking\"><li class=\"menu-opening__rank-row\"><span class=\"menu-open"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 521.683349609375,
+            "y": 699,
+            "visible": false,
+            "hit": "<div class=\"menu-opening__page-frame\"><div class=\"menu-opening__eyebrow\">A seleção</div><div class=\"menu-opening__list-title\">100 mesas<br><em>extraordinárias</em></div><ol class=\"menu-opening__ranking\"><li class=\"menu-opening__rank-row\"><span class=\"menu-open"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 369.6833190917969,
+        "y": 579,
+        "width": 304.0000305175781,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-home-768x1024-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1024,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 457.33331298828125,
+            "y": 603.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 457.33331298828125,
+            "y": 643.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 305.3333435058594,
+        "y": 578.75,
+        "width": 304.0000305175781,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-home-768x1024-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 768,
+      "height": 1024,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 608,
+            "y": 607,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 608,
+            "y": 659,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 608,
+            "y": 699,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 456,
+        "y": 579,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-home-768x1024-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 768,
+      "height": 1024,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 362.73333740234375,
+            "y": 523.6000061035156,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 362.73333740234375,
+            "y": 575.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 362.73333740234375,
+            "y": 615.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 210.73333740234375,
+        "y": 495.6000061035156,
+        "width": 304,
+        "height": 309.9999694824219
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 768,
+        "innerWidth": 768
+      },
+      "screenshot": "firefox-lista-768x1024-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 768,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 649.683349609375,
+            "y": 115,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 649.683349609375,
+            "y": 167,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 649.683349609375,
+            "y": 207,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 497.6833190917969,
+        "y": 87,
+        "width": 304.0000305175781,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-home-1024x768-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 768,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 585.3333129882812,
+            "y": 112.25,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 585.3333129882812,
+            "y": 152.25,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 433.3333435058594,
+        "y": 87.25,
+        "width": 304.0000305175781,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-home-1024x768-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 1024,
+      "height": 768,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 783.3333129882812,
+            "y": 115,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 783.3333129882812,
+            "y": 167,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 783.3333129882812,
+            "y": 207,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 631.3333129882812,
+        "y": 87,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-home-1024x768-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 1024,
+      "height": 768,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 490.73333740234375,
+            "y": 159.60000610351562,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 490.73333740234375,
+            "y": 211.60000610351562,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 490.73333740234375,
+            "y": 251.60000610351562,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 338.73333740234375,
+        "y": 131.60000610351562,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1024,
+        "innerWidth": 1024
+      },
+      "screenshot": "firefox-lista-1024x768-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 857.683349609375,
+            "y": 545,
+            "visible": false,
+            "hit": "<span class=\"menu-opening__rank-name\">Alchemist</span>"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 857.683349609375,
+            "y": 597,
+            "visible": false,
+            "hit": "<li class=\"menu-opening__rank-row\"><span class=\"menu-opening__rank-number\">04</span><span class=\"menu-opening__rank-details\"><span class=\"menu-opening__rank-name\">Quintonil</span><span class=\"menu-opening__rank-country\">México</span></span></li>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 857.683349609375,
+            "y": 637,
+            "visible": false,
+            "hit": "<li class=\"menu-opening__rank-row\"><span class=\"menu-opening__rank-number\">04</span><span class=\"menu-opening__rank-details\"><span class=\"menu-opening__rank-name\">Quintonil</span><span class=\"menu-opening__rank-country\">México</span></span></li>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 705.683349609375,
+        "y": 517,
+        "width": 304,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-home-1440x900-dark-0.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "index": 1,
+      "label": "Filtrar por continente: Todos os continentes",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Todos os continentes100✓",
+            "x": 793.3333129882812,
+            "y": 541.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os continentes</span>"
+          },
+          {
+            "text": "Europa41",
+            "x": 793.3333129882812,
+            "y": 581.75,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Europa</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 641.3333129882812,
+        "y": 516.75,
+        "width": 304,
+        "height": 290
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 288,
+        "clientHeight": 288
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Todos os continentes100✓",
+      "focusAfter": "Europa41",
+      "chosen": "Ásia33",
+      "selectedLabel": "Filtrar por continente: Ásia",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-home-1440x900-dark-1.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "index": 2,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 991.3333129882812,
+            "y": 545,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 991.3333129882812,
+            "y": 597,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 991.3333129882812,
+            "y": 637,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 839.3333129882812,
+        "y": 517,
+        "width": 303.99993896484375,
+        "height": 310
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-home-1440x900-dark-2.png"
+    },
+    {
+      "engine": "firefox",
+      "route": "/restaurantes",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "index": 0,
+      "label": "Filtrar por país: Todos os países",
+      "hit": {
+        "headerBottom": 65,
+        "points": [
+          {
+            "text": "Buscar país",
+            "x": 698.7333374023438,
+            "y": 523.6000061035156,
+            "visible": true,
+            "hit": "<input type=\"search\" placeholder=\"Buscar país...\" aria-label=\"Buscar país\" class=\"w-full border border-rule bg-paper-2 px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-wine\" value=\"\">"
+          },
+          {
+            "text": "◎Todos os países100✓",
+            "x": 698.7333374023438,
+            "y": 575.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">Todos os países</span>"
+          },
+          {
+            "text": "África do Sul3",
+            "x": 698.7333374023438,
+            "y": 615.5999755859375,
+            "visible": true,
+            "hit": "<span class=\"min-w-0 flex-1\">África do Sul</span>"
+          }
+        ]
+      },
+      "actualTheme": "dark",
+      "box": {
+        "x": 546.7333374023438,
+        "y": 495.6000061035156,
+        "width": 304,
+        "height": 309.9999694824219
+      },
+      "computed": {
+        "position": "fixed",
+        "maxHeight": "310px",
+        "scrollHeight": 308,
+        "clientHeight": 308
+      },
+      "contained": true,
+      "escapeFocus": true,
+      "closed": true,
+      "focusBefore": "Buscar país",
+      "focusAfter": "◎Todos os países100✓",
+      "chosen": "África do Sul3",
+      "selectedLabel": "Filtrar por país: África do Sul",
+      "selectedFocus": true,
+      "selectedClosed": true,
+      "overflow": {
+        "scrollWidth": 1440,
+        "innerWidth": 1440
+      },
+      "screenshot": "firefox-lista-1440x900-dark-0.png"
+    }
+  ],
+  "functional": [],
+  "seo": [],
+  "axe": [],
+  "errors": [],
+  "limitations": [
+    "Sem leitor de tela ou dispositivo físico",
+    "640x400 mede reflow; não zoom real 200%",
+    "Sem Lighthouse nesta amostra independente"
+  ],
+  "finished": "2026-11-10T21:16:42.212Z"
+}

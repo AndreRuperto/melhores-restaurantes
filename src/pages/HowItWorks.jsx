@@ -16,7 +16,7 @@ export default function HowItWorks() {
   return (
     <>
       <Header />
-      <main className="mx-auto max-w-3xl px-4 sm:px-8 pt-16">
+      <main id="conteudo" tabIndex={-1} className="mx-auto max-w-3xl px-4 sm:px-8 pt-16">
         <div className="text-center">
           <div className="smallcaps text-wine">Como funciona</div>
           <h1 className="display mt-4 text-6xl leading-none sm:text-7xl">Como a lista <em className="italic text-wine">é feita</em></h1>

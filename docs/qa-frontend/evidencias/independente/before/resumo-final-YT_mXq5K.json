@@ -1,0 +1,72 @@
+{
+  "bundle": "index-YT_mXq5K.js",
+  "date": "2026-11-10T21:18:51.952Z",
+  "dropdown": {
+    "chromium": 64,
+    "firefox": 64,
+    "geometryFailures": 0,
+    "escapeFailures": 0,
+    "selectionFailures": 0,
+    "arrowFailures": 0,
+    "horizontalOverflow": 0,
+    "initialHitFailures": 16,
+    "retestedAfterAnimation": 16,
+    "remainingHitFailures": 0
+  },
+  "seo": {
+    "profiles": 100,
+    "failures": [],
+    "unknown": {
+      "path": "/restaurante/slug-inexistente-qa",
+      "status": 200,
+      "title": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "description": "Os 100 melhores restaurantes do mundo em 2026: explore o ranking, o mapa e os perfis de cada restaurante na A Carta.",
+      "canonical": "https://melhores-restaurantes.up.railway.app/",
+      "ogTitle": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "ogDescription": "Os 100 melhores restaurantes do mundo em 2026: explore o ranking, o mapa e os perfis de cada restaurante na A Carta.",
+      "ogUrl": "https://melhores-restaurantes.up.railway.app/",
+      "twitterTitle": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "robots": "index,follow"
+    }
+  },
+  "findings": [
+    {
+      "id": "A11Y-01",
+      "severity": "P1",
+      "status": "reproduzido",
+      "route": [
+        "/",
+        "/restaurantes"
+      ],
+      "theme": "light",
+      "steps": [
+        "Abrir filtro de país por Enter",
+        "Observar contador 100 da opção Todos os países"
+      ],
+      "actual": "3.35:1, #857a6d sobre #ece5d8, 12px normal",
+      "expected": ">=4.5:1",
+      "evidence": "complementar.json axeMenus"
+    },
+    {
+      "id": "SEO-01",
+      "severity": "P2",
+      "status": "reproduzido",
+      "route": "/restaurante/slug-inexistente-qa",
+      "steps": [
+        "Solicitar URL diretamente sem executar JavaScript",
+        "Inspecionar meta robots e status HTTP"
+      ],
+      "actual": "HTTP 200; robots index,follow; canonical home",
+      "expected": "Slug desconhecido sem indexação no HTML inicial",
+      "evidence": "seo-final.json; seo-direto.json"
+    }
+  ],
+  "limitations": [
+    "Sem auditoria completa dos 144 cenários dos critérios",
+    "Sem Lighthouse, leitor de tela, dispositivo físico, zoom real 200%, falha de imagens ou 100 perfis em recarga interativa",
+    "Axe somente Chromium, home/lista em desktop; nenhum claim de conformidade integral",
+    "Snapshots anteriores foram parcialmente sobrescritos; before/complementar.json preservado, JSONs integrais anteriores da matriz não preservados",
+    "resultados.json.seo é uma medição anterior divergente; seo-final.json e seo-direto.json prevalecem para HTML inicial",
+    "Axe dark da home pode ter sido afetado pela animação; demais alertas não promovidos a achados confirmados"
+  ]
+}

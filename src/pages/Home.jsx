@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { restaurants, CONTINENTS, COUNTRIES, countBy, bySlug } from '../data/restaurants'
 import { Header, Footer, Chapter, Em, Flag, Ornament, Tags } from '../components/ui'
-import WorldMap, { TIER_COLOR } from '../components/WorldMap'
+import WorldMap, { TIER_COLOR } from '../components/LazyWorldMap'
 import CountryDropdown from '../components/CountryDropdown'
 import RankingTable from '../components/RankingTable'
 import MenuOpening from '../components/MenuOpening'
@@ -30,7 +30,7 @@ export default function Home() {
     <>
       <MenuOpening />
       <Header sections />
-      <main className="mx-auto max-w-6xl px-4 sm:px-8">
+      <main id="conteudo" tabIndex={-1} className="mx-auto max-w-6xl px-4 sm:px-8">
         {/* CAPA */}
         <section className="pt-16 pb-6 text-center sm:pt-24">
           <div className="fade smallcaps text-ink-2">The 50 Best Restaurants · Lima, 4 de novembro de 2026</div>

@@ -1,0 +1,155 @@
+{
+  "bundle": "index-BTVpDEkj.js",
+  "date": "2026-11-10T21:18:51.952Z",
+  "dropdown": {
+    "chromium": 64,
+    "firefox": 64,
+    "geometryFailures": 0,
+    "escapeFailures": 0,
+    "selectionFailures": 0,
+    "arrowFailures": 0,
+    "horizontalOverflow": 0,
+    "initialHitFailures": 16,
+    "retestedAfterAnimation": 16,
+    "remainingHitFailures": 0
+  },
+  "seo": {
+    "profiles": 100,
+    "failures": [],
+    "unknown": {
+      "path": "/restaurante/slug-inexistente-qa",
+      "status": 200,
+      "title": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "description": "Os 100 melhores restaurantes do mundo em 2026: explore o ranking, o mapa e os perfis de cada restaurante na A Carta.",
+      "canonical": "https://melhores-restaurantes.up.railway.app/",
+      "ogTitle": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "ogDescription": "Os 100 melhores restaurantes do mundo em 2026: explore o ranking, o mapa e os perfis de cada restaurante na A Carta.",
+      "ogUrl": "https://melhores-restaurantes.up.railway.app/",
+      "twitterTitle": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "robots": "index,follow"
+    }
+  },
+  "findings": [
+    {
+      "id": "A11Y-01",
+      "severity": "P1",
+      "status": "corrigido e retestado",
+      "route": [
+        "/",
+        "/restaurantes"
+      ],
+      "theme": "light",
+      "steps": [
+        "Abrir filtro de país por Enter",
+        "Observar contador 100 da opção Todos os países"
+      ],
+      "actual": "#706456 sobre #ece5d8; 4.598183384926975:1; 12px normal; axe sem violações nos 64 menus",
+      "expected": ">=4.5:1",
+      "evidence": "reteste-fontes-contraste/chromium.json; reteste-fontes-contraste/firefox.json",
+      "previousStatus": "reproduzido",
+      "before": "3.35:1, #857a6d sobre #ece5d8, 12px normal"
+    },
+    {
+      "id": "SEO-01",
+      "severity": "P2",
+      "status": "resolvido no servidor 4177",
+      "route": "/restaurante/slug-inexistente-qa",
+      "steps": [
+        "Solicitar URL diretamente sem executar JavaScript",
+        "Inspecionar meta robots e status HTTP"
+      ],
+      "actual": "HTTP 404; meta robots noindex,follow em /slug-inexistente-qa e /restaurante/slug-inexistente-qa, HTML sem executar JavaScript",
+      "expected": "Slug desconhecido sem indexação no HTML inicial",
+      "evidence": "reteste-fontes-contraste/chromium.json seo404 e HTML 4177 gravado",
+      "previousStatus": "reproduzido",
+      "previewLimitation": "4174 usa fallback SPA, cujo resultado anterior fica registrado e não representa resposta 404 do servidor 4177"
+    }
+  ],
+  "limitations": [
+    "Sem auditoria completa dos 144 cenários dos critérios",
+    "Sem Lighthouse, leitor de tela, dispositivo físico, zoom real 200%, falha de imagens ou 100 perfis em recarga interativa",
+    "Axe somente Chromium, home/lista em desktop; nenhum claim de conformidade integral",
+    "Snapshots anteriores foram parcialmente sobrescritos; before/complementar.json preservado, JSONs integrais anteriores da matriz não preservados",
+    "resultados.json.seo é uma medição anterior divergente; seo-final.json e seo-direto.json prevalecem para HTML inicial",
+    "Axe dark da home pode ter sido afetado pela animação; demais alertas não promovidos a achados confirmados"
+  ],
+  "previousBundle": "index-YT_mXq5K.js",
+  "latestAnnouncedBundle": "index-B8jHFkRK.js",
+  "latestAnnouncedBundleScope": "Usuário informa alteração somente da animação fade do lede de perfil; esta alteração não foi retestada nesta rodada de contraste/fontes/dropdown.",
+  "retest": {
+    "date": "2026-11-10T21:25:04.656Z",
+    "cases": 64,
+    "chromium": 32,
+    "firefox": 32,
+    "counterCases": 64,
+    "ratios": {
+      "light": [
+        4.598183384926975
+      ],
+      "dark": [
+        4.520775332354786
+      ]
+    },
+    "failures": {
+      "cases": false,
+      "errors": 0,
+      "geometry": 0,
+      "occlusion": 0,
+      "overflow": 0,
+      "focus": 0,
+      "contrast": 0,
+      "axe": 0,
+      "fonts": 0,
+      "bundle": 0,
+      "seo": 0
+    },
+    "seo404": [
+      {
+        "url": "http://127.0.0.1:4177/slug-inexistente-qa",
+        "status": 404,
+        "headers": {
+          "content-disposition": "inline; filename=\"404.html\"",
+          "accept-ranges": "bytes",
+          "etag": "\"e3e8c0847f8eb0c547a698fa2c4a8f9291a010e1\"",
+          "content-type": "text/html; charset=utf-8",
+          "vary": "Accept-Encoding",
+          "content-encoding": "br",
+          "date": "Tue, 10 Nov 2026 21:23:00 GMT",
+          "connection": "keep-alive",
+          "keep-alive": "timeout=5",
+          "transfer-encoding": "chunked"
+        },
+        "robots": "<meta name=\"robots\" content=\"noindex,follow\" />",
+        "title": "Página não encontrada · A Carta",
+        "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/404.html\" />",
+        "bodyLength": 2328
+      },
+      {
+        "url": "http://127.0.0.1:4177/restaurante/slug-inexistente-qa",
+        "status": 404,
+        "headers": {
+          "content-disposition": "inline; filename=\"404.html\"",
+          "accept-ranges": "bytes",
+          "etag": "\"e3e8c0847f8eb0c547a698fa2c4a8f9291a010e1\"",
+          "content-type": "text/html; charset=utf-8",
+          "vary": "Accept-Encoding",
+          "content-encoding": "br",
+          "date": "Tue, 10 Nov 2026 21:23:00 GMT",
+          "connection": "keep-alive",
+          "keep-alive": "timeout=5",
+          "transfer-encoding": "chunked"
+        },
+        "robots": "<meta name=\"robots\" content=\"noindex,follow\" />",
+        "title": "Página não encontrada · A Carta",
+        "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/404.html\" />",
+        "bodyLength": 2328
+      }
+    ],
+    "axeIncompleteNodes": [
+      "<span aria-hidden=\"true\" class=\"flex size-5 flex-none items-center justify-center rounded-full border border-rule text-xs\">◎</span>",
+      "<span aria-hidden=\"true\" class=\"text-wine\">✓</span>"
+    ],
+    "evidence": "reteste-fontes-contraste/chromium.json; reteste-fontes-contraste/firefox.json"
+  },
+  "decision": "P1 de contraste encerrado; SEO404 verificado no servidor 4177; nenhuma falha aberta nesta rodada delimitada. Não constitui liberação global nem pública."
+}

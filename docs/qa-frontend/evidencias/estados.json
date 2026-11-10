@@ -1,0 +1,34 @@
+[
+  {
+    "case": "introducao",
+    "reduced": "reduce",
+    "closed": true
+  },
+  {
+    "case": "introducao",
+    "reduced": "no-preference",
+    "closed": true
+  },
+  {
+    "case": "imagem-falhando",
+    "broken": 0,
+    "fallback": 1,
+    "title": "Asador Etxebarri",
+    "credit": "Vista geral de Axpe-Marzana, bairro de Atxondo, cercado de pastos e montanhas.\nFoto: PaU1570 · CC BY-SA 4.0"
+  },
+  {
+    "case": "filtro-offline",
+    "count": "3 DE 100 RESTAURANTES"
+  },
+  {
+    "case": "skip-link",
+    "first": "Pular para o conteúdo",
+    "focus": "Pular para o conteúdo",
+    "destination": "conteudo"
+  },
+  {
+    "case": "404",
+    "robots": "noindex,follow",
+    "h1": "Esse prato saiu do cardápio"
+  }
+]
