@@ -1,13 +1,26 @@
 {
   "slug": "lasai",
-  "lede": "No Humaitá, Zona Sul do Rio, o Lasai serve um único menu degustação para dez pessoas por vez, sentadas num balcão em L diante da cozinha. Boa parte do que chega ao prato sai das duas hortas do chef Rafa Costa e Silva, que passou anos no Mugaritz, no País Basco, antes de abrir a casa em 2014.",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
+  "lede": "No Humaitá, Zona Sul do Rio, o Lasai serve um único menu degustação para dez pessoas por vez, sentadas num balcão em L diante da cozinha — formato que muda em dezembro de 2026, quando a casa se transfere para o 21º andar do Sofitel Ipanema. Boa parte do que chega ao prato sai das duas hortas do chef Rafa Costa e Silva, que passou anos no Mugaritz, no País Basco, antes de abrir a casa em 2014.",
   "hero": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Humait%C3%A1_Rio_de_Janeiro_Brazil.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Humait%C3%A1_Rio_de_Janeiro_Brazil.jpg",
     "author": "Wikityke (Wikipédia em inglês)",
     "license": "CC BY-SA 3.0",
     "caption": "Vista do Humaitá, com Botafogo ao centro e o Pão de Açúcar à direita, ao fundo.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Vista do Humaitá, com Botafogo e o Pão de Açúcar",
+    "alt": "Bairro de prédios e casas com telhados vermelhos e o Pão de Açúcar ao fundo",
+    "capturedAt": "2008",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Wikityke (Wikipédia em inglês), CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2014,
   "founders": [
@@ -21,7 +34,7 @@
   "history": [
     "O Lasai abriu em 2014 num casarão colonial da Rua Conde de Irajá, em Botafogo. O nome vem do euskera, a língua basca, e quer dizer \"tranquilo\" — escolha que remete à formação do chef Rafa Costa e Silva no País Basco. Em março de 2015, cerca de um ano após a abertura, a casa recebeu sua primeira estrela no Guia Michelin e, no mesmo ano, entrou na lista Latin America's 50 Best Restaurants, em 16º lugar. Desde então aparece em todas as edições do ranking regional.",
     "Em 2022, o restaurante trocou o casarão de 45 lugares por um espaço bem menor a poucos metros dali, no Largo dos Leões, já no Humaitá. Passou a receber dez pessoas por sessão, todas num balcão em L de frente para a equipe de cozinha. Segundo a Forbes, a produção diária caiu de mais de 650 pratos para cerca de 150.",
-    "A mudança coincidiu com a fase de maior reconhecimento. Em 2024, o Lasai ganhou a segunda estrela Michelin e chegou ao 7º lugar na lista latino-americana, com o título de melhor restaurante do Brasil. No ranking mundial, foi o 58º em 2024, na lista estendida; estreou no top 50 em 2025, em 28º, como único brasileiro entre os 50; e subiu para o 25º lugar na edição de 2026, anunciada em Lima."
+    "A mudança coincidiu com a fase de maior reconhecimento. Em 2024, o Lasai ganhou a segunda estrela Michelin e chegou ao 7º lugar na lista latino-americana, com o título de melhor restaurante do Brasil. No ranking mundial, foi o 58º em 2024, na lista estendida; estreou no top 50 em 2025, em 28º, como único brasileiro entre os 50; e subiu para o 25º lugar na edição de 2026, anunciada em Lima. Em 2026, a casa anunciou a mudança para o 21º andar do Sofitel Ipanema, na orla, com balcão para cerca de 25 pessoas e uma mesa reservada para até dez convidados; a inauguração está prevista para dezembro."
   ],
   "cuisine": {
     "style": "Cozinha autoral de base vegetal, sazonal e de horta própria",
@@ -40,7 +53,17 @@
         "author": "Gaurav Dhwaj Khadka",
         "license": "CC BY-SA 4.0",
         "caption": "Chuchu (Sechium edule) inteiro (imagem ilustrativa do ingrediente).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Chuchu (ilustrativa)",
+        "alt": "Chuchus verdes amontoados",
+        "capturedAt": "2022-08-17",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Gaurav Dhwaj Khadka, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -52,7 +75,17 @@
         "author": "Leonora Enking",
         "license": "CC BY-SA 2.0",
         "caption": "Oyster leaf (Mertensia maritima) numa praia do Canadá (imagem ilustrativa do ingrediente).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Oyster leaf numa praia do Canadá (ilustrativa)",
+        "alt": "Tapete de folhas verde-azuladas com pequenas flores roxas",
+        "capturedAt": "2002-07-22",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Leonora Enking, CC BY-SA 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -64,7 +97,17 @@
         "author": "Ivar Leidus",
         "license": "CC BY-SA 4.0",
         "caption": "Brócolis romanesco (imagem ilustrativa do ingrediente).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Brócolis romanesco (ilustrativa)",
+        "alt": "Brócolis romanesco verde-claro de formato espiralado",
+        "capturedAt": "2021-01-03",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -76,7 +119,17 @@
         "author": "mhoenig",
         "license": "CC BY-SA 3.0",
         "caption": "Palmito fresco sendo cortado, no Havaí (imagem ilustrativa do ingrediente).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Palmito fresco sendo cortado (ilustrativa)",
+        "alt": "Palmito branco cortado em rodelas num prato, com uma faca",
+        "capturedAt": "2013-10-14",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "mhoenig, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -151,14 +204,27 @@
     },
     {
       "year": 2026,
-      "title": "The World's 50 Best Restaurants – nº 25 (subiu do 28º em 2025)"
+      "title": "The 50 Best Restaurants – nº 25 (subiu do 28º em 2025)"
     }
   ],
   "practical": {
-    "price": "Menu degustação a R$ 1.380 por pessoa (junho de 2025, segundo o Diário do Rio); Forbes e Portal In, no mesmo mês, citaram R$ 1.250, com harmonização de vinhos por R$ 680. Valor de 2026 não confirmado.",
-    "reservation": "Somente com reserva, feita online pela plataforma Tock (exploretock.com/lasai); não aceita clientes sem reserva. Sessões de terça a sexta às 20h e aos sábados às 19h e às 22h30, segundo o site oficial.",
+    "price": "Para a reabertura em Ipanema, o Diário do Rio (novembro de 2026) informa menu degustação a R$ 1.550 por pessoa e harmonização de vinhos cobrada à parte, por R$ 750. O valor praticado no endereço atual não foi confirmado no site oficial.",
+    "reservation": "Somente com reserva, feita online pela plataforma Tock (exploretock.com/lasai); não aceita clientes sem reserva. No Humaitá, sessões de terça a sexta às 20h e aos sábados às 19h e às 22h30, segundo o site oficial. Telefones (21) 3449-1834 e 3449-1854; e-mail lasai@lasai.com.br. Os horários do novo endereço ainda não foram divulgados.",
     "website": "https://www.lasai.com.br",
-    "address": "Largo dos Leões, 35 – Humaitá, Rio de Janeiro – RJ, 22260-210"
+    "address": "Largo dos Leões, 35 – Humaitá, Rio de Janeiro – RJ, 22260-210 (endereço informado pelo site oficial em novembro de 2026). A casa anunciou a mudança para o 21º andar do Sofitel Ipanema, na Avenida Vieira Souto, 460, com inauguração prevista para dezembro de 2026.",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.exploretock.com/lasai",
+    "phone": "+55 21 3449-1854",
+    "email": "lasai@lasai.com.br",
+    "priceDetails": {
+      "amount": 1550,
+      "currency": "BRL",
+      "basis": "Menu degustação por pessoa, sem bebidas, anunciado para a reabertura no Sofitel Ipanema",
+      "taxesIncluded": null,
+      "sourceUrl": "https://diariodorio.com/gastronomia/2026/11/06/lasai-anuncia-menu-de-rs-1-550-para-reabertura-em-ipanema-veja-o-que-se-sabe-sobre-o-novo-restaurante.html",
+      "checkedAt": "2026-11-10",
+      "note": "Imprensa, não fonte oficial; harmonização de R$ 750 à parte; taxa de serviço não informada; preço atual no Humaitá não confirmado (Tock ilegível)."
+    }
   },
   "gallery": [
     {
@@ -167,7 +233,17 @@
       "author": "Eduardo P",
       "license": "CC BY-SA 3.0",
       "caption": "Largo dos Leões, no Humaitá, Rio de Janeiro, onde fica o endereço atual do Lasai (foto de 2013, anterior à mudança do restaurante).",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Largo dos Leões, no Humaitá (2013)",
+      "alt": "Pequena praça de calçamento de pedra com árvores e carros estacionados",
+      "capturedAt": "2013-06-04",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Eduardo P, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/R_Viuva_Lacerda_Humait%C3%A1_Rio_de_janeiro.jpg",
@@ -175,7 +251,17 @@
       "author": "Wikityke (Wikipédia em inglês)",
       "license": "CC BY-SA 3.0",
       "caption": "Casas na Rua Viúva Lacerda, no Humaitá, com o Corcovado ao fundo.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Casas na Rua Viúva Lacerda, com o Corcovado",
+      "alt": "Sobrados coloridos com janelas em arco e o morro do Corcovado ao fundo",
+      "capturedAt": "2008",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Wikityke (Wikipédia em inglês), CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Botafogo_Beach_and_skyline_at_dusk%2C_Rio_de_Janeiro%2C_Brazil.jpg/1920px-Botafogo_Beach_and_skyline_at_dusk%2C_Rio_de_Janeiro%2C_Brazil.jpg",
@@ -183,7 +269,17 @@
       "author": "Wilfredor",
       "license": "CC0",
       "caption": "Praia e orla de Botafogo ao entardecer; o Lasai funcionou no bairro de 2014 a 2022.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Orla de Botafogo ao entardecer",
+      "alt": "Enseada com prédios ao longo da orla ao entardecer",
+      "capturedAt": "2023-06-16",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Wilfredor, CC0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Finger_lime_-_halved.jpg/1920px-Finger_lime_-_halved.jpg",
@@ -191,7 +287,17 @@
       "author": "Ivar the Boneful",
       "license": "CC BY-SA 4.0",
       "caption": "Finger lime cortado ao meio, com as vesículas de suco à mostra (imagem ilustrativa de ingrediente usado no menu).",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Finger lime cortado (ilustrativa)",
+      "alt": "Fruta alongada vermelha cortada ao meio, com vesículas de suco à mostra",
+      "capturedAt": "2018-04-12",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Ivar the Boneful, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -209,12 +315,56 @@
     "https://diariodonordeste.verdesmares.com.br/estilo-de-vida/culinaria/restaurante-brasileiro-lasai-conquista-7-lugar-entre-os-50-melhores-da-america-latina-1.3587356",
     "https://www.bloomberglinea.com.br/2023/03/24/lasai/",
     "https://diariodorio.com/quanto-custa-comer-no-melhor-restaurante-do-rio-de-janeiro/",
-    "https://www.portalin.com.br/?p=628905"
+    "https://www.portalin.com.br/?p=628905",
+    "https://diariodorio.com/gastronomia/2026/11/06/lasai-anuncia-menu-de-rs-1-550-para-reabertura-em-ipanema-veja-o-que-se-sabe-sobre-o-novo-restaurante.html"
   ],
   "photoReference": {
     "kind": "ambientes",
     "publisher": "Guia Michelin",
     "url": "https://guide.michelin.com/br/pt_BR/rio-de-janeiro-region/rio-de-janeiro/restaurant/lasai",
     "note": "O guia anuncia mudança para dezembro de 2026. Não tratar a fachada antiga do Humaitá como entrada atual após a mudança."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.lasai.com.br/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.address",
+      "sourceUrl": "https://diariodorio.com/gastronomia/2026/11/06/lasai-anuncia-menu-de-rs-1-550-para-reabertura-em-ipanema-veja-o-que-se-sabe-sobre-o-novo-restaurante.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Mudança para o Sofitel Ipanema anunciada pela imprensa; o site oficial ainda mostra o Humaitá e não traz aviso; data da última sessão no endereço atual desconhecida."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://diariodorio.com/gastronomia/2026/11/06/lasai-anuncia-menu-de-rs-1-550-para-reabertura-em-ipanema-veja-o-que-se-sabe-sobre-o-novo-restaurante.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço de imprensa, para o novo endereço."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/latinamerica/en/previous-list",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Posições latino-americanas de 2015 a 2025 conferidas no arquivo oficial."
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://www.lasai.com.br/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Sobrenome da sommelière diverge entre fontes: Maíra Freire (The 50 Best) e Maíra Freitas (Time Out)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos do bairro e de ingredientes."
+    }
+  ]
 }

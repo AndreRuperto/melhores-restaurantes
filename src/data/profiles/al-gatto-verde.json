@@ -1,5 +1,8 @@
 {
   "slug": "al-gatto-verde",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Num antigo estábulo da Casa Maria Luigia, a casa de hóspedes de Massimo Bottura no campo perto de Modena, a canadense Jessica Rosval cozinha quase tudo no fogo de lenha. O Al Gatto Verde junta produtos da Emília, como Parmigiano Reggiano e aceto balsâmico, a lembranças do Quebec onde a chef cresceu.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Torre_Ghirlandina_01.jpg/1920px-Torre_Ghirlandina_01.jpg",
@@ -7,7 +10,17 @@
     "author": "Cyberkeak",
     "license": "CC BY-SA 4.0",
     "caption": "Torre Ghirlandina e a catedral de Modena, no centro da cidade",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Torre Ghirlandina e catedral de Modena",
+    "alt": "Torre medieval de pedra ao lado da catedral, numa praça de calçamento",
+    "capturedAt": "2016-06-11",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Cyberkeak, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2023,
   "founders": [
@@ -16,7 +29,7 @@
   ],
   "chef": {
     "name": "Jessica Rosval",
-    "bio": "Nascida em Montreal, no Canadá, Rosval estudou cozinha na cidade e trabalhou no Chez L'Épicier, em Montreal, e no Bearfoot Bistro, em Whistler. Em 2013, um dia depois de jantar na Osteria Francescana, escreveu a Massimo Bottura pedindo qualquer posto na cozinha e começou lá dois meses depois; em 2019 assumiu a cozinha da Casa Maria Luigia. Fora do restaurante, criou em 2020 com Caroline Caporossi a Association for the Integration of Women e, em 2022, o Roots, restaurante-escola em Modena que forma mulheres migrantes como cozinheiras."
+    "bio": "Nascida em Montreal, no Canadá, Rosval estudou cozinha na cidade. Em 2013, conheceu Massimo Bottura ao fim de um jantar de aniversário na Osteria Francescana e, cerca de dois meses depois, já trabalhava na cozinha; em 2019 assumiu a cozinha da Casa Maria Luigia. Fora do restaurante, criou em 2020 com Caroline Caporossi a Association for the Integration of Women e, em 2022, o Roots, restaurante-escola em Modena que forma mulheres migrantes como cozinheiras."
   },
   "history": [
     "A origem do Al Gatto Verde é o Tòla Dòlza, encontro informal de domingo em volta do forno a lenha que Rosval começou a organizar na Casa Maria Luigia em junho de 2020; o nome, em dialeto, quer dizer algo como \"vá com calma\". A casa de hóspedes de Massimo Bottura e Lara Gilmore, no campo de San Damaso, a cerca de 20 minutos de carro do centro de Modena, já tinha um restaurante de menu-degustação, e o churrasco de domingo virou a ideia para um segundo.",
@@ -40,7 +53,17 @@
         "author": "Nerodiseppia",
         "license": "CC BY-SA 3.0",
         "caption": "Tortellini, massa típica de Modena; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Tortellini de Modena (ilustrativa)",
+        "alt": "Monte de tortellini amarelos",
+        "capturedAt": "2010-09-19",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Nerodiseppia, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -87,10 +110,22 @@
     }
   ],
   "practical": {
-    "price": "Menu-degustação Fables, de sete etapas, a 170 euros por pessoa; à la carte, entradas de 25 a 35 euros, massas de 45 a 60 euros e pratos principais de 50 a 70 euros (site oficial, 2026).",
-    "reservation": "Reservas online pelo site oficial ou pelo telefone +39 334 655 5554. Segundo a The 50 Best, o restaurante serve jantar de quarta a domingo e almoço aos domingos; o site oficial diz que abre de terça a domingo a partir do meio-dia. Só aceita clientes a partir de 15 anos.",
+    "price": "Menu-degustação Fables, de sete etapas, a 170 euros por pessoa; à la carte, entradas de 25 a 35 euros, primeiros pratos de 50 a 60 euros e pratos principais de 50 a 70 euros (site oficial, consultado em novembro de 2026).",
+    "reservation": "Reservas online pelo formulário do site oficial; grupos de mais de cinco pessoas reservam pelo e-mail reserve@ristorantealgattoverde.com e fazem o menu-degustação. Segundo o site, o restaurante serve jantar de quarta a sábado, com aperitivo a partir das 19h30, e almoço aos domingos. O cancelamento é gratuito até 48 horas antes; depois disso, ou em caso de não comparecimento, cobram-se 100 euros por pessoa. Só aceita clientes a partir de 15 anos.",
     "website": "https://ristorantealgattoverde.com/",
-    "address": "Stradello Bonaghino 56, San Damaso, 41126 Modena, Itália (dentro da Casa Maria Luigia)"
+    "address": "Stradello Bonaghino 56, San Damaso, 41126 Modena, Itália (dentro da Casa Maria Luigia)",
+    "reservationMode": "online",
+    "reservationUrl": "https://ristorantealgattoverde.com/reservations/",
+    "email": "reserve@ristorantealgattoverde.com",
+    "priceDetails": {
+      "amount": 170,
+      "currency": "EUR",
+      "basis": "Menu-degustação Fables, sete etapas, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://ristorantealgattoverde.com/menu/",
+      "checkedAt": "2026-11-10",
+      "note": "Página sem data; não informa couvert nem serviço."
+    }
   },
   "gallery": [
     {
@@ -99,7 +134,17 @@
       "author": "Pietro Luca Cassarino",
       "license": "CC BY-SA 4.0",
       "caption": "Massimo Bottura, dono da Casa Maria Luigia e do Al Gatto Verde, em Rimini (2015)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Massimo Bottura, dono da Casa Maria Luigia, em Rimini (2015)",
+      "alt": "Homem de óculos e barba falando ao microfone diante de uma plateia",
+      "capturedAt": "2015-06-20",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Pietro Luca Cassarino, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Barrel_of_Traditional_Balsamic_Vinegar_of_Modena.jpg/1920px-Barrel_of_Traditional_Balsamic_Vinegar_of_Modena.jpg",
@@ -107,7 +152,17 @@
       "author": "Giottotaste",
       "license": "CC0",
       "caption": "Barril de carvalho de aceto balsâmico tradicional de Modena no Museu do Vinagre Malpighi; imagem ilustrativa da acetaia vizinha ao restaurante",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Barril de aceto balsâmico tradicional (ilustrativa)",
+      "alt": "Pequeno barril escuro de carvalho apoiado num suporte de madeira",
+      "capturedAt": "2025-11-26",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Giottotaste, CC0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -139,5 +194,48 @@
         "note": "Fotografias do pátio, mesas externas e restaurante"
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://ristorantealgattoverde.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Dias de funcionamento corrigidos; telefone retirado porque o site oficial não publica nenhum e as duas páginas do The 50 Best divergem (+39 334 655 5554 e +39 059 867 7662)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://ristorantealgattoverde.com/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Passagens pelo Chez L'Épicier e Bearfoot Bistro e a carta a Bottura sem fonte; texto ajustado ao The 50 Best."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/list/Individual-Awards",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrela Michelin e estrela verde de 2025 só na imprensa; o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://ristorantealgattoverde.com/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "\"Non è una cozza\" não confirmado como prato de 2023."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante."
+    }
+  ]
 }

@@ -3,50 +3,50 @@
   "history": [
     "O Enigma abriu em janeiro de 2017, como o projeto mais ambicioso de Albert Adrià em Barcelona. Antes dele, o chef havia participado da revolução criativa do elBulli com Ferran Adrià, liderado seu laboratório de pesquisa e criado conceitos como Inopia, Tickets, Pakta e Bodega 1900. No novo restaurante, procurou reunir pesquisa, serviço e uma proposta própria sob um mesmo teto.",
     "A arquitetura foi desenvolvida por RCR Arquitectes, escritório catalão vencedor do Prêmio Pritzker de 2017. Atrás da fachada discreta, formas translúcidas, superfícies cinzentas e tetos de aparência suspensa criam ambientes que convidam à descoberta. Originalmente a refeição percorria diferentes salas; após o período de fechamento provocado pela pandemia, o restaurante reabriu em 2022 e foi reorganizado em torno de uma experiência mais fluida.",
-    "A primeira estrela Michelin veio em 2018. Após a reabertura em 2022, a casa recuperou a estrela e passou a conquistar novas posições nas listas internacionais: 82ª em 2023, 59ª em 2024 e 34ª em 2025. No fim de 2025, recebeu a segunda estrela Michelin, na edição do guia para 2026; em novembro de 2026, ficou em 29º lugar no ranking The 50 Best.",
+    "A primeira estrela Michelin veio no fim de 2017, na edição do guia para 2018. Após a reabertura em 2022, a casa recuperou a estrela e passou a conquistar novas posições nas listas internacionais: 82ª em 2023, 59ª em 2024 e 34ª em 2025. No fim de 2025, recebeu a segunda estrela Michelin, na edição do guia para 2026; em novembro de 2026, ficou em 29º lugar no ranking The 50 Best.",
     "A trajetória inclui também distinções individuais de Albert Adrià, como o prêmio de melhor chef de confeitaria em 2015 e o Chefs' Choice Award de 2025. A operação do restaurante combina o repertório acumulado em quatro décadas de profissão com uma equipe de sala, cozinha e pesquisa, sem apresentar as técnicas como um fim em si mesmas."
   ],
   "cuisine": {
     "style": "Cozinha criativa de mercado, sazonalidade e pesquisa técnica",
     "paragraphs": [
       "O Enigma funciona com um único menu degustação, normalmente de 20 a 25 etapas, desenvolvido mês a mês a partir dos produtos disponíveis nos mercados. Algumas receitas permanecem em diferentes temporadas; outras saem do cardápio conforme os ingredientes e as novas ideias da equipe. A casa prefere que cada prato tenha uma identidade própria, em vez de repetir uma técnica ou um estilo como assinatura.",
-      "A sequência pode ser organizada por famílias de ingredientes, com momentos dedicados a amêndoas, anchovas, vegetais, cogumelos, queijos e camarões. Produtos simples recebem tratamentos precisos de temperatura, textura e apresentação. No prato 'El ciclo de la vida', documentado pelo restaurante em junho de 2025 e citado pelo Michelin, o camarão aparece em preparações que representam idades diferentes do animal.",
-      "A experiência também revisita criações anteriores de Adrià. Um flã de foie gras concebido em 2003 foi reformulado com outra proporção de ingredientes e um molho de inspiração japonesa; uma anchova do Cantábrico pode ser servida sobre merengue salgado com tomate e óleo de umami. Há pratos finalizados diante do cliente. As receitas a seguir foram registradas em um menu digital oficial de junho de 2025; não devem ser interpretadas como garantia de disponibilidade em novembro de 2026."
+      "A sequência pode ser organizada por famílias de ingredientes, com momentos dedicados a amêndoas, anchovas, vegetais, cogumelos, queijos e camarões. Produtos simples recebem tratamentos precisos de temperatura, textura e apresentação. No prato 'El ciclo de la vida', documentado pelo restaurante em junho de 2025 e citado pelo Michelin, mas fora do menu de outono de 2026, o camarão aparece em preparações que representam idades diferentes do animal.",
+      "A experiência também revisita criações anteriores de Adrià. Um flã de foie gras concebido em 2003 foi reformulado com outra proporção de ingredientes e um molho de inspiração japonesa; uma anchova do Cantábrico chegou a ser servida sobre merengue salgado com tomate e óleo de umami. Há pratos finalizados diante do cliente. Parte das receitas a seguir foi registrada em um menu digital oficial de junho de 2025; no menu de outono de 2026 seguem o flã de foie gras e o tomate liofilizado com kumquat, enquanto as demais não aparecem na versão atual."
     ]
   },
   "chef": {
     "name": "Albert Adrià",
-    "bio": "Nascido em L'Hospitalet de Llobregat em 1969, Albert Adrià entrou no elBulli em 1985, aos 15 anos, e passou pelas diferentes áreas da cozinha antes de se dedicar especialmente à confeitaria. Trabalhou em pesquisas e criações do elBullitaller ao lado de Ferran Adrià e Oriol Castro, mantendo essa atividade até 2008. Em Barcelona, participou de projetos como Inopia, Tickets, Pakta, Bodega 1900 e Hoja Santa. Recebeu o prêmio World's Best Pastry Chef em 2015 e o Chefs' Choice Award em 2025. Hoje concentra seu trabalho no Enigma e em projetos de pesquisa."
+    "bio": "Nascido em L'Hospitalet de Llobregat em 1969, Albert Adrià entrou no elBulli em 1985, ainda adolescente, e passou pelas diferentes áreas da cozinha antes de se dedicar especialmente à confeitaria. Trabalhou em pesquisas e criações do elBullitaller ao lado de Ferran Adrià e Oriol Castro, mantendo essa atividade até 2008. Em Barcelona, participou de projetos como Inopia, Tickets, Pakta, Bodega 1900 e Hoja Santa. Recebeu o prêmio World's Best Pastry Chef em 2015 e o Chefs' Choice Award em 2025. Hoje concentra seu trabalho no Enigma e em projetos de pesquisa."
   },
   "dishes": [
     {
       "name": "El ciclo de la vida — o ciclo de vida do camarão",
-      "desc": "Sequência descrita no menu oficial de junho de 2025 que compara texturas e sabores do camarão conforme a idade: preparações cruas, cítricas, curadas e cozidas, encerradas com escabeche de cabeça. Também citada pelo Guia Michelin.",
+      "desc": "Sequência descrita no menu oficial de junho de 2025 que compara texturas e sabores do camarão conforme a idade: preparações cruas, cítricas, curadas e cozidas, encerradas com escabeche de cabeça. Também citada pelo Guia Michelin. Não consta do menu de outono de 2026.",
       "photo": null
     },
     {
       "name": "Flã de foie gras com molho de frango teriyaki",
-      "desc": "Reinterpretação documentada em junho de 2025 de uma receita criada por Adrià em 2003. A versão revisada modifica a estrutura do flã e o acompanha com molho de frango inspirado no teriyaki.",
+      "desc": "Reinterpretação documentada em junho de 2025 de uma receita criada por Adrià em 2003. A versão revisada modifica a estrutura do flã e o acompanha com molho de frango inspirado no teriyaki. Segue no menu de outono de 2026; o molho atual não é especificado.",
       "photo": null
     },
     {
       "name": "Anchova do Cantábrico com merengue salgado",
-      "desc": "Anchova conservada em sal, servida com uma base que imita pão, mas é feita de merengue salgado, tomate rosetta e óleo umami. Registrada pelo restaurante em junho de 2025.",
+      "desc": "Anchova conservada em sal, servida com uma base que imita pão, mas é feita de merengue salgado, tomate rosetta e óleo umami. Registrada pelo restaurante em junho de 2025. Não consta do menu de outono de 2026.",
       "photo": null
     },
     {
       "name": "Perretxico, macadâmia e ovas de rodovalho",
-      "desc": "Cogumelo perretxico em emulsão e espuma, com leite de macadâmia, tarama de ovas de rodovalho e limão desidratado. Prato de temporada documentado em junho de 2025.",
+      "desc": "Cogumelo perretxico em emulsão e espuma, com leite de macadâmia, tarama de ovas de rodovalho e limão desidratado. Prato de temporada documentado em junho de 2025. Não consta do menu de outono de 2026.",
       "photo": null
     },
     {
       "name": "Ervilhas-têmpera sobre vagem de baunilha",
-      "desc": "Ervilhas pequenas servidas sobre uma vagem de baunilha e gelificadas com água de tomate, com toques de maracujá. A apresentação exige que o comensal levante a vagem com as mãos; descrita no menu de junho de 2025.",
+      "desc": "Ervilhas pequenas servidas sobre uma vagem de baunilha e gelificadas com água de tomate, com toques de maracujá. A apresentação exige que o comensal levante a vagem com as mãos; descrita no menu de junho de 2025. Não consta do menu de outono de 2026.",
       "photo": null
     },
     {
       "name": "Tomate Amela com sorvete de kumquat",
-      "desc": "Tomate da variedade Amela, cultivado para concentrar dulçor e acidez, apresentado liofilizado com um elemento gelado de kumquat no menu registrado em junho de 2025.",
+      "desc": "Tomate da variedade Amela, cultivado para concentrar dulçor e acidez, apresentado liofilizado com um elemento gelado de kumquat no menu registrado em junho de 2025. Segue no menu de outono de 2026, com kumquat, cristal de hibisco e macadâmia.",
       "photo": null
     }
   ],
@@ -57,19 +57,19 @@
     },
     {
       "year": 2018,
-      "title": "Enigma: primeira estrela Michelin"
+      "title": "Guia Michelin Espanha 2018: primeira estrela (anunciada em novembro de 2017)"
     },
     {
       "year": 2019,
       "title": "The World's 50 Best Restaurants: 82º lugar"
     },
     {
-      "year": 2020,
+      "year": 2019,
       "title": "Guía Repsol: um Sol para o Enigma"
     },
     {
       "year": 2021,
-      "title": "Guía Repsol: manutenção de um Sol"
+      "title": "Guía Repsol: manutenção de um Sol (2020 e 2021)"
     },
     {
       "year": 2022,
@@ -120,8 +120,20 @@
     "website": "https://enigmaconcept.es/",
     "address": "Carrer Sepúlveda 38–40 (esquina com Entença), 08015 Barcelona, Espanha",
     "price": "Menu degustação de aproximadamente 20 a 25 etapas: € 280 por pessoa, com IVA incluído e sem bebidas (site oficial, consulta em novembro de 2026). Duração estimada: de 2h30 a 3h30. Confirmar condições ao reservar.",
-    "reservation": "Reservas antecipadas pelo site oficial, que abre a agenda 60 dias antes. A casa exige confirmação posterior por e-mail ou SMS; cancelamento ou redução de convidados com menos de 72 horas pode gerar cobrança de € 280 por pessoa. Mesas de cinco ou mais pessoas exigem pagamento antecipado de € 140 por convidado, abatido da conta. Não oferece menu vegetariano ou vegano. Funciona de segunda a quinta à noite e sexta no almoço; fecha aos sábados e domingos, e de 24/12/2026 a 18/01/2027. Para dúvidas e lista de espera: +34 616 69 63 22.",
-    "reservationUrl": "https://enigmaconcept.es/es/reserva/"
+    "reservation": "Reservas antecipadas pelo site oficial, que abre a agenda 60 dias antes. A casa exige confirmação posterior por e-mail ou SMS; cancelamento ou redução de convidados com menos de 72 horas pode gerar cobrança de € 280 por pessoa. Mesas de cinco ou mais pessoas exigem pagamento antecipado de € 140 por convidado, abatido da conta. Não oferece menu vegetariano ou vegano. Funciona de segunda a quinta à noite e sexta no almoço; fecha aos sábados e domingos, e de 24/12/2026 a 18/01/2027. Sem disponibilidade, é possível entrar na lista de espera on-line ou consultar cancelamentos de última hora pelo WhatsApp; atendimento telefônico pelo +34 616 69 63 22 (segunda a quinta, 13h–21h; sexta, 9h–17h).",
+    "reservationUrl": "https://enigmaconcept.es/es/reserva/",
+    "reservationMode": "online",
+    "phone": "+34 616 69 63 22",
+    "email": "info@enigmaconcept.es",
+    "priceDetails": {
+      "amount": 280,
+      "currency": "EUR",
+      "basis": "Menu degustação único, por pessoa, sem bebidas",
+      "taxesIncluded": true,
+      "sourceUrl": "https://enigmaconcept.es/es/reserva/",
+      "checkedAt": "2026-11-10",
+      "note": "IVA incluído segundo a página de reservas e o menu de outono de 2026; multa de € 280 por pessoa em cancelamento tardio; grupos de cinco ou mais pagam € 140 por pessoa antecipadamente."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
@@ -137,9 +149,13 @@
     "https://thebestchefawards.com/chefs/albert-adria/",
     "https://albertadria.com/press/asi-se-come-en-enigma-de-albert-adria-nuevo-restaurante-dos-estrellas-michelin/",
     "https://commons.wikimedia.org/wiki/File:Mercat_de_Sant_Antoni,_Barcelona.jpg",
-    "https://commons.wikimedia.org/wiki/File:Mercat_de_Sant_Antoni.jpg"
+    "https://commons.wikimedia.org/wiki/File:Mercat_de_Sant_Antoni.jpg",
+    "https://enigmaconcept.es/wp-content/uploads/2026/11/Copia-de-MENU-ENIGMA-abril-94.pdf"
   ],
   "slug": "enigma",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 29,
   "founded": 2017,
   "founders": [
@@ -151,7 +167,17 @@
     "author": "Julian Lupyan",
     "license": "CC0 1.0",
     "caption": "Imagem contextual: Mercat de Sant Antoni, no bairro de Barcelona onde fica o Enigma, em 2023. NÃO é uma fotografia do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Mercat de Sant Antoni, no bairro do Enigma (2023)",
+    "alt": "Mercado de ferro e tijolo vermelho numa esquina, com árvores e bicicletas",
+    "capturedAt": "2023-08-05",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Julian Lupyan, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -160,7 +186,17 @@
       "author": "Pere prlpz",
       "license": "CC BY-SA 3.0",
       "caption": "Vista histórica do mercado de Sant Antoni em 2008. A imagem ilustra a região, não a cozinha ou o interior do Enigma.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Mercat de Sant Antoni em 2008",
+      "alt": "Fachada do mercado com frontão decorado e carros estacionados",
+      "capturedAt": "2008-08-08",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Pere prlpz, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -168,5 +204,47 @@
     "publisher": "Architectural Record",
     "url": "https://www.architecturalrecord.com/articles/12938-enigma-restaurant-by-rcr-arquitectes-and-pau-llimona",
     "note": "Foto do edifício e acesso ao Enigma em Barcelona, publicada com créditos fotográficos."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://enigmaconcept.es/es/informacion/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://enigmaconcept.es/es/reserva/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.guiarepsol.com/es/fichas/enigma-27009/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Primeira estrela datada pela edição de 2018 (anúncio em novembro de 2017); primeiro Sol Repsol em 2019, não 2020."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://enigmaconcept.es/wp-content/uploads/2026/11/Copia-de-MENU-ENIGMA-abril-94.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Comparados com o menu de outono de 2026: dois seguem, quatro saíram."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://albertadria.com/albert-adria-2/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "\"Aos 15 anos\" sem fonte direta; ajustado. Chefs' Choice de 2025 só em fontes secundárias."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

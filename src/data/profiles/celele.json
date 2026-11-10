@@ -26,7 +26,7 @@
     },
     {
       "name": "Salada de flores caribenhas e castanha-de-caju",
-      "desc": "Folhas frescas e flores com castanhas em conserva e tostadas, creme de castanha e vinagrete aromático de flor de gengibre e maracujá. Descrita pelo The 50 Best em 2025.",
+      "desc": "Folhas frescas e flores com castanhas em conserva e tostadas, creme de castanha e vinagrete aromático de flor de gengibre-tocha e flor de maracujá. Descrita pelo The 50 Best em 2025.",
       "photo": null
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "name": "Sorvete de coco e ylang-ylang",
-      "desc": "Sobremesa regional com sorvete de coco aromatizado por flores de ylang-ylang, indicada na apresentação oficial do The 50 Best. A composição pode variar com a temporada.",
+      "desc": "Sobremesa regional com sorbet de coco aromatizado com ylang-ylang, indicada na apresentação oficial do The 50 Best. A composição pode variar com a temporada.",
       "photo": null
     }
   ],
@@ -99,9 +99,20 @@
   "practical": {
     "website": "https://celelerestaurante.com/",
     "address": "Carrera 10C nº 29-200, Calle del Espíritu Santo, bairro Getsemaní, Cartagena de Indias, Colômbia",
-    "price": "A experiência temporária 'Volver al Origen', anunciada na plataforma Mesa 24/7 e consultada em 8/11/2026, oferece menu de 8 etapas por COP 465.000 por pessoa, sem acompanhamento de bebidas. Esse valor é exclusivo da experiência anunciada e não deve ser considerado preço permanente do restaurante.",
-    "reservation": "Reservas na plataforma Mesa 24/7 acessível pelo site oficial do Celele ou pelo telefone +57 301 742 0389. A experiência temporária 'Volver al Origen' é limitada a 25 pessoas por serviço, sem menu à la carte; as informações da página de reservas indicam um terceiro andar sem elevador, com limitação de acesso para pessoas com mobilidade reduzida. Verifique qual experiência está em funcionamento e suas condições antes de reservar.",
-    "reservationUrl": "https://www.mesa247.co/bol%C3%ADvar/restaurante/celele"
+    "price": "A experiência temporária 'Volver al Origen', anunciada na plataforma Mesa 24/7 e consultada em 8/11/2026, oferece menu de 8 etapas por COP 465.000 por pessoa, sem acompanhamento de bebidas. Esse valor é exclusivo da experiência anunciada e não deve ser considerado preço permanente do restaurante. A versão com harmonização custa COP 695.000. A página não informa se impostos e serviço estão incluídos.",
+    "reservation": "Reservas na plataforma Mesa 24/7, pelo link do site oficial do Celele, ou pelo telefone +57 301 742 0389. A experiência temporária 'Volver al Origen' é limitada a 25 pessoas por serviço e não tem menu à la carte. Segundo a página de reservas, o salão fica num terceiro andar sem elevador, e o restaurante informa que não pode receber pessoas com mobilidade reduzida. Ausências são cobradas, sem reembolso. Verifique qual experiência está em funcionamento e suas condições antes de reservar.",
+    "reservationUrl": "https://celele.mesa247.co/reservas/celele",
+    "reservationMode": "online",
+    "phone": "+57 301 742 0389",
+    "priceDetails": {
+      "amount": 465000,
+      "currency": "COP",
+      "basis": "Menu de oito etapas 'Volver al Origen', por pessoa, sem harmonização (temporada limitada)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://experiencias.mesa247.co/experiencias/celele/celele-volver-al-origen-sin-maridaje-en-celele-Vq26Rma5mkVewyYWgXz9",
+      "checkedAt": "2026-11-10",
+      "note": "Com harmonização: COP 695.000; impostos e serviço não informados; temporada sem data de término."
+    }
   },
   "sources": [
     "https://celelerestaurante.com/",
@@ -119,6 +130,9 @@
     "https://commons.wikimedia.org/wiki/File:Calle_del_Guerrero,_Getseman%C3%AD,_Cartagena.jpg"
   ],
   "slug": "celele",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 31,
   "founded": 2018,
   "founders": [
@@ -131,7 +145,17 @@
     "author": "Free tours",
     "license": "CC BY-SA 4.0",
     "caption": "Imagem contextual: uma rua do bairro Getsemaní, em Cartagena, fotografada em 2021. NÃO é uma fotografia do restaurante Celele.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Rua de Getsemaní, em Cartagena (2021)",
+    "alt": "Orla de Cartagena ao pôr do sol, com prédios coloniais e céu rosado",
+    "capturedAt": "2021-01-23",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Free tours, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -140,7 +164,17 @@
       "author": "Bernard Gagnon",
       "license": "CC BY-SA 4.0",
       "caption": "O Callejón Angosto em Getsemaní, fotografado em 2020. Ilustra o bairro onde fica o restaurante, não o interior do Celele.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Callejón Angosto, em Getsemaní (2020)",
+      "alt": "Placa de azulejos com o nome Callejón Angosto numa parede azul, ao lado de uma bandeira",
+      "capturedAt": "2020-01-25",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Bernard Gagnon, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle_del_Guerrero%2C_Getseman%C3%AD%2C_Cartagena.jpg?width=960",
@@ -148,7 +182,17 @@
       "author": "Bernard Gagnon",
       "license": "CC BY-SA 4.0",
       "caption": "Uma rua do bairro Getsemaní, em Cartagena, fotografada em 2020. Imagem de contexto, não da casa.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Calle del Guerrero, em Getsemaní (2020)",
+      "alt": "Placa de azulejos Calle del Guerrero e uma seta de mão única numa parede branca",
+      "capturedAt": "2020-01-25",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Bernard Gagnon, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -156,5 +200,41 @@
     "publisher": "CNN Brasil Viagem & Gastronomia",
     "url": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/celele-e-mais-que-um-restaurante-e-a-alma-do-caribe-colombiano-a-mesa/",
     "note": "Reportagem com foto identificada como fachada azul do Celele, em Cartagena."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://celelerestaurante.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Link de reserva trocado pelo do botão oficial; aviso de acessibilidade reforçado conforme a página de reservas."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://experiencias.mesa247.co/experiencias/celele/celele-volver-al-origen-sin-maridaje-en-celele-Vq26Rma5mkVewyYWgXz9",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://celelerestaurante.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Prêmios de 2019 a 2024 conferidos só na lista do site oficial."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/celele.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Seis pratos citados pelo The 50 Best em 2025 ou 2026; dois detalhes de descrição corrigidos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

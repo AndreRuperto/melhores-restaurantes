@@ -1,5 +1,8 @@
 {
   "slug": "vyn",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Numa antiga propriedade rural no alto de uma colina de Österlen, entre os vilarejos de pescadores de Skillinge e Brantevik, no sudeste da Suécia, o chef Daniel Berlin recomeçou depois de fechar seu restaurante anterior. O nome quer dizer \"a vista\": do salão se vê o mar Báltico, e o menu de cerca de 16 serviços sai de hortas, florestas, campos e águas de Skåne.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Skillinge_juli_2015.jpg/1920px-Skillinge_juli_2015.jpg",
@@ -7,7 +10,17 @@
     "author": "Jorchr",
     "license": "CC BY-SA 3.0",
     "caption": "Porto de Skillinge, vilarejo de pescadores de Österlen, em julho de 2015",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Porto de Skillinge, em Österlen (2015)",
+    "alt": "Pequeno porto com barcos atracados e casas baixas à beira da água",
+    "capturedAt": "2015-07-02",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Jorchr, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2023,
   "founders": [
@@ -15,7 +28,7 @@
   ],
   "chef": {
     "name": "Daniel Berlin",
-    "bio": "Nascido em 1982 em Landskrona, no sul da Suécia, Berlin se formou cozinheiro ainda no ensino médio e trabalhou com Thomas Drejing no Petri Pumpa, em Malmö, e no Guldapan, em Estocolmo, antes de virar chef do Torso Twisted, em Malmö, aos 26 anos. De 2009 a 2020 comandou a Daniel Berlin Krog, em Skåne-Tranås, que chegou a duas estrelas Michelin. Foi eleito seis vezes Kockarnas Kock, o prêmio de chef do ano votado pelos próprios cozinheiros suecos, a última delas em 2025."
+    "bio": "Nascido em 1982 em Landskrona, no sul da Suécia, Berlin se formou cozinheiro ainda no ensino médio e trabalhou com Thomas Drejing no Petri Pumpa, em Malmö, antes de virar chef do Torso Twisted, em Malmö, aos 26 anos. De 2009 a 2020 comandou a Daniel Berlin Krog, em Skåne-Tranås, que chegou a duas estrelas Michelin. Foi eleito seis vezes Kockarnas Kock, o prêmio de chef do ano votado pelos próprios cozinheiros suecos, a última delas em 2025."
   },
   "history": [
     "Em 2009, Daniel Berlin assumiu o restaurante de Lennart Brummer em Skåne-Tranås, no interior de Skåne, e o rebatizou de Daniel Berlin Krog. A casa tinha quatro mesas e no máximo 16 lugares, ganhou a primeira estrela Michelin em 2016 e a segunda em 2018. Em setembro de 2020 Berlin a fechou para cuidar da família: a mulher, Anna, estava com câncer e morreu na primavera de 2021, deixando os filhos gêmeos do casal.",
@@ -39,7 +52,17 @@
         "author": "Elke Wetzig (Elya)",
         "license": "CC BY-SA 3.0",
         "caption": "Vieiras seladas servidas como entrada; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Vieiras seladas como entrada (ilustrativa)",
+        "alt": "Vieiras seladas servidas em colheres, com molho alaranjado",
+        "capturedAt": "2011-11-25",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Elke Wetzig (Elya), CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -56,7 +79,17 @@
         "author": "Dalmato99",
         "license": "CC BY-SA 3.0",
         "caption": "Colher com löjrom de Kalix, ovas de vendace com denominação de origem protegida; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Löjrom de Kalix (ilustrativa)",
+        "alt": "Colher branca com ovas alaranjadas sobre superfície escura",
+        "capturedAt": "2010-09-07",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Dalmato99, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -68,7 +101,17 @@
         "author": "cyclonebill",
         "license": "CC BY-SA 2.0",
         "caption": "Lagostins (Nephrops norvegicus) grelhados; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Lagostins grelhados (ilustrativa)",
+        "alt": "Lagostins grelhados num prato com limão e coentro",
+        "capturedAt": "2010-07-12",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "cyclonebill, CC BY-SA 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -83,7 +126,7 @@
     },
     {
       "year": 2024,
-      "title": "Melhor abertura do ano, La Liste (Paris)"
+      "title": "Opening of the Year Award, prêmios especiais La Liste 2025 (anunciados em novembro de 2024)"
     },
     {
       "year": 2024,
@@ -107,10 +150,23 @@
     }
   ],
   "practical": {
-    "price": "Menu degustação a SEK 4.000 por pessoa (2026); o site anuncia SEK 4.500 a partir de 1º de janeiro. Harmonização de vinhos a SEK 2.500; harmonização sem álcool a SEK 1.600.",
-    "reservation": "Pelo site oficial. As reservas abrem no dia 1º de cada mês para o terceiro mês seguinte (por exemplo, 1º de junho abre setembro). Jantar de quarta a sexta e almoço aos sábados; o food & wine bar recebe clientes sem reserva.",
+    "price": "Menu degustação a SEK 4.000 por pessoa; o site anuncia SEK 4.500 a partir de 1º de janeiro. Harmonizações de vinhos a SEK 2.500 (prestige a SEK 4.500 e da adega a SEK 10.000); harmonização sem álcool a SEK 1.600 (site oficial, consultado em novembro de 2026).",
+    "reservation": "Pelo site oficial. As reservas abrem no dia 1º de cada mês para o terceiro mês seguinte (por exemplo, 1º de junho abre setembro). Jantar de quarta a sexta e almoço aos sábados; o food & wine bar recebe clientes sem reserva. Cancelamentos com menos de sete dias ou ausência são cobrados em SEK 4.000 por pessoa. Telefone +46 414 204 00 e e-mail reservations@vynrestaurant.se.",
     "website": "https://vynrestaurant.se",
-    "address": "Höga vägen 72, 272 92 Simrishamn (Skillinge, Österlen), Suécia"
+    "address": "Höga vägen 72, 272 92 Simrishamn (Skillinge, Österlen), Suécia",
+    "reservationMode": "online",
+    "reservationUrl": "https://vynrestaurant.se/restaurant/",
+    "phone": "+46 414 204 00",
+    "email": "reservations@vynrestaurant.se",
+    "priceDetails": {
+      "amount": 4000,
+      "currency": "SEK",
+      "basis": "Menu degustação por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://vynrestaurant.se/restaurant/",
+      "checkedAt": "2026-11-10",
+      "note": "O site anuncia SEK 4.500 a partir de 1º de janeiro, sem informar o ano; harmonizações de SEK 1.600 a SEK 10.000; impostos e serviço não informados."
+    }
   },
   "gallery": [
     {
@@ -119,7 +175,17 @@
       "author": "Jorchr",
       "license": "CC BY-SA 3.0",
       "caption": "Rochas calcárias à beira do Báltico em Gislövshammar, perto do Vyn, usadas no passado como pedreira de mós",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Rochas calcárias em Gislövshammar, à beira do Báltico",
+      "alt": "Lajes de calcário planas à beira de um mar raso",
+      "capturedAt": "2008-07-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Jorchr, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Daniel_Berlin_-_Restaurant_in_Sk%C3%A5ne-Tran%C3%A5s_2018_-_01.jpg/1920px-Daniel_Berlin_-_Restaurant_in_Sk%C3%A5ne-Tran%C3%A5s_2018_-_01.jpg",
@@ -127,7 +193,17 @@
       "author": "Sinikka Halme",
       "license": "CC BY-SA 4.0",
       "caption": "Fachada da Daniel Berlin Krog, o restaurante anterior do chef em Skåne-Tranås, em 2018; fechou em 2020",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Daniel Berlin Krog, o restaurante anterior do chef (2018)",
+      "alt": "Casa amarela de telhado escuro com porta vermelha e jardim na frente",
+      "capturedAt": "2018-08-03",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Sinikka Halme, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -168,5 +244,47 @@
         "note": "Projeto arquitetônico do Vyn e sua sede atual"
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://vynrestaurant.se/restaurant/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://vynrestaurant.se/restaurant/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.laliste.com/awards/special-awards-2025",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Kockarnas Kock de 2024 e 2025 só na Wikipédia sueca; prêmio do La Liste renomeado conforme a página oficial; estrelas Michelin de 2026 não conferidas no guia."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://sv.wikipedia.org/wiki/Daniel_Berlin_(krögare)",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Passagem pelo Guldapan sem fonte; retirada."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/41-50/vyn.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos citados pelo The 50 Best; o site oficial não lista pratos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos da região e do restaurante anterior do chef."
+    }
+  ]
 }

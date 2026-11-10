@@ -554,3 +554,16 @@ Relatório: [fase-2-L03.md](lotes/fase-2-L03.md). Perfis 12 a 21 (Sorn a Meet th
 | 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+## 16. Atualização de execução — 10/11/2026, lote L4 em revisão
+
+Relatório: [fase-2-L04.md](lotes/fase-2-L04.md). Perfis 22 a 32, sem o Steirereck (já no piloto).
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 53 usos e 52 arquivos conferidos; nenhuma foto atribuída à casa errada; uma legenda ajustada | Fotos licenciadas dos próprios restaurantes em nove dos dez perfis (P2) |
+| 2.4 | Mudança do Lasai para Ipanema, volta de peixe e carne ao menu do Reale, canal só por telefone do Masque, aviso de acessibilidade do Celele e datas de prêmios corrigidas | 13 itens com fonte única e 4 não verificados; datas voláteis do Lasai e do Reale |
+| F2-04 | Dez perfis no contrato estrito; total de 35 perfis e 208 fotos com direito aprovado | Revisor humano |
+| 2.3 | 20 casos de layout sem overflow | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**

@@ -1,5 +1,8 @@
 {
   "slug": "borago",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Em Vitacura, ao pé do Cerro Manquehue, em Santiago, o Boragó serve um único menu, o Endémica, montado apenas com ingredientes nativos do Chile, do deserto do Atacama à Patagônia. O chef Rodolfo Guzmán trabalha com mais de 200 coletores e pequenos produtores e mantém um centro de pesquisa dedicado à despensa endêmica do país.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Borag%C3%B3%2C_Vitacura%2C_Santiago_20240610_02.jpg/1920px-Borag%C3%B3%2C_Vitacura%2C_Santiago_20240610_02.jpg",
@@ -7,7 +10,17 @@
     "author": "Carlos Figueroa Rojas",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do Boragó na Avenida San Josemaría Escrivá de Balaguer, em Vitacura, Santiago (junho de 2024).",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Boragó em Vitacura (2024)",
+    "alt": "Fachada baixa de madeira escura e painéis de madeira rústica, com folhas secas na calçada",
+    "capturedAt": "2024-06-10",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2006,
   "founders": [
@@ -39,7 +52,17 @@
         "author": "Holger Krisp",
         "license": "CC BY 3.0",
         "caption": "Alface-do-mar (Ulva lactuca) numa praia da Croácia (imagem ilustrativa do ingrediente).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Alface-do-mar numa praia da Croácia (ilustrativa)",
+        "alt": "Alga verde e translúcida sobre pedras",
+        "capturedAt": "2011-06-24",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Holger Krisp, CC BY 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -56,7 +79,17 @@
         "author": "LBM1948",
         "license": "CC BY-SA 4.0",
         "caption": "Cordeiro assado ao estilo magalânico no Parque Nacional Torres del Paine, na Patagônia chilena (imagem ilustrativa).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Cordeiro assado ao estilo magalânico (ilustrativa)",
+        "alt": "Cordeiro inteiro assando em espeto ao ar livre, com duas pessoas ao fundo",
+        "capturedAt": "2012-12-31",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "LBM1948, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -73,7 +106,17 @@
         "author": "Caleidoscopic",
         "license": "CC BY-SA 4.0",
         "caption": "Marraquetas, o pão típico do Chile (imagem ilustrativa).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Marraquetas, o pão típico do Chile (ilustrativa)",
+        "alt": "Pilha de pães dourados de marraqueta",
+        "capturedAt": "2020-01-17",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Caleidoscopic, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -108,7 +151,7 @@
     },
     {
       "year": 2018,
-      "title": "Latin America's 50 Best Restaurants — nº 5 e Sustainable Restaurant Award (primeira edição do prêmio)"
+      "title": "Latin America's 50 Best Restaurants — nº 4, Best Restaurant in Chile e Sustainable Restaurant Award (primeira edição do prêmio)"
     },
     {
       "year": 2019,
@@ -160,10 +203,23 @@
     }
   ],
   "practical": {
-    "price": "Menu Endémica (12 a 18 etapas) a CLP 199.000 por pessoa; harmonização de vinhos CLP 99.000 e de sucos CLP 49.000 (site oficial, consultado em novembro de 2026).",
-    "reservation": "Reserva pelo site oficial (borago.cl/en/reservations), pelo e-mail reservations@borago.cl ou pelo telefone +56 2 2953 8893, com cartão de crédito como garantia; cancelamentos com menos de 24 horas têm multa de US$ 100 por pessoa. Funciona de terça a sábado, a partir das 17h15. Há menu ovolactovegetariano mediante aviso de 24 horas; não há opção vegana.",
+    "price": "Menu Endémica (12 a 18 etapas) a CLP 199.000 por pessoa; harmonização de vinhos CLP 99.000 e de sucos CLP 49.000 (site oficial, consultado em novembro de 2026); o site não informa se IVA e gorjeta estão incluídos.",
+    "reservation": "Reserva pelo site oficial (borago.cl/en/reservations), que usa o sistema CoverManager, pelo WhatsApp +56 9 6509 7768, pelo e-mail reservations@borago.cl ou pelo telefone +56 2 2953 8893, com cartão de crédito como garantia; cancelamentos com menos de 24 horas têm multa de US$ 100 por pessoa. Funciona de terça a sábado, a partir das 17h15. Há menu ovolactovegetariano mediante aviso de 24 horas; não há opção vegana.",
     "website": "https://borago.cl/en/welcome/",
-    "address": "Av. San José María Escrivá de Balaguer 5970, Vitacura, Santiago, Região Metropolitana, 7640804, Chile"
+    "address": "Av. San José María Escrivá de Balaguer 5970, Vitacura, Santiago, Região Metropolitana, 7640804, Chile",
+    "reservationMode": "online",
+    "reservationUrl": "https://borago.cl/en/reservations/",
+    "phone": "+56 2 2953 8893",
+    "email": "reservations@borago.cl",
+    "priceDetails": {
+      "amount": 199000,
+      "currency": "CLP",
+      "basis": "Menu Endémica, de 12 a 18 etapas, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://borago.cl/en/reservations/",
+      "checkedAt": "2026-11-10",
+      "note": "Harmonização de vinhos CLP 99.000 e de sucos CLP 49.000; o site não informa IVA nem gorjeta; preços sujeitos a mudança."
+    }
   },
   "gallery": [
     {
@@ -172,7 +228,17 @@
       "author": "Carlos Figueroa Rojas",
       "license": "CC BY-SA 4.0",
       "caption": "Painel de madeira com o nome do restaurante na entrada do Boragó, em Vitacura.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Painel de madeira com o nome do Boragó na entrada (2024)",
+      "alt": "Painel de tábuas de madeira com o nome Boragó em letras de metal",
+      "capturedAt": "2024-06-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Vista_al_Cerro_Manquehue_desde_El_Carb%C3%B3n.jpg/1920px-Vista_al_Cerro_Manquehue_desde_El_Carb%C3%B3n.jpg",
@@ -180,7 +246,17 @@
       "author": "José Ignacio Gallardo",
       "license": "CC BY-SA 4.0",
       "caption": "O Cerro Manquehue visto do Cerro El Carbón; o Boragó fica ao pé do morro, em Vitacura.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Cerro Manquehue visto do Cerro El Carbón",
+      "alt": "Montanha alta sob céu azul, vista de uma trilha de terra entre arbustos",
+      "capturedAt": "2023-05-01",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "José Ignacio Gallardo, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cyttaria_Espinosae_%28Dig%C3%BCe%C3%B1e%29.jpg/1920px-Cyttaria_Espinosae_%28Dig%C3%BCe%C3%B1e%29.jpg",
@@ -188,7 +264,17 @@
       "author": "Robert Motecinos Holda",
       "license": "CC0",
       "caption": "Digüeñes (Cyttaria espinosae), fungo comestível da tradição mapuche que cresce em árvores do gênero Nothofagus, na Araucanía (imagem ilustrativa).",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Digüeñes, fungo comestível mapuche (ilustrativa)",
+      "alt": "Fungos alaranjados e esféricos presos ao tronco de uma árvore",
+      "capturedAt": "2025-12-26",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Robert Motecinos Holda, CC0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -223,6 +309,58 @@
     "author": "Carlos Figueroa Rojas",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do Boragó na Avenida San Josemaría Escrivá de Balaguer, em Vitacura, Santiago (junho de 2024).",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Boragó em Vitacura (2024)",
+    "alt": "Fachada baixa de madeira escura e painéis de madeira rústica, com folhas secas na calçada",
+    "capturedAt": "2024-06-10",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://borago.cl/en/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://borago.cl/en/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/latinamerica/en/previous-list/2018",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Em 2018 o Boragó foi 4º na lista latino-americana, não 5º; corrigido."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/latinamerica/en/the-list/borago.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Endereço da Nueva Costanera em 2016 não reconferido."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/borago.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos citados pelo The 50 Best em 2025 e 2026; o site oficial não lista pratos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Borag%C3%B3_(restaurant)",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fachada e placa conferidas visualmente."
+    }
+  ]
 }

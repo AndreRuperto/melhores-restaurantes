@@ -1,5 +1,8 @@
 {
   "slug": "masque",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Instalado num antigo moinho têxtil de Mahalaxmi, em Mumbai, o Masque abriu em 2016 servindo apenas menu-degustação, formato então raro na Índia, e construiu sua cozinha sobre ingredientes garimpados em todas as regiões do país. Em 2026 foi o restaurante indiano mais bem colocado no Asia's 50 Best.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mumbai%2C_lavatoi_al_mahalaxmi_dhobi_ghat_01.jpg/1920px-Mumbai%2C_lavatoi_al_mahalaxmi_dhobi_ghat_01.jpg",
@@ -7,7 +10,17 @@
     "author": "Sailko",
     "license": "CC BY 3.0",
     "caption": "O Dhobi Ghat de Mahalaxmi, a lavanderia a céu aberto do bairro do Masque, com os prédios de Mumbai ao fundo",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Dhobi Ghat de Mahalaxmi, bairro do Masque",
+    "alt": "Lavanderia a céu aberto com roupas estendidas e lonas azuis, prédios ao fundo",
+    "capturedAt": "2019-11-01",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Sailko, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2016,
   "founders": [
@@ -33,50 +46,90 @@
   "dishes": [
     {
       "name": "Sea buckthorn pani puri",
-      "desc": "Releitura do petisco de rua com beterraba curada em alga, carambola e um caldo (pani) de sea buckthorn, fruta ácida e alaranjada que cresce em regiões de montanha como Ladakh.",
+      "desc": "Releitura do petisco de rua com caldo (pani) de sea buckthorn, fruta ácida e alaranjada que cresce em regiões de montanha como Ladakh. Prato de menus anteriores; no menu de fevereiro de 2025 o sea buckthorn aparecia num rassa com jicama e caranguejo.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Leh_Berry_Hippophae_Sea-buckthorn_Horticulture_Agriculture_Produce_of_India.jpg/1920px-Leh_Berry_Hippophae_Sea-buckthorn_Horticulture_Agriculture_Produce_of_India.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Leh_Berry_Hippophae_Sea-buckthorn_Horticulture_Agriculture_Produce_of_India.jpg",
         "author": "Karunakar Rayker",
         "license": "CC BY 2.0",
         "caption": "Frutos de sea buckthorn no vale de Leh, em Ladakh (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Frutos de sea buckthorn em Ladakh (ilustrativa)",
+        "alt": "Galho com frutinhas alaranjadas e folhas finas sob céu azul",
+        "capturedAt": "2008-02-06",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Karunakar Rayker, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Prickly pear, nagphani e coconut malai (figo-da-índia, nagphani e nata de coco)",
-      "desc": "Um dos tempos do menu-degustação de 2026, que junta o figo-da-índia ao nagphani e a uma nata de coco (malai).",
+      "desc": "Figo-da-índia, fruto do cacto nagphani, servido com tadgola (fruto da palmeira) no menu de fevereiro de 2025, o último publicado pelo restaurante.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Prickly_pears.jpg/1920px-Prickly_pears.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Prickly_pears.jpg",
         "author": "Tomás Castelazo",
         "license": "CC BY-SA 2.5",
         "caption": "Figos-da-índia, frutos do cacto Opuntia, à venda numa feira (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Figos-da-índia numa feira (ilustrativa)",
+        "alt": "Figos-da-índia verdes, laranja e vermelhos arrumados em pratos",
+        "capturedAt": "2006-07",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Tomás Castelazo, CC BY-SA 2.5, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Sunchoke com ghassi (tupinambo com ghassi)",
-      "desc": "Tupinambo servido com ghassi, preparo regional indiano, num dos tempos do menu-degustação de 2026.",
+      "desc": "Tupinambo servido com ghassi, preparo regional indiano, no menu de fevereiro de 2025, o último publicado pelo restaurante.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerusalem_Artichokes_tubers.jpg/1920px-Jerusalem_Artichokes_tubers.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Jerusalem_Artichokes_tubers.jpg",
         "author": "Christian Guthier",
         "license": "CC BY 2.0",
         "caption": "Tubérculos de tupinambo recém-colhidos (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Tupinambos recém-colhidos (ilustrativa)",
+        "alt": "Tubérculos claros e rosados de tupinambo amontoados",
+        "capturedAt": "2009-11-21",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Christian Guthier, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Porco defumado com pimenta da Caxemira e poha",
-      "desc": "Carne de porco defumada temperada com a pimenta vermelha da Caxemira e servida com poha, o arroz achatado.",
+      "desc": "Carne de porco defumada servida com ghassi no menu de fevereiro de 2025; versões anteriores levavam pimenta vermelha da Caxemira.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Kashmiri_Red_Chilies.jpg/1920px-Kashmiri_Red_Chilies.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Kashmiri_Red_Chilies.jpg",
         "author": "Inu06",
         "license": "CC BY-SA 4.0",
         "caption": "Pimentas vermelhas da Caxemira (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Pimentas vermelhas da Caxemira (ilustrativa)",
+        "alt": "Pimentas vermelhas compridas e secas amontoadas",
+        "capturedAt": "2024-10-22",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Inu06, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -132,10 +185,23 @@
     }
   ],
   "practical": {
-    "price": "Menu de 10 tempos por Rs 9.999 por pessoa, sem impostos (site oficial, consultado em novembro de 2026)",
-    "reservation": "Pela página de reservas do site oficial; telefone +91 98190 69222",
+    "price": "Menu de 10 tempos por Rs 9.999 por pessoa, valor em vigor desde 1º de outubro de 2026, sem impostos; harmonizações de vinhos por Rs 8.500, de coquetéis por Rs 6.300 e sem álcool por Rs 2.500 (site oficial, consultado em novembro de 2026)",
+    "reservation": "Por telefone ou WhatsApp, no +91 98190 69222 (das 12h às 20h), ou pelo e-mail bookings@masquerestaurant.com; a casa exige depósito antecipado para confirmar a mesa. Jantar de terça a domingo, a partir das 19h, e almoço aos domingos; fecha às segundas. Só aceita clientes a partir de 12 anos.",
     "website": "https://www.masquerestaurant.com/",
-    "address": "Unit G3, Laxmi Woollen Mills, Shakti Mills Lane, Off Dr. E. Moses Road, Mahalaxmi, Mumbai 400011, Índia"
+    "address": "Unit G3, Laxmi Woollen Mills, Shakti Mills Lane, Off Dr. E. Moses Road, Mahalaxmi, Mumbai 400011, Índia",
+    "reservationMode": "phone",
+    "reservationUrl": "https://www.masquerestaurant.com/reservations",
+    "phone": "+91 98190 69222",
+    "email": "bookings@masquerestaurant.com",
+    "priceDetails": {
+      "amount": 9999,
+      "currency": "INR",
+      "basis": "Menu-degustação de 10 tempos, por pessoa, sem bebidas",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.masquerestaurant.com/reservations",
+      "checkedAt": "2026-11-10",
+      "note": "Valor em vigor desde 1/10/2026; impostos à parte; depósito antecipado exigido."
+    }
   },
   "gallery": [
     {
@@ -144,7 +210,17 @@
       "author": "Kunal Ghevaria",
       "license": "CC BY 2.0",
       "caption": "Teares abandonados da Madhusudan Mills, em Lower Parel, no antigo distrito têxtil de Mumbai onde fica o Masque",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Teares abandonados da Madhusudan Mills, em Lower Parel",
+      "alt": "Galpão industrial em preto e branco com teares antigos enfileirados",
+      "capturedAt": "2008-01-19",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Kunal Ghevaria, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Mill_lands_parel_ground.jpg/1920px-Mill_lands_parel_ground.jpg",
@@ -152,15 +228,35 @@
       "author": "Andrew Trueblood",
       "license": "CC BY-SA 2.0",
       "caption": "Galpões das antigas tecelagens de Parel, vizinhas de Mahalaxmi, com os prédios de Mumbai ao fundo",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Antigas tecelagens de Parel",
+      "alt": "Vista aérea de galpões e de um campo verde, com arranha-céus ao fundo",
+      "capturedAt": "2008-08-17",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Andrew Trueblood, CC BY-SA 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Indian_cuisine-Panipuri-03.jpg/1920px-Indian_cuisine-Panipuri-03.jpg",
       "page": "https://commons.wikimedia.org/wiki/File:Indian_cuisine-Panipuri-03.jpg",
       "author": "Ramakrishna Reddy y",
       "license": "CC BY-SA 2.0",
-      "caption": "Pani puri tradicional, o petisco de rua que o Masque reinterpreta com sea buckthorn (imagem ilustrativa)",
-      "illustrative": true
+      "caption": "Pani puri tradicional, petisco de rua que o Masque já reinterpretou com sea buckthorn (imagem ilustrativa)",
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Pani puri tradicional (ilustrativa)",
+      "alt": "Bolinhas crocantes de pani puri num prato, com tigelas de caldo",
+      "capturedAt": "2007-02-22",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Ramakrishna Reddy y, CC BY-SA 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -186,5 +282,48 @@
     "publisher": "The Infatuation",
     "url": "https://www.theinfatuation.com/mumbai/reviews/masque",
     "note": "Fotografias do salão do Masque, instalado em uma antiga tecelagem em Mumbai; fachada específica não confirmada."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.masquerestaurant.com/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem reserva online: telefone, WhatsApp ou e-mail; texto corrigido."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.masquerestaurant.com/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.masquerestaurant.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O menu de 2026 não foi publicado; pratos ajustados ao de fevereiro de 2025."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/asia/en/the-list/11-20/masque.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Posição asiática de 2023 (nº 16) com fonte única."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/the-list/21-30/masque.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Formação na Culinary Academy of India e no CIA não confirmada."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda do pani puri ajustada."
+    }
+  ]
 }

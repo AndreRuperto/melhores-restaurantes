@@ -1,9 +1,9 @@
 {
-  "lede": "Em uma antiga casa de cinco andares no bairro chinês de Bangkok, a chef Pichaya 'Pam' Soontornyanakij recuperou a história da farmácia de sua família e criou o Potong. O restaurante inaugurado em 2021 conta memórias sino-tailandesas em pratos de degustação, e em 2025 estreou em 13º lugar no ranking mundial The 50 Best.",
+  "lede": "Em uma antiga casa de cinco andares no bairro chinês de Bangkok, a chef Pichaya 'Pam' Soontornyanakij recuperou a história da farmácia de sua família e criou o Potong. O restaurante inaugurado em 2021 conta memórias sino-tailandesas em pratos de degustação, e em 2025 entrou pela primeira vez no top 50 mundial, já em 13º lugar.",
   "history": [
     "A história do prédio é anterior ao restaurante. Por volta de 1910, os antepassados da chef Pam ergueram uma casa comercial de cinco andares na atual Vanich 1 Road, no bairro chinês de Bangkok, onde produziram remédios à base de ervas segundo a tradição chinesa. O negócio familiar, chamado Potong, atravessou quatro gerações; o nome, escrito com caracteres chineses, pode ser traduzido aproximadamente como 'comum' ou 'simples'.",
     "Em 2018, a família voltou a reunir objetos, fotografias e desenhos ligados à antiga farmácia. Um processo de restauro iniciado depois procurou preservar a estrutura sino-portuguesa e reinterpretar os ambientes para um restaurante contemporâneo. O trabalho envolveu artesãos, engenheiros e profissionais da construção, com a decisão de manter vestígios do passado e estabelecer contrastes entre materiais históricos e intervenções novas.",
-    "A abertura estava prevista para 2021, mas as restrições sanitárias em Bangkok adiaram a estreia para setembro daquele ano. A casa recebeu visitantes em diferentes espaços do prédio, com o salão principal no segundo andar e uma sala histórica com desenhos de tigres no terceiro. Em 2022 veio a primeira estrela Michelin; em 2023 o Potong já figurava em 35º na lista asiática e 88º na mundial.",
+    "A abertura estava prevista para 2021, mas as restrições sanitárias em Bangkok adiaram a estreia para setembro daquele ano. A casa recebeu visitantes em diferentes espaços do prédio, com o salão principal no segundo andar e uma sala histórica com desenhos de tigres no terceiro. Em novembro de 2022, na edição 2023 do Guia Michelin Tailândia, veio a primeira estrela; em 2023 o Potong já figurava em 35º na lista asiática e 88º na mundial.",
     "A notoriedade cresceu com a trajetória de Pam: melhor chef mulher da Ásia em 2024 e do mundo em 2025, segundo o The 50 Best. O Potong alcançou o 13º lugar mundial em 2025, recebendo o prêmio de maior nova entrada naquela edição; em 2026 ficou em 25º na Ásia e em 32º no mundo. Entre maio e meados de junho de 2026, o restaurante realizou uma nova reforma interna para reduzir o número de lugares e ampliar o conforto e a área de trabalho."
   ],
   "cuisine": {
@@ -57,11 +57,11 @@
     },
     {
       "year": 2022,
-      "title": "Guia Michelin Tailândia: primeira estrela e distinção Opening of the Year, segundo a casa"
+      "title": "Restaurant & Bar Design Awards: Best Heritage Restaurant Design, segundo cronologia oficial"
     },
     {
-      "year": 2022,
-      "title": "Restaurant & Bar Design Awards: Best Heritage Restaurant Design, segundo cronologia oficial"
+      "year": 2023,
+      "title": "Guia Michelin Tailândia 2023 (anunciado em novembro de 2022): primeira estrela e prêmio Opening of the Year"
     },
     {
       "year": 2023,
@@ -109,7 +109,18 @@
     "address": "422 Vanich 1 Road, Samphanthawong, Bangkok 10100, Tailândia",
     "price": "Menu degustação '5 Senses, 5 Elements': THB 6.700++ por pessoa, sem IVA de 7% e taxa de serviço de 10%, conforme página oficial consultada em 8/11/2026. A plataforma de reservas informa menu festivo por THB 9.500++ entre 17/12/2026 e 12/01/2027. Os valores e a oferta devem ser confirmados ao agendar.",
     "reservation": "Reservas pelo site oficial, com depósito de THB 1.000 por pessoa descontado da conta, não reembolsável em caso de cancelamento ou ausência. A reserva pode ser alterada com pelo menos 48 horas de antecedência; o restaurante solicita informar restrições alimentares ao menos 7 dias antes e avisa que nem todas podem ser atendidas. Fecha às quartas-feiras, recebe crianças a partir de 9 anos e tem escadas no edifício histórico. Telefone: +66 82 979 3950.",
-    "reservationUrl": "https://www.restaurantpotong.com/reservation"
+    "reservationUrl": "https://www.restaurantpotong.com/reservation",
+    "reservationMode": "online",
+    "phone": "+66 82 979 3950",
+    "priceDetails": {
+      "amount": 6700,
+      "currency": "THB",
+      "basis": "Menu degustação '5 Senses, 5 Elements', por pessoa",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.restaurantpotong.com/reservation",
+      "checkedAt": "2026-11-10",
+      "note": "Mais 7% de IVA e 10% de serviço; depósito por pessoa; de 17/12/2026 a 12/01/2027 só menu festivo a THB 9.500++ (segundo a Chope)."
+    }
   },
   "sources": [
     "https://www.restaurantpotong.com/journey",
@@ -126,6 +137,9 @@
     "https://commons.wikimedia.org/wiki/File:Street_scene_in_Talad_Noi.jpg"
   ],
   "slug": "potong",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 32,
   "founded": 2021,
   "founders": [
@@ -137,7 +151,17 @@
     "author": "Syced",
     "license": "CC0 1.0",
     "caption": "Imagem contextual do bairro Samphanthawong, em Bangkok, fotografado em outubro de 2022. NÃO mostra o restaurante Potong.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Bairro de Samphanthawong, em Bangcoc (2022)",
+    "alt": "Portal chinês vermelho e dourado numa rotatória, com prédios ao redor",
+    "capturedAt": "2022",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Syced, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -146,7 +170,17 @@
       "author": "Deepak-nsk",
       "license": "CC0 1.0",
       "caption": "Chinatown de Bangkok à noite, em maio de 2025. Foto do bairro, não do Potong.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Chinatown de Bangcoc à noite (2025)",
+      "alt": "Prédios com letreiros luminosos vermelhos em chinês à noite",
+      "capturedAt": "2025-05-21",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Deepak-nsk, CC0 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Street_scene_in_Talad_Noi.jpg?width=960",
@@ -154,7 +188,17 @@
       "author": "Headshop5",
       "license": "CC0 1.0",
       "caption": "Rua em Talad Noi, área histórica de Bangkok, em julho de 2026. Imagem de contexto; não retrata o restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Rua de Talad Noi (2026)",
+      "alt": "Rua estreita com um tuk-tuk verde e pedestres entre casas antigas",
+      "capturedAt": "2026-07-20",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Headshop5, CC0 1.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -162,5 +206,40 @@
     "publisher": "Potong (site oficial)",
     "url": "https://www.restaurantpotong.com/aboutpotongbuilding",
     "note": "História e fotografias do prédio centenário da família da chef Pam; fachada não isolada ou confirmada."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.restaurantpotong.com/reservation",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.restaurantpotong.com/reservation",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/potong.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Primeira estrela e Opening of the Year são da edição 2023 do guia (anúncio em novembro de 2022). Posições de 2023 e 2024 e estrela de 2026 confirmadas só pelo site da casa e por resultados de busca."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/Potong.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Descrições de phat thai e rat na atribuídas ao Michelin não confirmadas; o site do guia não carregou."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

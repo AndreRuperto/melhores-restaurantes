@@ -1,8 +1,8 @@
 {
-  "lede": "Nascido como um laboratório de seis mesas em Dubai, o Trèsind Studio leva a culinária de diferentes regiões da Índia a uma experiência de degustação no Palm Jumeirah. À frente da cozinha, Himanshu Saini conduz um percurso de sabores, ingredientes, memória e apresentação teatral que recebeu três estrelas Michelin.",
+  "lede": "Nascido em 2018 como um laboratório experimental em Dubai, o Trèsind Studio leva a culinária de diferentes regiões da Índia a uma experiência de degustação no Palm Jumeirah. À frente da cozinha, Himanshu Saini conduz um percurso de sabores, ingredientes, memória e apresentação teatral que recebeu três estrelas Michelin.",
   "history": [
-    "O Trèsind Studio surgiu em 2018 como uma extensão experimental do Trèsind, restaurante que Himanshu Saini havia aberto em Dubai em 2014. Inicialmente limitado a seis mesas, o Studio foi concebido para testar preparações e contar histórias da culinária indiana em pequenas sequências. O nome Trèsind nasce de uma expressão francesa que remete a algo 'muito indiano'.",
-    "Em 2022, o projeto passou a ocupar um endereço próprio nos St. Regis Gardens, na Palm Jumeirah. A sala intimista, com cerca de vinte lugares, funciona diante de uma cozinha aberta. Os convidados acompanham os cozinheiros e, em determinadas etapas, a apresentação se transforma com objetos, mapas, mudanças de luz e deslocamentos pelo ambiente.",
+    "O Trèsind Studio surgiu em 2018 como uma extensão experimental do Trèsind, restaurante que Himanshu Saini havia aberto em Dubai em 2014. Pensado como um espaço intimista, o Studio foi concebido para testar preparações e contar histórias da culinária indiana em pequenas sequências.",
+    "Em 2022, o projeto deixou o hotel Voco, na Sheikh Zayed Road, e passou a ocupar um endereço próprio nos St. Regis Gardens, na Palm Jumeirah. A sala intimista, com cerca de vinte lugares, funciona diante de uma cozinha aberta. Os convidados acompanham os cozinheiros e, em determinadas etapas, a apresentação se transforma com objetos, mapas, mudanças de luz e deslocamentos pelo ambiente.",
     "A primeira estrela Michelin chegou em 2022; em 2023, o restaurante recebeu a segunda. Em maio de 2025, o Guia Michelin concedeu a terceira estrela, tornando-o o primeiro restaurante de culinária indiana a conquistar a distinção máxima. Em outubro de 2026, a casa manteve as três estrelas na seleção de Dubai.",
     "No ranking The 50 Best, o Studio alcançou a 13ª posição mundial em 2024, a 27ª em 2025 e a 28ª em 2026, ano em que recebeu o reconhecimento de melhor restaurante do Oriente Médio na lista global. Na premiação específica do Oriente Médio e Norte da África, ficou em terceiro em 2026. Saini também recebeu nesse ano o prêmio Chefs' Choice regional, votado por outros profissionais de cozinha."
   ],
@@ -100,11 +100,23 @@
     }
   ],
   "practical": {
-    "price": "Menu degustação: AED 1.350 por pessoa, para a comida, de acordo com o site oficial consultado em 8/11/2026. O valor é cobrado antecipadamente para confirmar a reserva. Consulte possíveis alterações e serviços extras diretamente com o restaurante.",
+    "price": "Menu degustação: AED 1.350 por pessoa, valor referente apenas à comida, segundo o site oficial consultado em 8/11/2026. O valor é pago antecipadamente para confirmar a reserva. O site não informa se impostos e taxa de serviço estão incluídos; confirme diretamente com o restaurante.",
     "reservation": "Reservas pelo formulário no site oficial. Jantar de segunda a sábado, com turnos às 18h e às 21h15; a mesa é mantida por 15 minutos. Cancelamento com pelo menos 48 horas de antecedência dá direito a reembolso integral, segundo a política publicada; depois disso, não há reembolso. Para mais de cinco convidados, é necessário falar diretamente com a equipe pelo telefone +971 58 895 1272. A casa informa restrição de entrada para menores de 14 anos.",
     "reservationUrl": "https://tresindstudio.com/reservation/",
     "website": "https://tresindstudio.com/",
-    "address": "St. Regis Gardens, Entrance B, Palm Jumeirah, Dubai, Emirados Árabes Unidos"
+    "address": "St. Regis Gardens, Entrance B, Palm Jumeirah, Dubai, Emirados Árabes Unidos",
+    "reservationMode": "online",
+    "phone": "+971 58 895 1272",
+    "email": "tresindstudio@passionfandb.com",
+    "priceDetails": {
+      "amount": 1350,
+      "currency": "AED",
+      "basis": "Menu degustação por pessoa, apenas comida, pago antecipadamente",
+      "taxesIncluded": null,
+      "sourceUrl": "https://tresindstudio.com/reservation-policy/",
+      "checkedAt": "2026-11-10",
+      "note": "O site não informa IVA nem serviço; bebidas à parte."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/tresind-studio.html",
@@ -130,6 +142,9 @@
     "https://commons.wikimedia.org/wiki/File:Panipuri.jpg"
   ],
   "slug": "tresind-studio",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 28,
   "founded": 2018,
   "hero": {
@@ -138,7 +153,17 @@
     "author": "Domenico Convertini",
     "license": "CC BY-SA 2.0",
     "caption": "Imagem contextual: paisagem de Palm Jumeirah, bairro onde fica o restaurante. Esta foto NÃO mostra o Trèsind Studio.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Orla da Palm Jumeirah",
+    "alt": "Orla com palmeiras, gramado e o mar ao fundo, ao entardecer",
+    "capturedAt": "2022",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Domenico Convertini, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -147,7 +172,17 @@
       "author": "Jyoti Chiring",
       "license": "CC BY 4.0",
       "caption": "Sadya tradicional de Kerala, referência cultural de uma criação do restaurante. Não é um prato fotografado no Trèsind Studio.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Sadya tradicional de Kerala (ilustrativa)",
+      "alt": "Folha de bananeira com arroz e diversos acompanhamentos em pequenas porções",
+      "capturedAt": "2026-09-04",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Jyoti Chiring, CC BY 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_SPices.jpg?width=960",
@@ -155,7 +190,17 @@
       "author": "Maulpatel",
       "license": "CC BY-SA 4.0",
       "caption": "Especiarias da culinária indiana. Não representam os ingredientes ou a cozinha do restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Especiarias da culinária indiana (ilustrativa)",
+      "alt": "Colheres de metal com especiarias coloridas sobre madeira escura",
+      "capturedAt": "2014-11-04",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Maulpatel, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Panipuri.jpg?width=960",
@@ -163,7 +208,17 @@
       "author": "Katyare",
       "license": "CC BY-SA 3.0",
       "caption": "Panipuri tradicional, preparação indiana do repertório histórico do restaurante. Não é foto de um prato servido ali.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Panipuri tradicional (ilustrativa)",
+      "alt": "Prato com bolinhas douradas de panipuri recheadas",
+      "capturedAt": "2012-09-01",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Katyare, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -171,5 +226,47 @@
     "publisher": "Identità Golose",
     "url": "https://en.identitagolose.it/place/it/98/35790/incredibly-good/Trsind-study-vertigo-from-the-Himalayas-to-the-Indian-Ocean.html",
     "note": "Imagem identificada como entrada da nova unidade do Trèsind Studio no St. Regis Gardens, Palm Jumeirah."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://tresindstudio.com/reservation-policy/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://tresindstudio.com/reservation-policy/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "\"Seis mesas\" e o significado do nome sem fonte; retirados. Mudança do hotel Voco para os St. Regis Gardens acrescentada."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrelas Michelin confirmadas pela imprensa; o site do guia não carregou."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Nascimento em Nova Délhi e equipes do Masala Library e Farzi Cafe só em fontes secundárias."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

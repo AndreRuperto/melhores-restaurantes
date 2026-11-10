@@ -1,5 +1,8 @@
 {
   "slug": "reale",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Num antigo mosteiro do século 16 nas montanhas do Abruzzo, Niko Romito, cozinheiro autodidata, faz uma cozinha italiana de poucos elementos, de aparência simples e sabor concentrado, que nos últimos anos passou a girar em torno dos vegetais. O Reale começou como a trattoria da família numa vila vizinha e chegou às três estrelas Michelin no guia de 2014.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Castel_di_Sangro_%28AQ%29_Innevata.jpg/1920px-Castel_di_Sangro_%28AQ%29_Innevata.jpg",
@@ -7,7 +10,17 @@
     "author": "Mario75Romano",
     "license": "CC BY-SA 4.0",
     "caption": "Castel di Sangro, no alto vale do rio Sangro, coberta de neve",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Castel di Sangro coberta de neve",
+    "alt": "Cidade de montanha com casas encosta acima e neve no topo do morro",
+    "capturedAt": "2020-04-09",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+    "attribution": "Mario75Romano, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2000,
   "founders": [
@@ -27,7 +40,7 @@
     "style": "Cozinha italiana contemporânea, minimalista e centrada nos vegetais",
     "paragraphs": [
       "Romito chama seu trabalho de \"aparentemente simples\": pratos com nomes curtos e poucos ingredientes por trás dos quais há longos processos de extração, redução e limpeza de sabores. Desde meados dos anos 2000 ele trabalha para tirar gordura e excessos dos pratos e estuda técnicas pouco usadas na alta cozinha, como o cozimento sob pressão. O exemplo mais citado é o assoluto de cipolle, um caldo feito só da água que as cebolas soltam ao cozinhar sob sal. Ele diz que busca \"a comida italiana de amanhã\".",
-      "Desde março de 2022 o menu-degustação do Reale não tem carne nem peixe — Romito faz questão de dizer que não se trata de um restaurante vegano, e pratos de carne e peixe continuam no cardápio à la carte. As passagens são de vegetais como pepino com folhas silvestres, alface com amêndoa ou pêssego com pimentão, ao lado de clássicos da casa e de técnicas regionais, como a carne de porco in carpione, frita e marinada em vinagre. O pão é servido como uma etapa própria do menu, resultado de pesquisas de fermentação e de farinhas de trigos antigos como o Solina e o Saragolla."
+      "Em março de 2022 o menu-degustação do Reale passou a não ter carne nem peixe — Romito fazia questão de dizer que não se tratava de um restaurante vegano, e esses pratos seguiram no cardápio à la carte. Os vegetais continuam no centro, mas o menu de outubro de 2026 voltou a incluir peixe e carne, como o baccalà com folha de figueira, a truta com amêndoa e louro e a carne de porco in carpione, frita e marinada em vinagre. As passagens mudam com as estações e já incluíram pepino com folhas silvestres ou pêssego com pimentão; a alface com amêndoa segue no cardápio à la carte. O pão é servido como uma etapa própria do menu, resultado de pesquisas de fermentação e de farinhas de trigos antigos como o Solina e o Saragolla."
     ]
   },
   "dishes": [
@@ -40,7 +53,17 @@
         "author": "Giancarlo.pak",
         "license": "CC BY-SA 4.0",
         "caption": "Flor de açafrão (Crocus sativus) em Navelli, no Abruzzo (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Flor de açafrão em Navelli (ilustrativa)",
+        "alt": "Flor roxa de açafrão com estigmas vermelhos",
+        "capturedAt": "2004-10-21",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Giancarlo.pak, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -52,7 +75,17 @@
         "author": "Marica Massaro",
         "license": "CC BY-SA 4.0",
         "caption": "Ravióli caseiros em Avezzano, no Abruzzo (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Ravióli caseiros (ilustrativa)",
+        "alt": "Ravióli em meia-lua sobre tábua enfarinhada",
+        "capturedAt": "2022-01-06",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Marica Massaro, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -64,7 +97,17 @@
         "author": "Marica Massaro",
         "license": "CC BY-SA 4.0",
         "caption": "Grãos de trigo Solina, variedade antiga do Abruzzo (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Trigo Solina (ilustrativa)",
+        "alt": "Grãos de trigo num saco de pano aberto",
+        "capturedAt": "2017-08-25",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+        "attribution": "Marica Massaro, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -133,10 +176,23 @@
     }
   ],
   "practical": {
-    "price": "Menu-degustação \"Degustazione Reale\", de 12 etapas, por € 250 por pessoa, sem bebidas (Scatti di Gusto, outubro de 2026)",
-    "reservation": "Jantar de quarta a domingo e almoço de quinta a domingo; fecha segundas e terças e tem um período de férias anual. Reservas pelo site, pelo telefone +39 0864 69382 ou pelo e-mail info@ristorantereale.it",
+    "price": "Menu-degustação \"Degustazione Reale\" por € 250 por pessoa, sem bebidas, servido para a mesa inteira; harmonização de vinhos em taça por € 120 e até três pratos extras da carta por € 30 cada (cardápio oficial, outubro de 2026)",
+    "reservation": "Jantar de quarta a domingo e almoço de quinta a domingo; fecha segundas e terças. Em novembro de 2026 a casa fica fechada para férias de 2 a 12 e reabre no dia 13, no jantar. Reservas pelo telefone +39 0864 69382 ou pelo e-mail info@ristorantereale.it",
     "website": "https://www.nikoromito.com",
-    "address": "Casadonna, Piana Santa Liberata, 67031 Castel di Sangro (AQ), Itália"
+    "address": "Casadonna, Piana Santa Liberata, 67031 Castel di Sangro (AQ), Itália",
+    "reservationMode": "phone",
+    "reservationUrl": "https://www.nikoromito.com/prenotazione/",
+    "phone": "+39 0864 69382",
+    "email": "info@ristorantereale.it",
+    "priceDetails": {
+      "amount": 250,
+      "currency": "EUR",
+      "basis": "Menu-degustação Degustazione Reale, por pessoa, sem bebidas, servido para a mesa inteira",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.nikoromito.com/wp-content/uploads/2026/10/Bozza-Reale-ITA-con-2610.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Harmonização em taça a € 120; até três pratos extras a € 30 cada; o cardápio não menciona impostos nem serviço."
+    }
   },
   "gallery": [
     {
@@ -145,7 +201,17 @@
       "author": "Mario75Romano",
       "license": "CC BY-SA 4.0",
       "caption": "Castel di Sangro à noite, com a basílica de Santa Maria Assunta ao centro",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Castel di Sangro à noite",
+      "alt": "Casario iluminado à noite com uma igreja branca ao centro",
+      "capturedAt": "2017-09-15",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Mario75Romano, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Rivisondoli_sotto_la_luce_del_tramonto.jpg/1920px-Rivisondoli_sotto_la_luce_del_tramonto.jpg",
@@ -153,7 +219,17 @@
       "author": "Calancot",
       "license": "CC BY-SA 4.0",
       "caption": "Rivisondoli ao entardecer; a vila de montanha onde o Reale funcionou até 2011",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Rivisondoli ao entardecer",
+      "alt": "Vila no alto de um morro com um campo verde em primeiro plano",
+      "capturedAt": "2020-09-20",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L04.json).",
+      "attribution": "Calancot, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -171,12 +247,57 @@
     "https://italynews.online/?p=13006",
     "https://www.scattidigusto.it/2020/06/17/stelle-michelin-niko-romito-riapre-il-reale-con-il-menu-speciale-20-anni",
     "https://www.scattidigusto.it/2022/03/22/niko-romito-ristorante-reale-menu-2022/",
-    "https://www.scattidigusto.it/ristorante-reale-di-niko-romito-recensione-essenziale-anche-nel-prezzo"
+    "https://www.scattidigusto.it/ristorante-reale-di-niko-romito-recensione-essenziale-anche-nel-prezzo",
+    "https://www.nikoromito.com/wp-content/uploads/2026/10/Bozza-Reale-ITA-con-2610.pdf"
   ],
   "photoReference": {
     "kind": "fachada",
     "publisher": "Accademia Niko Romito",
     "url": "https://www.accademianikoromito.it/wp-content/uploads/2025/06/Brochure-ING-bozza-2_250618_093409.pdf",
     "note": "A brochura institucional mostra a entrada do restaurante Reale no complexo Casadonna."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.nikoromito.com/prenotazione/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Página de reservas mostra só telefone e e-mail; fechamento de 2 a 12 de novembro de 2026 acrescentado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.nikoromito.com/wp-content/uploads/2026/10/Bozza-Reale-ITA-con-2610.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O cardápio oficial lista 11 passagens; \"12 etapas\" retirado."
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://www.nikoromito.com/wp-content/uploads/2026/10/Bozza-Reale-ITA-con-2610.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O menu de outubro de 2026 voltou a ter peixe e carne; texto atualizado."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://it.wikipedia.org/wiki/Niko_Romito",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Biografia da Wikipédia italiana, página com avisos de confiabilidade."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/21-30/reale.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Três estrelas de 2026 só em fontes secundárias; o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante."
+    }
+  ]
 }
