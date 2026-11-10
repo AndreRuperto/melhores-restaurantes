@@ -90,3 +90,14 @@ O console mostrou apenas erros `ERR_CONNECTION_REFUSED` herdados da aba, dos ser
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [faee24f](https://github.com/AndreRuperto/melhores-restaurantes/commit/faee24f); o domínio público passou a servir o build novo (`index-FIJFzl2W.js`), e os pacotes dos perfis foram conferidos por download direto:
+
+- **Belcanto:** traz o menu de €295.
+- **Chef Tam's Seasons:** traz o menu de MOP 1.888.
+- **Mosu:** traz a primeira estrela na edição de 2019.
+- **Nobelhart:** traz a série "We cook Heimat".
+
+Não aparecem mais as frases sobre "chefia não confirmada" (Septime) e "escassez de imagens" (Nobelhart). A conferência achou mais uma frase de instrução no Septime: "a proposta não deve ser descrita como estritamente vegetariana". Ela virou "a proposta não é estritamente vegetariana" neste commit de registro, com validador e build sem mudança. O mesmo tipo de frase existe em perfis de outros lotes (por exemplo FZN, Sazenka, Celele e Khufu's) e fica como pendência de varredura geral. A conferência foi feita por conteúdo, não por navegador.
