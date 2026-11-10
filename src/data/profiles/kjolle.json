@@ -1,5 +1,8 @@
 {
   "slug": "kjolle",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Primeiro restaurante próprio de Pía León, o Kjolle funciona desde 2018 no mesmo prédio de Barranco que abriga o Central e trata cada ingrediente nativo do Peru como protagonista, combinando produtos da costa, dos Andes e da Amazônia num mesmo prato. Em oito anos, saiu da estreia na lista latino-americana para o 7º lugar do mundo em 2026.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Avenida_Pedro_de_Osma_Barranco.jpg/1920px-Avenida_Pedro_de_Osma_Barranco.jpg",
@@ -7,7 +10,17 @@
     "author": "Ibrehaut",
     "license": "CC BY-SA 4.0",
     "caption": "Casarões coloridos na avenida Pedro de Osma, em Barranco, a via onde fica o Kjolle",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Avenida Pedro de Osma, em Barranco",
+    "alt": "Rua com casarões coloridos de sacadas de madeira e trilhos no calçamento",
+    "capturedAt": "2016-02-12",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "Ibrehaut, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2018,
   "founders": [
@@ -32,14 +45,24 @@
   "dishes": [
     {
       "name": "Many Tubers (Muitos tubérculos)",
-      "desc": "Fatias tostadas de olluco unidas por um creme de oca e servidas sobre uma massa de cañihua.",
+      "desc": "Prato-assinatura da casa, dedicado às raízes e tubérculos andinos; na versão atual do menu, reúne mandioca, olluco e mashua roxa.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ollucos_peruanos_2018.jpg/1920px-Ollucos_peruanos_2018.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Ollucos_peruanos_2018.jpg",
         "author": "MiguelAlanCS",
         "license": "CC BY-SA 4.0",
         "caption": "Ollucos, tubérculo andino usado no prato (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Ollucos, tubérculos andinos (ilustrativa)",
+        "alt": "Ollucos amarelos e alongados sobre uma superfície escura",
+        "capturedAt": "2018-10-11",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "MiguelAlanCS, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -51,12 +74,22 @@
         "author": "Rodrigo Fernández",
         "license": "CC BY-SA 4.0",
         "caption": "Conchas de abanico (Argopecten purpuratus), vieira do Pacífico do Peru e do Chile, à venda em Santiago (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Vieiras do Pacífico à venda em Santiago (ilustrativa)",
+        "alt": "Vieiras abertas em suas conchas, com coral laranja, lado a lado",
+        "capturedAt": "2017-11-25",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Rodrigo Fernández, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
-      "name": "Costela de boi com milho, tumbo e ají mochero",
-      "desc": "Costela bovina acompanhada de milho, tumbo (fruta andina da família do maracujá) e pimenta mochero.",
+      "name": "Vaca y Tarwi (costela bovina com tarwi, tumbo e muña)",
+      "desc": "Costela bovina com tarwi (tremoço andino), tumbo, fruta andina da família do maracujá, e muña, erva aromática dos Andes.",
       "photo": null
     },
     {
@@ -120,14 +153,27 @@
     },
     {
       "year": 2026,
-      "title": "The World's 50 Best Restaurants: nº 7"
+      "title": "The 50 Best Restaurants: nº 7"
     }
   ],
   "practical": {
-    "price": "Menu degustação \"Entorno Mater\" de 9 tempos: S/ 988 por pessoa; harmonização com vinhos e destilados S/ 456; harmonização sem álcool S/ 256 (valores de junho de 2025)",
-    "reservation": "Pelo site oficial ou pelo e-mail reservas@kjolle.com (tel. +51 1 242 8575). Abre de terça a sábado: almoço das 12h45 às 14h e jantar das 19h às 20h30, segundo o site.",
+    "price": "Menu degustação \"Entorno Mater\" de 9 tempos (há também a versão vegetal, \"Entorno Mater Vegetal\"): S/ 988 por pessoa; harmonização de néctares e extratos ou de \"Líquidos Mater\": S/ 456. Segundo o site, os preços já incluem o IGV e a taxa de serviço (novembro de 2026).",
+    "reservation": "Pela plataforma de reservas indicada no site oficial (Mesa 24/7), para grupos de 1 a 6 pessoas e com até cinco meses de antecedência; grupos maiores reservam pelo e-mail reservas@kjolle.com (tel. +51 1 242 8575). Abre de terça a sábado: almoço das 12h45 às 14h e jantar das 19h às 20h30, segundo o site.",
     "website": "https://kjolle.com",
-    "address": "Av. Pedro de Osma 301, Barranco, Lima 15063, Peru"
+    "address": "Av. Pedro de Osma 301, Barranco, Lima 15063, Peru",
+    "reservationMode": "online",
+    "reservationUrl": "https://kjolle.com/reservaciones",
+    "phone": "+51 1 242 8575",
+    "email": "reservas@kjolle.com",
+    "priceDetails": {
+      "amount": 988,
+      "currency": "PEN",
+      "basis": "Menu degustação Entorno Mater, 9 tempos, por pessoa",
+      "taxesIncluded": true,
+      "sourceUrl": "https://kjolle.com/menu",
+      "checkedAt": "2026-11-10",
+      "note": "Harmonização de S/ 456; segundo kjolle.com/reservaciones, os preços incluem IGV e taxa de serviço. A leitura de 988 como menu e 456 como harmonização vem da diagramação da página."
+    }
   },
   "gallery": [
     {
@@ -136,7 +182,17 @@
       "author": "Mater.inicia (foto de Daniel Silva)",
       "license": "CC BY-SA 4.0",
       "caption": "Pía León com Virgilio Martínez e Malena Martínez, da Mater Iniciativa",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "chef",
+      "subject": "Pía León com Virgilio e Malena Martínez, da Mater Iniciativa (2023)",
+      "alt": "Três pessoas posando juntas diante de uma parede descascada",
+      "capturedAt": "2023-02-28",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Mater.inicia (foto de Daniel Silva), CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tradicional_Avenida_Pedro_de_Osma.jpg/1920px-Tradicional_Avenida_Pedro_de_Osma.jpg",
@@ -144,7 +200,17 @@
       "author": "Wasiwatana",
       "license": "CC BY-SA 4.0",
       "caption": "A arborizada avenida Pedro de Osma, principal via de Barranco, com casarões, galerias e restaurantes",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Avenida Pedro de Osma, principal via de Barranco",
+      "alt": "Avenida ladeada por árvores de troncos grossos e casarões",
+      "capturedAt": "2013-07-04",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Wasiwatana, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Canihua_%28Chenopodium_pallidicaule%29_at_Atuncolla_near_Sillustani_Juliaca.jpg/1920px-Canihua_%28Chenopodium_pallidicaule%29_at_Atuncolla_near_Sillustani_Juliaca.jpg",
@@ -152,7 +218,17 @@
       "author": "Crops for the Future",
       "license": "CC BY-SA 3.0",
       "caption": "Cañihua, grão nativo do altiplano, em Atuncolla, perto de Juliaca (Puno)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Cañihua no altiplano de Puno",
+      "alt": "Plantas de cañihua amarelas e vermelhas em solo seco e rachado",
+      "capturedAt": "2007-05-09",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Crops for the Future, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Oca_on_sale_at_Feria_Dominicial_in_Juliaca%2C_Puno%2C_Per%C3%BA.jpg/1920px-Oca_on_sale_at_Feria_Dominicial_in_Juliaca%2C_Puno%2C_Per%C3%BA.jpg",
@@ -160,7 +236,17 @@
       "author": "H.dav.are",
       "license": "CC BY-SA 4.0",
       "caption": "Banca de oca, tubérculo andino, na feira dominical de Juliaca, em Puno",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Banca de oca na feira de Juliaca, Puno (2026)",
+      "alt": "Sacos coloridos cheios de tubérculos andinos numa feira",
+      "capturedAt": "2026-08-23",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "H.dav.are, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -184,5 +270,45 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "Pía León e a Mater Iniciativa",
     "previewContext": "Fotografia de Pía León com Virgilio Martínez e Malena Martínez, pessoas ligadas ao universo criativo do Kjolle. Não é uma foto da fachada. O registro da entrada do restaurante está indicado no link do escritório RF Studio abaixo."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://kjolle.com/reservaciones",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://kjolle.com/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://kjolle.com/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pratos atualizados conforme o menu atual; navajas huarmeyanas segue descrito como prato dos primeiros anos."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://kjolle.com/historia",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano de nascimento e carreira antes do Central vêm só da Wikipédia; o site oficial diz que ela chegou ao Central em 2010."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/kjolle.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virgilio_Martinez,_Malena_Martinez_%26_Pia_Leon_(by_Daniel_Silva).jpg",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

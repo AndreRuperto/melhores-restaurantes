@@ -1,13 +1,26 @@
 {
   "slug": "alchemist",
-  "lede": "Num antigo ateliê de cenografia do Teatro Real Dinamarquês, em Copenhague, o chef Rasmus Munk serve até 50 \"impressões\" ao longo de quatro a seis horas, misturando cozinha, teatro, arte e ciência. Muitos pratos tratam de temas como desperdício de alimentos, doação de órgãos e vigilância.",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
+  "lede": "Num antigo ateliê de cenografia do Teatro Real Dinamarquês, em Copenhague, o chef Rasmus Munk serve até 50 \"impressões\" ao longo de quatro a seis horas, misturando cozinha, teatro, arte e ciência. Muitos pratos tratam de temas como desperdício de alimentos, doação de órgãos e vigilância. A partir de dezembro de 2026, a casa passa a fechar cerca de cinco meses por ano para o \"Intermission\", período dedicado à pesquisa e à criação de um novo menu.",
   "hero": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AlchemistAV4A4003_%2848826061293%29.jpg/1920px-AlchemistAV4A4003_%2848826061293%29.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4003_(48826061293).jpg",
     "author": "City Foodsters",
     "license": "CC BY 2.0",
     "caption": "Porta de entrada do Alchemist, em Refshaleøen, Copenhague (setembro de 2019)",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Porta de entrada do Alchemist, em Refshaleøen",
+    "alt": "Grande porta de metal trabalhado numa parede de tijolos, entre dois vasos de plantas",
+    "capturedAt": "2019-09-19",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2015,
   "founders": [
@@ -20,7 +33,7 @@
   "history": [
     "O primeiro Alchemist abriu em 2015 num antigo bistrô de Copenhague: uma única sala com 15 lugares em torno de um balcão em U, financiada com um empréstimo bancário. Munk saíra do Treetop, perto de Randers, por achar que o modelo clássico de restaurante não bastava, e esse endereço funcionou até 2017.",
     "A segunda fase começou em 2019, com o empresário Lars Seier Christensen como sócio. O restaurante passou a ocupar cerca de 2.200 m² no antigo ateliê de cenografia do Teatro Real Dinamarquês, em Refshaleøen, antiga área industrial da cidade. O orçamento previsto era de 20 milhões de coroas dinamarquesas, e o custo final passou de quatro vezes esse valor. Sete meses após a reabertura, em fevereiro de 2020, o Guia Michelin dos Países Nórdicos deu duas estrelas à casa.",
-    "O Alchemist entrou na lista The World's 50 Best Restaurants em 2021, na 58ª posição, subiu para 18º em 2022 e chegou ao 5º lugar em 2023, ano em que recebeu também o prêmio Art of Hospitality. Foi 8º em 2024 e 5º em 2025. Na edição de 2026, anunciada em Lima, alcançou o 3º lugar."
+    "O Alchemist entrou na lista The World's 50 Best Restaurants em 2021, na 58ª posição, subiu para 18º em 2022 e chegou ao 5º lugar em 2023, ano em que recebeu também o prêmio Art of Hospitality. Foi 8º em 2024 e 5º em 2025. Na edição de 2026, anunciada em Lima, alcançou o 3º lugar. Em setembro de 2026, o restaurante anunciou que, a partir de dezembro, faria uma pausa de cinco meses por ano para pesquisa e experimentação, mantendo a equipe de mais de cem pessoas e oferecendo visitas aos bastidores; a próxima versão terá menu novo e preço fixo com bebidas incluídas."
   ],
   "cuisine": {
     "style": "Cozinha holística",
@@ -39,12 +52,22 @@
         "author": "THOR; obra derivada: Saibo",
         "license": "CC BY 2.0",
         "caption": "Colher com caviar preto (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Colher com caviar (ilustrativa)",
+        "alt": "Colher de madrepérola com caviar preto sobre fundo preto",
+        "capturedAt": "2010-07-11",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "THOR; obra derivada: Saibo, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Food for Thought (\"comida para pensar\")",
-      "desc": "Miolo de cordeiro cozido no vapor e servido dentro de uma cabeça de silicone, para chamar atenção para o desperdício de alimentos.",
+      "desc": "Miolo de cordeiro servido dentro de uma réplica de cabeça humana, para chamar atenção para o desperdício de alimentos.",
       "photo": null
     },
     {
@@ -114,10 +137,23 @@
     }
   ],
   "practical": {
-    "price": "DKK 5.600 por pessoa pelo menu The Alchemist Experience, sem bebidas (site oficial, consultado em novembro de 2026); harmonizações cobradas à parte",
-    "reservation": "Ingressos vendidos on-line pela plataforma Tock (exploretock.com/alchemist), para mesas de 2, 4 ou 6 pessoas, com depósito antecipado. As vagas são liberadas cerca de a cada três meses, para os dois a três meses seguintes, e há lista de espera.",
+    "price": "DKK 5.600 por pessoa pelo menu The Alchemist Experience, sem bebidas; harmonizações cobradas à parte, de DKK 2.000 a DKK 10.500 (site oficial, consultado em novembro de 2026). Esse preço vale para o formato encerrado em novembro de 2026: na reabertura, o restaurante passa a cobrar um preço fixo que inclui as bebidas, ainda não divulgado",
+    "reservation": "Ingressos vendidos apenas on-line, pela plataforma Tock (exploretock.com/alchemist), para mesas de 2, 4 ou 6 pessoas, com depósito antecipado; o restaurante não aceita reservas por telefone, e dúvidas podem ser enviadas para booking@alchemist.dk. As vagas costumam ser liberadas a cada três meses, para os dois a três meses seguintes, e há lista de espera. A partir de dezembro de 2026, o serviço regular fica suspenso por cerca de cinco meses no \"Intermission\"; a data de reabertura ainda não foi anunciada.",
     "website": "https://alchemist.dk/",
-    "address": "Refshalevej 173C, 1432 Copenhague K, Dinamarca"
+    "address": "Refshalevej 173C, 1432 Copenhague K, Dinamarca",
+    "reservationMode": "online",
+    "reservationUrl": "https://exploretock.com/alchemist/",
+    "phone": "+45 31 71 61 61",
+    "email": "booking@alchemist.dk",
+    "priceDetails": {
+      "amount": 5600,
+      "currency": "DKK",
+      "basis": "Menu The Alchemist Experience, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://alchemist.dk/the-alchemist-experience/",
+      "checkedAt": "2026-11-10",
+      "note": "Formato válido até novembro de 2026; o site não informa impostos ou serviço; a Tock cobra taxa de serviço de 2,5% não reembolsável sobre o depósito."
+    }
   },
   "gallery": [
     {
@@ -126,7 +162,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Salão do Alchemist sob a cúpula com projeções (setembro de 2019)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Salão do Alchemist sob a cúpula de projeções (2019)",
+      "alt": "Salão escuro com mesas sob uma cúpula onde são projetadas árvores floridas",
+      "capturedAt": "2019-09-19",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/AlchemistAV4A4031_%2848826596217%29.jpg/1920px-AlchemistAV4A4031_%2848826596217%29.jpg",
@@ -134,7 +180,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Balcão no interior do Alchemist (setembro de 2019)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Balcão no interior do Alchemist (2019)",
+      "alt": "Cozinheiros atrás de um balcão iluminado por painéis brancos",
+      "capturedAt": "2019-09-19",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/AlchemistAV4A4175-Edit_%2848826075688%29.jpg/1920px-AlchemistAV4A4175-Edit_%2848826075688%29.jpg",
@@ -142,7 +198,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Prato servido numa concha de vieira durante o menu do Alchemist (setembro de 2019)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "dish",
+      "subject": "Prato do menu do Alchemist servido numa concha de vieira (2019)",
+      "alt": "Vieira e coral servidos dentro de uma concha sobre fundo de areia",
+      "capturedAt": "2019-09-19",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Scenografisk_V%C3%A6rksted.jpg/1920px-Scenografisk_V%C3%A6rksted.jpg",
@@ -150,7 +216,17 @@
       "author": "Orf3us",
       "license": "CC BY 4.0",
       "caption": "Scenografisk Værksted, o antigo ateliê de cenografia do Teatro Real Dinamarquês, na Refshalevej, em Refshaleøen",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "building",
+      "subject": "Antigo ateliê de cenografia do Teatro Real Dinamarquês, na Refshalevej",
+      "alt": "Janela de um galpão de concreto com o letreiro Scenografisk Værksted",
+      "capturedAt": "2016-03",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Orf3us, CC BY 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -170,7 +246,8 @@
     "https://www.wonderfulcopenhagen.com/wonderful-copenhagen/international-press/press-kit-gastronomy/rasmus-munk-crowned-worlds-best-chef-best-chef-awards-2025",
     "https://www.prnewswire.com/fr/communiques-de-presse/gin-mare-annonce-que-le-restaurant-alchemist-a-remporte-le-prix-art-of-the-hospitality-lors-des-worlds-50-best-restaurant-awards-a-valence-301857854.html",
     "https://commons.wikimedia.org/wiki/Category:Alchemist_(restaurant)",
-    "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4003_(48826061293).jpg"
+    "https://commons.wikimedia.org/wiki/File:AlchemistAV4A4003_(48826061293).jpg",
+    "https://via.ritzau.dk/pressemeddelelse/15164837/intermission-pa-alchemist-fem-maneder-om-aret-skal-bruges-til-kreativ-fordybelse?lang=da"
   ],
   "rank": 3,
   "facade": {
@@ -179,6 +256,57 @@
     "author": "City Foodsters",
     "license": "CC BY 2.0",
     "caption": "Porta de entrada do Alchemist, em Refshaleøen, Copenhague (setembro de 2019)",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Porta de entrada do Alchemist, em Refshaleøen",
+    "alt": "Grande porta de metal trabalhado numa parede de tijolos, entre dois vasos de plantas",
+    "capturedAt": "2019-09-19",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://alchemist.dk/tickets-for-alchemist/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://alchemist.dk/the-alchemist-experience/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://via.ritzau.dk/pressemeddelelse/15164837/intermission-pa-alchemist-fem-maneder-om-aret-skal-bruges-til-kreativ-fordybelse?lang=da",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pausa anual de cinco meses a partir de dezembro de 2026, segundo comunicado do restaurante."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/alchemist.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Posições de 2021 a 2025 e estrelas Michelin vêm de fontes secundárias; o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "lede",
+      "sourceUrl": "https://alchemist.dk/the-alchemist-experience/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "O tema \"doação de órgãos\" não foi reconferido; o prato documentado sobre doação (Lifeline) trata de doação de sangue."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Alchemist_(restaurant)",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

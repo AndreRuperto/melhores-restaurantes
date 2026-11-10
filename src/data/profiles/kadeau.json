@@ -1,13 +1,26 @@
 {
   "slug": "kadeau",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Endereço em Christianshavn, em Copenhague, de uma casa nascida numa praia de Bornholm, ilha dinamarquesa no mar Báltico. O Kadeau traz para a capital a despensa da ilha: vegetais da horta própria, peixes defumados e conservas feitas ao longo do ano.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kadeau_Bornholm_IMG_2885_%2823174693123%29.jpg/1920px-Kadeau_Bornholm_IMG_2885_%2823174693123%29.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Kadeau_Bornholm_IMG_2885_(23174693123).jpg",
     "author": "City Foodsters",
     "license": "CC BY 2.0",
-    "caption": "Terraço do Kadeau Bornholm, a casa original da marca, sobre as dunas e o mar no sul da ilha (2015)",
-    "illustrative": false
+    "caption": "Terraço do Kadeau Bornholm, a casa original da marca, sobre as dunas e o mar no sul da ilha (2015); o restaurante do ranking é o de Copenhague",
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Terraço do Kadeau Bornholm, a casa original na ilha (2015)",
+    "alt": "Terraço de madeira de uma casa branca sobre as dunas, com o mar ao fundo",
+    "capturedAt": "2015-06-27",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2011,
   "founders": [
@@ -21,8 +34,8 @@
   },
   "history": [
     "O Kadeau nasceu em 2007, quando Nicolai Nørregaard e os amigos de infância Rasmus Kofoed e Magnus Klein Kofoed, todos de Bornholm, transformaram uma cabana na praia de Sømarken, no extremo sul da ilha, em restaurante. A casa de Bornholm funciona só no verão, de maio a setembro, e ganhou estrela Michelin em 2016, a primeira da ilha.",
-    "Em 2011 o trio abriu a versão de Copenhague, com a mesma cozinha baseada nos produtos da ilha. A casa mudou de endereço algumas vezes: foi para um espaço maior em Christianshavn e, depois, para o imóvel vizinho, menor, na Wildersgade, com cerca de 24 lugares. A primeira estrela Michelin chegou em 2013 e a segunda em 2018. O salão atual, desenhado pelo estúdio OEO, tem a cozinha logo na entrada, por onde os clientes passam antes de chegar à mesa. Em 2022 o chef de cozinha Kyumin Hahn virou sócio.",
-    "Em 2023 as duas casas receberam a estrela verde Michelin, e o Kadeau de Copenhague entrou na lista 51–100 do The World's 50 Best (nº 91). Subiu para o nº 54 em 2024 e entrou no top 50 em 2025, no nº 41. Em junho de 2026 o Guia Michelin dos países nórdicos deu a terceira estrela à casa de Copenhague, e em novembro, em Lima, o Kadeau saltou 33 posições até o nº 8, com o prêmio Highest Climber."
+    "Em 2011 o trio abriu a versão de Copenhague, com a mesma cozinha baseada nos produtos da ilha. A casa mudou de endereço algumas vezes: foi para um espaço maior em Christianshavn e, depois, para o imóvel vizinho, na Wildersgade. A primeira estrela Michelin chegou em 2013 e a segunda em 2018. O salão atual, desenhado pelo estúdio OEO, tem a cozinha logo na entrada, por onde os clientes passam antes de chegar à mesa. Em 2022 o chef de cozinha Kyumin Hahn virou sócio.",
+    "Em 2023 as duas casas receberam a estrela verde Michelin, e o Kadeau de Copenhague voltou à lista 51–100 do The World's 50 Best (nº 91). Subiu para o nº 54 em 2024 e entrou no top 50 em 2025, no nº 41. Em junho de 2026 o Guia Michelin dos países nórdicos deu a terceira estrela à casa de Copenhague, e em novembro, em Lima, o Kadeau saltou 33 posições até o nº 8, com o prêmio Highest Climber."
   ],
   "cuisine": {
     "style": "Nova cozinha nórdica de Bornholm",
@@ -33,37 +46,57 @@
   },
   "dishes": [
     {
-      "name": "Salmão defumado por seis dias",
-      "desc": "Salmão defumado na casa durante seis dias, homenagem à tradição das defumadoras de Bornholm; em 2026 vinha em versões fria e quente, com manteiga de lavanda e garum de sardinha.",
+      "name": "Salmão defumado",
+      "desc": "Salmão curado e defumado na casa, primeiro a frio e depois a quente, homenagem à tradição das defumadoras de Bornholm; em 2025 e 2026 vinha com manteiga de lavanda e garum de sardinha.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Smoked_salmon_1.jpg/1920px-Smoked_salmon_1.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Smoked_salmon_1.jpg",
         "author": "Touzrimounir",
         "license": "CC BY-SA 4.0",
         "caption": "Fatias de salmão defumado; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Salmão defumado (ilustrativa)",
+        "alt": "Fatias finas de salmão defumado com ervas num prato branco",
+        "capturedAt": "2015-05-20",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Touzrimounir, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Lula com batata Sieglinde",
-      "desc": "Lula cozida lentamente com batata Sieglinde e molho de soro de leitelho defumado com manteiga noisette.",
+      "desc": "Lula cozida lentamente com batata Sieglinde e molho de soro de leitelho defumado com manteiga noisette. Versão descrita em visitas de anos anteriores; o menu muda com a estação.",
       "photo": null
     },
     {
       "name": "Vieira envolta em couro de frutas",
-      "desc": "Vieira envolta numa lâmina de couro de frutas feita com morango, rosa-mosqueta e ameixa, servida com alga preta.",
+      "desc": "Vieira envolta numa lâmina de couro de frutas feita com morango, rosa-mosqueta e ameixa, servida com alga preta. Versão descrita em visitas de anos anteriores; o menu muda com a estação.",
       "photo": null
     },
     {
       "name": "Lagosta-azul grelhada",
-      "desc": "Lagosta-azul grelhada com bisque, semente de coentro e alcaparras de alho-selvagem.",
+      "desc": "Lagosta-azul grelhada com bisque, semente de coentro e alcaparras de alho-selvagem. Versão descrita em visitas de anos anteriores; o menu muda com a estação.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Homarus_gammarus_03.JPG/1920px-Homarus_gammarus_03.JPG",
         "page": "https://commons.wikimedia.org/wiki/File:Homarus_gammarus_03.JPG",
         "author": "H. Zell",
         "license": "CC BY-SA 3.0",
         "caption": "Lagosta-europeia (Homarus gammarus), a lagosta-azul, em exemplar de museu; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Lagosta-europeia em exemplar de museu (ilustrativa)",
+        "alt": "Lagosta azul sobre rochas, num aquário de museu",
+        "capturedAt": "2010-05-22",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "H. Zell, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -107,9 +140,22 @@
   ],
   "practical": {
     "price": "Menu de cerca de 15 serviços a 4.150 coroas dinamarquesas (DKK) por pessoa; harmonização de vinhos de 2.500 a 18.000 DKK e harmonização sem álcool a 1.500 DKK (site oficial, 2026).",
-    "reservation": "Reservas online pelo site oficial; também pelo e-mail kbh@kadeau.dk ou pelo telefone +45 33 25 22 23. Jantar de terça a sexta a partir das 18h; sábado, almoço às 12h e jantar às 18h30.",
+    "reservation": "Reservas online pela plataforma Tock, com link no site oficial; também pelo e-mail kbh@kadeau.dk ou pelo telefone +45 33 25 22 23. Jantar de terça a sexta a partir das 18h; sábado, almoço às 12h e jantar às 18h30.",
     "website": "https://kadeau.dk/",
-    "address": "Wildersgade 10B, 1408 Copenhague K, Dinamarca"
+    "address": "Wildersgade 10B, 1408 Copenhague K, Dinamarca",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.exploretock.com/kadeau-copenhagen/",
+    "phone": "+45 33 25 22 23",
+    "email": "kbh@kadeau.dk",
+    "priceDetails": {
+      "amount": 4150,
+      "currency": "DKK",
+      "basis": "Menu degustação de cerca de 15 serviços, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://kadeau.dk/copenhagen/menu",
+      "checkedAt": "2026-11-10",
+      "note": "Harmonizações de vinho de DKK 2.500 a 18.000 e sem álcool de DKK 1.500; o site não informa impostos ou serviço."
+    }
   },
   "gallery": [
     {
@@ -118,7 +164,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Salão envidraçado do Kadeau Bornholm, de frente para o mar (2015)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Salão do Kadeau Bornholm (2015)",
+      "alt": "Salão claro com mesas e cadeiras brancas e grandes janelas",
+      "capturedAt": "2015-06-27",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kadeau_Bornholm_IMG_3037_%2823693034222%29.jpg/1920px-Kadeau_Bornholm_IMG_3037_%2823693034222%29.jpg",
@@ -126,7 +182,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Canteiros de ervas e vegetais ao lado do Kadeau Bornholm (2015)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Horta do Kadeau Bornholm (2015)",
+      "alt": "Canteiros de ervas floridas com caminho de cascalho até um terraço",
+      "capturedAt": "2015-06-27",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Gudhjem_Smokehouse_asv2024-07_img1.jpg/1920px-Gudhjem_Smokehouse_asv2024-07_img1.jpg",
@@ -134,7 +200,17 @@
       "author": "A.Savin",
       "license": "FAL",
       "caption": "Defumadora tradicional de peixe em Gudhjem, em Bornholm, tradição que inspira o salmão defumado do Kadeau",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Defumadora tradicional em Gudhjem, Bornholm",
+      "alt": "Casa amarela de defumação de peixe com chaminés altas",
+      "capturedAt": "2024-07-12",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://artlibre.org/licence/lal/en/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "A.Savin, FAL, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Christianshavns_Kanal_Copenhagen_Christianshavn_2014_02.jpg/1920px-Christianshavns_Kanal_Copenhagen_Christianshavn_2014_02.jpg",
@@ -142,13 +218,23 @@
       "author": "Julian Herzog",
       "license": "CC BY 4.0",
       "caption": "Canal de Christianshavn, o bairro de Copenhague onde fica o Kadeau",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Canal de Christianshavn, Copenhague",
+      "alt": "Canal com veleiros atracados e casas ao longo da margem",
+      "capturedAt": "2014",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Julian Herzog, CC BY 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
     "https://kadeau.dk/about",
     "https://kadeau.dk/copenhagen/menu",
-    "https://www.the50.com/the-list/41-50/kadeau.html",
+    "https://www.the50.com/restaurants/best-in-the-world/the-list/kadeau.html",
     "https://www.michelin.com/en/publications/products-and-services/the-michelin-guide-nordic-countries-2026-edition",
     "https://lex.dk/Kadeau",
     "https://en.wikipedia.org/wiki/Nicolai_N%C3%B8rregaard",
@@ -167,5 +253,47 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "Outra unidade do Kadeau",
     "previewContext": "Fotografia real do salão do Kadeau Bornholm, de 2015. O restaurante do ranking está em Copenhague; as duas unidades não devem ser confundidas."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://kadeau.dk/copenhagen",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://kadeau.dk/copenhagen/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://news.michelin.se/articles/the-2026-edition-of-the-michelin-guide-nordic-countries-has-been-unveiled",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A entrada de 2023 foi um retorno à lista; a primeira, em 2017 (nº 94), tem fonte única e não foi acrescentada."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://kadeau.dk/about",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Tamanho e número de lugares do endereço atual não confirmados; trecho retirado."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://kadeau.dk/copenhagen/menu",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O site não nomeia pratos; salmão confirmado em relatos de 2025 e 2026; lula, vieira e lagosta marcadas como versões de anos anteriores."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Kadeau_Bornholm",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "As fotos reais mostram a casa de Bornholm, identificada nas legendas; não há foto licenciada da casa de Copenhague."
+    }
+  ]
 }

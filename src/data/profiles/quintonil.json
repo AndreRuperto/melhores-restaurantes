@@ -1,5 +1,8 @@
 {
   "slug": "quintonil",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Batizado com o nome de uma erva comestível da família do amaranto, o Quintonil, em Polanco, na Cidade do México, transforma ingredientes tradicionais do país, como quelites, huauzontles, insetos e moles, em menus-degustação contemporâneos. Aberto em 2012 por Jorge Vallejo e Alejandra Flores, tornou-se em 2025 o primeiro restaurante mexicano a chegar ao top 3 da lista mundial.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Quintonil_Exterior.jpg/1920px-Quintonil_Exterior.jpg",
@@ -7,7 +10,17 @@
     "author": "City Foodsters",
     "license": "CC BY 2.0",
     "caption": "Fachada do Quintonil, no número 55 da rua Newton, em Polanco, Cidade do México (2016).",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Quintonil, Newton 55, Polanco (2016)",
+    "alt": "Fachada com toldo e letreiro preto Quintonil 55, porta de vidro e vasos de plantas",
+    "capturedAt": "2016-10-31",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2012,
   "founders": [
@@ -40,31 +53,61 @@
         "author": "Daniel Arturo Fabian Sánchez",
         "license": "CC BY-SA 4.0",
         "caption": "Escamoles com epazote e guacamole (imagem ilustrativa; não é o prato do Quintonil).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Escamoles com epazote e guacamole (ilustrativa)",
+        "alt": "Prato fundo com escamoles refogados, guacamole e limão",
+        "capturedAt": "2021-04-30",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Daniel Arturo Fabian Sánchez, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Huauzontles en salsa de tomate (huauzontles ao molho de tomate)",
-      "desc": "Um dos primeiros pratos da casa, ainda no cardápio: huauzontles cozidos numa infusão de ervas, servidos com molho de tomate com pimenta habanero e queso de cuadro de Chiapas, que derrete no molho.",
+      "desc": "Um dos primeiros pratos da casa: huauzontles cozidos numa infusão de ervas, servidos com molho de tomate com pimenta habanero e queso de cuadro de Chiapas, que derrete no molho.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Torta_de_huauzontle.jpg/1920px-Torta_de_huauzontle.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Torta_de_huauzontle.jpg",
         "author": "Wotancito",
         "license": "CC BY-SA 4.0",
         "caption": "Torta de huauzontle com molho de tomate, preparo tradicional mexicano (imagem ilustrativa).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Torta de huauzontle com molho de tomate (ilustrativa)",
+        "alt": "Fatia de torta verde de huauzontle coberta por molho de tomate",
+        "capturedAt": "2021-04-30",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Wotancito, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Mole de chilacayote (chilacayote ao mole)",
-      "desc": "Pedaços de chilacayote, uma abóbora mexicana, cobertos com o mole da casa, uma das constantes do cardápio desde os primeiros anos.",
+      "desc": "Pedaços de chilacayote, uma abóbora mexicana, cobertos com o mole da casa, prato servido nos primeiros anos do restaurante.",
       "photo": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Course_-6-_%22Chilacayotes%22_%28squash%29_in_homemade_mole_with_charred_tortilla_and_basil_sprouts_%2811303603216%29_%28cropped%29.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Course_-6-_%22Chilacayotes%22_(squash)_in_homemade_mole_with_charred_tortilla_and_basil_sprouts_(11303603216)_(cropped).jpg",
         "author": "City Foodsters",
         "license": "CC BY 2.0",
         "caption": "Chilacayotes ao mole da casa, com tortilla tostada e brotos de manjericão, servido no Quintonil em 2013.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Chilacayotes ao mole servidos no Quintonil (2013)",
+        "alt": "Pedaços de abóbora cobertos por mole escuro, com fitas de abobrinha e tortilla tostada",
+        "capturedAt": "2013-11-28",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -76,12 +119,22 @@
         "author": "Wotancito",
         "license": "CC BY-SA 4.0",
         "caption": "Chileatole, sopa de milho com molho verde (imagem ilustrativa).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Chileatole, sopa de milho (ilustrativa)",
+        "alt": "Tigela de barro com sopa verde de milho e pedaços de legumes",
+        "capturedAt": "2015-12-10",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Wotancito, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Pato con mole manchamanteles (pato com mole manchamanteles)",
-      "desc": "Pato assado com mole manchamanteles de coco, um molho de frutas e pimentas, e redução de beterraba.",
+      "desc": "Pato assado com mole manchamanteles de coco, um molho de frutas e pimentas, e redução de beterraba, citado pelo The 50 Best entre os pratos da casa.",
       "photo": null
     }
   ],
@@ -164,10 +217,22 @@
     }
   ],
   "practical": {
-    "price": "Menu-degustação de MXN 6.090 por pessoa; harmonizações de MXN 2.175 (sem álcool) a MXN 8.450 (valores de novembro de 2026, segundo o site oficial)",
+    "price": "Menu-degustação de MXN 6.090 por pessoa; harmonizações de MXN 2.175 (sem álcool) a MXN 8.450 (valores de novembro de 2026, segundo o site oficial); o site não informa se o valor inclui impostos ou serviço",
     "reservation": "Somente pela seção de reservas do site oficial ou pelo Tock (exploretock.com/quintonil); não se reserva por e-mail. Abre de segunda a sábado, das 13h à meia-noite; fecha aos domingos.",
     "website": "https://www.quintonil.com/",
-    "address": "Newton 55, Polanco, Miguel Hidalgo, 11560, Cidade do México, México"
+    "address": "Newton 55, Polanco, Miguel Hidalgo, 11560, Cidade do México, México",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.exploretock.com/quintonil",
+    "phone": "+52 55 5280 1660",
+    "priceDetails": {
+      "amount": 6090,
+      "currency": "MXN",
+      "basis": "Menu-degustação por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.quintonil.com/en/",
+      "checkedAt": "2026-11-10",
+      "note": "Cardápio identificado como de novembro de 2026; harmonizações de MXN 2.175 a 8.450; o site não menciona IVA nem serviço."
+    }
   },
   "gallery": [
     {
@@ -176,7 +241,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Salão do Quintonil, com paredes revestidas de madeira, em 2013.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Salão do Quintonil (2013)",
+      "alt": "Salão com parede de madeira, mesas escuras e janelas amplas para um pátio",
+      "capturedAt": "2013-11-28",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Quintonil_10.jpg/1920px-Quintonil_10.jpg",
@@ -184,7 +259,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Prato do menu-degustação servido no Quintonil.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "dish",
+      "subject": "Prato do menu-degustação do Quintonil (2016)",
+      "alt": "Tartar verde em montinho sobre pó verde num prato branco",
+      "capturedAt": "2016-10-31",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Huitlacoche%2C_quintoniles%2C_huauhzontles%2C_flor_de_calabaza_et_al.%2C_Santa_Maria_la_Ribera_Market.jpg/1920px-Huitlacoche%2C_quintoniles%2C_huauhzontles%2C_flor_de_calabaza_et_al.%2C_Santa_Maria_la_Ribera_Market.jpg",
@@ -192,7 +277,17 @@
       "author": "Louise Ranck",
       "license": "CC BY-SA 3.0",
       "caption": "Huitlacoche, quintoniles, huauzontles e flor de abóbora no mercado de Santa María la Ribera, Cidade do México (imagem ilustrativa dos ingredientes).",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Ingredientes no mercado de Santa María la Ribera (ilustrativa)",
+      "alt": "Bancada de feira com huitlacoche, ervas, cogumelos e flores de abóbora",
+      "capturedAt": "2006",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Louise Ranck, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -220,6 +315,57 @@
     "author": "City Foodsters",
     "license": "CC BY 2.0",
     "caption": "Fachada do Quintonil, no número 55 da rua Newton, em Polanco, Cidade do México (2016).",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Quintonil, Newton 55, Polanco (2016)",
+    "alt": "Fachada com toldo e letreiro preto Quintonil 55, porta de vidro e vasos de plantas",
+    "capturedAt": "2016-10-31",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.quintonil.com/en/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.quintonil.com/en/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.phone",
+      "sourceUrl": "https://www.quintonil.com/en/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O site oficial lista +52 55 5280 1660, 5280 0254 e 5282 0724; o The 50 Best lista +52 55 5280 2680. Prevalece o site oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/quintonil.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Gourmet Awards 2012 e posições de 2017, 2019, 2022 e 2023 com fonte única."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.quintonil.com/en/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Nenhum dos pratos do perfil está no menu de novembro de 2026; textos ajustados para não indicar disponibilidade atual."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Quintonil",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

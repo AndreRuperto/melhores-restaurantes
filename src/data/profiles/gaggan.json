@@ -1,5 +1,8 @@
 {
   "slug": "gaggan",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Em Bangcoc, o chef indiano Gaggan Anand transforma a cozinha indiana progressiva em espetáculo: um menu de mais de 20 etapas indicadas por emojis, servido a 14 pessoas num balcão diante da cozinha aberta, onde se come com as mãos e às vezes se lambe o prato. Em suas sucessivas encarnações, o restaurante foi eleito o melhor da Ásia cinco vezes.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sukhumvit_skyline%2C_Bangkok.jpg/1920px-Sukhumvit_skyline%2C_Bangkok.jpg",
@@ -7,7 +10,17 @@
     "author": "Slyronit",
     "license": "CC BY-SA 4.0",
     "caption": "Arranha-céus iluminados da região de Sukhumvit, em Bangcoc, ao anoitecer; o Gaggan fica na Sukhumvit Soi 31",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Arranha-céus da região de Sukhumvit, em Bangcoc",
+    "alt": "Arranha-céus iluminados de Bangcoc ao anoitecer, acima de casas baixas",
+    "capturedAt": "2022-06-16",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "Slyronit, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2010,
   "founders": [
@@ -15,7 +28,7 @@
   ],
   "chef": {
     "name": "Gaggan Anand",
-    "bio": "Nascido em Calcutá, na Índia, Gaggan Anand tocou bateria em bandas de rock antes de se dedicar à cozinha. Formou-se no grupo hoteleiro Taj e foi o primeiro cozinheiro de origem indiana a estagiar na equipe de pesquisa de Ferran Adrià no elBulli, na Espanha, experiência que despertou seu interesse pela gastronomia molecular. Além do Gaggan, comanda ou participa de projetos como Ms. Maria & Mr. Singh, Gaggan at Louis Vuitton e Sühring, em Bangcoc, e GohGan, em Fukuoka, no Japão."
+    "bio": "Nascido em Calcutá, na Índia, Gaggan Anand tocou bateria em bandas de rock antes de se dedicar à cozinha. Formou-se no grupo hoteleiro Taj e foi o primeiro cozinheiro de origem indiana a estagiar na equipe de pesquisa de Ferran Adrià no elBulli, na Espanha, experiência que despertou seu interesse pela gastronomia molecular. Além do Gaggan, comanda ou participa de projetos como Ms. Maria & Mr. Singh, Gaggan at Louis Vuitton e Sühring, em Bangcoc, GohGan, em Fukuoka, no Japão, e Raga by Gaggan, aberto em Nova Délhi em 2026."
   },
   "history": [
     "O Gaggan abriu em dezembro de 2010 num sobrado antigo da Soi Langsuan, no centro de Bangcoc, com a proposta de levar a comida indiana ao universo da alta gastronomia. Em poucos anos chegou às listas internacionais: em 2014 foi 3º no Asia's 50 Best e estreou em 17º no ranking mundial; depois, foi eleito o melhor restaurante da Ásia quatro vezes seguidas, de 2015 a 2018. No primeiro Guia Michelin de Bangcoc, recebeu duas estrelas.",
@@ -32,7 +45,7 @@
   "dishes": [
     {
       "name": "Lick It Up (Lamba o prato)",
-      "desc": "Prato multicolorido feito com corantes vegetais que o cliente come lambendo, apontado pelo The 50 Best como a criação-assinatura da casa.",
+      "desc": "Prato multicolorido que o cliente come lambendo, uma das criações mais conhecidas do Gaggan.",
       "photo": null
     },
     {
@@ -44,7 +57,17 @@
         "author": "SwatiGupta1986",
         "license": "CC BY-SA 4.0",
         "caption": "Dahi puri, petisco de rua indiano com iogurte da família do chaat (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Dahi puri, petisco indiano (ilustrativa)",
+        "alt": "Bolinhas crocantes recheadas com iogurte e coentro numa bandeja de metal",
+        "capturedAt": "2014-10-27",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "SwatiGupta1986, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -56,7 +79,17 @@
         "author": "Miansari66",
         "license": "CC0",
         "caption": "Peixe frito ao estilo de Amritsar, preparo que inspira o recheio do prato (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Peixe frito ao estilo de Amritsar (ilustrativa)",
+        "alt": "Pedaços de peixe empanado e frito com rodelas de cebola, hortelã e limão",
+        "capturedAt": "2015-12-06",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Miansari66, CC0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -156,10 +189,22 @@
     }
   ],
   "practical": {
-    "price": "Menu degustação a partir de US$ 495 por pessoa (The 50 Best, 2026)",
-    "reservation": "Pelo site oficial (sistema SevenRooms) ou por telefone/WhatsApp +66 98 883 1022; abre de quinta a segunda-feira, no almoço e no jantar.",
+    "price": "Menu degustação a partir de 495 dólares por pessoa, segundo o guia Discovery do The 50 Best (consultado em novembro de 2026); o restaurante não publica o preço no site oficial nem informa se há taxas ou serviço",
+    "reservation": "Pelo botão \"Request a Table\" do site oficial, que leva ao sistema SevenRooms; o restaurante também atende por telefone e WhatsApp no +66 98 883 1022. Abre de quinta a segunda-feira, no almoço e no jantar.",
     "website": "https://gaggan.com/",
-    "address": "68 Sukhumvit 31, Khlong Tan Nuea, Watthana, Bangcoc 10110, Tailândia"
+    "address": "68 Sukhumvit 31, Khlong Tan Nuea, Watthana, Bangcoc 10110, Tailândia",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.sevenrooms.com/experiences/gaggan/gaggan-anand-team-are-back-in-town--8185841948",
+    "phone": "+66 98 883 1022",
+    "priceDetails": {
+      "amount": 495,
+      "currency": "USD",
+      "basis": "Menu degustação, a partir de, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Gaggan.html",
+      "checkedAt": "2026-11-10",
+      "note": "Fonte única; o guia Discovery mostra \"$495\" sem detalhar o que inclui. O mesmo guia mostra \"$292\" para o Kjolle, equivalente ao preço oficial em soles, o que indica dólares americanos."
+    }
   },
   "gallery": [
     {
@@ -167,8 +212,18 @@
       "page": "https://commons.wikimedia.org/wiki/File:Gaggan_indian_progressive_cuisine_restaurant_bangkok.jpg",
       "author": "Sais.isa",
       "license": "CC BY-SA 4.0",
-      "caption": "Fachada do primeiro endereço do Gaggan, na Soi Langsuan, em 2015",
-      "illustrative": false
+      "caption": "Placa com o nome do Gaggan no primeiro endereço, na Soi Langsuan, em 2015",
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Placa do Gaggan no primeiro endereço, Soi Langsuan (2015)",
+      "alt": "Placa marrom com o nome Gaggan em letras douradas e os dizeres progressive Indian cuisine",
+      "capturedAt": "2015-08-27",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Sais.isa, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Dessert_at_Gaggan.jpg/1920px-Dessert_at_Gaggan.jpg",
@@ -176,7 +231,17 @@
       "author": "ZeroPointEnergyFieldManipulationAndYou",
       "license": "CC BY-SA 4.0",
       "caption": "Uma das sobremesas do menu degustação do Gaggan, em dezembro de 2016",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "dish",
+      "subject": "Sobremesa do menu degustação do Gaggan (2016)",
+      "alt": "Dois doces redondos cobertos por bolas de sorvete branco numa travessa azul",
+      "capturedAt": "2016-12-24",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "ZeroPointEnergyFieldManipulationAndYou, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Degustation_menu_best_of_gaggan_2015.jpg/1280px-Degustation_menu_best_of_gaggan_2015.jpg",
@@ -184,7 +249,17 @@
       "author": "Sais.isa",
       "license": "CC BY-SA 4.0",
       "caption": "Cardápio do menu degustação \"Best of Gaggan\", de 2015",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Cardápio do menu Best of Gaggan (2015)",
+      "alt": "Cardápio impresso do menu degustação Best of Gaggan, com a lista de pratos",
+      "capturedAt": "2015-08-20",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Sais.isa, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sukhumvit_Soi_31_at_Dusk.jpg/1920px-Sukhumvit_Soi_31_at_Dusk.jpg",
@@ -192,7 +267,17 @@
       "author": "Slyronit",
       "license": "CC BY-SA 4.0",
       "caption": "A Sukhumvit Soi 31, rua do endereço atual do Gaggan, ao entardecer",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Sukhumvit Soi 31, rua do endereço atual",
+      "alt": "Rua de Bangcoc ao entardecer, com prédios altos e árvores",
+      "capturedAt": "2022-09-14",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Slyronit, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -220,5 +305,40 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "A primeira sede",
     "previewContext": "Fotografia da fachada do Gaggan original, na Soi Langsuan, em 2015. É uma sede histórica; a unidade atual fica na Sukhumvit Soi 31."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://gaggan.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Gaggan.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço não publicado no site oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/gaggan.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Posições de 2014 a 2019 conferidas em listas publicadas no ano; as duas estrelas de 2018 e a estrela de 2026 vêm de cobertura de imprensa, porque o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gaggan",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos são assinaturas históricas; a página atual do 50 Best não cita prato-assinatura."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Gaggan_(restaurant)",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

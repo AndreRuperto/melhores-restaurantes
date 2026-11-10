@@ -1,5 +1,8 @@
 {
   "slug": "diverxo",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Restaurante de Dabiz Muñoz em Madrid, o DiverXO serve um longo menu-degustação encenado como espetáculo, que mistura produtos espanhóis com técnicas e sabores da China, do Japão, da Índia e do México. Porcos voadores espalhados pelo salão lembram a aposta improvável que deu origem à casa.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/DiverXO_AV4A3445-Edit_%2827539833998%29.jpg/1920px-DiverXO_AV4A3445-Edit_%2827539833998%29.jpg",
@@ -7,7 +10,17 @@
     "author": "City Foodsters",
     "license": "CC BY 2.0",
     "caption": "Entrada do DiverXO no hotel NH Eurobuilding, em Madrid, em 2018",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Entrada do DiverXO no NH Eurobuilding (2018)",
+    "alt": "Porta giratória dourada com o letreiro DiverXO em letras brancas e vermelhas",
+    "capturedAt": "2018-04-06",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2007,
   "founders": [
@@ -16,7 +29,7 @@
   ],
   "chef": {
     "name": "Dabiz Muñoz",
-    "bio": "David Muñoz Rosillo, que assina Dabiz, nasceu em Madrid em 1980, entrou na escola de cozinha aos 17 anos e trabalhou no Viridiana, de Abraham García, antes de se mudar para Londres, onde passou por Hakkasan, Nobu, Nahm e Locanda Locatelli. De volta à Espanha, abriu o DiverXO em 2007 e chegou às três estrelas Michelin em 2013. Foi eleito melhor chef do mundo pelo The Best Chef Awards em 2021, 2022 e 2023 e comanda também o StreetXO e o RavioXO."
+    "bio": "David Muñoz Rosillo, que assina Dabiz, nasceu em Madrid em 1980 e trabalhou no Viridiana, de Abraham García, antes de se mudar para Londres, onde passou por Hakkasan, Nobu, Nahm e Locanda Locatelli. De volta à Espanha, abriu o DiverXO em 2007 e chegou às três estrelas Michelin em 2013. Foi eleito melhor chef do mundo pelo The Best Chef Awards em 2021, 2022 e 2023 e comanda também o StreetXO e o RavioXO."
   },
   "history": [
     "O DiverXO abriu em 2007 num local pequeno do bairro de Tetuán, em Madrid, como projeto de Dabiz Muñoz e de sua então companheira, Ángela Montero, ex-bailarina que chefiou o salão nos primeiros anos. O casal financiou o negócio com economias próprias e hipotecando o apartamento; Muñoz contou que chegaram a dormir no chão do restaurante. O símbolo dos porcos voadores vem da resposta do pai do chef quando ele disse que um dia teria um restaurante com fila na porta: \"Claro, e os porcos vão voar\".",
@@ -40,7 +53,17 @@
         "author": "Peachyeung316",
         "license": "CC BY-SA 4.0",
         "caption": "Pombo grelhado; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Pombo grelhado (ilustrativa)",
+        "alt": "Pombo grelhado com folhas verdes num prato branco quadrado",
+        "capturedAt": "2023-03-24",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -52,7 +75,17 @@
         "author": "Maksym Kozlenko",
         "license": "CC BY-SA 4.0",
         "caption": "Nigiris de peixe; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Nigiris de peixe (ilustrativa)",
+        "alt": "Bandejas de nigiris de peixe cru expostas num balcão",
+        "capturedAt": "2016-05-26",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -64,7 +97,17 @@
         "author": "Jan Harenburg",
         "license": "CC BY-SA 4.0",
         "caption": "Paella valenciana tradicional; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Paella valenciana tradicional (ilustrativa)",
+        "alt": "Paellera com arroz amarelo, vagens e carnes",
+        "capturedAt": null,
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "Jan Harenburg, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -76,7 +119,17 @@
         "author": "THOR",
         "license": "CC BY 2.0",
         "caption": "Caviar de beluga e ovas de salmão; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Caviar de beluga e ovas de salmão (ilustrativa)",
+        "alt": "Duas conchas de madrepérola, uma com caviar preto e outra com ovas alaranjadas",
+        "capturedAt": "2010-02-05",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "THOR, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -135,10 +188,23 @@
     }
   ],
   "practical": {
-    "price": "Menu sólido \"La Cocina de los Cerdos Voladores\": 450 euros por pessoa; harmonização de vinhos a partir de 300 euros e menu líquido sem álcool a partir de 250 euros (site oficial, 2026)",
-    "reservation": "Pelo site oficial (diverxo.com/es/reservar) ou pelo telefone +34 915 700 766",
+    "price": "Menu sólido \"La Cocina de los Cerdos Voladores\": 450 euros por pessoa, IVA incluído, pagos antecipadamente como ticket na reserva e descontados da conta; bebidas à parte. Harmonização de vinhos a partir de 300 euros e menu líquido sem álcool \"Metamorfosis\" a partir de 250 euros (site oficial, novembro de 2026)",
+    "reservation": "Pelo site oficial (diverxo.com/es/reservar), com pagamento antecipado do ticket; novas datas são liberadas diariamente com 90 dias de antecedência e há lista de espera; cancelamentos com pelo menos duas semanas têm reembolso integral. Contato também pelo telefone +34 915 70 07 66 ou pelo e-mail info@diverxo.com. Abre de terça a sexta, no almoço e no jantar.",
     "website": "https://diverxo.com",
-    "address": "Hotel NH Collection Madrid Eurobuilding, Calle del Padre Damián, 23, 28036 Madrid, Espanha"
+    "address": "Hotel NH Collection Madrid Eurobuilding, Calle del Padre Damián, 23, 28036 Madrid, Espanha",
+    "reservationMode": "online",
+    "reservationUrl": "https://diverxo.com/es/reservar",
+    "phone": "+34 915 70 07 66",
+    "email": "info@diverxo.com",
+    "priceDetails": {
+      "amount": 450,
+      "currency": "EUR",
+      "basis": "Menu sólido \"La Cocina de los Cerdos Voladores\", por pessoa, sem bebidas",
+      "taxesIncluded": true,
+      "sourceUrl": "https://diverxo.com/es/reservar",
+      "checkedAt": "2026-11-10",
+      "note": "Pago como ticket na reserva e descontado da conta; reembolso com cancelamento de ao menos duas semanas."
+    }
   },
   "gallery": [
     {
@@ -147,7 +213,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Mesa posta no salão do DiverXO, em 2018",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Mesa posta no salão do DiverXO (2018)",
+      "alt": "Mesa branca com cloche em forma de crista vermelha e figuras decorativas ao fundo",
+      "capturedAt": "2018-04-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/DiverXO_AV4A3451_%2827539839788%29.jpg/1920px-DiverXO_AV4A3451_%2827539839788%29.jpg",
@@ -155,7 +231,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Cozinha do DiverXO durante o serviço, em 2018",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Cozinha do DiverXO durante o serviço (2018)",
+      "alt": "Cozinha aberta e iluminada com cozinheiros trabalhando em bancadas de aço",
+      "capturedAt": "2018-04-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/DiverXO_AV4A3557_%2839601804880%29.jpg/1920px-DiverXO_AV4A3557_%2839601804880%29.jpg",
@@ -163,7 +249,17 @@
       "author": "City Foodsters",
       "license": "CC BY 2.0",
       "caption": "Dabiz Muñoz finaliza um prato no salão do DiverXO, em 2018",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "chef",
+      "subject": "Dabiz Muñoz no salão do DiverXO (2018)",
+      "alt": "Chef de avental listrado ao lado de cestos de vapor envoltos em fumaça de gelo seco",
+      "capturedAt": "2018-04-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Fachada_de_Diverxo.jpg",
@@ -171,7 +267,17 @@
       "author": "Javier Lastras",
       "license": "CC BY 2.0",
       "caption": "Fachada do DiverXO em 2009, quando o restaurante ainda ficava no bairro de Tetuán",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Fachada do DiverXO em Tetuán (2009)",
+      "alt": "Porta de vidro com moldura vermelha e o nome DiverXO adesivado",
+      "capturedAt": "2009-03-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Javier Lastras, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -200,6 +306,63 @@
     "author": "City Foodsters",
     "license": "CC BY 2.0",
     "caption": "Entrada do DiverXO no hotel NH Eurobuilding, em Madrid, em 2018",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Entrada do DiverXO no NH Eurobuilding (2018)",
+    "alt": "Porta giratória dourada com o letreiro DiverXO em letras brancas e vermelhas",
+    "capturedAt": "2018-04-06",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "City Foodsters, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://diverxo.com/es/reservar",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://diverxo.com/es/reservar",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Dabiz_Mu%C3%B1oz",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Retirada a menção à escola de cozinha aos 17 anos, sem fonte."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.timeout.es/madrid/es/noticias/diverxo-no-se-muda-dabiz-munoz-cancela-su-proyecto-en-la-finca-062424",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Episódios da fundação (hipoteca, Ángela Montero como ex-bailarina) não reconferidos."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/diverxo.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/diverxo.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Os quatro pratos constam da página do The 50 Best de 2026; o site oficial não lista pratos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:DiverXO",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

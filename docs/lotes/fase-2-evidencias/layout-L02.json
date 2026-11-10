@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-10",
+  "env": "servidor de desenvolvimento Vite, painel de navegador Chromium do Claude Desktop",
+  "method": "scrollWidth vs clientWidth e elementos fora da viewport (exceto SVG decorativo recortado); imagens sem alt; links da seção Antes de ir",
+  "cases": [
+    {
+      "slug": "gaggan",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "gaggan",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "alchemist",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "alchemist",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "quintonil",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "quintonil",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "wing",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "wing",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "the-chairman",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "the-chairman",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "kjolle",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "kjolle",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "kadeau",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "kadeau",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "diverxo",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "diverxo",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "plenitude",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "plenitude",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    },
+    {
+      "slug": "atomix",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "atomix",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0
+    }
+  ],
+  "consoleErrors": 0,
+  "notTested": [
+    "375, 768 e 1024 px",
+    "tema escuro em 320 px",
+    "teclado",
+    "Firefox",
+    "Safari",
+    "zoom 200%",
+    "leitor de tela"
+  ]
+}

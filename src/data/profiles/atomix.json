@@ -1,5 +1,8 @@
 {
   "slug": "atomix",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "No subsolo de um sobrado na East 30th Street, em Manhattan, o casal coreano Junghyun \"JP\" e Ellia Park serve um menu-degustação de cozinha coreana em torno de um balcão em U, com um cartão explicando cada prato. Em sete anos, o Atomix chegou ao topo da lista norte-americana e se tornou o restaurante dos Estados Unidos mais bem colocado no ranking mundial.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Atomix_NYC.jpg/1920px-Atomix_NYC.jpg",
@@ -7,7 +10,17 @@
     "author": "Transpoman",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do Atomix no número 104 da East 30th Street, em Nova York (novembro de 2023)",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Atomix, 104 East 30th Street (2023)",
+    "alt": "Sobrado de pedra com duas portas em arco, grades pretas e pequena placa do Atomix",
+    "capturedAt": "2023-11-30",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "Transpoman, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2018,
   "founders": [
@@ -20,8 +33,8 @@
   },
   "history": [
     "Junghyun e Ellia Park se mudaram de Seul para Nova York, onde JP comandava a cozinha do Jungsik. Em 2016 o casal abriu o Atoboy, um restaurante casual inspirado no banchan, os pequenos acompanhamentos da mesa coreana. O sucesso da casa permitiu lançar, em maio de 2018, um projeto mais ambicioso: o Atomix, instalado num sobrado da East 30th Street, entre NoMad e Koreatown. O nome, como o do primeiro restaurante, vem de \"ato\", palavra antiga do coreano para \"presente\".",
-    "O reconhecimento veio rápido. Em outubro de 2018, o crítico Pete Wells deu três estrelas ao restaurante no New York Times; semanas depois, o Guia Michelin de Nova York 2019 concedeu a primeira estrela, e a segunda chegou na edição de 2020. Em 2022, o Atomix entrou no The World's 50 Best Restaurants em 33º lugar, como o restaurante americano mais bem colocado, e Ellia Park recebeu o prêmio Art of Hospitality pelo trabalho no salão.",
-    "No ano seguinte, o restaurante subiu 25 posições, para o 8º lugar, e ganhou o prêmio de maior ascensão da lista. Foi 6º em 2024 e 12º em 2025, ano em que também venceu a primeira edição do North America's 50 Best Restaurants. Em 2026 ficou em 7º na lista norte-americana e em 11º no ranking mundial. O grupo do casal, NA-EUN Hospitality, cresceu com o Naro, no Rockefeller Center, e o bar Seoul Salon."
+    "O reconhecimento veio rápido. Em outubro de 2018, o crítico Pete Wells deu três estrelas ao restaurante no New York Times; semanas depois, o Guia Michelin de Nova York 2019 concedeu a primeira estrela, e a segunda chegou na edição de 2020. Em 2022, o Atomix entrou no The World's 50 Best Restaurants em 33º lugar, como o restaurante americano mais bem colocado, e recebeu o prêmio Art of Hospitality pelo serviço de salão comandado por Ellia Park.",
+    "No ano seguinte, o restaurante subiu 25 posições, para o 8º lugar, e ganhou o prêmio de maior ascensão da lista. Foi 6º em 2024 e 12º em 2025, ano em que também venceu a primeira edição do North America's 50 Best Restaurants. Em 2026 ficou em 7º na lista norte-americana e em 11º no ranking mundial, de novo como o melhor restaurante da América do Norte na lista global. O grupo do casal, NA-EUN Hospitality, cresceu com o Naro, o bar Seoul Salon e, em 2026, o bistrô Somssi, no Greenwich Village."
   ],
   "cuisine": {
     "style": "Coreana contemporânea (menu-degustação)",
@@ -40,7 +53,17 @@
         "author": "ArgentumFerrum (Pixabay)",
         "license": "CC0",
         "caption": "Tteok-galbi, bolinhos grelhados de costela bovina, em versão tradicional (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Tteok-galbi em versão tradicional (ilustrativa)",
+        "alt": "Dois bolinhos grelhados de costela bovina numa chapa de ferro",
+        "capturedAt": "2012-02-15",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "ArgentumFerrum (Pixabay), CC0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -57,7 +80,17 @@
         "author": "titanium22",
         "license": "CC BY-SA 2.0",
         "caption": "Sundubu-jjigae, ensopado picante de tofu macio da cozinha coreana (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Sundubu-jjigae (ilustrativa)",
+        "alt": "Ensopado vermelho borbulhante com tofu, ovo e cogumelos numa panela de barro",
+        "capturedAt": "2005-08-30",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "titanium22, CC BY-SA 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -126,14 +159,30 @@
     },
     {
       "year": 2026,
-      "title": "The World's 50 Best Restaurants – nº 11"
+      "title": "The 50 Best Restaurants – nº 11"
+    },
+    {
+      "year": 2026,
+      "title": "The Best Restaurant in North America (The 50 Best Restaurants 2026)"
     }
   ],
   "practical": {
-    "price": "US$ 385 por pessoa no menu do balcão do chef e US$ 285 no menu do bar, com harmonização de bebidas incluída (valores de 2026); o restaurante não aceita gorjetas",
-    "reservation": "Obrigatória, pré-paga, pela plataforma Tock (exploretock.com/atomixnyc). As vagas de cada mês são liberadas de uma vez; duas sessões por noite, às 17h30 e às 20h45. Não atende dietas vegana, vegetariana ou celíaca.",
+    "price": "A partir de US$ 385 por pessoa no menu do balcão do chef e de US$ 285 no menu do bar, que inclui uma degustação de bebidas (valores de setembro de 2026, segundo a The Infatuation); o restaurante não aceita gorjetas",
+    "reservation": "Obrigatória e pré-paga, pela plataforma Tock (exploretock.com/atomixnyc), que libera as vagas em datas anunciadas com antecedência; duas sessões por noite, às 17h30 e às 20h45. Não atende dietas vegana, vegetariana ou celíaca, nem alergias a frutos do mar, laticínios, glúten ou aliáceas.",
     "website": "https://www.atomixnyc.com/",
-    "address": "104 E 30th St, New York, NY 10016, Estados Unidos"
+    "address": "104 E 30th St, New York, NY 10016, Estados Unidos",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.exploretock.com/atomixnyc/",
+    "email": "info@atomixnyc.com",
+    "priceDetails": {
+      "amount": 385,
+      "currency": "USD",
+      "basis": "Menu do balcão do chef, a partir de, por pessoa; bar a partir de US$ 285, com degustação de bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.theinfatuation.com/new-york/guides/most-expensive-tasting-menus-nyc",
+      "checkedAt": "2026-11-10",
+      "note": "The Infatuation, 3 de setembro de 2026; o site oficial não publica preço; trechos indexados da Tock citam US$ 424 a 495 com taxa administrativa para datas do fim de 2026."
+    }
   },
   "gallery": [
     {
@@ -142,7 +191,17 @@
       "author": "Jim.henderson",
       "license": "CC BY-SA 3.0",
       "caption": "Entrada do Atomix, com a placa do restaurante ao lado da porta do sobrado na East 30th Street (2024)",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "facade",
+      "subject": "Entrada do Atomix (2024)",
+      "alt": "Porta em arco de madeira escura no alto de uma escada, com placa ao lado",
+      "capturedAt": null,
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Jim.henderson, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/USA-NYC-Korea_Way.JPG/1920px-USA-NYC-Korea_Way.JPG",
@@ -150,7 +209,17 @@
       "author": "Ingfbruno",
       "license": "CC BY-SA 3.0",
       "caption": "Placa da Korea Way, na West 32nd Street, coração da Koreatown de Manhattan, à noite",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Placa da Korea Way, Koreatown de Manhattan",
+      "alt": "Placas de rua azuis West 32nd St e Korea Way iluminadas à noite",
+      "capturedAt": "2013-05-01",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Ingfbruno, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -176,6 +245,57 @@
     "author": "Transpoman",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do Atomix no número 104 da East 30th Street, em Nova York (novembro de 2023)",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Atomix, 104 East 30th Street (2023)",
+    "alt": "Sobrado de pedra com duas portas em arco, grades pretas e pequena placa do Atomix",
+    "capturedAt": "2023-11-30",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "Transpoman, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.atomixnyc.com/counter",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.theinfatuation.com/new-york/guides/most-expensive-tasting-menus-nyc",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O site oficial não publica preço; a harmonização incluída vale só para o menu do bar."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/atomix.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Art of Hospitality de 2022 foi dado ao restaurante; grupo atualizado com o Somssi. \"Naro no Rockefeller Center\" não confirmado e retirado."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/atomix.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/northamerica/en/the-list/atomix.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Tteok-galbi, linguado com ouriço e tofu picante constam da página norte-americana de 2026; caranguejo-real e olho-de-boi são históricos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atomix_NYC.jpg",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

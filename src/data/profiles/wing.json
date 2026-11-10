@@ -1,5 +1,8 @@
 {
   "slug": "wing",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "No 29º andar de um edifício em Central, Hong Kong, o chef Vicky Cheng, formado na cozinha clássica francesa, serve um menu degustação sazonal que percorre as oito grandes cozinhas regionais da China. Ele chama o que faz de cozinha chinesa \"sem fronteiras\": fiel aos sabores clássicos, livre na forma.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Hong_Kong_Central_skyline_by_night_from_Tsim_Sha_Tsui.jpg/1920px-Hong_Kong_Central_skyline_by_night_from_Tsim_Sha_Tsui.jpg",
@@ -7,7 +10,17 @@
     "author": "Daniel Case",
     "license": "CC BY-SA 3.0",
     "caption": "O skyline de Central, bairro onde fica o Wing, visto à noite de Tsim Sha Tsui, do outro lado do porto Victoria",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Skyline de Central, Hong Kong, visto de Tsim Sha Tsui",
+    "alt": "Arranha-céus iluminados refletidos nas águas do porto Victoria à noite",
+    "capturedAt": "2013-08-04",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "Daniel Case, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2021,
   "founders": [
@@ -15,7 +28,7 @@
   ],
   "chef": {
     "name": "Vicky Cheng",
-    "bio": "Nascido em Hong Kong e criado no Canadá, Vicky Cheng estudou culinária no George Brown College, em Toronto, e trabalhou no Restaurant Daniel, de Daniel Boulud, em Nova York. De volta a Hong Kong em 2011, abriu o Vea, que une técnica francesa a ingredientes chineses e recebeu uma estrela Michelin em 2016. Aprendeu a cozinha chinesa por conta própria e depois com os chefs Tam Kwok Fung (Chef Tam's Seasons, Macau) e Adam Wong (Forum, Hong Kong)."
+    "bio": "Nascido em Hong Kong e criado no Canadá, Vicky Cheng estudou culinária no George Brown College, em Toronto, e trabalhou no Restaurant Daniel, de Daniel Boulud, em Nova York. Voltou a Hong Kong em 2011 e, anos depois, abriu o Vea, que une técnica francesa a ingredientes chineses e recebeu uma estrela Michelin em 2016. Aprendeu a cozinha chinesa em grande parte por conta própria, com a orientação dos chefs Tam Kwok Fung (Chef Tam's Seasons, Macau) e Adam Wong (Forum, Hong Kong)."
   },
   "history": [
     "O Wing abriu em 9 de abril de 2021, em plena pandemia, um andar abaixo do Vea, no espaço que antes era o bar Vea Lounge. A ideia nasceu de ceias à meia-noite, só para convidados, em que Cheng testava pratos chineses para amigos próximos. O nome vem do nome chinês do chef e, segundo o restaurante, carrega a ideia de esperança e perseverança.",
@@ -39,19 +52,39 @@
         "author": "LONGS",
         "license": "CC BY-SA 2.5",
         "caption": "Frango frito crocante à cantonesa (炸子雞) servido em Hong Kong (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Frango crocante à cantonesa (ilustrativa)",
+        "alt": "Pedaços de frango de pele dourada num prato, cercados por outros pratos chineses",
+        "capturedAt": "2007",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "LONGS, CC BY-SA 2.5, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Smoked pigeon with sugarcane (pombo defumado com cana-de-açúcar)",
-      "desc": "Pombo defumado e laqueado com cana-de-açúcar, um dos pratos presentes desde a abertura do restaurante.",
+      "desc": "Pombo defumado com cana-de-açúcar, um dos pratos-assinatura da casa, presente no menu atual.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/HK_Quarry_Bay_%E8%8B%B1%E7%9A%87%E9%81%93_King%27s_Road_%E5%94%90%E9%A0%86%E8%88%88_%E7%87%92%E5%91%B3_Tang%27s_Roast_shop_%E4%B9%B3%E9%B4%BF%E8%82%89_Squab_display_on_sale_Nov-2010.JPG/1920px-HK_Quarry_Bay_%E8%8B%B1%E7%9A%87%E9%81%93_King%27s_Road_%E5%94%90%E9%A0%86%E8%88%88_%E7%87%92%E5%91%B3_Tang%27s_Roast_shop_%E4%B9%B3%E9%B4%BF%E8%82%89_Squab_display_on_sale_Nov-2010.JPG",
         "page": "https://commons.wikimedia.org/wiki/File:HK_Quarry_Bay_%E8%8B%B1%E7%9A%87%E9%81%93_King%27s_Road_%E5%94%90%E9%A0%86%E8%88%88_%E7%87%92%E5%91%B3_Tang%27s_Roast_shop_%E4%B9%B3%E9%B4%BF%E8%82%89_Squab_display_on_sale_Nov-2010.JPG",
         "author": "HomJeovasaA",
         "license": "CC BY-SA 3.0",
         "caption": "Pombos assados (乳鴿) expostos numa casa de assados de Hong Kong (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Pombos assados numa casa de assados de Hong Kong (ilustrativa)",
+        "alt": "Pombos assados enfileirados numa bandeja, com placa de preço em chinês",
+        "capturedAt": "2010-11-04",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "HomJeovasaA, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -63,7 +96,17 @@
         "author": "avlxyz",
         "license": "CC BY-SA 2.0",
         "caption": "Pepino-do-mar braseado com cogumelos e pernil de porco (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Pepino-do-mar braseado (ilustrativa)",
+        "alt": "Tigela com pepino-do-mar, cogumelos, ovos cozidos e pernil em molho escuro",
+        "capturedAt": "2012-07-12",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+        "attribution": "avlxyz, CC BY-SA 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -73,7 +116,7 @@
     },
     {
       "name": "Golden crystal egg with chilli oyster (ovo \"golden crystal\" com ostra ao chili)",
-      "desc": "Ovo preparado na casa, servido com ostra e molho de pimenta.",
+      "desc": "Ovo \"golden crystal\" preparado na casa; o The 50 Best o descreve com ostra ao chili, e no menu atual ele acompanha tofu com amendoim e pimenta.",
       "photo": null
     }
   ],
@@ -120,14 +163,27 @@
     },
     {
       "year": 2026,
-      "title": "The World's 50 Best Restaurants: nº 5"
+      "title": "The 50 Best Restaurants: nº 5"
     }
   ],
   "practical": {
     "price": "Dois menus degustação, de HK$ 1.980 e HK$ 2.980 por pessoa, mais 10% de serviço e taxa obrigatória de chá e água de HK$ 88 por pessoa (site oficial, 2026)",
-    "reservation": "Salão principal: reservas online pelo SevenRooms, abertas para os 30 dias seguintes, à meia-noite (horário de Hong Kong). Salas privativas: pelo e-mail info@wingrestaurant.hk, WhatsApp +852 9310 0172 ou telefone +852 2711 0063.",
+    "reservation": "Salão principal: reservas online pelo SevenRooms, abertas para os 30 dias seguintes, à meia-noite (horário de Hong Kong). Salas privativas: pelo e-mail info@wingrestaurant.hk, WhatsApp +852 9310 0172 ou telefone +852 2711 0063. Funciona de segunda a quinta e aos sábados, das 18h à meia-noite; às sextas, das 13h à meia-noite; fecha aos domingos. Cancelamentos com menos de 72 horas são cobrados pelo valor integral do menu.",
     "website": "https://wingrestaurant.hk/",
-    "address": "29/F, The Wellington, 198 Wellington Street, Central, Hong Kong"
+    "address": "29/F, The Wellington, 198 Wellington Street, Central, Hong Kong",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.sevenrooms.com/explore/wing/reservations/create/search/",
+    "phone": "+852 2711 0063",
+    "email": "info@wingrestaurant.hk",
+    "priceDetails": {
+      "amount": 1980,
+      "currency": "HKD",
+      "basis": "Menu degustação por pessoa; menu de HK$ 2.980 também disponível",
+      "taxesIncluded": false,
+      "sourceUrl": "https://wingrestaurant.hk/menu",
+      "checkedAt": "2026-11-10",
+      "note": "Mais 10% de serviço e taxa obrigatória de chá e água de HK$ 88 + 10% por pessoa; o site apresenta os preços como referência, sem data."
+    }
   },
   "gallery": [
     {
@@ -136,7 +192,17 @@
       "author": "Bahnfrend",
       "license": "CC BY-SA 4.0",
       "caption": "A Wellington Street, em Central, vista das escadas rolantes Central–Mid-Levels",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Wellington Street, Central (2006)",
+      "alt": "Rua estreita de Hong Kong vista do alto, com letreiros coloridos e um carro",
+      "capturedAt": "2006-09-16",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+      "attribution": "Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -166,6 +232,57 @@
     "author": "Ta Laya Miukoo Tuk",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do edifício The Wellington (184–198 Wellington Street), onde o Wing ocupa o 29º andar, em foto de 2016",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Edifício The Wellington, onde fica o Wing (2016)",
+    "alt": "Torre de vidro e concreto vista de baixo, numa rua de Central",
+    "capturedAt": "2016-10-02",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L02.json).",
+    "attribution": "Ta Laya Miukoo Tuk, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://wingrestaurant.hk/reserve",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://wingrestaurant.hk/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vicky_Cheng",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Vea aberto em 2015, depois da volta em 2011; texto ajustado."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/asia/en/the-list/wing.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Asia 2023 (nº 37) deduzido da subida de 2024; World 2023 (nº 90) com fonte única."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://wingrestaurant.hk/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:The_Wellington,_Hong_Kong",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; capa e fachada mostram o bairro e o edifício."
+    }
+  ]
 }

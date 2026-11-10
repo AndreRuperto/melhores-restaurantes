@@ -528,3 +528,16 @@ A rota de cada linha é `/restaurante/<nome-do-arquivo-sem-.json>`. Este invent�
 | 98 | Labyrinth | SG | [labyrinth.json](../src/data/profiles/labyrinth.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
 | 99 | Fauna | MX | [fauna.json](../src/data/profiles/fauna.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
 | 100 | Aponiente | ES | [aponiente.json](../src/data/profiles/aponiente.json) | Estrutura/rota conferidas; fatos/direitos pendentes |
+
+## 14. Atualização de execução — 10/11/2026, lote L2 em revisão
+
+Relatório: [fase-2-L02.md](lotes/fase-2-L02.md). Perfis 2 a 11 (Gaggan a Atomix).
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 73 usos e 68 arquivos conferidos no Commons e visualmente; nenhuma foto atribuída à casa errada; crédito do caranguejo do The Chairman e legenda de uma foto do Gaggan corrigidos | Foto licenciada do Kadeau de Copenhague (P2) |
+| 2.4 | Correções em todos os dez perfis, com destaque para a pausa anual do Alchemist, o endereço do Chairman & Yip, preços atualizados do Kjolle e canais de reserva | 14 itens com fonte única e 4 não verificados, registrados em `fieldReviews` |
+| F2-04 | Dez perfis no contrato estrito; total de 15 perfis e 83 fotos com direito aprovado | Revisor humano |
+| 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**
