@@ -15,8 +15,9 @@ export default function FilterDropdown({
 }) {
   const [open, setOpen] = useState(false)
   const [query, setQuery] = useState('')
-  const [placement, setPlacement] = useState({ right: false, above: false })
+  const [placement, setPlacement] = useState({ left: 0, above: false })
   const rootRef = useRef(null)
+  const panelRef = useRef(null)
   const triggerRef = useRef(null)
   const searchRef = useRef(null)
   const listRef = useRef(null)
@@ -75,10 +76,15 @@ export default function FilterDropdown({
     const position = () => {
       const rect = rootRef.current?.getBoundingClientRect()
       if (!rect) return
-      const menuWidth = Math.min(304, window.innerWidth - 32)
+      // Mede o painel real: ancorar com right-0 em um botão estreito podia
+      // empurrar um dropdown de 304px para fora da borda esquerda.
+      const menuWidth = panelRef.current?.getBoundingClientRect().width ?? Math.min(304, window.innerWidth - 32)
+      const viewportMargin = 16
+      const maxLeft = Math.max(viewportMargin, window.innerWidth - viewportMargin - menuWidth)
+      const absoluteLeft = Math.min(Math.max(rect.left, viewportMargin), maxLeft)
       const below = window.innerHeight - rect.bottom
       setPlacement({
-        right: rect.left + menuWidth > window.innerWidth - 16,
+        left: absoluteLeft - rect.left,
         above: below < 310 && rect.top > below,
       })
     }
@@ -142,14 +148,15 @@ export default function FilterDropdown({
       </button>
       {open && (
         <div
+          ref={panelRef}
           id={panelId}
           role="dialog"
           aria-label={ariaLabel}
           className={[
             'absolute z-50 w-[min(19rem,calc(100vw-2rem))] overflow-hidden border border-rule bg-paper text-ink shadow-[0_18px_42px_var(--c-shadow)]',
             placement.above ? 'bottom-full mb-2' : 'top-full mt-2',
-            placement.right ? 'right-0' : 'left-0',
           ].join(' ')}
+          style={{ left: placement.left }}
         >
           {searchable && (
             <div className="border-b border-rule p-2">
