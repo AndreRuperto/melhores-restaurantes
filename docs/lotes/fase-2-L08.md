@@ -90,3 +90,14 @@ O console mostrou erros `ERR_CONNECTION_REFUSED` herdados da aba, dos servidores
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [027eb46](https://github.com/AndreRuperto/melhores-restaurantes/commit/027eb46); o domínio público passou a servir o build novo (`index-Bgij1MbP.js`), e os pacotes dos perfis foram conferidos por download direto:
+
+- **Arpège:** traz o link do Zenchef e o menu de € 260.
+- **Salsify:** traz o preço de ZAR 2.395.
+- **Cocina Hermanos Torres:** traz a faixa de € 295 a € 310, sem o valor de € 330.
+- **FYN:** traz a taxa de serviço de 13,5%.
+
+O retrato do Kol não é mais exibido. A conferência pública achou um resto: o link para a página do retrato no Commons continuava na lista de fontes do perfil, que é exibida. O link foi retirado neste commit de registro, com validador e build sem mudança. "ZAR 2.100" (Salsify) só aparece nas notas de `fieldReviews`, que não são exibidas. A conferência foi feita por conteúdo, não por navegador.
