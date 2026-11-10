@@ -80,3 +80,16 @@ As revisões de campo somam 62 registros: 36 confirmados, 18 com fonte única, 5
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [959ae15](https://github.com/AndreRuperto/melhores-restaurantes/commit/959ae152e4c9b5bc78195dde5bff6f63c35343ca); Railway `b663e465-0385-4d58-a12f-07f935bd4495` em SUCCESS. O domínio público passou a servir o build novo (`index-DcoV97Gv.js`), e os pacotes dos perfis foram conferidos por download direto:
+
+- **El Chato:** link da Apparta presente; a carta de novembro e a arepa de mandioca não aparecem mais.
+- **Mayta:** link `reservas/mayta` e sartén de pato presentes.
+- **Naar:** só o e-mail `reservations@`.
+- **Don Julio:** legenda do balcão da parrilla.
+- **Le Louis XV:** legenda da fachada e “Guia Michelin França e Mônaco”; não diz mais “Salão do Le Louis XV”.
+- **La Cime:** reentrada de 2025 presente.
+
+“COP 24.000”, “quebracho” e “fachada preta” só aparecem nas notas internas de `fieldReviews`, que nenhum componente exibe. Esta conferência pública foi feita por conteúdo, não por navegador; o layout foi testado no ambiente local.
