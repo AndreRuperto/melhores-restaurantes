@@ -139,7 +139,7 @@ export default function WorldMap({ items, focus = null, className = 'aspect-[960
         onPointerCancel={() => (drag.current = null)}
         onPointerLeave={() => { drag.current = null; setHover(null) }}
         onClick={(e) => e.target.tagName !== 'circle' && !drag.current?.moved && setPicked(null)}
-        role="img"
+        role="group"
         aria-label="Mapa-múndi com a localização dos restaurantes"
       >
         <g transform={`translate(${tx},${ty}) scale(${zoom})`}>
@@ -180,6 +180,19 @@ export default function WorldMap({ items, focus = null, className = 'aspect-[960
                   cy={p[1]}
                   r={Math.max(vr, hitR)}
                   fill="transparent"
+                  tabIndex={interactive ? 0 : undefined}
+                  role={interactive ? 'link' : undefined}
+                  aria-label={interactive ? `${r.rank}º: ${r.name}, ${r.city}, ${r.country}` : undefined}
+                  onFocus={(event) => { if (event.currentTarget.matches(':focus-visible')) setPicked(pt) }}
+                  onBlur={() => setPicked(null)}
+                  onKeyDown={(event) => {
+                    if (event.key === 'Enter' || event.key === ' ') {
+                      event.preventDefault()
+                      open(r)
+                    } else if (event.key === 'Escape') {
+                      setPicked(null)
+                    }
+                  }}
                   className={interactive ? 'cursor-pointer' : ''}
                   onPointerEnter={(e) => e.pointerType === 'mouse' && setHover(pt)}
                   onPointerLeave={() => setHover(null)}

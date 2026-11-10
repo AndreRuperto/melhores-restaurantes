@@ -1,9 +1,8 @@
 // Seções do perfil de um restaurante: história, cozinha, chef, pratos, prêmios, galeria e informações práticas.
 // Cada seção só aparece se o dado existir no JSON do perfil.
 
-// Miniaturas do Wikimedia vêm como .../1920px-Arquivo.jpg; para cards e galeria basta 960px.
-// (960 e 1920 estão entre os tamanhos padrão que o Wikimedia já tem prontos.)
-export const sized = (src, w) => (/\/\d+px-[^/]+$/.test(src) ? src.replace(/\/\d+px-([^/]+)$/, `/${w}px-$1`) : src)
+import ResponsiveImage from './ResponsiveImage'
+export { sized } from './ResponsiveImage'
 
 const host = (url) => {
   try { return new URL(url).hostname.replace(/^www\./, '') } catch { return url }
@@ -38,11 +37,11 @@ export function Photo({ photo, className = '', ratio = 'aspect-[4/3]', caption =
   return (
     <figure className={className}>
       <div className={`${ratio} overflow-hidden border border-rule bg-paper-2`}>
-        <img
-          src={sized(photo.src, 960)}
+        <ResponsiveImage
+          src={photo.src}
           alt={photo.alt || photo.caption || ''}
-          loading={eager ? 'eager' : 'lazy'}
-          decoding="async"
+          eager={eager}
+          sizes="(min-width: 1024px) 768px, (min-width: 640px) 50vw, 100vw"
           className="photo h-full w-full object-cover"
         />
       </div>

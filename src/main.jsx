@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import './index.css'
+import Seo from './seo/Seo'
 import Home from './pages/Home'
 import Restaurants from './pages/Restaurants'
 import Restaurant from './pages/Restaurant'
@@ -20,6 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
       <ScrollToTop />
+      <Seo />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/restaurantes" element={<Restaurants />} />

@@ -1,0 +1,94 @@
+{
+  "rows": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Course_-6-_%22Chilacayotes%22_%28squash%29_in_homemade_mole_with_charred_tortilla_and_basil_sprouts_%2811303603216%29_%28cropped%29.jpg",
+      "slug": "quintonil",
+      "status": "loaded"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/01_Paella_Valenciana_original.jpg",
+      "slug": "diverxo",
+      "status": "loaded"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Caviar_-_beluga_and_salmon.jpg",
+      "slug": "diverxo",
+      "status": "loaded"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peru_-_Lima_034_-_colourful_streetscape_of_Barranco_%286999157827%29.jpg",
+      "slug": "merito",
+      "status": "loaded"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/20230130_Old_City_of_Quanzhou_01.jpg",
+      "slug": "meet-the-bund",
+      "status": "loaded"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Humait%C3%A1_Rio_de_Janeiro_Brazil.jpg",
+      "slug": "lasai",
+      "status": "loaded"
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasauli_Hills_Snow.jpg?width=1103",
+      "slug": "naar",
+      "status": "loaded"
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wynn%20Palace%20%28Macau%29%20-%20Operational%20in%202017.jpg?width=1280",
+      "slug": "chef-tams-seasons",
+      "status": "loaded"
+    }
+  ],
+  "statuses": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Course_-6-_%22Chilacayotes%22_%28squash%29_in_homemade_mole_with_charred_tortilla_and_basil_sprouts_%2811303603216%29_%28cropped%29.jpg",
+      "status": 200
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/01_Paella_Valenciana_original.jpg",
+      "status": 200
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Caviar_-_beluga_and_salmon.jpg",
+      "status": 200
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peru_-_Lima_034_-_colourful_streetscape_of_Barranco_%286999157827%29.jpg",
+      "status": 200
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/20230130_Old_City_of_Quanzhou_01.jpg",
+      "status": 200
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Humait%C3%A1_Rio_de_Janeiro_Brazil.jpg",
+      "status": 200
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasauli_Hills_Snow.jpg?width=1103",
+      "status": 302
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kasauli_Hills_Snow.jpg&width=1103",
+      "status": 301
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kasauli_Hills_Snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "status": 200
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wynn%20Palace%20%28Macau%29%20-%20Operational%20in%202017.jpg?width=1280",
+      "status": 302
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wynn_Palace_(Macau)_-_Operational_in_2017.jpg&width=1280",
+      "status": 301
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wynn_Palace_%28Macau%29_-_Operational_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "status": 200
+    }
+  ]
+}

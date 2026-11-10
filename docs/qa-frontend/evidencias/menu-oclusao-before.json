@@ -1,0 +1,24 @@
+{
+  "dialog": {
+    "x": 8,
+    "y": 8,
+    "width": 304,
+    "height": 289.421875,
+    "top": 8,
+    "right": 312,
+    "bottom": 297.421875,
+    "left": 8
+  },
+  "header": {
+    "x": 0,
+    "y": 0,
+    "width": 320,
+    "height": 97,
+    "top": 0,
+    "right": 320,
+    "bottom": 97,
+    "left": 0
+  },
+  "topHit": "SPAN",
+  "topCovered": true
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "route": "/",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/restaurantes",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/como-funciona",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/nao-existe",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/arca",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/sorn",
+    "theme": "light",
+    "violations": []
+  },
+  {
+    "route": "/",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/restaurantes",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/como-funciona",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/nao-existe",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/arca",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/lamdre",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "theme": "dark",
+    "violations": []
+  },
+  {
+    "route": "/restaurante/sorn",
+    "theme": "dark",
+    "violations": []
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "id": "first-contentful-paint",
+    "title": "First Contentful Paint",
+    "value": "1.6 s"
+  },
+  {
+    "id": "largest-contentful-paint",
+    "title": "Largest Contentful Paint",
+    "value": "2.8 s"
+  },
+  {
+    "id": "interactive",
+    "title": "Time to Interactive",
+    "value": "2.8 s"
+  },
+  {
+    "id": "unused-javascript",
+    "title": "Reduce unused JavaScript",
+    "value": "Est savings of 33 KiB",
+    "details": {
+      "type": "opportunity",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "subItemsHeading": {
+            "key": "source",
+            "valueType": "code"
+          },
+          "label": "URL"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "subItemsHeading": {
+            "key": "sourceBytes"
+          },
+          "label": "Transfer Size"
+        },
+        {
+          "key": "wastedBytes",
+          "valueType": "bytes",
+          "subItemsHeading": {
+            "key": "sourceWastedBytes"
+          },
+          "label": "Est Savings"
+        }
+      ],
+      "items": [
+        {
+          "url": "http://127.0.0.1:4174/assets/index-YT_mXq5K.js",
+          "totalBytes": 80068,
+          "wastedBytes": 33452,
+          "wastedPercent": 41.77974785740901
+        }
+      ],
+      "overallSavingsMs": 0,
+      "overallSavingsBytes": 33452,
+      "sortedBy": [
+        "wastedBytes"
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "metricSavings": {
+          "FCP": 0,
+          "LCP": 0
+        }
+      }
+    }
+  },
+  {
+    "id": "cache-insight",
+    "title": "Use efficient cache lifetimes",
+    "value": "Est savings of 224 KiB",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "Request"
+        },
+        {
+          "key": "cacheLifetimeMs",
+          "valueType": "ms",
+          "label": "Cache TTL",
+          "displayUnit": "duration"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Transfer Size",
+          "displayUnit": "kb",
+          "granularity": 1
+        }
+      ],
+      "items": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Axpe_from_Mendigoikoa.jpg/960px-Axpe_from_Mendigoikoa.jpg",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 229038,
+          "wastedBytes": 229038
+        }
+      ],
+      "sortedBy": [
+        "wastedBytes"
+      ],
+      "skipSumming": [
+        "cacheLifetimeMs"
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "wastedBytes": 229038
+      }
+    }
+  },
+  {
+    "id": "image-delivery-insight",
+    "title": "Improve image delivery",
+    "value": "Est savings of 168 KiB",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "label": ""
+        },
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "URL",
+          "subItemsHeading": {
+            "key": "reason",
+            "valueType": "text"
+          }
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Resource Size"
+        },
+        {
+          "key": "wastedBytes",
+          "valueType": "bytes",
+          "label": "Est Savings",
+          "subItemsHeading": {
+            "key": "wastedBytes",
+            "valueType": "bytes"
+          }
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-3-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,MAIN,1,FIGURE,0,DIV,0,IMG",
+            "selector": "main#conteudo > figure.fade > div.aspect-[4/3] > img.photo",
+            "boundingRect": {
+              "top": 882,
+              "bottom": 1165,
+              "left": 17,
+              "right": 395,
+              "width": 378,
+              "height": 283
+            },
+            "snippet": "<img crossorigin=\"anonymous\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Axpe_from_Mendigo…\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Axpe_from_Mendigo…\" sizes=\"(min-width: 1024px) 1024px, 100vw\" alt=\"Vale verde com casas de telhado vermelho espalhadas entre pastos e montanh…\" loading=\"eager\" fetchpriority=\"high\" decoding=\"async\" class=\"photo h-full w-full object-cover\">",
+            "nodeLabel": "Vale verde com casas de telhado vermelho espalhadas entre pastos e montanhas"
+          },
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Axpe_from_Mendigoikoa.jpg/960px-Axpe_from_Mendigoikoa.jpg",
+          "totalBytes": 226801,
+          "wastedBytes": 172028,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Using a modern image format (WebP, AVIF) or increasing the image compression could improve this image’s download size",
+                "wastedBytes": 111847
+              },
+              {
+                "reason": "This image file is larger than it needs to be (960x718) for its displayed dimensions (662x497). Use responsive images to reduce the image download size.",
+                "wastedBytes": 118735
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "wastedBytes": 172028
+      }
+    }
+  },
+  {
+    "id": "network-dependency-tree-insight",
+    "title": "Network dependency tree",
+    "details": {
+      "type": "list",
+      "items": [
+        {
+          "type": "list-section",
+          "value": {
+            "type": "network-tree",
+            "chains": {
+              "9FE62041FD02026183D664660771218C": {
+                "url": "http://127.0.0.1:4174/restaurante/asador-etxebarri",
+                "navStartToEndTime": 55,
+                "transferSize": 6430,
+                "isLongest": true,
+                "children": {
+                  "58700.2": {
+                    "url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap",
+                    "navStartToEndTime": 330,
+                    "transferSize": 1495,
+                    "isLongest": true,
+                    "children": {
+                      "58700.44": {
+                        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gb8te1Xb7G.woff2",
+                        "navStartToEndTime": 647,
+                        "transferSize": 122349,
+                        "isLongest": true,
+                        "children": {}
+                      },
+                      "58700.22": {
+                        "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtKky2F7g.woff2",
+                        "navStartToEndTime": 631,
+                        "transferSize": 37912,
+                        "children": {}
+                      },
+                      "58700.38": {
+                        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFH2_tTDB4M7-auWDN0ahZJW1ge6NmXq2ZbF8zBfb98SUr6aX2SzxEj.woff2",
+                        "navStartToEndTime": 607,
+                        "transferSize": 50705,
+                        "children": {}
+                      },
+                      "58700.12": {
+                        "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSqn7B6D.woff2",
+                        "navStartToEndTime": 533,
+                        "transferSize": 39855,
+                        "children": {}
+                      }
+                    }
+                  },
+                  "58700.3": {
+                    "url": "http://127.0.0.1:4174/assets/index-YT_mXq5K.js",
+                    "navStartToEndTime": 69,
+                    "transferSize": 80538,
+                    "children": {
+                      "58700.72": {
+                        "url": "http://127.0.0.1:4174/assets/asador-etxebarri-CgxpjxDS.js",
+                        "navStartToEndTime": 439,
+                        "transferSize": 5812,
+                        "children": {}
+                      }
+                    }
+                  },
+                  "58700.4": {
+                    "url": "http://127.0.0.1:4174/assets/index-DhTDKqLW.css",
+                    "navStartToEndTime": 62,
+                    "transferSize": 9635,
+                    "children": {}
+                  }
+                }
+              }
+            },
+            "longestChain": {
+              "duration": 647
+            }
+          }
+        },
+        {
+          "type": "list-section",
+          "title": "Preconnected origins",
+          "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+          "value": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "origin",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "warning"
+                },
+                "label": "Origin"
+              },
+              {
+                "key": "source",
+                "valueType": "node",
+                "label": "Source"
+              }
+            ],
+            "items": [
+              {
+                "origin": "https://fonts.googleapis.com/",
+                "source": {
+                  "type": "node",
+                  "lhId": "page-1-LINK",
+                  "path": "1,HTML,0,HEAD,5,LINK",
+                  "selector": "head > link",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "snippet": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">",
+                  "nodeLabel": "head > link"
+                },
+                "subItems": {
+                  "type": "subitems",
+                  "items": []
+                }
+              },
+              {
+                "origin": "https://fonts.gstatic.com/",
+                "source": {
+                  "type": "node",
+                  "lhId": "page-2-LINK",
+                  "path": "1,HTML,0,HEAD,6,LINK",
+                  "selector": "head > link",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "snippet": "<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\">",
+                  "nodeLabel": "head > link"
+                },
+                "subItems": {
+                  "type": "subitems",
+                  "items": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "list-section",
+          "title": "Preconnect candidates",
+          "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4",
+          "value": {
+            "type": "text",
+            "value": "No additional origins are good candidates for preconnecting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "render-blocking-insight",
+    "title": "Render-blocking requests",
+    "value": "Est savings of 1,000 ms",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "URL"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Transfer Size"
+        },
+        {
+          "key": "wastedMs",
+          "valueType": "timespanMs",
+          "label": "Duration"
+        }
+      ],
+      "items": [
+        {
+          "url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap",
+          "totalBytes": 1495,
+          "wastedMs": 1005
+        },
+        {
+          "url": "http://127.0.0.1:4174/assets/index-DhTDKqLW.css",
+          "totalBytes": 9635,
+          "wastedMs": 152
+        }
+      ]
+    }
+  }
+]

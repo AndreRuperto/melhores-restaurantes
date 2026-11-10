@@ -1,0 +1,806 @@
+{
+  "base": "http://127.0.0.1:4174",
+  "rows": [
+    {
+      "slug": "asador-etxebarri",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/asador-etxebarri",
+      "description": "Num vilarejo de montanha entre Bilbao e San Sebastián, o cozinheiro autodidata Bittor Arguinzoniz passa praticamente tudo o que serve pela brasa, em grelhas que ele mesmo projetou.…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "gaggan",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/gaggan",
+      "description": "Em Bangcoc, o chef indiano Gaggan Anand transforma a cozinha indiana progressiva em espetáculo: um menu de mais de 20 etapas indicadas por emojis, servido a 14 pessoas num balcão diante…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "alchemist",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/alchemist",
+      "description": "Num antigo ateliê de cenografia do Teatro Real Dinamarquês, em Copenhague, o chef Rasmus Munk serve até 50 \"impressões\" ao longo de quatro a seis horas, misturando cozinha, teatro, arte…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "quintonil",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/quintonil",
+      "description": "Batizado com o nome de uma erva comestível da família do amaranto, o Quintonil, em Polanco, na Cidade do México, transforma ingredientes tradicionais do país, como quelites, huauzontles,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "wing",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/wing",
+      "description": "No 29º andar de um edifício em Central, Hong Kong, o chef Vicky Cheng, formado na cozinha clássica francesa, serve um menu degustação sazonal que percorre as oito grandes cozinhas…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "the-chairman",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/the-chairman",
+      "description": "No terceiro andar de um prédio comercial do Central, em Hong Kong, The Chairman cozinha a tradição cantonesa com poucos ingredientes, frutos do mar comprados de manhã no mercado de peixe…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "kjolle",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/kjolle",
+      "description": "Primeiro restaurante próprio de Pía León, o Kjolle funciona desde 2018 no mesmo prédio de Barranco que abriga o Central e trata cada ingrediente nativo do Peru como protagonista,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "kadeau",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/kadeau",
+      "description": "Endereço em Christianshavn, em Copenhague, de uma casa nascida numa praia de Bornholm, ilha dinamarquesa no mar Báltico. O Kadeau traz para a capital a despensa da ilha: vegetais da…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "diverxo",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/diverxo",
+      "description": "Restaurante de Dabiz Muñoz em Madrid, o DiverXO serve um longo menu-degustação encenado como espetáculo, que mistura produtos espanhóis com técnicas e sabores da China, do Japão, da…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "plenitude",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/plenitude",
+      "description": "No primeiro andar do Cheval Blanc Paris, dentro do antigo edifício da loja La Samaritaine, diante da Pont Neuf e do Sena, Arnaud Donckele faz do molho o centro de cada prato. Aberto em…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "atomix",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/atomix",
+      "description": "No subsolo de um sobrado na East 30th Street, em Manhattan, o casal coreano Junghyun \"JP\" e Ellia Park serve um menu-degustação de cozinha coreana em torno de um balcão em U, com um…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "sorn",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/sorn",
+      "description": "Numa casa de cerca de 90 anos escondida num soi da Sukhumvit, em Bangkok, o Sorn serve só cozinha do sul da Tailândia, feita com produtos das 14 províncias da região e sem baixar o…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "merito",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/merito",
+      "description": "Num sobrado de paredes de adobe em Barranco, o venezuelano Juan Luis Martínez faz uma cozinha que ele mesmo define como nem venezuelana nem peruana: uma identidade híbrida que junta…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "suhring",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/suhring",
+      "description": "Num casarão dos anos 1970 cercado por um jardim tropical em Bangcoc, os gêmeos alemães Thomas e Mathias Sühring reinterpretam a cozinha caseira da Alemanha a partir das receitas de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "odette",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/odette",
+      "description": "Instalado na ala do antigo Supremo Tribunal, hoje parte da National Gallery Singapore, o Odette é o restaurante do francês Julien Royer, que leva o nome de sua avó e une a cozinha…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "tuju",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/tuju",
+      "description": "Numa rua sem saída do Jardim Paulistano, em São Paulo, o Tuju organiza o menu degustação pelo regime de chuvas da cidade, e não pelas quatro estações do calendário. Comandado por Ivan…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "mingles",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mingles",
+      "description": "Em Cheongdam-dong, no distrito de Gangnam, em Seul, o chef Kang Mingoo serve desde 2014 uma cozinha coreana contemporânea construída em torno do jang, os molhos fermentados de soja que…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "nusara",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nusara",
+      "description": "Diante do templo de Wat Pho, no centro histórico de Bangcoc, os irmãos Ton e Tam Tassanakajohn servem num sobrado antigo uma cozinha tailandesa feita em homenagem à avó que os criou. O…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "jan",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/jan",
+      "description": "No térreo do Rhaetenhaus, prédio de uma associação estudantil a poucos passos da Königsplatz, em Munique, o chef Jan Hartwig serve um menu-degustação que relê clássicos da cozinha alemã…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "piazza-duomo",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/piazza-duomo",
+      "description": "Num salão de paredes cor-de-rosa voltado para a catedral de Alba, Enrico Crippa cozinha a partir de uma horta biodinâmica da família Ceretto, vinicultora das Langhe. A casa traduz o…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "meet-the-bund",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/meet-the-bund",
+      "description": "Aberto em 2019 no Bund, em Xangai, o Meet the Bund se apresentou como o primeiro restaurante de alta gastronomia da cidade dedicado à cozinha de Fujian, a culinária min, com uma equipe…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "borago",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/borago",
+      "description": "Em Vitacura, ao pé do Cerro Manquehue, em Santiago, o Boragó serve um único menu, o Endémica, montado apenas com ingredientes nativos do Chile, do deserto do Atacama à Patagônia. O chef…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "vyn",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/vyn",
+      "description": "Numa antiga propriedade rural no alto de uma colina de Österlen, entre os vilarejos de pescadores de Skillinge e Brantevik, no sudeste da Suécia, o chef Daniel Berlin recomeçou depois de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "al-gatto-verde",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/al-gatto-verde",
+      "description": "Num antigo estábulo da Casa Maria Luigia, a casa de hóspedes de Massimo Bottura no campo perto de Modena, a canadense Jessica Rosval cozinha quase tudo no fogo de lenha. O Al Gatto Verde…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "lasai",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/lasai",
+      "description": "No Humaitá, Zona Sul do Rio, o Lasai serve um único menu degustação para dez pessoas por vez, sentadas num balcão em L diante da cozinha — formato que muda em dezembro de 2026, quando a…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "masque",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/masque",
+      "description": "Instalado num antigo moinho têxtil de Mahalaxmi, em Mumbai, o Masque abriu em 2016 servindo apenas menu-degustação, formato então raro na Índia, e construiu sua cozinha sobre…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "reale",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/reale",
+      "description": "Num antigo mosteiro do século 16 nas montanhas do Abruzzo, Niko Romito, cozinheiro autodidata, faz uma cozinha italiana de poucos elementos, de aparência simples e sabor concentrado, que…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "tresind-studio",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/tresind-studio",
+      "description": "Nascido em 2018 como um laboratório experimental em Dubai, o Trèsind Studio leva a culinária de diferentes regiões da Índia a uma experiência de degustação no Palm Jumeirah. À frente da…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "enigma",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/enigma",
+      "description": "No bairro de Sant Antoni, em Barcelona, Albert Adrià transformou os anos de pesquisa do elBulli em uma experiência de cerca de 25 pequenas etapas. O Enigma, aberto em 2017 e reinventado…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "steirereck",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/steirereck",
+      "description": "No Stadtpark, em Viena, o Steirereck ocupa uma antiga leiteria de 1904 transformada em restaurante de arquitetura contemporânea. Fundado pela família Reitbauer em 1970, hoje apresenta…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "celele",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/celele",
+      "description": "Numa casa de fachada azul no bairro Getsemaní, em Cartagena, o Celele usa a biodiversidade alimentar do Caribe colombiano para criar pratos que dificilmente aparecem fora da região.…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "potong",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/potong",
+      "description": "Em uma antiga casa de cinco andares no bairro chinês de Bangkok, a chef Pichaya 'Pam' Soontornyanakij recuperou a história da farmácia de sua família e criou o Potong. O restaurante…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "elkano",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/elkano",
+      "description": "Em Getaria, vilarejo pesqueiro do País Basco, o Elkano transformou a grelha de rua em uma referência mundial para peixes do mar Cantábrico. Pedro Arregui abriu o bar em 1964 e…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "le-coquillage",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-coquillage",
+      "description": "No Château Richeux, uma vila dos anos 1920 com vista para a baía do Mont-Saint-Michel, Hugo Roellinger apresenta uma cozinha orientada pelas marés, pelas plantas do jardim e pelas…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "la-colombe",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/la-colombe",
+      "description": "Nas encostas arborizadas de Constantia Nek, perto da Cidade do Cabo, o La Colombe serve uma degustação de ingredientes sul-africanos com técnicas francesas e apresentações interativas.…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "ru-yuan",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/ru-yuan",
+      "description": "Em um edifício discreto de três andares, cercado pelas árvores do Jardim Botânico de Hangzhou, o Ru Yuan recupera o repertório da cozinha hangbang: peixe do Lago Oeste ao vinagre,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "nuema",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nuema",
+      "description": "Em Quito, Alejandro Chamorro e Pía Salazar transformaram a biodiversidade do Equador em um menu degustação que cruza os Andes, a costa do Pacífico, a Amazônia e as Galápagos. Fundado em…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "atelier-moessmer-norbert-niederkofler",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/atelier-moessmer-norbert-niederkofler",
+      "description": "Na histórica Villa Moessmer, em Brunico, Norbert Niederkofler transformou seu manifesto Cook the Mountain em uma experiência gastronômica dedicada aos Alpes. Aberto em julho de 2023, o…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "schloss-schauenstein",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/schloss-schauenstein",
+      "description": "Em Fürstenau, no cantão suíço de Graubünden, Andreas Caminada e Marcel Skibba transformaram o Schloss Schauenstein num destino gastronômico de cozinha alpina. O restaurante abriu em 5 de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "jordn-r",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/jordn-r",
+      "description": "No Gentofte Hotel, ao norte de Copenhague, Eric e Tina Kragh Vildgaard criaram um restaurante de alta gastronomia onde a hospitalidade acolhedora se une à precisão técnica. Aberto em…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "onjium",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/onjium",
+      "description": "Diante dos muros do palácio Gyeongbokgung, em Seul, o Onjium transforma a investigação da culinária histórica coreana em uma refeição atual. Os chefs Cho Eun-hee e Park Sung-bae…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "bozar",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/bozar",
+      "description": "Instalado no Palais des Beaux-Arts de Bruxelas, o Bozar transforma receitas francesas e belgas em exercícios de precisão. Karen Torosyan, mestre das massas recheadas e da pâtisserie…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "le-calandre",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-calandre",
+      "description": "O Le Calandre, em Sarmeola di Rubano, perto de Pádua, é o coração do grupo Alajmo e uma das casas mais influentes da alta cozinha italiana. Assumido pelos pais Rita e Erminio em 1981,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "don-julio",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/don-julio",
+      "description": "Na esquina de Guatemala com Gurruchaga, em Palermo, Buenos Aires, o Don Julio levou a parrilla de bairro ao cenário mundial. Pablo Rivero valorizou produtores argentinos, maturação de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "mayta",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mayta",
+      "description": "Em Miraflores, Lima, o Mayta é o projeto mais pessoal do chef Jaime Pesaque: um percurso pela diversidade agrícola e cultural do Peru, com ingredientes dos Andes, da Amazônia e da costa…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "el-chato",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/el-chato",
+      "description": "Em Chapinero Alto, Bogotá, Álvaro Clavijo faz do El Chato um laboratório de cozinha colombiana contemporânea. Produtores de diferentes regiões fornecem raízes, ervas, peixes e frutas…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "description": "Em um salão histórico do Hôtel de Paris, na Place du Casino de Monte Carlo, o Le Louis XV combina o cenário Belle Époque com a cozinha mediterrânea criada por Alain Ducasse. Emmanuel…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "ikoyi",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/ikoyi",
+      "description": "Hoje instalado em 180 Strand, em Londres, o Ikoyi de Jeremy Chan e Iré Hassan-Odukale é um restaurante que escapa a rótulos regionais. O Ikoyi trabalha com produtos britânicos de estação…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "naar",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/naar",
+      "description": "Escondido entre pinheiros nas encostas próximas de Kasauli, o Naar é a interpretação de Prateek Sadhu para as tradições do Himalaia. O nome significa 'fogo' em caxemir e resume uma…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "saint-peter",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/saint-peter",
+      "description": "Em Paddington, Sydney, o Saint Peter mudou o modo como a alta cozinha australiana olha para o pescado. Josh e Julie Niland fizeram do restaurante um laboratório de maturação, conservação…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "uliassi",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/uliassi",
+      "description": "Na praia de Senigallia, à beira do Adriático, o Uliassi traduz memórias do litoral de Marche em uma das cozinhas de frutos do mar mais inventivas da Itália. Os irmãos Mauro e Catia…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "la-cime",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/la-cime",
+      "description": "Em Osaka, Yusuke Takada usa a técnica francesa para reinterpretar produtos japoneses e referências de sua ilha natal, Amami Ōshima. O La Cime — 'o cume', em francês — oferece um percurso…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "ling-long",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/ling-long",
+      "description": "Em um edifício histórico do Bund, em Xangai, o Ling Long reinterpreta a cozinha regional chinesa em uma sequência de pratos com humor, técnica e forte atenção ao umami. O chef taiwanês…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "nelita",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nelita",
+      "description": "No bairro de Pinheiros, em São Paulo, o Nelita une a formação italiana de Tássia Magalhães às memórias do Vale do Paraíba. A cozinha aberta, conduzida por uma equipe feminina, permite…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "alcalde",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/alcalde",
+      "description": "Em Guadalajara, Francisco 'Paco' Ruano transforma ingredientes de Jalisco em uma cozinha mexicana contemporânea direta e sazonal. Fundado em 2013, o Alcalde combina a hospitalidade de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "sazenka",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/sazenka",
+      "description": "Em Minamiazabu, Tóquio, o Sazenka é o encontro entre a técnica da alta cozinha chinesa e a sensibilidade japonesa para chá, sazonalidade e hospitalidade. Aberto em 2017, tornou-se um…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "koan",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/koan",
+      "description": "À beira do porto de Copenhague, o Koan é a expressão pessoal de Kristian Baumann: nascido na Coreia do Sul e criado na Dinamarca, o chef investiga sua origem por meio de fermentados,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "frantzen",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/frantzen",
+      "description": "O Frantzén ocupa três andares de uma casa histórica no centro de Estocolmo e transforma a degustação em um percurso por salões, cozinha aberta e lounge. Björn Frantzén combina…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "narisawa",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/narisawa",
+      "description": "No bairro Minami-Aoyama, em Tóquio, Yoshihiro Narisawa transforma a ideia japonesa de satoyama — a convivência entre aldeias, campos e florestas — em um menu de natureza e…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "hisa-franko",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/hisa-franko",
+      "description": "No vale esloveno do Soča, o Hiša Franko traduz rios, montanhas, pastagens e florestas em um menu que muda conforme a natureza. Ana Roš, chef autodidata, transformou a antiga casa de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "florilege",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/florilege",
+      "description": "No Azabudai Hills, em Tóquio, o Florilège de Hiroyasu Kawate reinventa a alta cozinha de matriz francesa com vegetais japoneses e compromisso ambiental. Os convidados compartilham uma…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "fu-he-hui",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fu-he-hui",
+      "description": "Em uma rua arborizada de Xangai, o Fu He Hui de Tony Lu transformou a cozinha vegetariana chinesa em alta gastronomia de pesquisa. Em salas discretas distribuídas por três andares, a…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "the-jane",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/the-jane",
+      "description": "O The Jane, em Antuérpia, é o projeto de Nick Bril no qual cozinha, arquitetura, arte e música integram a experiência. Depois de onze anos em uma capela histórica, a casa mudou-se em…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "seroja",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/seroja",
+      "description": "No DUO Galleria, em Singapura, o Seroja de Kevin Wong pesquisa as cozinhas e os produtos do arquipélago malaio. O pequeno restaurante, aberto em 2022, combina especiarias, técnicas de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "fyn",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fyn",
+      "description": "No centro da Cidade do Cabo, o Fyn traduz sabores africanos por meio da precisão e da filosofia sazonal japonesa. No quinto andar de Speaker's Corner, Peter Tempelhoff e Ashley Moss…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "willem-hiele",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/willem-hiele",
+      "description": "Na paisagem dos polders de Oudenburg, perto de Oostende, o chef Willem Hiele construiu uma experiência marcada pelo mar do Norte, pelo fogo e pela agricultura flamenga. A casa funciona…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "arpege",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/arpege",
+      "description": "Em Paris, o Arpège de Alain Passard é uma referência da cozinha vegetal de alta gastronomia. Fundado em 1986 e três estrelas Michelin desde 1996, o restaurante passou a servir uma…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "evvai",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/evvai",
+      "description": "Na Rua Joaquim Antunes, em Pinheiros, São Paulo, o Evvai tornou a cozinha Oriundi uma linguagem própria do chef Luiz Filipe Souza. O menu combina referências da imigração italiana,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "cocina-hermanos-torres",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/cocina-hermanos-torres",
+      "description": "Em Barcelona, os irmãos gêmeos Sergio e Javier Torres colocaram a cozinha literalmente no centro do salão. O Cocina Hermanos Torres abriu em 2018 numa antiga nave industrial em Les…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "kol",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/kol",
+      "description": "Em Marylebone, Londres, o Kol de Santiago Lastra cruza técnicas e sabores do México com ingredientes de produtores britânicos. O restaurante abriu em 2020 e criou uma cozinha de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "salsify-at-the-roundhouse",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/salsify-at-the-roundhouse",
+      "description": "Instalado no histórico Roundhouse, acima de Camps Bay, o Salsify combina o litoral da Cidade do Cabo com pratos sul-africanos sazonais. Ryan Cole e Nina du Toit desenvolvem uma…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "eatanic-garden",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/eatanic-garden",
+      "description": "No 36º andar do Josun Palace, em Gangnam, o Eatanic Garden transforma produtos e memórias da cozinha coreana em uma degustação contemporânea. Son Jong-won apresenta cada etapa por meio…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "chef-tams-seasons",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/chef-tams-seasons",
+      "description": "No Wynn Palace, em Cotai, Macau, Chef Tam's Seasons celebra a cozinha cantonesa por meio dos 24 termos solares do calendário tradicional chinês. Tam Kwok Fung seleciona ingredientes…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "le-du",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-du",
+      "description": "No bairro Silom, em Bangkok, Thitid 'Ton' Tassanakajohn apresenta no Le Du uma leitura contemporânea da cozinha tailandesa. O nome remete às estações do ano e os menus procuram valorizar…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "belcanto",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/belcanto",
+      "description": "No Chiado, em Lisboa, o Belcanto de José Avillez une a memória da gastronomia portuguesa a uma cozinha contemporânea de criatividade e precisão. Reinterpretado pelo chef em 2012, o…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "nobelhart-e-schmutzig",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nobelhart-e-schmutzig",
+      "description": "Em Kreuzberg, Berlim, o Nobelhart & Schmutzig de Billy Wagner e Micha Schäfer faz da procedência dos ingredientes a principal narrativa da refeição. Aberto em fevereiro de 2015, trabalha…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "caprice",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/caprice",
+      "description": "No sexto andar do Four Seasons Hotel Hong Kong, o Caprice combina a técnica francesa de Guillaume Galliot com ingredientes de várias regiões do mundo. Desde a abertura do hotel, em 2005,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "mosu",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mosu",
+      "description": "Na encosta de Yongsan, em Seul, o Mosu combina memórias coreanas do chef Sung Anh com precisão técnica e ingredientes sazonais. Depois de uma pausa em 2024, reabriu em março de 2025 em…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "huniik",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/huniik",
+      "description": "No bairro Santa Ana de Mérida, o Huniik de Roberto Solís apresenta uma leitura contemporânea da cozinha yucateca, com ingredientes regionais e serviço em torno de uma cozinha aberta. O…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "txispa",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/txispa",
+      "description": "Em uma casa rural de aproximadamente 400 anos nas encostas de Axpe, Atxondo, o Txispa traduz a brasa basca pela sensibilidade do chef japonês Tetsuro Maeda. Após uma década no Asador…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "septime",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/septime",
+      "description": "Na rue de Charonne, em Paris, o Septime tornou-se um símbolo de alta cozinha descomplicada, orientada por produtores locais e vegetais da estação. Fundado em 2011 por Bertrand Grébaut e…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "coda",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/coda",
+      "description": "Em Neukölln, Berlim, o CODA de René Frank utiliza confeitaria como método de construção de uma refeição completa, sem a separação tradicional entre doces e salgados. Fundado em 2016 como…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "the-ledbury",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/the-ledbury",
+      "description": "Em Notting Hill, Londres, o The Ledbury de Brett Graham alia técnica francesa a uma atenção extraordinária aos ingredientes britânicos. Aberto em 2005, passou por uma pausa e reabertura…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "le-doyenne",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-doyenne",
+      "description": "Em Saint-Vrain, ao sul de Paris, os chefs australianos James Henry e Shaun Kelly transformaram antigas cavalariças da propriedade Mortemart em restaurante, hospedaria e fazenda. No Le…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "tim-raue",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/tim-raue",
+      "description": "Em Kreuzberg, Berlim, o restaurante de Tim Raue transforma a memória da cidade e as viagens pela Ásia em menus de sabores intensos. Fundado em 2010 com Marie-Anne Wild, combina…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "eliane",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/eliane",
+      "description": "Em Bruxelas, o Eliane traduz a cozinha espontânea de Kobe Desramaults num percurso de aproximadamente 18 passagens, definido diariamente pelos produtos disponíveis. Aberto em dezembro de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "arca",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/arca",
+      "description": "Em Tulum, o ARCA interpreta ingredientes da península de Yucatán com fogo vivo e pesquisa de fornecedores locais. Sua sala de jantar aberta para a vegetação, acompanhada de uma cozinha…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "fzn",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fzn",
+      "description": "No Atlantis The Palm, na Palm Jumeirah, Dubai, o FZN leva a visão de Björn Frantzén para uma experiência de alta cozinha nórdica com influências japonesas. Inaugurado em novembro de…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "burnt-ends",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/burnt-ends",
+      "description": "Em Dempsey, Singapura, o Burnt Ends de Dave Pynt une o espírito informal de uma casa de brasa à execução precisa de alta cozinha. Inaugurado em 2013 em Chinatown e transferido em 2021…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "baan-tepa",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/baan-tepa",
+      "description": "Na antiga residência de sua família, em Bangkok, Chudaree 'Tam' Debhakam transformou o Baan Tepa em um espaço de pesquisa culinária e agricultura urbana. Com duas estrelas Michelin e uma…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "den",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/den",
+      "description": "No bairro de Jingumae, em Tóquio, o Den transforma a tradição japonesa do kaiseki em uma experiência criativa e descontraída. O chef Zaiyu Hasegawa usa produtos sazonais, apresentações…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "lamdre",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/lamdre",
+      "description": "Em um pátio tranquilo de Sanlitun, em Pequim, o Lamdre mostra como a alta cozinha chinesa pode ser inteiramente vegetal. A proprietária Zhao Jia e o chef Dai Jun transformam cogumelos,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "singlethread",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/singlethread",
+      "description": "Em Healdsburg, na região vinícola de Sonoma, o SingleThread une restaurante de três estrelas Michelin, hospedagem intimista e fazenda regenerativa. Kyle Connaughton conduz uma degustação…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "neolokal",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/neolokal",
+      "description": "No edifício cultural SALT Galata, em Istambul, o Neolokal de Maksut Aşkar aproxima as memórias culinárias da Anatólia de técnicas contemporâneas. A casa trabalha com pequenos produtores,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "mil",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mil",
+      "description": "A 3.568 metros de altitude, perto das terrazas agrícolas incas de Moray, no Vale Sagrado de Cusco, o Mil transforma pesquisa antropológica e botânica em uma experiência gastronômica…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "rosetta",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/rosetta",
+      "description": "Na rua Colima, no bairro Roma Norte da Cidade do México, o Rosetta de Elena Reygadas ocupa uma casa histórica cercada por plantas. Sua carta reúne técnicas de massas e panificação com…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "khufus",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/khufus",
+      "description": "Dentro do complexo arqueológico das pirâmides de Gizé, o Khufu’s celebra receitas tradicionais do Egito com técnica contemporânea e uma vista excepcional da Grande Pirâmide. A cozinha é…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "labyrinth",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/labyrinth",
+      "description": "No Esplanade Mall, junto a Marina Bay em Singapura, o Labyrinth de Han Liguang revisita pratos que marcaram a infância e a culinária de rua da cidade-estado. Aberto em 2014, o…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "fauna",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fauna",
+      "description": "No Vale de Guadalupe, em Baja California, o Fauna de David Castro Hussong e Maribel Aldaco Silva apresenta uma cozinha mexicana sazonal, intensa e pensada para compartilhar. A casa,…",
+      "reload": true,
+      "pass": true
+    },
+    {
+      "slug": "aponiente",
+      "direct": true,
+      "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/aponiente",
+      "description": "Em El Puerto de Santa María, na Baía de Cádiz, o Aponiente do chef Ángel León transforma a biodiversidade marinha em alta gastronomia. A casa ocupa desde 2015 um antigo moinho de marés…",
+      "reload": true,
+      "pass": true
+    }
+  ],
+  "errors": []
+}

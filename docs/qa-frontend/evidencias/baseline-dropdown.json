@@ -1,0 +1,123 @@
+{
+  "geometry": {
+    "selector": "[role=\"dialog\"]",
+    "timestamp": "2026-11-10T21:03:44.509Z",
+    "url": "http://127.0.0.1:4174/restaurantes",
+    "viewport": {
+      "width": 320,
+      "height": 568,
+      "dpr": 1,
+      "visualViewport": {
+        "width": 320,
+        "height": 568,
+        "scale": 1
+      },
+      "hoverNone": false,
+      "pointerCoarse": false,
+      "reducedMotion": false
+    },
+    "theme": {
+      "dataTheme": "light",
+      "classeDark": false,
+      "colorScheme": "light",
+      "prefersDark": false
+    },
+    "tagName": "DIV",
+    "bounds": {
+      "x": 10.734375,
+      "y": -4.546875,
+      "width": 288,
+      "height": 301.234375,
+      "right": 298.734375,
+      "bottom": 296.6875
+    },
+    "foraDaTela": true,
+    "scroll": {
+      "scrollWidth": 286,
+      "scrollHeight": 299,
+      "clientWidth": 286,
+      "clientHeight": 299
+    },
+    "overflowPagina": {
+      "documentoMaisLargoQueViewport": false,
+      "htmlOverflowX": "visible",
+      "bodyOverflowX": "visible"
+    },
+    "computed": {
+      "left": "-98px",
+      "right": "0px",
+      "width": "288px",
+      "position": "absolute"
+    },
+    "stylesheets": [
+      {
+        "index": 0,
+        "href": "/css2",
+        "disabled": false
+      },
+      {
+        "index": 1,
+        "href": "/assets/index-opnbCflp.css",
+        "disabled": false
+      }
+    ],
+    "regraVencedora": "use regra-vencedora.js ou regra-vencedora-cdp.mjs"
+  },
+  "rule": {
+    "elemento": "[role=\"dialog\"]",
+    "propriedade": "right",
+    "computado": "0px",
+    "vencedora": {
+      "origem": "/assets/index-opnbCflp.css",
+      "seletor": ".right-0",
+      "seletorQueCasou": ".right-0",
+      "especificidade": [
+        0,
+        1,
+        0
+      ],
+      "camada": "utilities",
+      "condicoes": [],
+      "important": false,
+      "valor": "calc(var(--spacing)*0)",
+      "ordem": 66,
+      "containerNaoAvaliado": false
+    },
+    "candidatas": [
+      {
+        "origem": "/assets/index-opnbCflp.css",
+        "seletor": ".right-0",
+        "seletorQueCasou": ".right-0",
+        "especificidade": [
+          0,
+          1,
+          0
+        ],
+        "camada": "utilities",
+        "condicoes": [],
+        "important": false,
+        "valor": "calc(var(--spacing)*0)",
+        "ordem": 66,
+        "containerNaoAvaliado": false
+      }
+    ],
+    "ordemDasCamadas": [
+      "properties",
+      "theme",
+      "base",
+      "components",
+      "utilities"
+    ],
+    "folhasIlegiveis": [
+      "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
+    ],
+    "viewport": {
+      "width": 320,
+      "height": 568
+    },
+    "avisos": [
+      "1 folha(s) ilegível(is) por CORS — a vencedora pode estar nelas."
+    ],
+    "metodo": "CSSOM (aproximação; sem número de linha)"
+  }
+}

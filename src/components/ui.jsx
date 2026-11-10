@@ -60,6 +60,7 @@ export function Header({ sections = false, back = false }) {
   const link = 'smallcaps whitespace-nowrap !tracking-[0.08em] sm:!tracking-[0.28em] text-ink-2 hover:text-wine transition-colors'
   return (
     <header className="sticky top-0 z-40 border-b border-rule bg-paper/90 backdrop-blur-sm">
+      <a href="#conteudo" className="sr-only focus:not-sr-only focus:block focus:p-3 focus:text-wine">Pular para o conteúdo</a>
       <div className="mx-auto flex min-h-16 max-w-6xl flex-wrap items-center justify-between gap-x-3 gap-y-2 px-4 py-3 sm:h-16 sm:flex-nowrap sm:gap-4 sm:px-8 sm:py-0">
         <Logo />
         <div className="flex min-w-0 items-center gap-3 sm:gap-7">
@@ -80,12 +81,12 @@ export function Header({ sections = false, back = false }) {
           <nav className="flex items-center gap-3 sm:gap-7">
             {sections && (
               <>
-                <a href="#mapa" className={`${link} hidden lg:inline`}>Mapa</a>
-                <a href="#continentes" className={`${link} hidden lg:inline`}>Continentes</a>
-                <a href="#brasil" className={`${link} hidden lg:inline`}>Brasil</a>
-                <a href="#paises" className={`${link} hidden lg:inline`}>Países</a>
-                <a href="#carta" className={`${link} hidden lg:inline`}>A lista</a>
-                <span className="hidden h-4 w-px bg-rule lg:block" />
+                <a href="#mapa" className={`${link} hidden xl:inline`}>Mapa</a>
+                <a href="#continentes" className={`${link} hidden xl:inline`}>Continentes</a>
+                <a href="#brasil" className={`${link} hidden xl:inline`}>Brasil</a>
+                <a href="#paises" className={`${link} hidden xl:inline`}>Países</a>
+                <a href="#carta" className={`${link} hidden xl:inline`}>A lista</a>
+                <span className="hidden h-4 w-px bg-rule xl:block" />
               </>
             )}
             {!sections && <NavLink to="/" end className={({ isActive }) => `${link} hidden sm:inline ${isActive ? '!text-wine' : ''}`}>Início</NavLink>}
@@ -174,7 +175,7 @@ export function Search({ value, onChange, placeholder }) {
       <span className="absolute left-0 top-1/2 -translate-y-1/2 text-muted" aria-hidden="true">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"><path d="M21 21l-4.3-4.3M11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14z" /></svg>
       </span>
-      <input className="field" placeholder={placeholder} value={value} onChange={onChange} />
+      <input type="search" aria-label="Buscar restaurante, cidade ou país" className="field" placeholder={placeholder} value={value} onChange={onChange} />
     </label>
   )
 }

@@ -1,0 +1,59 @@
+{
+  "cases": [
+    {
+      "path": "/restaurantes",
+      "status": 200,
+      "url": "http://127.0.0.1:4174/restaurantes",
+      "title": "Os 100 restaurantes · Ranking 2026 · A Carta",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/restaurantes\" />",
+      "robots": "<meta name=\"robots\" content=\"index,follow\" />",
+      "asset": "index-YT_mXq5K.js"
+    },
+    {
+      "path": "/restaurantes/",
+      "status": 200,
+      "url": "http://127.0.0.1:4174/restaurantes/",
+      "title": "Os 100 restaurantes · Ranking 2026 · A Carta",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/restaurantes\" />",
+      "robots": "<meta name=\"robots\" content=\"index,follow\" />",
+      "asset": "index-YT_mXq5K.js"
+    },
+    {
+      "path": "/restaurante/tuju",
+      "status": 200,
+      "url": "http://127.0.0.1:4174/restaurante/tuju",
+      "title": "Tuju · 16º · A Carta",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/restaurante/tuju\" />",
+      "robots": "<meta name=\"robots\" content=\"index,follow\" />",
+      "asset": "index-YT_mXq5K.js"
+    },
+    {
+      "path": "/restaurante/tuju/",
+      "status": 200,
+      "url": "http://127.0.0.1:4174/restaurante/tuju/",
+      "title": "Tuju · 16º · A Carta",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/restaurante/tuju\" />",
+      "robots": "<meta name=\"robots\" content=\"index,follow\" />",
+      "asset": "index-YT_mXq5K.js"
+    },
+    {
+      "path": "/restaurante/slug-inexistente-qa",
+      "status": 200,
+      "url": "http://127.0.0.1:4174/restaurante/slug-inexistente-qa",
+      "title": "A Carta · Os 100 melhores restaurantes do mundo em 2026",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/\" />",
+      "robots": "<meta name=\"robots\" content=\"index,follow\" />",
+      "asset": "index-YT_mXq5K.js"
+    }
+  ],
+  "files": {
+    "dist/restaurante/tuju/index.html": {
+      "title": "Tuju · 16º · A Carta",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/restaurante/tuju\" />"
+    },
+    "dist/restaurantes/index.html": {
+      "title": "Os 100 restaurantes · Ranking 2026 · A Carta",
+      "canonical": "<link rel=\"canonical\" href=\"https://melhores-restaurantes.up.railway.app/restaurantes\" />"
+    }
+  }
+}

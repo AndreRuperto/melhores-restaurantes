@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { restaurants, CONTINENTS, countBy, matches } from '../data/restaurants'
 import { Header, Footer, Search, Ornament } from '../components/ui'
-import WorldMap from '../components/WorldMap'
+import WorldMap from '../components/LazyWorldMap'
 import { MenuItem } from '../components/RankingTable'
 import CountryDropdown from '../components/CountryDropdown'
 
@@ -45,9 +45,9 @@ export default function Restaurants() {
   return (
     <>
       <Header />
-      <main className="mx-auto max-w-6xl px-4 sm:px-8 pt-16">
+      <main id="conteudo" tabIndex={-1} className="mx-auto max-w-6xl px-4 sm:px-8 pt-16">
         <div className="text-center">
-          <div className="smallcaps text-wine">{list.length} de 100 restaurantes</div>
+          <div role="status" aria-live="polite" className="smallcaps text-wine">{list.length} de 100 restaurantes</div>
           <h1 className="display mt-4 text-6xl sm:text-7xl">Todos os <em className="italic text-wine">restaurantes</em></h1>
           <p className="mx-auto mt-5 max-w-xl text-lg text-ink-2">Os cem restaurantes do ranking de 2026, no mapa e em lista. Escolha um para ver a página dele.</p>
         </div>

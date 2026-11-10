@@ -1,0 +1,7 @@
+{
+  "chosen": "4 DE 100 RESTAURANTES",
+  "urlAfterOne": "http://127.0.0.1:4174/restaurantes?pais=Brasil",
+  "tip": 1,
+  "urlAfterTwo": "http://127.0.0.1:4174/restaurante/tuju",
+  "touch": true
+}

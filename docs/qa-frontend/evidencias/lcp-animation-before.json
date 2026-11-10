@@ -1,0 +1,118 @@
+{
+  "probe": {
+    "selector": "main section > p.display",
+    "timestamp": "2026-11-10T21:23:16.785Z",
+    "url": "http://127.0.0.1:4174/restaurante/asador-etxebarri",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "dpr": 1,
+      "visualViewport": {
+        "width": 390,
+        "height": 844,
+        "scale": 1
+      },
+      "hoverNone": false,
+      "pointerCoarse": false,
+      "reducedMotion": false
+    },
+    "theme": {
+      "dataTheme": "light",
+      "classeDark": false,
+      "colorScheme": "light",
+      "prefersDark": false
+    },
+    "tagName": "P",
+    "bounds": {
+      "x": 16,
+      "y": 499.09375,
+      "width": 358,
+      "height": 297,
+      "right": 374,
+      "bottom": 796.09375
+    },
+    "foraDaTela": false,
+    "scroll": {
+      "scrollWidth": 358,
+      "scrollHeight": 297,
+      "clientWidth": 358,
+      "clientHeight": 297
+    },
+    "overflowPagina": {
+      "documentoMaisLargoQueViewport": false,
+      "htmlOverflowX": "visible",
+      "bodyOverflowX": "visible"
+    },
+    "computed": {
+      "animation-name": "fade",
+      "animation-duration": "0.7s",
+      "opacity": "0"
+    },
+    "stylesheets": [
+      {
+        "index": 0,
+        "href": "/fonts/fonts.css",
+        "disabled": false
+      },
+      {
+        "index": 1,
+        "href": "/assets/index-DNRskewm.css",
+        "disabled": false
+      }
+    ],
+    "regraVencedora": "use regra-vencedora.js ou regra-vencedora-cdp.mjs"
+  },
+  "rule": {
+    "elemento": "main section > p.display",
+    "propriedade": "animation-duration",
+    "computado": "0.7s",
+    "vencedora": {
+      "origem": "/assets/index-DNRskewm.css",
+      "seletor": ".fade",
+      "seletorQueCasou": ".fade",
+      "especificidade": [
+        0,
+        1,
+        0
+      ],
+      "camada": null,
+      "condicoes": [],
+      "important": false,
+      "valor": "0.7s",
+      "ordem": 403,
+      "containerNaoAvaliado": false
+    },
+    "candidatas": [
+      {
+        "origem": "/assets/index-DNRskewm.css",
+        "seletor": ".fade",
+        "seletorQueCasou": ".fade",
+        "especificidade": [
+          0,
+          1,
+          0
+        ],
+        "camada": null,
+        "condicoes": [],
+        "important": false,
+        "valor": "0.7s",
+        "ordem": 403,
+        "containerNaoAvaliado": false
+      }
+    ],
+    "ordemDasCamadas": [
+      "properties",
+      "theme",
+      "base",
+      "components",
+      "utilities"
+    ],
+    "folhasIlegiveis": [],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "avisos": [],
+    "metodo": "CSSOM (aproximação; sem número de linha)"
+  }
+}
