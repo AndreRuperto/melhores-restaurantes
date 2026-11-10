@@ -2,30 +2,30 @@
   "lede": "Na encosta de Yongsan, em Seul, o Mosu combina memórias coreanas do chef Sung Anh com precisão técnica e ingredientes sazonais. Depois de uma pausa em 2024, reabriu em março de 2025 em uma nova sede, conquistando duas estrelas Michelin na edição de 2026.",
   "history": [
     "Sung Anh criou o primeiro Mosu em São Francisco em 2015, depois de trabalhar em restaurantes internacionais e desenvolver uma cozinha que procurava integrar lembranças coreanas a técnicas contemporâneas.",
-    "Em 2017, transferiu o projeto para Seul. O restaurante de Itaewon conquistou uma estrela Michelin em 2020, a segunda em 2021 e a terceira nas edições de 2023 e 2024, destacando-se como um dos endereços mais influentes da cena gastronômica da Coreia do Sul.",
+    "Em 2017, transferiu o projeto para Seul. O restaurante de Itaewon conquistou uma estrela Michelin na edição de 2019, a segunda na de 2020 e a terceira nas edições de 2023 e 2024, destacando-se como um dos endereços mais influentes da cena gastronômica da Coreia do Sul.",
     "Após uma interrupção de funcionamento em 2024, o Mosu reabriu em março de 2025 em outra casa no mesmo distrito de Yongsan, no endereço Hoenamu-ro 41-gil 4. O espaço tem diferentes ambientes, com cozinha visível a partir do piso térreo e áreas mais reservadas nos andares superiores.",
-    "Em março de 2026, a nova fase foi premiada com duas estrelas Michelin. A mudança de estrelas não deve ser descrita como perda direta de uma terceira estrela na mesma inspeção: houve uma pausa e uma nova avaliação após a reabertura. O Mosu apareceu em 41º no Asia's 50 Best 2026 e em 78º na lista mundial estendida."
+    "Em março de 2026, a nova fase foi premiada com duas estrelas Michelin. A nova casa foi avaliada pela primeira vez após a reabertura. O Mosu apareceu em 41º no Asia's 50 Best 2026 e em 78º na lista mundial estendida."
   ],
   "cuisine": {
     "style": "Alta cozinha coreana autoral, sazonal e de precisão",
     "paragraphs": [
       "O chef usa ingredientes coreanos e técnicas de diferentes tradições para construir pratos com camadas de sabor e texturas controladas. A seleção muda com a estação e valoriza pescados, vegetais e caldos bem definidos.",
-      "O Guia Michelin destaca o taco de abalone, o tofu de gergelim, a tortinha de bardana e o pão de fermentação natural entre as assinaturas. Em 2026, os inspetores também apontaram peixe tilefish cozido no vapor em caldo de anchovas como uma das passagens mais marcantes da nova fase.",
-      "O restaurante organiza a refeição como degustação, com composição variável. Os pratos históricos ou descritos pelo Michelin são referências do repertório, não uma promessa de disponibilidade em cada sessão."
+      "O The 50 Best destaca o taco de abalone entre as assinaturas. Em 2026, os inspetores do Guia Michelin apontaram o tilefish cozido no vapor em caldo de anchovas entre os pratos favoritos da edição.",
+      "O restaurante organiza a refeição como degustação, com composição variável. A composição muda conforme a estação."
     ]
   },
   "chef": {
     "name": "Sung Anh (Ahn Sung-jae)",
-    "bio": "Chef de origem coreana, Sung Anh fundou o Mosu em São Francisco em 2015 e levou a proposta para Seul em 2017. Sua cozinha recebeu três estrelas Michelin na sede anterior e duas estrelas na nova casa, avaliada em 2026 após a reabertura. Sua equipe inclui o chef de cozinha Oh Jong-il, apresentado no site oficial."
+    "bio": "Chef de origem coreana, Sung Anh fundou o Mosu em São Francisco em 2015 e levou a proposta para Seul em 2017. Sua cozinha recebeu três estrelas Michelin na sede anterior e duas estrelas na nova casa, avaliada em 2026 após a reabertura."
   },
   "awards": [
     {
-      "year": 2020,
+      "year": 2019,
       "title": "Primeira estrela Michelin — Mosu Seul"
     },
     {
-      "year": 2021,
-      "title": "Segunda estrela Michelin — Mosu Seul"
+      "year": 2020,
+      "title": "Segunda estrela Michelin — Guia Michelin Seul 2020"
     },
     {
       "year": 2023,
@@ -55,9 +55,14 @@
     "https://guide.michelin.com/mo/en/article/dining-out/mosu-seoul-inspector-reveals-all-sung-anh-newly-reopened-michelin-two-star",
     "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-seoul-busan-2026-highlights",
     "https://www.the50.com/restaurants/best-in-asia/list/1-50",
-    "https://commons.wikimedia.org/wiki/File:Itaewon_1.jpg"
+    "https://commons.wikimedia.org/wiki/File:Itaewon_1.jpg",
+    "https://view.asiae.co.kr/en/article/2025030410593387886",
+    "https://thestaffcanteen.com/News/two-new-two-star-restaurants-in-the-michelin-guide-seoul-2020"
   ],
   "slug": "mosu",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 78,
   "founded": 2015,
   "founders": [
@@ -69,7 +74,17 @@
     "author": "kallerna",
     "license": "CC BY-SA 4.0",
     "caption": "Rua do bairro Itaewon, em Seul, fotografada em dezembro de 2022. Imagem contextual; NÃO retrata o Mosu nem sua sede reaberta em 2025.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Rua de Itaewon, Seul (2022)",
+    "alt": "Rua inclinada de Itaewon com lojas e letreiros",
+    "capturedAt": "2022-12-01",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
@@ -79,12 +94,12 @@
     },
     {
       "name": "Tofu de gergelim tostado",
-      "desc": "Preparação de textura delicada, reconhecida pelo Guia Michelin entre os pratos marcantes da casa.",
+      "desc": "Preparação de textura delicada, reconhecida pelo Guia Michelin entre os pratos marcantes da casa; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
       "name": "Tarte de bardana",
-      "desc": "Criação vegetal do repertório do Mosu, com trabalho cuidadoso de textura e sabor.",
+      "desc": "Criação vegetal do repertório do Mosu, com trabalho cuidadoso de textura e sabor; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
@@ -94,7 +109,7 @@
     },
     {
       "name": "Pão de fermentação natural",
-      "desc": "Passagem elogiada pelo Michelin como parte do percurso de degustação da nova sede.",
+      "desc": "Passagem elogiada pelo Michelin como parte do percurso de degustação da nova sede; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     }
   ],
@@ -102,8 +117,18 @@
     "website": "https://www.mosuseoul.com/",
     "address": "4 Hoenamu-ro 41-gil, Yongsan-gu, Seul 04344, Coreia do Sul",
     "reservationUrl": "https://www.mosuseoul.com/",
-    "reservation": "Todos os lugares são reservados antecipadamente exclusivamente pela plataforma Catchtable, acessível no botão do site oficial; o Mosu informa que não recebe reservas por telefone, e-mail ou redes sociais. Cancelamentos com pelo menos três dias de antecedência têm devolução integral do depósito; após esse prazo, não há devolução, segundo a política exibida. Serviço de terça a sábado, com almoço de quarta a sábado; verificar calendário.",
-    "price": "Degustação sazonal; o preço atual em won não foi confirmado em fonte oficial aberta. Consultar o valor exibido no sistema Catchtable antes de reservar."
+    "reservation": "As reservas e os depósitos são feitos exclusivamente pela plataforma Catchtable, acessível pelo site oficial; o Mosu alertou que não pede transferências bancárias. Jantar de terça a sábado, segundo o Guia Michelin; verificar o calendário no Catchtable.",
+    "price": "Na reabertura, em março de 2025, o menu degustação de jantar foi anunciado a KRW 420.000 por pessoa; o valor atual deve ser conferido no Catchtable.",
+    "reservationMode": "online",
+    "priceDetails": {
+      "amount": 420000,
+      "currency": "KRW",
+      "basis": "Menu degustação de jantar, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://view.asiae.co.kr/en/article/2025030410593387886",
+      "checkedAt": "2026-11-10",
+      "note": "Valor divulgado na reabertura (março de 2025), fonte jornalística única; rolha a KRW 200.000 por garrafa."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -118,5 +143,49 @@
         "note": "Fotografias do interior atual e pratos da casa reaberta, além de histórico Michelin verificado."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://view.asiae.co.kr/en/article/2025032413252854694",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Site oficial ilegível; regra sobre telefone, e-mail e redes sociais, política de reembolso e almoço sem fonte (retirados)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://view.asiae.co.kr/en/article/2025030410593387886",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço de março de 2025, só na imprensa."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://thestaffcanteen.com/News/two-new-two-star-restaurants-in-the-michelin-guide-seoul-2020",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Primeira e segunda estrelas eram datadas de 2020 e 2021; são das edições de 2019 e 2020."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/Mosu.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Chef de cozinha Oh Jong-il não conferido no site oficial (retirado)."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/Mosu.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Tofu, tarte de bardana e pão atribuídos ao Michelin sem leitura do guia; marcados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

@@ -2,16 +2,16 @@
   "lede": "No sexto andar do Four Seasons Hotel Hong Kong, o Caprice combina a técnica francesa de Guillaume Galliot com ingredientes de várias regiões do mundo. Desde a abertura do hotel, em 2005, o restaurante acompanha o porto Victoria com serviço de alta gastronomia e mantém três estrelas Michelin na edição de 2026.",
   "history": [
     "O Four Seasons Hotel Hong Kong abriu em setembro de 2005, na Finance Street, em Central. Desde a origem, o Caprice ocupa o sexto andar, com vista para Victoria Harbour e uma proposta dedicada à cozinha francesa de grande precisão.",
-    "Na primeira fase, a cozinha comandada por Vincent Thierry conquistou duas estrelas na edição inaugural do Guia Michelin Hong Kong & Macau, de 2009. Chegou à terceira estrela na edição 2010, consolidando a reputação internacional do restaurante.",
-    "Guillaume Galliot assumiu a direção da cozinha em uma etapa posterior. Natural do Vale do Loire, desenvolveu formação francesa e trabalhou em restaurantes internacionais. Sua proposta introduziu condimentos e referências gastronômicas encontradas em diferentes países sem abandonar as bases francesas.",
-    "O Caprice recuperou a terceira estrela Michelin em 2019 e manteve o reconhecimento em 2026. No mesmo ano, ficou em 35º no Asia's 50 Best e em 77º na lista mundial estendida do The 50 Best Restaurants."
+    "Na primeira fase, a cozinha comandada por Vincent Thierry conquistou duas estrelas na edição inaugural do Guia Michelin Hong Kong & Macau, de 2009, e chegou à terceira estrela na edição 2010. O restaurante manteve as três estrelas até 2014 e voltou a ter duas entre 2015 e 2018, já na fase de Fabrice Vulin.",
+    "Guillaume Galliot assumiu a direção da cozinha em 2017. Natural do Vale do Loire, desenvolveu formação francesa e trabalhou em restaurantes internacionais. Sua proposta introduziu condimentos e referências gastronômicas encontradas em diferentes países sem abandonar as bases francesas.",
+    "O Caprice recuperou a terceira estrela Michelin em 2019 e a manteve por oito edições seguidas, até 2026. No mesmo ano, ficou em 35º no Asia's 50 Best e em 77º na lista mundial estendida do The 50 Best Restaurants."
   ],
   "cuisine": {
     "style": "Francesa clássica e contemporânea com influências internacionais",
     "paragraphs": [
       "A cozinha parte de produtos de excelência, execução cuidadosa, caldos, emulsões e molhos clássicos. Galliot cria contrastes com especiarias e ingredientes de outras tradições gastronômicas, mantendo a clareza da técnica francesa.",
-      "O Four Seasons divulga várias experiências de menu, entre elas Découverte, Signature, Connaisseur e almoço de preço fixo. Não há carta de degustação única para todas as temporadas; a composição depende dos produtos disponíveis.",
-      "Entre os pratos descritos nas fontes oficiais estão caranguejo-real do Alasca com geleia de crustáceos e caviar, lagosta-azul da Bretanha, foie gras, aspargos do Loire e mille-feuille de banana e chocolate. São exemplos publicados do repertório, não confirmação de disponibilidade futura."
+      "O restaurante oferece menu Signature e almoço de preço fixo. Não há carta de degustação única para todas as temporadas; a composição depende dos produtos disponíveis.",
+      "Entre os pratos descritos nas fontes oficiais estão caranguejo-real do Alasca com geleia de crustáceos e caviar, lagosta-azul da Bretanha, foie gras, aspargos do Loire e mille-feuille de banana e chocolate. A carta muda conforme a estação."
     ]
   },
   "chef": {
@@ -53,14 +53,19 @@
     "https://commons.wikimedia.org/wiki/File:Caprice_Interior.jpg",
     "https://commons.wikimedia.org/wiki/File:Caprice_open_kitchen.jpg",
     "https://commons.wikimedia.org/wiki/File:Caprice_Restaurant.JPG",
-    "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_Hong_Kong.jpg"
+    "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_Hong_Kong.jpg",
+    "https://press.fourseasons.com/hongkong/hotel-news/2026/seven-michelin-stars",
+    "https://press.fourseasons.com/hongkong/hotel-team/guillaume-galliot/"
   ],
   "slug": "caprice",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 77,
   "dishes": [
     {
       "name": "Caranguejo-real do Alasca, gelatina de crustáceos e caviar",
-      "desc": "Prato assinatura divulgado pelo Four Seasons, com geleia de crustáceos e caviar Osciètre.",
+      "desc": "Prato assinatura do Caprice, com geleia de crustáceos e caviar.",
       "photo": null
     },
     {
@@ -75,12 +80,12 @@
     },
     {
       "name": "Aspargos do Vale do Loire",
-      "desc": "Produto de origem francesa destacado na seleção de temporada e trabalhado com técnica clássica.",
+      "desc": "Produto de origem francesa destacado na seleção de temporada e trabalhado com técnica clássica; sem fonte legível que o confirme.",
       "photo": null
     },
     {
       "name": "Mille-feuille de banana e chocolate",
-      "desc": "Sobremesa com camadas crocantes, chocolate e sorbet de cacau mencionada entre as assinaturas do Caprice.",
+      "desc": "Sobremesa com camadas crocantes, chocolate e sorbet de cacau mencionada entre as assinaturas do Caprice; sem fonte legível que o confirme.",
       "photo": null
     }
   ],
@@ -94,15 +99,35 @@
     "author": "Tzahy Lerner",
     "license": "CC BY-SA 3.0",
     "caption": "Salão real do restaurante Caprice, no Four Seasons Hong Kong, fotografado em dezembro de 2009. Registro histórico, não necessariamente a decoração atual.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "interior",
+    "subject": "Salão do Caprice (2009)",
+    "alt": "Salão com mesas de toalha branca diante da cozinha aberta iluminada por cristais",
+    "capturedAt": "2009-12-22",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Tzahy Lerner, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Four%20Seasons%20Hotel%20Hong%20Kong.jpg?width=1280",
     "page": "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_Hong_Kong.jpg",
-    "author": "Prosperity Horizons",
+    "author": "Exploringlife (Prosperity Horizons)",
     "license": "CC BY-SA 4.0",
     "caption": "Edifício Four Seasons Hotel Hong Kong fotografado em 2015. É o hotel onde fica o Caprice, não a entrada individual do restaurante.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Four Seasons Hotel Hong Kong (2015)",
+    "alt": "Duas torres claras e curvas do hotel Four Seasons contra o céu azul",
+    "capturedAt": "2015-12-02",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Exploringlife (Prosperity Horizons), CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -111,7 +136,17 @@
       "author": "Tzahy Lerner",
       "license": "CC BY-SA 3.0",
       "caption": "Cozinha aberta do Caprice em dezembro de 2009. Fotografia real do espaço, anterior à equipe e à decoração atuais.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Cozinha aberta do Caprice (2009)",
+      "alt": "Cozinheiros de toque branco trabalhando atrás do vidro da cozinha, com mesa posta e queijos à frente",
+      "capturedAt": "2009-12-22",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+      "attribution": "Tzahy Lerner, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Caprice%20Restaurant.JPG?width=1280",
@@ -119,15 +154,37 @@
       "author": "Theorb",
       "license": "Domínio público",
       "caption": "Salão real do Caprice em agosto de 2006, um registro histórico pouco depois da abertura do hotel.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Salão do Caprice (2006)",
+      "alt": "Salão com lustre de cristal, teto trabalhado e mesas ocupadas",
+      "capturedAt": "2006",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+      "attribution": "Theorb, Domínio público, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "practical": {
     "website": "https://www.fourseasons.com/hongkong/dining/restaurants/caprice/",
     "address": "6º andar, Four Seasons Hotel Hong Kong, 8 Finance Street, Central, Hong Kong",
     "reservationUrl": "https://www.fourseasons.com/hongkong/dining/restaurants/caprice/",
-    "reservation": "Reservas pelo botão 'Reserve a Table' na página do Four Seasons ou pelo telefone +852 3196 8882. Almoço e jantar de terça a domingo; fechado segunda-feira. O hotel informa idade mínima de 8 anos e traje smart casual. Disponibilidade não verificada em tempo real.",
-    "price": "Menus fixos de almoço e de degustação; preços em HKD variam conforme menu e estação. A página institucional consultada não mostra um preço único atualizado que possa ser afirmado com segurança."
+    "reservation": "Reservas pela página do Four Seasons, pelo telefone +852 3196 8882 ou pelo e-mail caprice.hkg@fourseasons.com. Almoço e jantar de terça a domingo; fechado segunda-feira.",
+    "price": "Menus de almoço de preço fixo e menu Signature; a página oficial não pôde ser lida. Um guia de julho de 2026 cita o menu Signature a HKD 3.228 por pessoa, mais 10% de serviço. Confirmar valores na reserva.",
+    "reservationMode": "online",
+    "phone": "+852 3196 8882",
+    "email": "caprice.hkg@fourseasons.com",
+    "priceDetails": {
+      "amount": null,
+      "currency": "HKD",
+      "basis": "Menu Signature, por pessoa",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.yonder.fr/cityguides/hong-kong/restaurants/caprice",
+      "checkedAt": "2026-11-10",
+      "note": "Página oficial inacessível (403); o Yonder (julho de 2026) cita HKD 3.228; preços do Caprice têm 10% de serviço, segundo os comunicados do hotel."
+    }
   },
   "photoReference": {
     "kind": "ambientes",
@@ -141,5 +198,49 @@
         "note": "Coleção de imagens reais históricas do restaurante, cada arquivo com sua própria licença."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://press.fourseasons.com/hongkong/hotel-news/2025/jan-x-caprice-culinary-event",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Página oficial inacessível (403). Telefone diverge: 3196 8882 (SCMP) ou 3196 8860 (comunicado do hotel). Idade mínima e traje não conferidos (retirados)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.yonder.fr/cityguides/hong-kong/restaurants/caprice",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço só em guia secundário."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://guide.michelin.com/en/article/people/video-betting-on-happiness",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Datas das estrelas de 2010 a 2018 só por trecho de busca do Michelin."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://press.fourseasons.com/hongkong/hotel-news/2026/seven-michelin-stars",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Três estrelas desde 2019 pelo comunicado do hotel."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/Caprice.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Caviar Osciètre, aspargos e mille-feuille sem fonte legível; menus Découverte e Connaisseur não encontrados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Salão e cozinha reais (2006 e 2009); crédito do hotel ajustado ao autor do Commons. Foto de 2006 em domínio público com autoria presumida pelo Commons."
+    }
+  ]
 }

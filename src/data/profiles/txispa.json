@@ -11,7 +11,7 @@
     "paragraphs": [
       "O Txispa usa fogo direto e ingredientes sazonais de alta qualidade, combinando a tradição dos asadores bascos com cortes, controles de temperatura e precisão associados à cozinha japonesa. A horta própria e fornecedores do vale orientam o cardápio.",
       "A experiência começa com um aperitivo diante da grelha, na presença de Tetsuro Maeda, e prossegue no salão da antiga casa rural. O menu oficial descreve txuleta, pescado e camarões como referências que podem aparecer entre passagens sazonais.",
-      "A equipe cultiva vegetais de estação em sua horta e trabalha com produtos de agricultores locais. Como a degustação muda segundo a colheita e a pesca, os itens indicados no perfil são exemplos de repertório, não uma lista fixa da refeição."
+      "A equipe cultiva vegetais de estação em sua horta. Como a degustação muda segundo a colheita e a pesca, os itens indicados no perfil são exemplos de repertório, não uma lista fixa da refeição."
     ]
   },
   "chef": {
@@ -47,6 +47,9 @@
     "https://commons.wikimedia.org/wiki/File:Axpe_from_Mendigoikoa.jpg"
   ],
   "slug": "txispa",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 80,
   "founded": 2023,
   "founders": [
@@ -57,8 +60,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:Axpe_from_Mendigoikoa.jpg",
     "author": "PaU1570",
     "license": "CC BY-SA 4.0",
-    "caption": "Vista real do povoado de Axpe a partir da região de Mendigoikoa em junho de 2023. Paisagem do entorno do Txispa; a fotografia NÃO mostra comprovadamente a fachada do restaurante.",
-    "illustrative": true
+    "caption": "Vista do povoado de Axpe a partir da propriedade Mendi Goikoa, onde fica o caserío do Txispa, em junho de 2023, segundo a descrição do Wikimedia Commons. A foto mostra a paisagem do entorno, não a fachada do restaurante.",
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Axpe vista da propriedade Mendi Goikoa (2023)",
+    "alt": "Vale verde com casas de telhado vermelho, pastos e montanhas cobertas de floresta",
+    "capturedAt": "2023-06-28",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "PaU1570, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
@@ -83,7 +96,7 @@
     },
     {
       "name": "Aperitivo na cozinha junto à grelha",
-      "desc": "Passagem inicial servida diante do fogo com o chef, parte do percurso oficial, cuja composição muda diariamente.",
+      "desc": "Passagem inicial servida diante do fogo com o chef, parte do percurso oficial.",
       "photo": null
     }
   ],
@@ -91,8 +104,20 @@
     "website": "https://txispa.com/en/",
     "address": "Barrio San Juan 45, Axpe, Atxondo, Bizkaia 48291, Espanha",
     "reservationUrl": "https://txispa.com/en/booking/",
-    "reservation": "Reservas pelo formulário oficial; experiência de almoço com chegada recomendada entre 13h e 13h15, fechada às segundas e terças. A casa exige cartão para garantia e reservas online a partir de duas pessoas; pedidos individuais devem ser feitos por e-mail. Alterações ou cancelamentos devem ser comunicados com ao menos sete dias de antecedência. Não oferece menu vegetariano ou vegano.",
-    "price": "Menu degustação anunciado a €295 na página oficial de reservas consultada em novembro de 2026. Outra página do mesmo site ainda indica €275; confirmar o preço exibido no checkout antes de concluir."
+    "reservation": "Reservas online pela página oficial, que abre o sistema do TheFork; telefone +34 691 714 586 (atendimento das 10h30 às 12h30, de quarta a domingo) e e-mail info@txispa.com. Só almoço, com chegada pontual às 13h; atrasos acima de 15 minutos devem ser avisados. A página de reservas indica fechamento às segundas e terças, mas a página de contato cita apenas a segunda; confirme ao reservar. A casa exige cartão como garantia e aceita reservas online a partir de duas pessoas; pedidos individuais vão por e-mail. Alterações ou cancelamentos exigem pelo menos sete dias de antecedência. Não há menu vegetariano ou vegano.",
+    "price": "Menu degustação anunciado a €295 na página oficial de reservas consultada em novembro de 2026. Outra página do mesmo site ainda indica €275; confirmar o preço exibido no checkout antes de concluir.",
+    "reservationMode": "online",
+    "phone": "+34 691 714 586",
+    "email": "info@txispa.com",
+    "priceDetails": {
+      "amount": 295,
+      "currency": "EUR",
+      "basis": "Menu degustação, por pessoa (página de reservas)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://txispa.com/en/booking/",
+      "checkedAt": "2026-11-10",
+      "note": "A página do menu ainda indica €275 com IVA incluído e bebidas à parte; a de reservas mostra €295 sem mencionar IVA."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -107,5 +132,48 @@
         "note": "Fotos do edifício real de 400 anos, informações do chef e origem do nome Txispa."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://txispa.com/en/booking/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Dias de fechamento divergem entre páginas do site oficial; reserva pelo TheFork, não por formulário."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://txispa.com/en/booking/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Duas páginas oficiais com valores diferentes (€295 e €275)."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://txispa.com/en/history/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://txispa.com/en/history/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrela de 2026 por trecho de busca do Michelin e selo no site; estreia em 2025 não conferida em anos anteriores."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://txispa.com/en/tasting-menu-txispa/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Exemplos do menu oficial; \"agricultores locais\" e mudança diária sem fonte (retirados)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Legenda precisada: a foto foi feita da própria propriedade Mendi Goikoa, segundo o Commons."
+    }
+  ]
 }

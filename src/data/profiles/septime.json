@@ -1,17 +1,17 @@
 {
   "lede": "Na rue de Charonne, em Paris, o Septime tornou-se um símbolo de alta cozinha descomplicada, orientada por produtores locais e vegetais da estação. Fundado em 2011 por Bertrand Grébaut e Théophile Pourriat, o restaurante preserva a proposta criada pela dupla após a morte de Grébaut em julho de 2026.",
   "history": [
-    "Em 26 de abril de 2011, Bertrand Grébaut e seu amigo Théophile Pourriat abriram o Septime no número 80 da rue de Charonne, no 11º arrondissement de Paris. Grébaut havia passado pela escola Ferrandi e por cozinhas como a de Alain Passard; Pourriat liderava a hospitalidade e a operação do projeto.",
+    "No fim de abril de 2011, Bertrand Grébaut e seu amigo Théophile Pourriat abriram o Septime no número 80 da rue de Charonne, no 11º arrondissement de Paris. Grébaut havia passado pela escola Ferrandi e por cozinhas como a de Alain Passard; Pourriat liderava a hospitalidade e a operação do projeto.",
     "O restaurante ajudou a transformar a imagem da bistronomia parisiense: serviço sem formalidade excessiva, mesas de madeira, vidros de estilo industrial e uma cozinha extremamente rigorosa na seleção de ingredientes. Em 2014 ganhou uma estrela Michelin, ao mesmo tempo em que mantinha menus surpresa e preços mais contidos do que outros endereços gastronômicos da capital.",
-    "Os fundadores desenvolveram relações com agricultores da Île-de-France e fornecedores responsáveis de pescados e carnes. A atenção ao cultivo, ao aproveitamento integral e às mudanças de estação tornou-se uma característica tão importante quanto a execução dos pratos. Em 2024, o Septime alcançou o 11º lugar na lista mundial The World's 50 Best Restaurants.",
-    "Bertrand Grébaut morreu em 2 de julho de 2026, aos 44 anos, após deixar um legado influente na cozinha francesa contemporânea. O restaurante continuou em operação sob o projeto de equipe associado a Théophile Pourriat e foi classificado em 81º no ranking mundial estendido de outubro de 2026. A chefia executiva atual não foi confirmada em fonte oficial, portanto não é atribuída a uma pessoa sem verificação."
+    "Os fundadores desenvolveram relações com agricultores da Île-de-France e fornecedores responsáveis de pescados e carnes. A atenção ao cultivo, ao aproveitamento integral e às mudanças de estação tornou-se uma característica tão importante quanto a execução dos pratos. Em 2024, o Septime alcançou o 11º lugar na lista mundial The World's 50 Best Restaurants e, em 2025, apareceu em 40º.",
+    "Bertrand Grébaut morreu em 2 de julho de 2026, aos 44 anos, após deixar um legado influente na cozinha francesa contemporânea. O restaurante continuou em operação com a equipe liderada pelo sócio Théophile Pourriat e foi classificado em 81º na lista estendida (51–100) do The 50 Best Restaurants 2026, divulgada em outubro."
   ],
   "cuisine": {
     "style": "Bistronomia francesa contemporânea, majoritariamente vegetal",
     "paragraphs": [
       "O menu coloca produtos de horticultores da região parisiense no centro da experiência, usando folhas, raízes, ervas, verduras e frutas conforme a microestação. Ocasionalmente há pescados e carnes de fornecedores selecionados; a proposta não deve ser descrita como estritamente vegetariana.",
       "Em registros publicados pelo 50 Best e pelo Gault&Millau aparecem endívias assadas com molho de pão de centeio e sementes de mostarda em conserva, aspargos verdes com condimento de ervas e alho-silvestre e uma seleção de legumes crus, queijo fresco, azedinha e estragão.",
-      "A casa oferece degustação surpresa de cinco etapas no almoço e de sete etapas no jantar. As receitas variam de acordo com o mercado e não há confirmação de que os pratos históricos citados continuem no serviço atual."
+      "A casa oferece degustação surpresa de cinco etapas no almoço e de sete etapas no jantar. As receitas variam com o mercado; os pratos citados são exemplos de outras temporadas."
     ]
   },
   "awards": [
@@ -26,6 +26,10 @@
     {
       "year": 2024,
       "title": "The World's 50 Best Restaurants — nº 11"
+    },
+    {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 40"
     },
     {
       "year": 2026,
@@ -44,9 +48,13 @@
     "https://www.lemonde.fr/disparitions/article/2026/07/04/la-mort-de-bertrand-grebaut-electron-libre-virtuose-de-la-cuisine-contemporaine-francaise_6720652_3382.html",
     "https://fr.gaultmillau.com/en/news/deces-bertrand-grebaut-chef-septime",
     "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2024-the-list.html",
-    "https://commons.wikimedia.org/wiki/File:Rue_Charonne_-_Paris_XI_(FR75)_-_2026-09-25_-_1.jpg"
+    "https://commons.wikimedia.org/wiki/File:Rue_Charonne_-_Paris_XI_(FR75)_-_2026-09-25_-_1.jpg",
+    "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html"
   ],
   "slug": "septime",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 81,
   "founded": 2011,
   "founders": [
@@ -59,11 +67,21 @@
     "author": "Chabe01",
     "license": "CC BY-SA 4.0",
     "caption": "Rua de Charonne, em Paris, fotografada em setembro de 2026. Foto do bairro e da via onde fica o Septime, NÃO da entrada do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Rue de Charonne, Paris (2026)",
+    "alt": "Rua parisiense com prédios de fachada clara e lojas no térreo",
+    "capturedAt": "2026-09-25",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Chabe01, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "chef": {
     "name": "Bertrand Grébaut (cofundador e chef, 2011–2026) · Théophile Pourriat (cofundador e direção)",
-    "bio": "Bertrand Grébaut, nascido em Paris em 1981, foi formado na Ferrandi e trabalhou com Alain Passard. Criou a cozinha autoral e focada em vegetais do Septime ao lado do sócio e responsável pela hospitalidade Théophile Pourriat. Grébaut faleceu em julho de 2026. A identidade da pessoa atualmente responsável pela cozinha não foi confirmada por fonte primária."
+    "bio": "Bertrand Grébaut, nascido em Paris em 1981, foi formado na Ferrandi e trabalhou com Alain Passard. Criou a cozinha autoral e focada em vegetais do Septime ao lado do sócio e responsável pela hospitalidade Théophile Pourriat. Grébaut faleceu em julho de 2026. O restaurante não divulgou publicamente quem assumiu a cozinha."
   },
   "dishes": [
     {
@@ -73,7 +91,7 @@
     },
     {
       "name": "Aspargos verdes com ervas silvestres",
-      "desc": "Aspargos grelhados com molho de ervas e alho-silvestre conservado, descritos na retrospectiva oficial de 2024.",
+      "desc": "Aspargo verde grelhado com molho de ervas silvestres, alho-silvestre em conserva e fatias finas de bacon de porco preto, descrito pelo 50 Best em 2024.",
       "photo": null
     },
     {
@@ -97,7 +115,17 @@
     "address": "80 rue de Charonne, 75011 Paris, França",
     "reservationUrl": "https://www.septime-charonne.fr/en/reservation/",
     "reservation": "Reservas exclusivamente pelo módulo online do site oficial, abertas todos os dias às 10h (horário de Paris) para os 21 dias seguintes. Serviço de almoço e jantar de segunda a sexta; fechado sábado e domingo. Disponibilidade de mesas não verificada em tempo real.",
-    "price": "Menu surpresa de cinco etapas no almoço: €85; sete etapas no jantar: €135, valores publicados no cardápio de outono consultado em novembro de 2026."
+    "price": "Menu surpresa de cinco etapas no almoço: €85; sete etapas no jantar: €135, valores publicados no cardápio de outono consultado em novembro de 2026. Harmonização de vinhos: €60 no almoço e €75 no jantar.",
+    "reservationMode": "online",
+    "priceDetails": {
+      "amount": 85,
+      "currency": "EUR",
+      "basis": "Menu surpresa de cinco etapas no almoço, por pessoa (sete etapas no jantar a €135)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.septime-charonne.fr/en",
+      "checkedAt": "2026-11-10",
+      "note": "Cardápio de outono de 2026; harmonização a €60 e €75; o site não mostra símbolo de moeda nem menciona impostos ou serviço."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -112,5 +140,48 @@
         "note": "Imagens e informações do restaurante e da direção após julho de 2026."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.septime-charonne.fr/en/reservation/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Só online (Zenchef); sem telefone nem e-mail de reservas no site oficial."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.septime-charonne.fr/en",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 40º lugar de 2025. Primeira estrela (2014) com fonte secundária; estrela de 2026 por trecho da página do Michelin."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://fr.gaultmillau.com/fr/people/bertrand-grebaut",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Data exata da abertura sem fonte (fim de abril de 2011); morte de Grébaut em 2/7/2026 com fontes secundárias; sucessor na cozinha não anunciado."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/France/Paris/Septime.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos citados são de temporadas anteriores; nenhum confirmado no menu atual."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

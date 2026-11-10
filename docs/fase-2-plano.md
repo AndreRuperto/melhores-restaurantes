@@ -620,3 +620,16 @@ Relatório: [fase-2-L08.md](lotes/fase-2-L08.md). Perfis 63 a 72.
 | 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+## 21. Atualização de execução — 10/11/2026, lote L9 em revisão
+
+Relatório: [fase-2-L09.md](lotes/fase-2-L09.md). Perfis 73 a 82.
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 13 usos e 13 arquivos conferidos; crédito de uma foto do Caprice ajustado ao autor registrado no Commons | Fotos licenciadas dos próprios restaurantes em nove dos dez perfis (P2) |
+| 2.4 | Preços e pratos atuais do Belcanto e do Chef Tam's; datas das estrelas do Mosu corrigidas; frases editoriais sobre o próprio processo retiradas de quatro perfis | 18 itens com fonte única e 3 não verificados; páginas do Four Seasons e do Mosu ilegíveis |
+| F2-04 | Dez perfis no contrato estrito; total de 85 perfis e 304 fotos com direito aprovado | Revisor humano |
+| 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**

@@ -3,15 +3,15 @@
   "history": [
     "O chef Roberto Solís desenvolveu uma das interpretações pioneiras da cozinha yucateca contemporânea em Mérida, depois de experiências em cozinhas internacionais como Per Se, em Nova York, e The Fat Duck, no Reino Unido. Seu trabalho em restaurantes como Néctar abriu caminho para projetos mais focados na experiência degustação.",
     "O Huniik foi desenvolvido como uma pequena casa de menus autorais, com cozinha aberta e atenção ao diálogo entre chef e convidados. O artista cubano Jorge Pardo concebeu um espaço arquitetônico que evoca cenotes, com pedra, madeira e linhas orgânicas.",
-    "A equipe tornou a hospitalidade parte central da proposta: Rodrigo Caltenco Núñez assumiu a direção do serviço e estruturou uma experiência de degustação em que cada passagem apresenta ingredientes e histórias da península de Yucatán.",
-    "Em maio de 2026, o Huniik conquistou sua primeira estrela Michelin, enquanto Rodrigo Caltenco recebeu o prêmio de serviço do Guia Michelin México. No ranking mundial estendido de 2026, o restaurante ocupou o 79º lugar, consolidando a atenção internacional ao trabalho de Roberto Solís."
+    "A equipe tornou a hospitalidade parte central da proposta, numa experiência de degustação em que cada passagem apresenta ingredientes e histórias da península de Yucatán.",
+    "Em maio de 2026, o Huniik conquistou sua primeira estrela Michelin, e a equipe de sala recebeu o prêmio de serviço do Guia Michelin México. No ranking mundial estendido de 2026, o restaurante ocupou o 79º lugar, consolidando a atenção internacional ao trabalho de Roberto Solís."
   ],
   "cuisine": {
     "style": "Cozinha yucateca contemporânea, produtos locais e técnicas regionais",
     "paragraphs": [
       "A cozinha do Huniik investiga ingredientes de comunidades e fazendas próximas, ervas aromáticas, chiles, milho, frutos do mar e técnicas como o pibil. A equipe transforma referências domésticas em pequenas composições de alta gastronomia.",
       "O Guia Michelin descreve aguachile de camarão curado com panceta crocante e ta'uch (sapoti-preto), cordeiro cozido lentamente ao estilo pibil e uma versão refrescante de xe'ec, salada tradicional de cítricos com habanero.",
-      "O menu publicado no OpenTable em julho de 2026 incluía preparações como flauta de atum com ponzu yucateco, papadzul de ovo de codorna, cogumelos marinados em pepita e um doce chamado Flor de Mayo. A composição varia conforme a safra e deve ser confirmada na reserva."
+      "O menu degustação muda conforme a safra; preparações como flauta de atum com ponzu yucateco, papadzul de ovo de codorna e o doce Flor de Mayo foram divulgadas pela plataforma de reservas e devem ser confirmadas na reserva."
     ]
   },
   "awards": [
@@ -20,12 +20,16 @@
       "title": "The World's 50 Best Restaurants — nº 89 (lista estendida)"
     },
     {
+      "year": 2025,
+      "title": "Latin America's 50 Best Restaurants — nº 32"
+    },
+    {
       "year": 2026,
       "title": "Primeira estrela Michelin — Guia Michelin México, região de Yucatán"
     },
     {
       "year": 2026,
-      "title": "Rodrigo Caltenco Núñez — Michelin Service Award México"
+      "title": "Prêmio de Serviço do Guia Michelin México para a equipe de sala do Huniik"
     },
     {
       "year": 2026,
@@ -43,10 +47,13 @@
     "https://commons.wikimedia.org/wiki/File:Santa_Ana,_M%C3%A9rida_Yucat%C3%A1n.jpg"
   ],
   "slug": "huniik",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 79,
   "chef": {
-    "name": "Roberto Solís (chef e proprietário) · Diana Medina (cozinha)",
-    "bio": "Roberto Solís é chef de Mérida e desenvolveu uma cozinha que investiga técnicas e produtos yucatecos após passagens por restaurantes internacionais. No Huniik, lidera um serviço de degustação de identidade regional. Diana Medina também é apresentada como chef executiva na ficha do OpenTable, e Rodrigo Caltenco Núñez coordena a experiência de sala, premiada pelo Guia Michelin México em 2026."
+    "name": "Roberto Solís (chef e proprietário)",
+    "bio": "Roberto Solís é chef de Mérida e desenvolveu uma cozinha que investiga técnicas e produtos yucatecos após passagens por restaurantes internacionais. No Huniik, lidera um serviço de degustação de identidade regional. A equipe de sala recebeu o prêmio de serviço do Guia Michelin México em 2026."
   },
   "founders": [
     "Roberto Solís"
@@ -57,7 +64,17 @@
     "author": "Mario Morales Rubí",
     "license": "CC BY-SA 4.0",
     "caption": "Igreja de Santa Ana, na Calle 60, em Mérida, fotografada em julho de 2015. Imagem do bairro em que fica o Huniik; NÃO retrata a fachada nem o interior do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Igreja de Santa Ana, Mérida (2015)",
+    "alt": "Igreja colonial amarela de Santa Ana, na Calle 60",
+    "capturedAt": "2015-07-02",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Mario Morales Rubí, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
@@ -77,26 +94,38 @@
     },
     {
       "name": "Papadzul de ovo de codorna",
-      "desc": "Ovo de codorna com molho da tradição yucateca, apresentado no cardápio divulgado em julho de 2026.",
+      "desc": "Ovo de codorna com molho da tradição yucateca, apresentado no cardápio divulgado em julho de 2026; não conferido no cardápio atual.",
       "photo": null
     },
     {
       "name": "Flauta de atum e ponzu yucateco",
-      "desc": "Atum com condimentos regionais e referências internacionais em preparo documentado pelo OpenTable.",
+      "desc": "Atum com condimentos regionais e referências internacionais em preparo documentado pelo OpenTable; não conferido no cardápio atual.",
       "photo": null
     },
     {
       "name": "Flor de Mayo",
-      "desc": "Sobremesa com flor local e sorvete, registrada no menu divulgado pela plataforma de reservas em julho de 2026.",
+      "desc": "Sobremesa com flor local e sorvete, registrada no menu divulgado pela plataforma de reservas em julho de 2026; não conferido no cardápio atual.",
       "photo": null
     }
   ],
   "practical": {
     "website": "https://www.huniik.com/en/",
     "address": "Calle 60 nº 415-B, entre calles 45 e 47, Santa Ana, Centro, Mérida, Yucatán 97000, México",
-    "reservationUrl": "https://www.opentable.com/r/huniik-merida",
-    "reservation": "Reservas pelo OpenTable, vinculado no site oficial, ou informações pelo telefone +52 999 912 6244 e e-mail info@huniik.com.mx. Há divergência de horários entre o site oficial (terça a sábado, jantar) e o Guia Michelin (segunda a sábado, almoço e jantar); confirmar no módulo de reservas para a data escolhida.",
-    "price": "O OpenTable informou em 2026 degustação a MXN 2.830 por pessoa, sujeita a alterações, taxas e regras da plataforma. Confirmar o valor ao reservar."
+    "reservationUrl": "https://www.opentable.com.mx/r/huniik-merida",
+    "reservation": "Reservas pelo OpenTable, vinculado no site oficial, ou informações pelo telefone +52 999 912 6244 e pelo e-mail info@huniik.com.mx. O site oficial indica jantar de terça a sábado, das 18h às 23h; a Relais & Châteaux informa jantar de segunda a sábado e fechamento de 25 de dezembro de 2026 a 1º de janeiro de 2027. Confirme no módulo de reservas para a data escolhida.",
+    "price": "A ficha do Huniik no OpenTable indica menu degustação a MXN 2.830 por pessoa, sujeito a alteração sem aviso; o site oficial não publica preço. Confirmar o valor ao reservar.",
+    "reservationMode": "online",
+    "phone": "+52 999 912 6244",
+    "email": "info@huniik.com.mx",
+    "priceDetails": {
+      "amount": 2830,
+      "currency": "MXN",
+      "basis": "Menu degustação, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.opentable.com.mx/r/huniik-merida",
+      "checkedAt": "2026-11-10",
+      "note": "Lido só em trecho de busca (OpenTable ilegível); data e inclusões não confirmadas; o site oficial não publica preço."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -111,5 +140,49 @@
         "note": "Fotografias reais do interior, da equipe e dos pratos, com créditos de origem."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.huniik.com/en/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Horários divergem entre o site oficial (terça a sábado) e a Relais & Châteaux (segunda a sábado)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.opentable.com.mx/r/huniik-merida",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço só em trecho de busca do OpenTable."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/Huniik.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Diana Medina como chef executiva e o papel de Rodrigo Caltenco sem fonte legível (retirados); a Relais & Châteaux cita Jorge Pardo como coproprietário."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Faltava o 32º lugar latino-americano de 2025; estrela e prêmio de serviço de 2026 só na imprensa (destinatário do prêmio diverge)."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://guide.michelin.com/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos do Michelin por trecho de busca; os do OpenTable não conferidos (marcados)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

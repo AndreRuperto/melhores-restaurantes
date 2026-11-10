@@ -4,14 +4,14 @@
     "Em fevereiro de 2015, Billy Wagner abriu o Nobelhart & Schmutzig na Friedrichstraße 218, em Berlin-Kreuzberg, com uma proposta que chamou de 'vocally local': fazer com que os produtores da região tivessem nome, rosto e reconhecimento em cada etapa da refeição.",
     "A cozinha é liderada por Micha Schäfer. Em vez de tratar a origem dos produtos como detalhe de marketing, o restaurante limita a despensa a ingredientes de Berlim e das áreas rurais próximas, incluindo Brandemburgo. Pães, laticínios, vegetais e frutas são valorizados pela matéria-prima e por métodos de conservação.",
     "O espaço tem um longo balcão diante da cozinha aberta, destinado a aproximadamente 28 pessoas, e uma mesa coletiva adicional. A apresentação dos pratos aproxima cozinheiros, fornecedores e visitantes, sem a formalidade de alguns restaurantes de luxo.",
-    "A casa recebeu reconhecimento do Guia Michelin e tornou-se uma referência de cozinha regional contemporânea. Na lista mundial estendida de 2026, ocupou a 76ª posição. Sua regra de proibir fotografias e vídeos no interior procura preservar a privacidade dos convidados e explica a escassez de imagens documentais do salão."
+    "A casa recebeu reconhecimento do Guia Michelin e tornou-se uma referência de cozinha regional contemporânea. Na lista mundial estendida de 2026, ocupou a 76ª posição. Sua regra de proibir fotografias e vídeos no interior procura preservar a privacidade dos convidados."
   ],
   "cuisine": {
     "style": "Regional contemporânea de Berlim e Brandemburgo",
     "paragraphs": [
       "O menu de estação busca mostrar a identidade agrícola da região. Os pratos costumam usar poucos componentes, preparados para respeitar o sabor da colheita e os ritmos da produção.",
-      "O Guia Michelin descreve degustações de seis ou oito etapas, com ingredientes como manteiga feita pela própria equipe. O perfil do 50 Best documenta combinações de batata com pepino braseado e endro, leitão com ameixa e pimenta e mirtilos com zimbro.",
-      "Há também uma linha chamada Heimat, dedicada a receitas associadas à memória culinária local. As combinações mudam conforme a estação e não constituem um cardápio fixo para toda a temporada."
+      "O Guia Michelin descreve degustações de seis ou oito etapas, com ingredientes como manteiga feita pela própria equipe. O perfil do 50 Best documenta combinações de batata com pepino braseado e endro, leitão com ameixa e pimenta chili e mirtilos com zimbro.",
+      "Há também a série 'We cook Heimat', em que cozinheiros convidados preparam um prato ligado às suas próprias origens, como Sardenha, Indonésia, Irã e Polônia. As combinações do menu mudam conforme a estação e não constituem um cardápio fixo para toda a temporada."
     ]
   },
   "awards": [
@@ -37,9 +37,13 @@
     "https://nobelhartundschmutzig.com/en/",
     "https://nobelhartundschmutzig.com/en/reservation/",
     "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/nobelhart-schmutzig",
-    "https://commons.wikimedia.org/wiki/File:Gesch%C3%A4ftshaus,_B%C3%BCrogeb%C3%A4ude_Friedrichstra%C3%9Fe_210_Berlin-Kreuzberg_2025-09-20_01.jpg"
+    "https://commons.wikimedia.org/wiki/File:Gesch%C3%A4ftshaus,_B%C3%BCrogeb%C3%A4ude_Friedrichstra%C3%9Fe_210_Berlin-Kreuzberg_2025-09-20_01.jpg",
+    "https://nobelhartundschmutzig.com/menue/en.pdf"
   ],
   "slug": "nobelhart-e-schmutzig",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 76,
   "chef": {
     "name": "Micha Schäfer (chef) · Billy Wagner (fundador)",
@@ -48,17 +52,17 @@
   "dishes": [
     {
       "name": "Batata, pepino braseado e endro",
-      "desc": "Composição regional minimalista documentada pelo The 50 Best, em que o produto e a conservação sazonal têm destaque.",
+      "desc": "Composição regional minimalista documentada pelo The 50 Best, em que o produto e a conservação sazonal têm destaque; não consta do menu atual.",
       "photo": null
     },
     {
-      "name": "Leitão, ameixa e pimenta",
-      "desc": "Combinação de carne e fruta da estação citada no repertório editorial da casa; não representa menu fixo.",
+      "name": "Leitão, ameixa e chili",
+      "desc": "Combinação de carne e fruta da estação citada pelo The 50 Best em 2026; não consta do menu atual.",
       "photo": null
     },
     {
       "name": "Mirtilos e zimbro",
-      "desc": "Preparação que explora contraste entre frutas silvestres e notas resinosas, conforme a lista estendida de 2026.",
+      "desc": "Preparação que explora contraste entre frutas silvestres e notas resinosas, conforme a lista estendida de 2026; não consta do menu atual.",
       "photo": null
     },
     {
@@ -72,8 +76,8 @@
       "photo": null
     },
     {
-      "name": "Brotzeit de pão de centeio",
-      "desc": "Passagem de pão e acompanhamentos locais registrada em cardápios publicados pelo estabelecimento; a composição muda frequentemente.",
+      "name": "Pato e couve-lombarda",
+      "desc": "Etapa do menu de novembro de 2026, com pato e couve-lombarda da região.",
       "photo": null
     }
   ],
@@ -87,14 +91,35 @@
     "author": "Leonhard Lenz",
     "license": "CC0 1.0",
     "caption": "Edifício comercial da Friedrichstraße 210, fotografado em setembro de 2025, próximo ao restaurante na Friedrichstraße 218. Imagem do entorno, NÃO da entrada do Nobelhart & Schmutzig.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Friedrichstraße 210, Kreuzberg (2025)",
+    "alt": "Edifício comercial moderno de fachada clara numa esquina de Berlim",
+    "capturedAt": "2025-09-20",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Leonhard Lenz, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "address": "Friedrichstraße 218, 10969 Berlin-Kreuzberg, Alemanha",
     "website": "https://nobelhartundschmutzig.com/en/",
     "reservationUrl": "https://nobelhartundschmutzig.com/en/reservation/",
-    "reservation": "Reservas pelo formulário oficial. Terça a sábado a partir das 18h; segundas-feiras também disponíveis em parte do último trimestre de 2026, além de atendimentos sob consulta. É necessário informar cartão para garantia. Cancelamentos sem cobrança: até 24 horas antes para 1–4 pessoas, 48 horas para 5–6 e 72 horas para 7–8. A casa não permite fotografias no interior.",
-    "price": "Menu de 6 etapas: €120–140; menu de 8 etapas: €200–215, conforme o dia, na página oficial consultada em novembro de 2026. Valores podem mudar."
+    "reservation": "Reservas online pela página oficial (sistema Zenchef) ou por telefone (+49 30 259 40610, terça a sábado a partir das 15h); grupos de nove ou mais, por e-mail. Terça a sábado a partir das 18h; segundas-feiras também disponíveis de 5 de outubro a 28 de dezembro de 2026, exceto 21 de dezembro, além de atendimentos sob consulta. É necessário informar cartão para garantia. Cancelamentos sem cobrança: até 24 horas antes para 1–4 pessoas, 48 horas para 5–6 e 72 horas para 7–8. A casa não permite fotografias no interior e fecha de 1º a 11 de janeiro de 2027.",
+    "price": "Menu de 6 etapas: €120 (terça a quinta), €135 (sextas, vésperas de feriado e terça a sexta em dezembro) ou €140 (sábado); menu de 8 etapas: €200, €205 ou €215 nos mesmos dias. Inclui água filtrada; bebidas à parte. Valores na página oficial consultada em novembro de 2026; podem mudar.",
+    "reservationMode": "online",
+    "phone": "+49 30 259 40610",
+    "priceDetails": {
+      "amount": 120,
+      "currency": "EUR",
+      "basis": "Menu de seis etapas, por pessoa, de terça a quinta (oito etapas de €200 a €215)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://nobelhartundschmutzig.com/en/reservation/",
+      "checkedAt": "2026-11-10",
+      "note": "Seis etapas a €120, €135 ou €140 e oito a €200, €205 ou €215, conforme o dia; água incluída; IVA e serviço não informados."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -102,5 +127,48 @@
     "publisher": "Nobelhart & Schmutzig — site oficial",
     "url": "https://nobelhartundschmutzig.com/en/",
     "note": "Informações e eventuais fotos editoriais do restaurante na fonte oficial. O estabelecimento proíbe fotografias feitas por visitantes em seu interior. A capa do A Carta mostra apenas um prédio próximo na Friedrichstraße, sem alegar que seja a fachada."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://nobelhartundschmutzig.com/en/reservation/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Zenchef; e-mail de reservas oculto no site."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://nobelhartundschmutzig.com/en/reservation/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://nobelhartundschmutzig.com/en/wine-events-heimat/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "\"Heimat\" é uma série de cozinheiros convidados, não uma linha de memória local; corrigido."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://nobelhartundschmutzig.com/menue/en.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pratos do The 50 Best fora do menu atual (marcados); prato de pão duplicado trocado por etapa do menu atual."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.tageskarte.io/gastronomie/detail/michelin-guide-deutschland-2026-alle-sternerestaurants.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano da primeira estrela diverge entre as fontes (2015 ou 2017); estrela de 2026 por lista secundária."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante (a casa proíbe fotos no interior); legenda já dizia isso."
+    }
+  ]
 }

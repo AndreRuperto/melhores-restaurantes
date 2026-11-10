@@ -1,17 +1,17 @@
 {
-  "lede": "No Chiado, em Lisboa, o Belcanto de José Avillez une a memória da gastronomia portuguesa a uma cozinha contemporânea de criatividade e precisão. Reinterpretado pelo chef em 2012, o restaurante mantém duas estrelas Michelin e oferece degustação ou pratos à la carte num salão intimista de cerca de 45 lugares.",
+  "lede": "No Chiado, em Lisboa, o Belcanto de José Avillez une a memória da gastronomia portuguesa a uma cozinha contemporânea de criatividade e precisão. Reinterpretado pelo chef em 2012, o restaurante mantém duas estrelas Michelin e oferece degustação ou pratos à la carte num salão intimista de 35 a 45 lugares.",
   "history": [
     "O Belcanto abriu originalmente em 1958 no Chiado, tornando-se um endereço conhecido da vida cultural e gastronômica lisboeta. Situado perto do Teatro Nacional de São Carlos, reunia empresários, artistas e frequentadores do centro histórico.",
     "Em 2012, José Avillez assumiu o espaço e introduziu uma proposta contemporânea, baseada em produtos portugueses e em interpretações pessoais de receitas tradicionais. O restaurante recebeu a primeira estrela Michelin após essa renovação e a segunda em 2014.",
     "O interior foi novamente reformado em 2019, com ampliação e restauração da fachada. O salão de pequenas dimensões preserva referências arquitetônicas do Chiado, associadas a um serviço de alta gastronomia que equilibra formalidade e hospitalidade.",
-    "O Belcanto entrou no top 50 mundial em 2019, na 42ª posição, alcançou o 25º lugar em 2023 e apareceu no ranking estendido de 2026 em 75º. A casa manteve as duas estrelas Michelin na seleção de 2026."
+    "O Belcanto subiu ao 42º lugar do top 50 mundial em 2019, alcançou o 25º em 2023, ficou em 42º em 2025 e, em 2026, saiu do top 50 para o 75º lugar da lista estendida. A casa manteve as duas estrelas Michelin na seleção de 2026."
   ],
   "cuisine": {
     "style": "Alta cozinha portuguesa contemporânea, memória e produto",
     "paragraphs": [
       "O conceito da casa parte de paisagens portuguesas: litoral atlântico, montanhas, campos, hortas e tradições regionais. José Avillez combina produtos locais e técnicas contemporâneas para recuperar sabores familiares com novas formas e texturas.",
-      "A carta disponibilizada no site oficial apresenta criações como 'A horta da galinha dos ovos de ouro', com ovo, pão crocante e cogumelos; salmonete curado e fumado com cenoura algarvia; robalo com dashi de legumes, algas e bivalves; e leitão com puré de casca de laranja.",
-      "A experiência inclui um menu degustação Belcanto ou escolha à la carte de entradas, prato principal e sobremesa. Doces como 'Doce de ovos e citrinos' mostram a ligação com memórias da infância, enquanto a composição da degustação pode mudar conforme a estação."
+      "A carta disponibilizada no site oficial apresenta criações como 'A horta da galinha dos ovos de ouro' (2008), com ovo, pão crocante e cogumelos; cavala curada e fumada com cenoura algarvia; salmonete na brasa com texturas de lula e feijão-verde; e leitão com pezinhos de coentrada e puré de casca de laranja.",
+      "A experiência inclui um menu degustação Belcanto ou escolha à la carte de entradas, prato principal e sobremesa. Doces como o Pão de Ló de Ovar com gelado de folha de figueira e o pudim abade de priscos mostram a ligação com a doçaria tradicional portuguesa, enquanto a composição da degustação pode mudar conforme a estação."
     ]
   },
   "chef": {
@@ -36,6 +36,10 @@
       "title": "The World's 50 Best Restaurants — nº 25"
     },
     {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 42"
+    },
+    {
       "year": 2026,
       "title": "Duas estrelas Michelin mantidas — Guia Michelin Portugal"
     },
@@ -53,9 +57,14 @@
     "https://guide.michelin.com/en/article/people/the-first-day-i-got-my-michelin-stars-jose-avillez-of-belcanto",
     "https://www.e-chiado.pt/patrimonio/belcanto/",
     "https://www.relaischateaux.com/us/details/belcanto/",
-    "https://commons.wikimedia.org/wiki/File:Rua_Serpa_Pinto,_Lisbon,_May_2017_(03).jpg"
+    "https://commons.wikimedia.org/wiki/File:Rua_Serpa_Pinto,_Lisbon,_May_2017_(03).jpg",
+    "https://www.belcanto.pt/carta/Belcanto_Menu_QRCode.pdf?v=112026",
+    "https://www.belcanto.pt/faq/Belcanto_FAQ_PT_Jun26.pdf"
   ],
   "slug": "belcanto",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 75,
   "dishes": [
     {
@@ -64,13 +73,13 @@
       "photo": null
     },
     {
-      "name": "Salmonete curado e fumado",
-      "desc": "Salmonete com cenoura algarvia, emulsão de salsa e caviar vegetal, em versão datada de 2024 na carta publicada.",
+      "name": "Cavala curada e fumada",
+      "desc": "Cavala com cenoura algarvia, emulsão de salsa e caviar vegetal, prato de 2026 na carta atual.",
       "photo": null
     },
     {
-      "name": "Robalo, dashi de legumes, algas e bivalves",
-      "desc": "Peixe do Atlântico com caldo de vegetais, algas e moluscos, prato identificado como de 2023 no cardápio.",
+      "name": "Salmonete na brasa",
+      "desc": "Salmonete com texturas de lula e feijão-verde, prato de 2026 na carta atual.",
       "photo": null
     },
     {
@@ -79,13 +88,13 @@
       "photo": null
     },
     {
-      "name": "Doce de ovos e citrinos",
-      "desc": "Sobremesa de memória afetiva e sabores portugueses, descrita pelo Michelin e no menu publicado em 2024.",
+      "name": "Pudim abade de priscos",
+      "desc": "Pudim tradicional com pinhoada e sorbet de yuzu, versão de 2024 na carta atual.",
       "photo": null
     },
     {
-      "name": "Tarte de maçã e ruibarbo",
-      "desc": "Sobremesa com frutas em versão de 2022, registrada na carta da casa.",
+      "name": "Tangerina",
+      "desc": "Sobremesa criada em 2010 e mantida na carta atual.",
       "photo": null
     }
   ],
@@ -99,14 +108,36 @@
     "author": "Ardfern",
     "license": "CC BY-SA 4.0",
     "caption": "Rua Serpa Pinto no Chiado, Lisboa, fotografada em maio de 2017. É a rua onde se encontra o Belcanto, mas a fotografia não identifica a entrada do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Rua Serpa Pinto, Chiado (2017)",
+    "alt": "Rua inclinada do Chiado com prédios antigos e calçada portuguesa",
+    "capturedAt": "2017-05-07",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Ardfern, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "website": "https://www.belcanto.pt/",
     "address": "Rua Serpa Pinto 10A, 1200-445 Lisboa, Portugal",
     "reservationUrl": "https://www.belcanto.pt/reservas-belcanto/",
-    "reservation": "Reservas pela página oficial; atendimento de terça a sábado, almoço das 12h30 às 15h e jantar das 19h às 22h, fechado domingo e segunda. Contato +351 213 420 607. Segundo a política publicada, alterações ou cancelamentos com menos de 48 horas podem gerar cobrança de €200 por pessoa; verificar as condições atualizadas ao confirmar.",
-    "price": "Na carta oficial disponibilizada com referência de outubro de 2025, Menu Belcanto: €265 por pessoa. À la carte: €225 (uma entrada, principal e sobremesa) ou €250 (duas entradas). Preços sujeitos a atualização; confirmar na reserva."
+    "reservation": "Reservas pela página oficial; atendimento de terça a sábado, almoço das 12h30 às 15h e jantar das 19h às 22h, fechado domingo e segunda. Contato +351 213 420 607. Segundo a política publicada, alterações ou cancelamentos com menos de 48 horas podem gerar cobrança de €200 por pessoa; verificar as condições atualizadas ao confirmar. O e-mail belcanto@belcanto.pt atende grupos de sete ou mais pessoas e eventos; a casa pede que as demais reservas não sejam feitas por e-mail.",
+    "price": "Na carta oficial vigente (versão de novembro de 2026 no site), Menu Belcanto: €295 por pessoa. À la carte: €265 (uma entrada, principal e sobremesa) ou €285 (duas entradas), com petiscos e petits-fours incluídos. IVA incluído; uma gratificação sugerida de 10% é adicionada à conta. Harmonizações de vinho a partir de €165. Preços sujeitos a atualização; confirmar na reserva.",
+    "reservationMode": "online",
+    "phone": "+351 213 420 607",
+    "email": "belcanto@belcanto.pt",
+    "priceDetails": {
+      "amount": 295,
+      "currency": "EUR",
+      "basis": "Menu de degustação Belcanto, por pessoa, sem bebidas",
+      "taxesIncluded": true,
+      "sourceUrl": "https://www.belcanto.pt/carta/Belcanto_Menu_QRCode.pdf?v=112026",
+      "checkedAt": "2026-11-10",
+      "note": "À la carte a €265 ou €285; gratificação sugerida de 10% adicionada à conta; harmonizações a €165, €300 e €450 (sem álcool, €125)."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -121,5 +152,49 @@
         "note": "Registro real do ambiente e informações de visita e reconhecimento."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.belcanto.pt/faq/Belcanto_FAQ_PT_Jun26.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Plataforma SevenRooms embutida na página oficial."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.belcanto.pt/carta/Belcanto_Menu_QRCode.pdf?v=112026",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O perfil usava a carta anterior (€265); valores atualizados."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.belcanto.pt/carta/Belcanto_Menu_QRCode.pdf?v=112026",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Quatro pratos fora da carta atual trocados pelos da carta de novembro de 2026."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.e-chiado.pt/patrimonio/belcanto/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Abertura em 1958, retomada em 2012 e reforma de 2019 só em fonte secundária; lotação diverge (35 na carta, 45 no The 50 Best)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-1-50-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Faltava o 42º lugar de 2025. Primeira e segunda estrelas com fontes secundárias; manutenção de 2026 pelo comunicado da Michelin, que não nomeia a casa."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

@@ -4,10 +4,10 @@
     "Thitid Tassanakajohn, conhecido como Chef Ton, estudou no Culinary Institute of America e passou por cozinhas de Nova York como Eleven Madison Park e Jean-Georges. Retornou à Tailândia com o objetivo de mostrar produtos locais a partir de técnicas contemporâneas.",
     "Em 2013 abriu o Le Du, cujo nome significa estação na língua tailandesa. O projeto tomou forma como um restaurante de menus degustação sazonais, com atenção a arroz, frutas, ervas, pescados e produtores de diferentes regiões do país.",
     "Com o tempo, a casa consolidou uma linguagem própria, reinterpretando pratos reconhecíveis da cozinha tailandesa sem repetir literalmente sua forma tradicional. O ambiente contemporâneo e o serviço explicativo ajudam a conectar cada prato ao ingrediente e à história que o inspirou.",
-    "O Le Du conquistou uma estrela Michelin e tornou-se uma referência asiática: foi eleito o nº 1 do Asia's 50 Best Restaurants em 2023 e chegou ao 15º lugar no ranking mundial naquele mesmo ano. Em 2026, apareceu em 36º na Ásia e 74º na lista mundial estendida."
+    "O Le Du conquistou uma estrela Michelin e tornou-se uma referência asiática: foi eleito o nº 1 do Asia's 50 Best Restaurants em 2023 e chegou ao 15º lugar no ranking mundial naquele mesmo ano. Em 2025 ficou em 30º na lista mundial; em 2026, apareceu em 36º na Ásia e 74º na lista mundial estendida."
   ],
   "cuisine": {
-    "style": "Tailândesa contemporânea, sazonal e ligada a agricultores locais",
+    "style": "Tailandesa contemporânea, sazonal e ligada a agricultores locais",
     "paragraphs": [
       "A proposta do Le Du é valorizar ingredientes tailandeses por meio de uma execução refinada, sem descaracterizar a identidade dos temperos, das ervas e dos diferentes tipos de arroz. Produtos de pequenos agricultores orientam boa parte da sequência.",
       "O restaurante oferece um percurso de quatro etapas e outro de seis, com pratos que evoluem ao longo do ano. O Guia Michelin destaca leituras de khao chae, tradicional preparo refrescante de verão, e de khao khluk kapi com camarões de rio.",
@@ -21,12 +21,12 @@
   "dishes": [
     {
       "name": "Khao chae reinterpretado",
-      "desc": "Preparação de verão que pode reunir camarão, conservas e elementos aromáticos, incluindo jasmim, conforme exemplo de menu publicado.",
+      "desc": "Preparação de verão que pode reunir camarão, conservas e elementos aromáticos, incluindo jasmim, conforme exemplo de menu publicado; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
       "name": "Khao khluk kapi com camarões de rio",
-      "desc": "Releitura contemporânea de arroz com pasta de camarão, enriquecida com camarões de rio tailandeses.",
+      "desc": "Releitura contemporânea de arroz com pasta de camarão, enriquecida com camarões de rio tailandeses; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
@@ -59,6 +59,10 @@
       "title": "The World's 50 Best Restaurants — nº 15"
     },
     {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 30"
+    },
+    {
       "year": 2026,
       "title": "Uma estrela Michelin — Guia Michelin Tailândia"
     },
@@ -78,9 +82,13 @@
     "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/le-du",
     "https://www.the50.com/restaurants/best-in-asia/the-list/Le-Du.html",
     "https://guide.michelin.com/th/en/article/dining-out/video-at-the-source-with-le-du",
-    "https://commons.wikimedia.org/wiki/File:Silom_Road_Bangkok_Thailand.jpg"
+    "https://commons.wikimedia.org/wiki/File:Silom_Road_Bangkok_Thailand.jpg",
+    "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Le-Du.html"
   ],
   "slug": "le-du",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 74,
   "founded": 2013,
   "founders": [
@@ -92,14 +100,34 @@
     "author": "Khaosaming",
     "license": "CC BY-SA 3.0",
     "caption": "Rua Silom, em Bangkok, fotografada em março de 2006. Imagem de contexto do bairro; não mostra a entrada ou o salão do Le Du, aberto em 2013.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Rua Silom, Bangkok (2006)",
+    "alt": "Avenida arborizada com calçada larga e prédios altos",
+    "capturedAt": "2006-03-08",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Khaosaming, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "website": "https://www.ledubkk.com/",
     "address": "399/3 Soi Silom 7, Silom, Bang Rak, Bangkok 10500, Tailândia",
     "reservationUrl": "https://www.ledubkk.com/reservation",
-    "reservation": "Reservas no site oficial. Os menus de quatro ou seis etapas devem ser escolhidos em conjunto por todos da mesa; grupos acima de cinco pessoas precisam escolher seis etapas. O restaurante solicita comunicação de restrições alimentares com pelo menos 72 horas e prevê cobrança de THB 5.000 por pessoa em alterações ou cancelamentos fora do prazo. Aberto de segunda a sábado no jantar, segundo o Michelin; fechado domingo.",
-    "price": "Le Du Journey (4 etapas): THB 4.500++; Le Du Experience (6 etapas): THB 5.500++. O site informa 10% de serviço e 7% de imposto adicionais. Valores consultados em novembro de 2026, sujeitos a alterações."
+    "reservation": "Reservas no site oficial. Os menus de quatro ou seis etapas devem ser escolhidos em conjunto por todos da mesa; grupos acima de cinco pessoas precisam escolher seis etapas. O restaurante solicita comunicação de restrições alimentares com pelo menos 72 horas e prevê cobrança de THB 5.000 por pessoa em alterações ou cancelamentos fora do prazo. O site oficial não informa horários; confirmar dias de funcionamento ao reservar.",
+    "price": "Dois menus degustação, de quatro ou seis etapas: Le Du Journey por THB 4.500++ e Le Du Experience por THB 5.500++. O site informa 10% de serviço e 7% de imposto adicionais. Valores consultados em novembro de 2026, sujeitos a alterações.",
+    "reservationMode": "online",
+    "priceDetails": {
+      "amount": 4500,
+      "currency": "THB",
+      "basis": "Menu Le Du Journey, por pessoa (Le Du Experience a THB 5.500)",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.ledubkk.com/reservation",
+      "checkedAt": "2026-11-10",
+      "note": "Mais 10% de serviço e 7% de imposto; o site não diz qual menu tem quatro e qual tem seis etapas."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -114,5 +142,49 @@
         "note": "Imagens reais, contato e descrição da cozinha e do salão."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.ledubkk.com/reservation",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A página leva ao CoverManager (ilegível). Horários atribuídos ao Michelin sem leitura do guia (retirados); sem telefone nem e-mail legível no site."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.ledubkk.com/reservation",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Correspondência entre nome do menu e número de etapas não informada (retirada)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Le-Du.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 30º lugar mundial de 2025. Estrela de 2026 só por trecho de busca. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Thailand/Bangkok/Le-Du.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano de abertura (2013) só em fontes secundárias."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/le-du.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Khao chae e khao khluk kapi atribuídos ao Michelin; o The 50 Best cita camarão de rio e garoupa com ovos de formiga."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

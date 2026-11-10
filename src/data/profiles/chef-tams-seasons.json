@@ -2,26 +2,26 @@
   "lede": "No Wynn Palace, em Cotai, Macau, Chef Tam's Seasons celebra a cozinha cantonesa por meio dos 24 termos solares do calendário tradicional chinês. Tam Kwok Fung seleciona ingredientes segundo microvariações das estações e combina técnicas clássicas, serviço preciso e pratos que valorizam frutos do mar, caldos e vegetais.",
   "history": [
     "O chef Tam Kwok Fung desenvolveu carreira em grandes cozinhas de hotelaria e alta gastronomia cantonesa. Antes do projeto atual em Macau, liderou a cozinha do Jade Dragon e comandou o Wing Lei Palace, no Wynn Palace, consolidando um estilo de preparo clássico com atenção aos ingredientes.",
-    "Em agosto de 2023, Chef Tam's Seasons abriu no Wynn Palace, em Cotai, com uma identidade ligada aos 24 termos solares chineses. Essa divisão tradicional do ano orienta a escolha de ingredientes conforme temperatura, umidade e maturação.",
+    "Chef Tam's Seasons abriu reservas em agosto de 2023 e foi inaugurado oficialmente em 17 de outubro daquele ano no Wynn Palace, em Cotai, com uma identidade ligada aos 24 termos solares chineses. Essa divisão tradicional do ano orienta a escolha de ingredientes conforme temperatura, umidade e maturação.",
     "O restaurante recebeu sua primeira estrela Michelin na edição Hong Kong & Macau 2024, menos de um ano depois da abertura. Em março de 2025, subiu para duas estrelas, distinção mantida em 2026.",
-    "No Asia's 50 Best, a casa estreou em 49º em 2024, avançou para 9º em 2025 e alcançou 7º em 2026, sendo reconhecida como a melhor de Macau. No ranking mundial estendido, ficou em 73º em 2026."
+    "No Asia's 50 Best, a casa estreou em 49º em 2024, avançou para 9º em 2025, com o prêmio Highest Climber, e alcançou 7º em 2026, sempre como a melhor de Macau. Na lista mundial estendida, entrou em 72º em 2025 e ficou em 73º em 2026."
   ],
   "cuisine": {
     "style": "Alta cozinha cantonesa sazonal, dos 24 termos solares",
     "paragraphs": [
       "A base são os clássicos cantoneses: domínio de caldos de longa cocção, grelhados, pratos de frutos do mar, texturas delicadas e vegetais preparados no ponto exato. A sequência muda de acordo com o clima e a oferta de produtos.",
-      "O menu à la carte convive com experiências degustação clássica e sazonal. Durante o outono, o Guia Michelin destaca o ge zha, creme de ovos frito em crosta leve, numa versão de caranguejo; também cita barriga de porco assada e glaceada com mel.",
-      "Entre outras especialidades documentadas estão garoupa com pele de tofu, porco e alho; couve chinesa de floração tardia preparada no wok; caldo de frango com bexiga natatória e tripa suína; e caranguejo vermelho frio com geleia de lichia na estação da fruta."
+      "O menu à la carte convive com menus degustação de almoço e de jantar e com um menu Supreme no jantar. Durante o outono, o Guia Michelin destaca o ge zha, creme de ovos frito em crosta leve, numa versão de caranguejo; também cita barriga de porco assada e glaceada com mel.",
+      "Na carta atual aparecem garoupa braseada com barriga de porco assada, folha de tofu doce e broto de bambu de inverno, além de bexiga natatória, tripa suína e massa de arroz em caldo de frango com pimenta. O caranguejo vermelho frio com geleia de lichia aparece em descrições de temporadas anteriores."
     ]
   },
   "chef": {
     "name": "Tam Kwok Fung",
-    "bio": "Tam Kwok Fung é um chef de cozinha cantonesa com longa atuação em Macau. Liderou equipes em restaurantes de prestígio, incluindo Jade Dragon e Wing Lei Palace, antes de abrir Chef Tam's Seasons em agosto de 2023. Sua pesquisa se organiza em torno dos 24 termos solares e da valorização de ingredientes no ponto ideal de cada estação."
+    "bio": "Tam Kwok Fung é um chef de cozinha cantonesa com longa atuação em Macau. Liderou equipes em restaurantes de prestígio, incluindo Jade Dragon e Wing Lei Palace, antes de abrir Chef Tam's Seasons em 2023. Sua pesquisa se organiza em torno dos 24 termos solares e da valorização de ingredientes no ponto ideal de cada estação."
   },
   "dishes": [
     {
       "name": "Ge zha com caranguejo sazonal",
-      "desc": "Creme de ovos frito, envolto em crosta delicada, apresentado com caranguejo na temporada de outono, segundo o Michelin.",
+      "desc": "Creme de ovos frito, envolto em crosta delicada, apresentado com caranguejo na temporada de outono, segundo o Michelin; a carta atual traz ge zha de lagosta.",
       "photo": null
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "name": "Garoupa com pele de tofu",
-      "desc": "Peixe preparado com pele de tofu doce, barriga de porco e alho em uma combinação tradicional refinada.",
+      "desc": "Filé de garoupa braseado com barriga de porco assada, folha de tofu doce e broto de bambu de inverno, segundo a carta atual.",
       "photo": null
     },
     {
       "name": "Caranguejo vermelho com lichia",
-      "desc": "Caranguejo frio com geleia de lichia, criação descrita no período de maturação da fruta.",
+      "desc": "Caranguejo frio com geleia de lichia, criação descrita no período de maturação da fruta; não consta da carta atual.",
       "photo": null
     },
     {
@@ -63,6 +63,10 @@
       "title": "Asia's 50 Best Restaurants — nº 9; Highest Climber Award"
     },
     {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 72, lista estendida (51–100)"
+    },
+    {
       "year": 2026,
       "title": "Duas estrelas Michelin mantidas — Guia Hong Kong & Macau"
     },
@@ -82,9 +86,13 @@
     "https://guide.michelin.com/mo/en/article/features/inspectors-reveal-all-chef-tams-seasons-tam-kwok-fung",
     "https://www.the50.com/restaurants/best-in-asia/the-list/Chef-Tams-Seasons.html",
     "https://www.newsroom.wynnresorts.com/en/wynnpalace/chef-tam-s-seasons-at-wynn-palace-once-again-ranks-among-the-50-best-restaurants-2026-51-100-list/s/754ce415-bcbf-4ba3-aa15-fd480b2b47ae",
-    "https://commons.wikimedia.org/wiki/File:Wynn_Palace_(Macau)_-_Operational_in_2017.jpg"
+    "https://commons.wikimedia.org/wiki/File:Wynn_Palace_(Macau)_-_Operational_in_2017.jpg",
+    "https://owsc.wynnresortsmacau.com/dining/wp-chef-tams-seasons-a-la-carte-menu-261109.pdf"
   ],
   "slug": "chef-tams-seasons",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 73,
   "founded": 2023,
   "founders": [
@@ -96,14 +104,35 @@
     "author": "Thom Devereux",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada real do Wynn Palace, complexo que abriga Chef Tam's Seasons, fotografada em janeiro de 2017. A imagem é anterior à abertura do restaurante em 2023 e não mostra sua entrada específica.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Wynn Palace, Cotai (2017)",
+    "alt": "Hotel de fachada curva em vidro avermelhado com o letreiro Wynn Palace, diante de um lago",
+    "capturedAt": "2017-01-17",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "Thom Devereux, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "website": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
     "address": "Térreo, North Esplanade, Wynn Palace, Avenida da Nave Desportiva, Cotai, Macau",
     "reservationUrl": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
-    "reservation": "Reservas diretamente pelo botão do site oficial ou pelo telefone +853 8889 3663; a página do restaurante informa almoço das 12h às 15h e jantar das 17h30 às 22h30. Confirmar datas, restrições e política de cancelamento no momento de reservar.",
-    "price": "Opções à la carte e degustações clássica e sazonal. O preço atual em patacas não foi confirmado na página institucional consultada; solicitar valor ao reservar."
+    "reservation": "Reservas pelo botão do site oficial (plataforma eat2eat), pelo miniaplicativo Wynn Insider no WeChat ou pelo telefone +853 8889 3663; a página do restaurante informa almoço das 12h às 15h e jantar das 17h30 às 22h30 e recomenda reservar com dias ou semanas de antecedência.",
+    "price": "Menu degustação de almoço por MOP 888 e de jantar por MOP 1.888 por pessoa; menu Supreme de jantar por MOP 2.888 por pessoa (mínimo de duas pessoas nos menus). Há também carta à la carte. Todos os preços têm acréscimo de 10% de serviço, segundo o cardápio oficial em PDF de novembro de 2026.",
+    "reservationMode": "online",
+    "phone": "+853 8889 3663",
+    "priceDetails": {
+      "amount": 1888,
+      "currency": "MOP",
+      "basis": "Menu degustação de jantar, por pessoa, mínimo de duas pessoas (almoço MOP 888; Supreme MOP 2.888)",
+      "taxesIncluded": false,
+      "sourceUrl": "https://owsc.wynnresortsmacau.com/dining/wp-chef-tams-seasons-a-la-carte-menu-261109.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Acréscimo de 10% de serviço; harmonizações a MOP 1.380 e 2.580; arquivo identificado como de novembro de 2026."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -118,5 +147,48 @@
         "note": "Fotografias e descrição do menu cantonês no endereço atual."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.wynnresortsmacau.com/en/wynn-palace/dining/chef-tams-seasons",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://owsc.wynnresortsmacau.com/dining/wp-chef-tams-seasons-a-la-carte-menu-261109.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preços agora publicados no cardápio oficial."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.wynnresortsmacau.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Abertura oficial em 17/10/2023 (reservas desde agosto). Passagem pelo Wing Lei Palace só em trecho de imprensa."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 72º lugar mundial de 2025. Mês da segunda estrela não lido no Michelin. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://owsc.wynnresortsmacau.com/dining/wp-chef-tams-seasons-a-la-carte-menu-261109.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Garoupa e caldo conferidos na carta; ge zha de caranguejo e caranguejo com lichia fora da carta atual."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Edifício que abriga o restaurante, fotografado antes da abertura."
+    }
+  ]
 }

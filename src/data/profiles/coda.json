@@ -1,22 +1,22 @@
 {
   "lede": "Em Neukölln, Berlim, o CODA de René Frank utiliza confeitaria como método de construção de uma refeição completa, sem a separação tradicional entre doces e salgados. Fundado em 2016 como bar de sobremesas, transformou-se em restaurante de duas estrelas Michelin, com degustação que evita açúcar refinado.",
   "history": [
-    "René Frank passou por cozinhas e laboratórios de confeitaria europeus e japoneses e trabalhou como chefe de pâtisserie no restaurante la vie, em Osnabrück. A experiência levou-o a questionar por que técnicas de confeitaria deveriam ser limitadas ao encerramento da refeição.",
-    "Em 2016, Frank fundou o CODA com Oliver Bischoff na Friedelstraße 47, em Neukölln, inicialmente como um bar especializado em sobremesas. O formato evoluiu para um restaurante de degustação em que acidez, sal, amargor, umami e doçura natural têm importância equivalente.",
+    "René Frank passou por cozinhas no Japão, na Espanha, na França, na Suíça e nos Estados Unidos e trabalhou como chefe de pâtisserie no restaurante la vie, em Osnabrück. A experiência levou-o a questionar por que técnicas de confeitaria deveriam ser limitadas ao encerramento da refeição.",
+    "Em 2016, Frank fundou o CODA com Oliver Bischoff em Neukölln, inicialmente como um bar especializado em sobremesas. O formato evoluiu para um restaurante de degustação em que acidez, sal, amargor, umami e doçura natural têm importância equivalente.",
     "O CODA conquistou sua primeira estrela Michelin em 2019 e a segunda em 2020. A cozinha passou a trabalhar com aproximadamente treze a quinze pequenas etapas em uma sequência sem divisão rígida entre entrada, prato principal e sobremesa.",
-    "Em 2022, René Frank recebeu o prêmio The World's Best Pastry Chef, enquanto o CODA ganhou projeção em rankings internacionais. Foi 62º no mundo em 2024 e 82º na lista estendida de 2026. O ambiente minimalista mantém balcão voltado para a cozinha e um serviço informal de alta precisão."
+    "Em 2022, René Frank recebeu o prêmio The World's Best Pastry Chef, enquanto o CODA ganhou projeção em rankings internacionais. Estreou em 62º na lista estendida (51–100) do The World's 50 Best Restaurants em 2024, foi 79º em 2025 e 82º na lista estendida de 2026. O ambiente minimalista mantém balcão voltado para a cozinha e um serviço informal de alta precisão."
   ],
   "cuisine": {
     "style": "Alta gastronomia experimental a partir de técnicas de pâtisserie",
     "paragraphs": [
       "A filosofia culinária de René Frank aplica cristalização, fermentação, conservação e controle de textura a legumes, frutas, sementes, algas e outros ingredientes normalmente usados em preparos salgados. O menu evita açúcar refinado, mas não é uma sequência exclusivamente doce.",
-      "O Guia Michelin descreve buttercream de ameixa, noz e alga dulse, pêssego grelhado com pimenta e coentro e pequenas composições que equilibram elementos salgados e acidez. Há também releituras de raclette em waffle com kimchi e iogurte e cheesecake de queijo com aipo e café, registradas em menus de diferentes épocas.",
-      "Cada etapa costuma receber uma pequena bebida criada em diálogo com os sabores, com alternativa integralmente sem álcool disponível. Os ingredientes mudam ao longo do ano, de modo que estes exemplos são repertório histórico, não confirmação de um cardápio fixo em novembro de 2026."
+      "O Guia Michelin descreve buttercream de ameixa, noz e alga dulse, pêssego grelhado com pimentão pontudo e coentro e pequenas composições que equilibram elementos salgados e acidez. Há também releituras de raclette em waffle com kimchi e iogurte e cheesecake de queijo com aipo e café, registradas em menus de diferentes épocas.",
+      "Cada etapa costuma receber uma pequena bebida criada em diálogo com os sabores, com alternativa integralmente sem álcool disponível. Os ingredientes mudam ao longo do ano, e os pratos citados são exemplos de diferentes temporadas."
     ]
   },
   "chef": {
     "name": "René Frank (chef) e Oliver Bischoff (cofundador)",
-    "bio": "René Frank foi chefe de confeitaria do la vie, em Osnabrück, e desenvolveu técnica em diferentes cozinhas europeias, no Japão e em escolas especializadas. Em 2016, abriu o CODA com Oliver Bischoff. Recebeu o título The World's Best Pastry Chef em 2022, e a casa conquistou duas estrelas Michelin em 2020."
+    "bio": "René Frank foi chefe de confeitaria do la vie, em Osnabrück, e desenvolveu sua técnica em cozinhas do Japão, da Espanha, da França, da Suíça e dos Estados Unidos. Em 2016, abriu o CODA com Oliver Bischoff. Recebeu o título The World's Best Pastry Chef em 2022, e a casa conquistou duas estrelas Michelin em 2020."
   },
   "awards": [
     {
@@ -61,6 +61,9 @@
     "https://www.the50.com/stories/News/the-worlds-50-best-restaurants-2025-51-100-list.html"
   ],
   "slug": "coda",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 82,
   "founded": 2016,
   "founders": [
@@ -72,8 +75,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:Friedelstraße_29_-_panoramio.jpg",
     "author": "mspr0",
     "license": "CC BY 3.0",
-    "caption": "Edifício da Friedelstraße 29, em Neukölln, fotografado em 2010. Contexto da rua do CODA, que funciona no nº 47 desde 2016. NÃO é a fachada do restaurante.",
-    "illustrative": true
+    "caption": "Edifício da Friedelstraße 29, em Neukölln, fotografado em 2010. Contexto da rua do CODA, que funciona no nº 47. NÃO é a fachada do restaurante.",
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Friedelstraße, Neukölln (2010)",
+    "alt": "Prédio residencial antigo de fachada ornamentada em Neukölln",
+    "capturedAt": "2010",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L09.json).",
+    "attribution": "mspr0, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "dishes": [
     {
@@ -82,8 +95,8 @@
       "photo": null
     },
     {
-      "name": "Pêssego grelhado com pimenta e coentro",
-      "desc": "Preparação que explora fruta tostada, sabores vegetais e notas picantes, destacada no Guia Michelin.",
+      "name": "Pêssego grelhado com pimentão e coentro",
+      "desc": "Preparação que explora fruta tostada, sabores vegetais e pimentão pontudo, destacada no Guia Michelin.",
       "photo": null
     },
     {
@@ -107,7 +120,18 @@
     "address": "Friedelstraße 47, 12047 Berlim, Alemanha",
     "reservationUrl": "https://coda-berlin.com/en/menu/",
     "reservation": "Reservas exclusivamente pelo botão de agendamento online no site oficial, com cartão de garantia, sem cobrança antecipada. O cancelamento sem taxa é permitido até 48 horas antes; fora desse prazo, pode haver cobrança de €250 por pessoa. Para sete ou oito pessoas, solicitar diretamente por e-mail a table@coda-berlin.com. Serviço de quarta a sábado a partir das 19h.",
-    "price": "Menu degustação: a partir de €264 de quarta a sexta, e €294 aos sábados e vésperas/feriados, segundo a página oficial consultada em novembro de 2026. Os preços do menu incluem as pequenas bebidas de harmonização previstas e IVA."
+    "price": "Menu degustação: a partir de €264 de quarta a sexta, e €294 aos sábados e vésperas/feriados, segundo a página oficial consultada em novembro de 2026. Os preços do menu incluem as pequenas bebidas de harmonização previstas e IVA. Aperitivos, água, café, digestivos e vinhos à parte.",
+    "reservationMode": "online",
+    "email": "table@coda-berlin.com",
+    "priceDetails": {
+      "amount": 264,
+      "currency": "EUR",
+      "basis": "Menu degustação, por pessoa, de quarta a sexta (sábado e feriados a partir de €294)",
+      "taxesIncluded": true,
+      "sourceUrl": "https://coda-berlin.com/en/faq-en/",
+      "checkedAt": "2026-11-10",
+      "note": "Inclui bebidas de harmonização e IVA; aperitivos, água, café, digestivos e vinhos à parte; taxa de serviço não mencionada."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -119,8 +143,51 @@
       {
         "publisher": "Lindstedt Studio — interiores do CODA",
         "url": "https://www.lindstedt-studio.com/portfolio/coda-berlin-styling",
-        "note": "Imagens reais do salão e da fachada, com fotografia atribuída a Claudia Goedke, não copiadas por falta de licença confirmada."
+        "note": "Imagens reais do salão e da fachada, com fotografia atribuída a Claudia Goedeke, não copiadas por falta de licença confirmada."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://coda-berlin.com/en/faq-en/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Widget de reserva sem URL própria; um rodapé do site diz terça a sábado, as demais páginas quarta a sábado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://coda-berlin.com/en/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://coda-berlin.com/en/rene-frank-en/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "\"Laboratórios\" e \"escolas especializadas\" não constam da biografia oficial (retirados)."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://coda-berlin.com/en/rene-frank-en/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Endereço original de 2016 não confirmado (retirado)."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://guide.michelin.com/en/berlin-region/berlin/restaurant/coda-dessert-dining",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Página do Michelin lida por trecho de busca; pêssego leva pimentão pontudo, não pimenta."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }
