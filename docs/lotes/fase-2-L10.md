@@ -123,3 +123,16 @@ As revisões de campo somam 90 registros: 50 confirmados, 18 com fonte única, 1
 - [ ] Itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [e8aca2c](https://github.com/AndreRuperto/melhores-restaurantes/commit/e8aca2c); o domínio público passou a servir o build novo (`index-QEtj3I6Y.js`), e os pacotes dos perfis foram conferidos por download direto:
+
+- **ARCA:** não referencia mais a foto retirada.
+- **The Ledbury:** não traz mais o preço de £220.
+- **Tim Raue:** traz o menu de €292.
+- **Fauna:** traz o site do Bruma Wine Resort.
+- **Baan Tepa:** traz o menu de THB 6.800++.
+- **Lamdre:** o link do Michelin ficou só na lista de fontes e na referência externa de fotos, não como site ou reserva.
+
+As frases "não verificada em tempo real" e "não deve ser" não aparecem nos perfis conferidos. A conferência foi feita por conteúdo, não por navegador.
