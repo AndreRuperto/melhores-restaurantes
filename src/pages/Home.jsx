@@ -34,7 +34,8 @@ export default function Home() {
         {/* CAPA */}
         <section className="pt-16 pb-6 text-center sm:pt-24">
           <div className="fade smallcaps text-ink-2">The 50 Best Restaurants · Lima, 4 de novembro de 2026</div>
-          <div className="fade mx-auto mt-8 max-w-4xl border-y border-ink py-10 sm:py-14">
+          {/* Sem .fade: o título é o LCP da home e não pode começar com opacidade 0. */}
+          <div className="mx-auto mt-8 max-w-4xl border-y border-ink py-10 sm:py-14">
             <div className="smallcaps text-wine">Edição de 2026</div>
             <h1 className="display mt-5 text-[3.4rem] leading-[0.92] sm:text-8xl lg:text-[8.5rem]">
               Os cem <em className="italic text-wine">melhores</em>

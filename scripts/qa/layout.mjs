@@ -1,11 +1,11 @@
-import { chromium } from '@playwright/test';
+import { chromium, firefox, webkit } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import fs from 'node:fs';
-const out='docs/qa-frontend/evidencias';fs.mkdirSync(out,{recursive:true});
+const out=process.env.QA_OUT||'docs/qa-frontend/evidencias';fs.mkdirSync(out,{recursive:true});
 const base=process.env.QA_URL||'http://127.0.0.1:4174';
 const routes=['/','/restaurantes','/como-funciona','/nao-existe','/restaurante/asador-etxebarri','/restaurante/arca','/restaurante/lamdre','/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris','/restaurante/sorn'];
 const sizes=[[320,568],[360,640],[390,844],[430,932],[768,1024],[1024,768],[1440,900],[640,400]];
-const browser=await chromium.launch({headless:true});const rows=[];const errors=[];const violations=[];
+const engine={chromium,firefox,webkit}[process.env.QA_BROWSER||'chromium'];const browser=await engine.launch({headless:true});const rows=[];const errors=[];const violations=[];
 for (const theme of ['light','dark']) {
  const context=await browser.newContext({colorScheme:theme});await context.addInitScript(t=>{localStorage.setItem('theme',t);sessionStorage.setItem('a-carta-abertura-2026-v1','seen')},theme);
  const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));

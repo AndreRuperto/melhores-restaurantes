@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "asador-etxebarri",
+    "directAndReload": true,
+    "title": "Asador Etxebarri · 1º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/asador-etxebarri"
+  },
+  {
+    "slug": "gaggan",
+    "directAndReload": true,
+    "title": "Gaggan · 2º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/gaggan"
+  },
+  {
+    "slug": "alchemist",
+    "directAndReload": true,
+    "title": "Alchemist · 3º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/alchemist"
+  },
+  {
+    "slug": "quintonil",
+    "directAndReload": true,
+    "title": "Quintonil · 4º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/quintonil"
+  },
+  {
+    "slug": "wing",
+    "directAndReload": true,
+    "title": "Wing · 5º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/wing"
+  },
+  {
+    "slug": "the-chairman",
+    "directAndReload": true,
+    "title": "The Chairman · 6º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/the-chairman"
+  },
+  {
+    "slug": "kjolle",
+    "directAndReload": true,
+    "title": "Kjolle · 7º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/kjolle"
+  },
+  {
+    "slug": "kadeau",
+    "directAndReload": true,
+    "title": "Kadeau · 8º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/kadeau"
+  },
+  {
+    "slug": "diverxo",
+    "directAndReload": true,
+    "title": "DiverXO · 9º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/diverxo"
+  },
+  {
+    "slug": "plenitude",
+    "directAndReload": true,
+    "title": "Plénitude · 10º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/plenitude"
+  },
+  {
+    "slug": "atomix",
+    "directAndReload": true,
+    "title": "Atomix · 11º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/atomix"
+  },
+  {
+    "slug": "sorn",
+    "directAndReload": true,
+    "title": "Sorn · 12º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/sorn"
+  },
+  {
+    "slug": "merito",
+    "directAndReload": true,
+    "title": "Mérito · 13º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/merito"
+  },
+  {
+    "slug": "suhring",
+    "directAndReload": true,
+    "title": "Sühring · 14º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/suhring"
+  },
+  {
+    "slug": "odette",
+    "directAndReload": true,
+    "title": "Odette · 15º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/odette"
+  },
+  {
+    "slug": "tuju",
+    "directAndReload": true,
+    "title": "Tuju · 16º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/tuju"
+  },
+  {
+    "slug": "mingles",
+    "directAndReload": true,
+    "title": "Mingles · 17º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mingles"
+  },
+  {
+    "slug": "nusara",
+    "directAndReload": true,
+    "title": "Nusara · 18º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nusara"
+  },
+  {
+    "slug": "jan",
+    "directAndReload": true,
+    "title": "Jan · 19º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/jan"
+  },
+  {
+    "slug": "piazza-duomo",
+    "directAndReload": true,
+    "title": "Piazza Duomo · 20º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/piazza-duomo"
+  },
+  {
+    "slug": "meet-the-bund",
+    "directAndReload": true,
+    "title": "Meet the Bund · 21º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/meet-the-bund"
+  },
+  {
+    "slug": "borago",
+    "directAndReload": true,
+    "title": "Boragó · 22º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/borago"
+  },
+  {
+    "slug": "vyn",
+    "directAndReload": true,
+    "title": "Vyn · 23º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/vyn"
+  },
+  {
+    "slug": "al-gatto-verde",
+    "directAndReload": true,
+    "title": "Al Gatto Verde · 24º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/al-gatto-verde"
+  },
+  {
+    "slug": "lasai",
+    "directAndReload": true,
+    "title": "Lasai · 25º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/lasai"
+  },
+  {
+    "slug": "masque",
+    "directAndReload": true,
+    "title": "Masque · 26º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/masque"
+  },
+  {
+    "slug": "reale",
+    "directAndReload": true,
+    "title": "Reale · 27º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/reale"
+  },
+  {
+    "slug": "tresind-studio",
+    "directAndReload": true,
+    "title": "Trèsind Studio · 28º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/tresind-studio"
+  },
+  {
+    "slug": "enigma",
+    "directAndReload": true,
+    "title": "Enigma · 29º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/enigma"
+  },
+  {
+    "slug": "steirereck",
+    "directAndReload": true,
+    "title": "Steirereck · 30º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/steirereck"
+  },
+  {
+    "slug": "celele",
+    "directAndReload": true,
+    "title": "Celele · 31º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/celele"
+  },
+  {
+    "slug": "potong",
+    "directAndReload": true,
+    "title": "Potong · 32º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/potong"
+  },
+  {
+    "slug": "elkano",
+    "directAndReload": true,
+    "title": "Elkano · 33º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/elkano"
+  },
+  {
+    "slug": "le-coquillage",
+    "directAndReload": true,
+    "title": "Le Coquillage · 34º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-coquillage"
+  },
+  {
+    "slug": "la-colombe",
+    "directAndReload": true,
+    "title": "La Colombe · 35º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/la-colombe"
+  },
+  {
+    "slug": "ru-yuan",
+    "directAndReload": true,
+    "title": "Ru Yuan · 36º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/ru-yuan"
+  },
+  {
+    "slug": "nuema",
+    "directAndReload": true,
+    "title": "Nuema · 37º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nuema"
+  },
+  {
+    "slug": "atelier-moessmer-norbert-niederkofler",
+    "directAndReload": true,
+    "title": "Atelier Moessmer Norbert Niederkofler · 38º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/atelier-moessmer-norbert-niederkofler"
+  },
+  {
+    "slug": "schloss-schauenstein",
+    "directAndReload": true,
+    "title": "Schloss Schauenstein · 39º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/schloss-schauenstein"
+  },
+  {
+    "slug": "jordn-r",
+    "directAndReload": true,
+    "title": "Jordnær · 40º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/jordn-r"
+  },
+  {
+    "slug": "onjium",
+    "directAndReload": true,
+    "title": "Onjium · 41º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/onjium"
+  },
+  {
+    "slug": "bozar",
+    "directAndReload": true,
+    "title": "Bozar · 42º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/bozar"
+  },
+  {
+    "slug": "le-calandre",
+    "directAndReload": true,
+    "title": "Le Calandre · 43º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-calandre"
+  },
+  {
+    "slug": "don-julio",
+    "directAndReload": true,
+    "title": "Don Julio · 44º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/don-julio"
+  },
+  {
+    "slug": "mayta",
+    "directAndReload": true,
+    "title": "Mayta · 45º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mayta"
+  },
+  {
+    "slug": "el-chato",
+    "directAndReload": true,
+    "title": "El Chato · 46º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/el-chato"
+  },
+  {
+    "slug": "le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+    "directAndReload": true,
+    "title": "Le Louis XV-Alain Ducasse à l’Hôtel de Paris · 47º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-louis-xv-alain-ducasse-a-lhotel-de-paris"
+  },
+  {
+    "slug": "ikoyi",
+    "directAndReload": true,
+    "title": "Ikoyi · 48º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/ikoyi"
+  },
+  {
+    "slug": "naar",
+    "directAndReload": true,
+    "title": "Naar · 49º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/naar"
+  },
+  {
+    "slug": "saint-peter",
+    "directAndReload": true,
+    "title": "Saint Peter · 50º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/saint-peter"
+  },
+  {
+    "slug": "uliassi",
+    "directAndReload": true,
+    "title": "Uliassi · 51º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/uliassi"
+  },
+  {
+    "slug": "la-cime",
+    "directAndReload": true,
+    "title": "La Cime · 52º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/la-cime"
+  },
+  {
+    "slug": "ling-long",
+    "directAndReload": true,
+    "title": "Ling Long · 53º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/ling-long"
+  },
+  {
+    "slug": "nelita",
+    "directAndReload": true,
+    "title": "Nelita · 54º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nelita"
+  },
+  {
+    "slug": "alcalde",
+    "directAndReload": true,
+    "title": "Alcalde · 55º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/alcalde"
+  },
+  {
+    "slug": "sazenka",
+    "directAndReload": true,
+    "title": "Sazenka · 56º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/sazenka"
+  },
+  {
+    "slug": "koan",
+    "directAndReload": true,
+    "title": "Koan · 57º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/koan"
+  },
+  {
+    "slug": "frantzen",
+    "directAndReload": true,
+    "title": "Frantzén · 58º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/frantzen"
+  },
+  {
+    "slug": "narisawa",
+    "directAndReload": true,
+    "title": "Narisawa · 59º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/narisawa"
+  },
+  {
+    "slug": "hisa-franko",
+    "directAndReload": true,
+    "title": "Hiša Franko · 60º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/hisa-franko"
+  },
+  {
+    "slug": "florilege",
+    "directAndReload": true,
+    "title": "Florilège · 61º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/florilege"
+  },
+  {
+    "slug": "fu-he-hui",
+    "directAndReload": true,
+    "title": "Fu He Hui · 62º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fu-he-hui"
+  },
+  {
+    "slug": "the-jane",
+    "directAndReload": true,
+    "title": "The Jane · 63º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/the-jane"
+  },
+  {
+    "slug": "seroja",
+    "directAndReload": true,
+    "title": "Seroja · 64º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/seroja"
+  },
+  {
+    "slug": "fyn",
+    "directAndReload": true,
+    "title": "Fyn · 65º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fyn"
+  },
+  {
+    "slug": "willem-hiele",
+    "directAndReload": true,
+    "title": "Willem Hiele · 66º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/willem-hiele"
+  },
+  {
+    "slug": "arpege",
+    "directAndReload": true,
+    "title": "Arpège · 67º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/arpege"
+  },
+  {
+    "slug": "evvai",
+    "directAndReload": true,
+    "title": "Evvai · 68º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/evvai"
+  },
+  {
+    "slug": "cocina-hermanos-torres",
+    "directAndReload": true,
+    "title": "Cocina Hermanos Torres · 69º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/cocina-hermanos-torres"
+  },
+  {
+    "slug": "kol",
+    "directAndReload": true,
+    "title": "Kol · 70º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/kol"
+  },
+  {
+    "slug": "salsify-at-the-roundhouse",
+    "directAndReload": true,
+    "title": "Salsify at the Roundhouse · 71º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/salsify-at-the-roundhouse"
+  },
+  {
+    "slug": "eatanic-garden",
+    "directAndReload": true,
+    "title": "Eatanic Garden · 72º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/eatanic-garden"
+  },
+  {
+    "slug": "chef-tams-seasons",
+    "directAndReload": true,
+    "title": "Chef Tam’s Seasons · 73º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/chef-tams-seasons"
+  },
+  {
+    "slug": "le-du",
+    "directAndReload": true,
+    "title": "Le Du · 74º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-du"
+  },
+  {
+    "slug": "belcanto",
+    "directAndReload": true,
+    "title": "Belcanto · 75º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/belcanto"
+  },
+  {
+    "slug": "nobelhart-e-schmutzig",
+    "directAndReload": true,
+    "title": "Nobelhart & Schmutzig · 76º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/nobelhart-e-schmutzig"
+  },
+  {
+    "slug": "caprice",
+    "directAndReload": true,
+    "title": "Caprice · 77º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/caprice"
+  },
+  {
+    "slug": "mosu",
+    "directAndReload": true,
+    "title": "Mosu · 78º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mosu"
+  },
+  {
+    "slug": "huniik",
+    "directAndReload": true,
+    "title": "Huniik · 79º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/huniik"
+  },
+  {
+    "slug": "txispa",
+    "directAndReload": true,
+    "title": "Txispa · 80º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/txispa"
+  },
+  {
+    "slug": "septime",
+    "directAndReload": true,
+    "title": "Septime · 81º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/septime"
+  },
+  {
+    "slug": "coda",
+    "directAndReload": true,
+    "title": "Coda · 82º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/coda"
+  },
+  {
+    "slug": "the-ledbury",
+    "directAndReload": true,
+    "title": "The Ledbury · 83º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/the-ledbury"
+  },
+  {
+    "slug": "le-doyenne",
+    "directAndReload": true,
+    "title": "Le Doyenné · 84º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/le-doyenne"
+  },
+  {
+    "slug": "tim-raue",
+    "directAndReload": true,
+    "title": "Tim Raue · 85º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/tim-raue"
+  },
+  {
+    "slug": "eliane",
+    "directAndReload": true,
+    "title": "Eliane · 86º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/eliane"
+  },
+  {
+    "slug": "arca",
+    "directAndReload": true,
+    "title": "Arca · 87º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/arca"
+  },
+  {
+    "slug": "fzn",
+    "directAndReload": true,
+    "title": "FZN · 88º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fzn"
+  },
+  {
+    "slug": "burnt-ends",
+    "directAndReload": true,
+    "title": "Burnt Ends · 89º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/burnt-ends"
+  },
+  {
+    "slug": "baan-tepa",
+    "directAndReload": true,
+    "title": "Baan Tepa · 90º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/baan-tepa"
+  },
+  {
+    "slug": "den",
+    "directAndReload": true,
+    "title": "Den · 91º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/den"
+  },
+  {
+    "slug": "lamdre",
+    "directAndReload": true,
+    "title": "Lamdre · 92º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/lamdre"
+  },
+  {
+    "slug": "singlethread",
+    "directAndReload": true,
+    "title": "SingleThread · 93º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/singlethread"
+  },
+  {
+    "slug": "neolokal",
+    "directAndReload": true,
+    "title": "Neolokal · 94º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/neolokal"
+  },
+  {
+    "slug": "mil",
+    "directAndReload": true,
+    "title": "Mil · 95º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/mil"
+  },
+  {
+    "slug": "rosetta",
+    "directAndReload": true,
+    "title": "Rosetta · 96º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/rosetta"
+  },
+  {
+    "slug": "khufus",
+    "directAndReload": true,
+    "title": "Khufu’s · 97º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/khufus"
+  },
+  {
+    "slug": "labyrinth",
+    "directAndReload": true,
+    "title": "Labyrinth · 98º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/labyrinth"
+  },
+  {
+    "slug": "fauna",
+    "directAndReload": true,
+    "title": "Fauna · 99º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/fauna"
+  },
+  {
+    "slug": "aponiente",
+    "directAndReload": true,
+    "title": "Aponiente · 100º · A Carta",
+    "canonical": "https://melhores-restaurantes.up.railway.app/restaurante/aponiente"
+  }
+]
