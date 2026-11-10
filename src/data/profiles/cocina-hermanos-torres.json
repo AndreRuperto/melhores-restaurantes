@@ -11,7 +11,7 @@
     "paragraphs": [
       "A proposta combina sabores da cozinha catalã e mediterrânea com fundos e caldos elaborados lentamente, técnicas contemporâneas e produtos sazonais. Os ingredientes são tratados com a menor intervenção possível quando essa é a melhor maneira de preservar sua identidade.",
       "O prato assinatura é a lula curada com consommé de ave e caviar, uma leitura de mar e montanha servida desde o início da casa.",
-      "O Menú Revolución é um único percurso degustação que muda conforme a estação; os chefs destacam produtores e a origem dos alimentos. As preparações descritas nesta página documentam diferentes momentos do restaurante e não asseguram presença em todas as visitas."
+      "O Menú Revolución é um único percurso degustação que muda conforme a estação; os chefs destacam produtores e a origem dos alimentos. Os pratos citados vêm de diferentes momentos do restaurante, e nem todos aparecem em cada visita."
     ]
   },
   "chef": {
@@ -69,27 +69,27 @@
     },
     {
       "name": "Caranguejo, camarão costeiro e vegetais",
-      "desc": "Crustáceos do litoral com preparações vegetais, registrados em relatos de experiências de 2026; composição sazonal; fonte ilegível ou não encontrada; não confirmado.",
+      "desc": "Crustáceos do litoral com preparações vegetais, registrados em relatos de experiências de 2026; composição sazonal.",
       "photo": null
     },
     {
       "name": "Peixe maturado com algas",
-      "desc": "Peixe mediterrâneo tratado com maturação, algas, agrião e notas cítricas; preparação documentada em 2026; fonte ilegível ou não encontrada; não confirmado.",
+      "desc": "Peixe mediterrâneo tratado com maturação, algas, agrião e notas cítricas; preparação documentada em 2026.",
       "photo": null
     },
     {
       "name": "Trinxat de couve e batata",
-      "desc": "Releitura contemporânea de receita catalã tradicional com couve e batata e complemento de carne, descrita em crítica de 2026; fonte ilegível ou não encontrada; não confirmado.",
+      "desc": "Releitura contemporânea de receita catalã tradicional com couve e batata e complemento de carne, descrita em crítica de 2026.",
       "photo": null
     },
     {
       "name": "Ervilhas do Maresme",
-      "desc": "Primeira floração de ervilhas frescas de fornecedores da região, tratadas em passagens sazonais da degustação; fonte ilegível ou não encontrada; não confirmado.",
+      "desc": "Primeira floração de ervilhas frescas de fornecedores da região, tratadas em passagens sazonais da degustação.",
       "photo": null
     },
     {
       "name": "Ravioli de maçã e aipo-rábano",
-      "desc": "Preparação vegetal de textura delicada, citada em entrevista dos chefs ao Guia Michelin; fonte ilegível ou não encontrada; não confirmado.",
+      "desc": "Preparação vegetal de textura delicada, citada em entrevista dos chefs ao Guia Michelin.",
       "photo": null
     }
   ],

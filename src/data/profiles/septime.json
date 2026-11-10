@@ -106,7 +106,7 @@
     },
     {
       "name": "Peixe de pesca responsável",
-      "desc": "Pescado sazonal integrado à degustação conforme o abastecimento; não representa um prato fixo.",
+      "desc": "Pescado sazonal integrado à degustação conforme o abastecimento.",
       "photo": null
     }
   ],
@@ -114,7 +114,7 @@
     "website": "https://www.septime-charonne.fr/en",
     "address": "80 rue de Charonne, 75011 Paris, França",
     "reservationUrl": "https://www.septime-charonne.fr/en/reservation/",
-    "reservation": "Reservas exclusivamente pelo módulo online do site oficial, abertas todos os dias às 10h (horário de Paris) para os 21 dias seguintes. Serviço de almoço e jantar de segunda a sexta; fechado sábado e domingo. Disponibilidade de mesas não verificada em tempo real.",
+    "reservation": "Reservas exclusivamente pelo módulo online do site oficial, abertas todos os dias às 10h (horário de Paris) para os 21 dias seguintes. Serviço de almoço e jantar de segunda a sexta; fechado sábado e domingo.",
     "price": "Menu surpresa de cinco etapas no almoço: €85; sete etapas no jantar: €135, valores publicados no cardápio de outono consultado em novembro de 2026. Harmonização de vinhos: €60 no almoço e €75 no jantar.",
     "reservationMode": "online",
     "priceDetails": {

@@ -11,7 +11,7 @@
     "paragraphs": [
       "O repertório parte de técnicas chinesas de cocção, extração de caldos, cozimento no vapor e uso de condimentos, mas incorpora produtos japoneses na estação ideal. O próprio chef descreve a busca por sabores claros, profundos e equilibrados: o ingrediente deve continuar reconhecível.",
       "O chá tem papel central no ritmo da refeição. A equipe propõe combinações com folhas e infusões selecionadas para acompanhar os pratos e reforçar a ideia de harmonia entre convidados, cozinha e espaço.",
-      "Entre as preparações associadas à trajetória do Sazenka estão Yun Bai Rou Pian, com porco e berinjela em lâminas finas, sopas transparentes de aves e pratos sazonais de frutos do mar e legumes. A sequência degustação é definida pelos produtos disponíveis e não deve ser tratada como cardápio fixo."
+      "Entre as preparações associadas à trajetória do Sazenka estão Yun Bai Rou Pian, com porco e berinjela em lâminas finas, sopas transparentes de aves e pratos sazonais de frutos do mar e legumes. A sequência degustação é definida pelos produtos disponíveis e muda conforme a estação."
     ]
   },
   "chef": {
@@ -72,12 +72,12 @@
     },
     {
       "name": "Caldo de faisão",
-      "desc": "Sopa límpida construída com técnica chinesa de extração de sabor; preparo destacado em perfis gastronômicos, sujeito à estação; sem confirmação no menu atual.",
+      "desc": "Sopa límpida construída com técnica chinesa de extração de sabor; preparo destacado em perfis gastronômicos, sujeito à estação; pode não estar no menu atual.",
       "photo": null
     },
     {
       "name": "Abalone lentamente cozido",
-      "desc": "Molusco trabalhado em cocção longa, uma referência aos clássicos chineses de banquete; não há confirmação de presença no menu atual.",
+      "desc": "Molusco trabalhado em cocção longa, uma referência aos clássicos chineses de banquete; pode não estar no menu atual.",
       "photo": null
     },
     {

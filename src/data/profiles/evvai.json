@@ -11,7 +11,7 @@
     "paragraphs": [
       "O menu Oriundi procura representar o encontro de culturas: elementos da tradição italiana, como massas e técnicas de molhos, dialogam com produtos de diferentes territórios do Brasil. Pequenas entradas inspiradas nas cores das bandeiras italiana e brasileira ajudam a introduzir a narrativa.",
       "O Guia Michelin destaca a moqueca branca com lula e pupunha e a Bomba de vieira, criação recorrente mas sempre reinterpretada. O cardápio de 2026 abre com ostra, cambuci e pepino, unindo sabores marinhos e frescor vegetal.",
-      "A degustação, com mais de uma dezena de etapas divididas em quatro movimentos no cardápio de 2026, é dinâmica. Preparações antigas, como affogato salgado com sorvete de cogumelos e sobremesa de couve-flor e coco, ajudam a compreender a pesquisa da cozinha, mas não devem ser apresentadas como itens confirmados no menu vigente."
+      "A degustação, com mais de uma dezena de etapas divididas em quatro movimentos no cardápio de 2026, é dinâmica. Preparações antigas, como affogato salgado com sorvete de cogumelos e sobremesa de couve-flor e coco, ajudam a compreender a pesquisa da cozinha, mas podem não fazer parte do menu vigente."
     ]
   },
   "chef": {
@@ -86,7 +86,7 @@
     },
     {
       "name": "Couve-flor e coco",
-      "desc": "Combinação de sobremesa lembrada em perfil do chef, sem confirmação de presença no cardápio atual.",
+      "desc": "Combinação de sobremesa lembrada em perfil do chef, que pode não estar no cardápio atual.",
       "photo": null
     }
   ],
