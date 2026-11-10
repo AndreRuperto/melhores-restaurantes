@@ -61,3 +61,14 @@ Os dez perfis estão em modo estrito (`partial`). Canais: oito `online`, Mingles
 - [ ] Endereço do Meet the Bund e itens com fonte única resolvidos ou aceitos pelo revisor.
 - [ ] Matriz completa de navegadores, teclado e acessibilidade.
 - [ ] Revisor e aceite de produto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [098625a](https://github.com/AndreRuperto/melhores-restaurantes/commit/098625a6472b6447d2fa220111b6c7b24931fd6b); Railway `7cb84878-2508-44c3-a7b2-ec4619edcc05` em SUCCESS. No domínio público, por acesso direto:
+- Sorn mostra o preço de 7.800 bahts (sem o antigo 7.200) e as três estrelas mantidas, sem imagens quebradas.
+- Nusara traz o 74º lugar na lista estendida e o e-mail de reservas, sem a menção ao Eleven Madison Park.
+- Odette mostra os menus Delight e o prêmio de Lesley Liu, sem o Terre & Mer.
+- Meet the Bund cita a casa de Xintiandi e as quatro novas estrelas, sem a passagem pelo Yanyu.
+- Mingles não cita mais o CatchTable e traz o preço de 2025 e a nota de conferência.
+
+Sem erros de console.
