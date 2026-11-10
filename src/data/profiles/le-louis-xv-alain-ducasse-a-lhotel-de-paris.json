@@ -15,13 +15,13 @@
     ]
   },
   "chef": {
-    "name": "Emmanuel Pilon (chef executivo) · Alain Ducasse (criador)",
+    "name": "Emmanuel Pilon (chef) · Alain Ducasse (criador)",
     "bio": "Alain Ducasse abriu o Le Louis XV em 1987 e estabeleceu a linha de cozinha mediterrânea que tornou o endereço conhecido. O chef Emmanuel Pilon lidera atualmente a equipe e constrói menus sazonais centrados nos ingredientes da Riviera, mantendo a filosofia de valorização do produto."
   },
   "dishes": [
     {
       "name": "Camarões de San Remo",
-      "desc": "Gamberoni do litoral próximo a San Remo, apresentados com geleia de peixes de rocha, açafrão e caviar em versões documentadas da carta.",
+      "desc": "Gamberoni do litoral próximo a San Remo, apresentados com geleia de peixes de rocha e caviar, segundo o The 50 Best.",
       "photo": null
     },
     {
@@ -30,18 +30,13 @@
       "photo": null
     },
     {
-      "name": "Alcachofra da Provença",
-      "desc": "Alcachofra de origem provençal com ingredientes marinhos, exemplo de contraste entre horta e Mediterrâneo.",
+      "name": "Robalo do Mediterrâneo na lenha",
+      "desc": "Robalo mediterrâneo assado no fogo de lenha, um dos pratos citados no menu Agape atual.",
       "photo": null
     },
     {
-      "name": "Pescado mediterrâneo confitado",
-      "desc": "Peixe da costa trabalhado com temperos e vegetais sazonais, conforme as características do cardápio contemporâneo.",
-      "photo": null
-    },
-    {
-      "name": "Sobremesa de baunilha e cítricos",
-      "desc": "Versão da linha de sobremesas clássicas da casa, que combina baunilha, frutas cítricas e creme leve.",
+      "name": "Babá ao rum",
+      "desc": "Babá com baunilha, raspas de cítricos e chantilly, servido com uma seleção de runs envelhecidos, segundo a descrição do The 50 Best.",
       "photo": null
     }
   ],
@@ -52,11 +47,11 @@
     },
     {
       "year": 2025,
-      "title": "Três estrelas Michelin — Guia Michelin Mônaco"
+      "title": "Três estrelas Michelin — Guia Michelin França e Mônaco"
     },
     {
       "year": 2026,
-      "title": "Três estrelas Michelin — Guia Michelin Mônaco"
+      "title": "Três estrelas Michelin — Guia Michelin França e Mônaco"
     },
     {
       "year": 2026,
@@ -66,9 +61,20 @@
   "practical": {
     "address": "Hôtel de Paris, Place du Casino, 98000 Monte Carlo, Mônaco",
     "website": "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
-    "reservationUrl": "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
-    "reservation": "Reservas pelo botão de reserva do site Ducasse Paris ou diretamente pelo telefone +377 98 06 88 64. Serviço de jantar de terça a sábado e almoço às sextas e sábados, conforme o Guia Michelin. Verificar disponibilidade e regras antes de reservar.",
-    "price": "Alta gastronomia de preço elevado (faixa €€€€ no Guia Michelin). Preços vigentes e menus devem ser confirmados no restaurante."
+    "reservationUrl": "https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris",
+    "reservation": "Reservas on-line pelo site da Monte-Carlo SBM (o botão do site Ducasse Paris leva ao SevenRooms) ou pelo telefone +377 98 06 88 64. Jantar de terça a sábado, das 19h30 às 21h15, e almoço às sextas e sábados, das 12h15 às 13h30, segundo a página oficial. Paletó obrigatório no jantar. Verificar disponibilidade e regras antes de reservar.",
+    "price": "Menu Agape a € 420 por pessoa, sem bebidas (quatro pratos em porções menores, carrinho de queijos e sobremesa). Às sextas e sábados, o almoço Riviera custa € 230 sem bebidas ou € 300 com duas taças de vinho, águas e bebidas quentes. Valores das páginas oficiais da Monte-Carlo SBM, sem data; confirmar antes de reservar.",
+    "reservationMode": "online",
+    "phone": "+377 98 06 88 64",
+    "priceDetails": {
+      "amount": 420,
+      "currency": "EUR",
+      "basis": "Menu Agape, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.montecarlosbm.com/en/activities/gourmet-lunches-dinners-louis-xv-alain-ducasse",
+      "checkedAt": "2026-11-10",
+      "note": "Almoço Riviera (sexta e sábado) a € 230 sem bebidas ou € 300 com bebidas; páginas sem data; impostos e serviço não informados."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/le-lous-xv-alain-ducasse.html",
@@ -78,9 +84,14 @@
     "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
     "https://front.production.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris?gtmIndex=1&gtmListName=recommended",
     "https://commons.wikimedia.org/wiki/File:2016_Hotel_de_Paris_-_Monaco_03_Restaurant_Louis_XV.jpg",
-    "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Paris_Monte-Carlo_001.jpg"
+    "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Paris_Monte-Carlo_001.jpg",
+    "https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris",
+    "https://www.montecarlosbm.com/en/activities/gourmet-lunches-dinners-louis-xv-alain-ducasse"
   ],
   "slug": "le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 47,
   "founded": 1987,
   "founders": [
@@ -91,8 +102,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:2016_Hotel_de_Paris_-_Monaco_03_Restaurant_Louis_XV.jpg",
     "author": "Jordiferrer",
     "license": "CC BY-SA 4.0",
-    "caption": "Salão do Le Louis XV no Hôtel de Paris, em Mônaco, fotografado em agosto de 2016. É uma imagem real do restaurante, mas a decoração pode ter mudado.",
-    "illustrative": false
+    "caption": "Fachada do Le Louis XV, com o letreiro do restaurante, no Hôtel de Paris, em Mônaco, fotografada em agosto de 2016. Imagem real do restaurante; a fachada pode ter mudado.",
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Fachada do Le Louis XV no Hôtel de Paris (2016)",
+    "alt": "Fachada clássica com o letreiro Le Louis XV sobre as janelas",
+    "capturedAt": "2016-08-02",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Jordiferrer, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_de_Paris_Monte-Carlo_001.jpg?width=1280",
@@ -100,7 +121,17 @@
     "author": "Arnaud 25",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do Hôtel de Paris em 2020, edifício que abriga o Le Louis XV. Não é uma fotografia isolada da entrada do restaurante.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Hôtel de Paris, que abriga o Le Louis XV (2020)",
+    "alt": "Fachada do Hôtel de Paris, em Monte Carlo",
+    "capturedAt": "2020-08-26",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Arnaud 25, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -108,5 +139,49 @@
     "publisher": "Le Louis XV / Ducasse Paris — site oficial",
     "url": "https://www.ducasse-paris.com/en/addresses/le-louis-xv-alain-ducasse-a-lhotel-de-paris/",
     "note": "Imagens atuais dos ambientes, chefs e pratos na fonte oficial; a foto histórica publicada pelo A Carta possui licença CC BY-SA 4.0 independente."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Horários da página oficial da SBM (o texto antes atribuía ao Guia Michelin). SevenRooms não renderizou. Sem e-mail publicado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.montecarlosbm.com/en/activities/gourmet-lunches-dinners-louis-xv-alain-ducasse",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Páginas oficiais sem data; faixa €€€€ do Michelin não conferida (retirada)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "O guia se chama Guia Michelin França e Mônaco; três estrelas de 2025 só em fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.montecarlosbm.com/en/activities/gourmet-lunches-dinners-louis-xv-alain-ducasse",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Alcachofra sem fonte (retirada); peixe e sobremesa trocados pelos pratos citados nas fontes; açafrão retirado."
+    },
+    {
+      "field": "chef.name",
+      "sourceUrl": "https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A fonte oficial diz apenas \"chef\"; título de chef executivo retirado."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Legenda da capa corrigida: a foto mostra a fachada com o letreiro, não o salão."
+    }
+  ]
 }

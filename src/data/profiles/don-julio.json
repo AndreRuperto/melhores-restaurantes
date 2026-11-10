@@ -1,15 +1,15 @@
 {
   "lede": "Na esquina de Guatemala com Gurruchaga, em Palermo, Buenos Aires, o Don Julio levou a parrilla de bairro ao cenário mundial. Pablo Rivero valorizou produtores argentinos, maturação de carnes e cultivo responsável, enquanto o chef Guido Tassi deu precisão contemporânea ao fogo e aos acompanhamentos.",
   "history": [
-    "Quando Pablo Rivero abriu o Don Julio no fim dos anos 1990, em Palermo Viejo, queria preservar o espírito das parrillas portenhas: cortes bem tratados, carvão, conversa à mesa e atendimento de casa de bairro. O restaurante cresceu no mesmo endereço, ocupando um edifício de esquina hoje reconhecido pelas fachadas avermelhadas e pelas toldos listrados.",
-    "Rivero vem de família ligada à pecuária e buscou construir vínculos diretos com quem produz. O projeto passou a acompanhar a seleção, o abate, a maturação e o preparo das carnes, especialmente de animais das raças Hereford e Angus, e incorporou hortas com vegetais de variedades tradicionais.",
-    "O chef executivo Guido Tassi participa da renovação do repertório sem abandonar o essencial: a parrilla em V, que direciona a gordura para longe da brasa, e os cortes feitos sobre carvão de quebracho. O ponto da carne, os molhos e o cuidado com os vegetais sazonais são tratados como partes igualmente importantes da experiência.",
-    "A projeção internacional do Don Julio foi crescendo com premiações gastronômicas: liderou o Latin America's 50 Best Restaurants em 2020 e 2024, recebeu uma estrela Michelin e uma estrela verde em 2024 e chegou ao 10º lugar mundial em 2025. Em 2026 aparece em 44º no ranking mundial."
+    "Quando Pablo Rivero abriu o Don Julio no fim dos anos 1990, em Palermo Viejo, queria preservar o espírito das parrillas portenhas: cortes bem tratados, carvão, conversa à mesa e atendimento de casa de bairro. O restaurante cresceu no mesmo endereço, num edifício de esquina.",
+    "Rivero buscou construir vínculos diretos com quem produz. O projeto passou a acompanhar a seleção, o abate, a maturação e o preparo das carnes, especialmente de animais das raças Hereford e Angus, e incorporou hortas com vegetais de variedades tradicionais.",
+    "O chef executivo Guido Tassi participa da renovação do repertório sem abandonar o essencial: a parrilla e os cortes de Angus e Hereford maturados na casa. O ponto da carne, os molhos e o cuidado com os vegetais sazonais são tratados como partes igualmente importantes da experiência.",
+    "A projeção internacional do Don Julio foi crescendo com premiações gastronômicas: liderou o Latin America's 50 Best Restaurants em 2020 e 2024, recebeu uma estrela Michelin e uma estrela verde na primeira edição do Guia Michelin Buenos Aires e Mendoza (2024) e chegou ao 10º lugar mundial em 2025. Em 2026 aparece em 44º no ranking mundial."
   ],
   "cuisine": {
     "style": "Parrilla argentina, carnes maturadas e agricultura regenerativa",
     "paragraphs": [
-      "A casa parte dos clássicos da parrilla: ojo de bife, bife ancho, entraña, cortes com osso, linguiças e outros preparos feitos lentamente sobre a grelha. A carne é selecionada e maturada sob controle da equipe; a churrasqueira em V procura reduzir fumaça indesejada produzida pela gordura que cai nas brasas.",
+      "A casa parte dos clássicos da parrilla: ojo de bife, bife ancho, entraña, cortes com osso, linguiças e outros preparos feitos lentamente sobre a grelha. A carne é selecionada e maturada sob controle da equipe.",
       "O cardápio também valoriza uma coleção de vegetais cultivados com cuidado, entre eles tomates de variedades tradicionais, aspargos e abobrinhas sazonais. A produção rural é parte central do projeto de Pablo Rivero, que relaciona gastronomia, manejo de pastagens e recuperação dos solos.",
       "O Don Julio não funciona como uma experiência de menu fixo: a proposta é escolher cortes e acompanhamentos à la carte. Pratos e disponibilidade variam conforme a estação e o abastecimento."
     ]
@@ -56,7 +56,7 @@
     },
     {
       "year": 2024,
-      "title": "Uma estrela Michelin — Guia Michelin Argentina"
+      "title": "Uma estrela Michelin — Guia Michelin Buenos Aires e Mendoza"
     },
     {
       "year": 2024,
@@ -79,8 +79,20 @@
     "address": "Guatemala 4699, esquina com Gurruchaga, Palermo Viejo, Buenos Aires, Argentina",
     "website": "https://www.parrilladonjulio.com/",
     "reservationUrl": "https://donjulio.meitre.com/",
-    "reservation": "Reservas pelo sistema Meitre, acessível no site oficial, ou pelo telefone +54 11 4507-9873. Serviço diário de 11h30 às 16h e das 19h à 1h, segundo o restaurante. A disponibilidade e eventuais garantias precisam ser confirmadas no momento da reserva.",
-    "price": "Cardápio à la carte; preços atuais não publicados de forma verificável no site institucional aberto. Consultar os valores diretamente com a casa."
+    "reservation": "Reservas online pelo sistema Meitre, acessível no site oficial, pelo telefone +54 11 4507-9873 ou pelo e-mail info@parrilladonjulio.com.ar. Aberto todos os dias, das 11h30 às 16h e das 19h à 1h, segundo o restaurante. A disponibilidade e eventuais garantias precisam ser confirmadas no momento da reserva.",
+    "price": "Cardápio à la carte; preços atuais não publicados de forma verificável no site institucional aberto. Consultar os valores diretamente com a casa.",
+    "reservationMode": "online",
+    "phone": "+54 11 4507-9873",
+    "email": "info@parrilladonjulio.com.ar",
+    "priceDetails": {
+      "amount": null,
+      "currency": "ARS",
+      "basis": "À la carte",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.parrilladonjulio.com/",
+      "checkedAt": "2026-11-10",
+      "note": "O restaurante não publica preços; a imprensa (iProfesional, julho de 2026) cita jantar completo com vinho a partir de 150.000 por pessoa, sem moeda explícita."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/don.html",
@@ -92,17 +104,31 @@
     "https://donjulio.meitre.com/",
     "https://guide.michelin.com/gb/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/don-julio",
     "https://www.the50.com/stories/News/latin-americas-50-best-restaurants-2024-list-revealed.html",
-    "https://www.argentina.travel/pt/novidades/don-julio-o-corte-de-carne-que-voce-nao-pode-deixar-de-experimentar"
+    "https://www.argentina.travel/pt/novidades/don-julio-o-corte-de-carne-que-voce-nao-pode-deixar-de-experimentar",
+    "https://espacioprensa.michelin.es/wp-content/uploads/2023/12/CP_GM-Argentina-2024_ES.pdf"
   ],
   "slug": "don-julio",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 44,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Julio_02.jpg?width=960",
     "page": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
     "author": "Roberto Fiadone",
     "license": "CC BY 4.0",
-    "caption": "Parrilla Don Julio, no bairro Palermo de Buenos Aires, em 2024",
-    "illustrative": false
+    "caption": "Balcão da parrilla do Don Julio, em Palermo, Buenos Aires, em dezembro de 2024. Imagem real do restaurante.",
+    "illustrative": false,
+    "kind": "interior",
+    "subject": "Balcão da grelha do Don Julio (2024)",
+    "alt": "Cozinheiros de touca branca atrás do balcão da grelha, sob quadros de bois",
+    "capturedAt": "2024-12-10",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Roberto Fiadone, CC BY 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -110,8 +136,18 @@
       "page": "https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg",
       "author": "Roberto Fiadone",
       "license": "CC BY 4.0",
-      "caption": "Outro ângulo do Don Julio, em dezembro de 2024",
-      "illustrative": false
+      "caption": "Salão do Don Julio em dezembro de 2024. Imagem real do restaurante.",
+      "illustrative": false,
+      "kind": "interior",
+      "subject": "Salão do Don Julio (2024)",
+      "alt": "Salão cheio, com mesas de toalha branca, piso de ladrilhos e toldo listrado na janela",
+      "capturedAt": "2024-12-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+      "attribution": "Roberto Fiadone, CC BY 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "founded": 1999,
@@ -119,17 +155,60 @@
     "Pablo Rivero"
   ],
   "photoReference": {
-    "kind": "fachada",
+    "kind": "ambientes",
     "publisher": "Don Julio — registros Wikimedia Commons",
     "url": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
-    "note": "Fotografia real da entrada do Don Julio, já reproduzida na capa com crédito e licença CC BY 4.0. Outra foto da casa aparece na galeria."
+    "note": "Fotografias reais do balcão da grelha e do salão do Don Julio, já reproduzidas com crédito e licença CC BY 4.0."
   },
-  "facade": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Julio_02.jpg?width=960",
-    "page": "https://commons.wikimedia.org/wiki/File:Don_Julio_02.jpg",
-    "author": "Roberto Fiadone",
-    "license": "CC BY 4.0",
-    "caption": "Parrilla Don Julio, no bairro Palermo de Buenos Aires, em 2024",
-    "illustrative": false
-  }
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.parrilladonjulio.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O The 50 Best publica outro telefone (+54 11 4831-9564); mantido o do site oficial. Página da Meitre não renderizou."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.parrilladonjulio.com/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Sem preço oficial."
+    },
+    {
+      "field": "practical.address",
+      "sourceUrl": "https://www.parrilladonjulio.com/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Site oficial diz Guatemala 4699; o The 50 Best diz 4691."
+    },
+    {
+      "field": "founded",
+      "sourceUrl": "https://www.the50.com/the-list/11-20/Don-Julio.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano de 1999 só na imprensa; texto diz fim dos anos 1990."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/don.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Parrilla em V, carvão de quebracho, família ligada à pecuária e fachadas avermelhadas sem fonte; retirados."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://espacioprensa.michelin.es/wp-content/uploads/2023/12/CP_GM-Argentina-2024_ES.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Estrela e Estrela Verde no comunicado da Michelin de 2023; manutenção em 2025 e 2026 só na imprensa."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Capa e galeria mostram o balcão e o salão; a antiga \"fachada\" duplicava a capa e foi retirada."
+    }
+  ]
 }

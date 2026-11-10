@@ -1,17 +1,17 @@
 {
-  "lede": "No endereço de 180 Strand, em Londres, Jeremy Chan e Iré Hassan-Odukale criaram um restaurante que escapa a rótulos regionais. O Ikoyi trabalha com produtos britânicos de estação e um repertório global de especiarias, em menus degustação de sabores intensos e construção meticulosa.",
+  "lede": "Hoje instalado em 180 Strand, em Londres, o Ikoyi de Jeremy Chan e Iré Hassan-Odukale é um restaurante que escapa a rótulos regionais. O Ikoyi trabalha com produtos britânicos de estação e um repertório global de especiarias, em menus degustação de sabores intensos e construção meticulosa.",
   "history": [
     "Os amigos Jeremy Chan e Iré Hassan-Odukale abriram o Ikoyi em Londres em 2017. O nome homenageia um bairro de Lagos, na Nigéria, mas a proposta nunca pretendeu se restringir a uma cozinha nacional: Chan buscou desenvolver uma linguagem própria de ingredientes britânicos, especiarias e técnicas de diferentes origens.",
-    "A primeira casa atraiu atenção pela ousadia aromática e ganhou o prêmio One To Watch em 2021 no The World's 50 Best Restaurants. O reconhecimento veio acompanhado de prêmios Michelin, até a conquista da segunda estrela, confirmada pelo guia na localização atual.",
-    "Em 2022, o Ikoyi mudou-se para 180 Strand, em Londres, com um salão projetado por David Thulstrup. Materiais como cobre, carvalho, pedra e metal criam uma atmosfera contida, alinhada à identidade da cozinha, ao mesmo tempo refinada e experimental.",
+    "A primeira casa atraiu atenção pela ousadia aromática e ganhou o prêmio One To Watch em 2021 no The World's 50 Best Restaurants. O reconhecimento veio acompanhado de estrelas Michelin: a primeira no guia anunciado em outubro de 2018 e a segunda em fevereiro de 2022, ainda no endereço original de St James's; as duas estrelas foram mantidas depois da mudança.",
+    "Em dezembro de 2022, o Ikoyi reabriu em 180 Strand, em Londres, com um salão projetado por David Thulstrup. Paredes de cobre e um teto curvo de malha metálica criam uma atmosfera contida, alinhada à identidade da cozinha, ao mesmo tempo refinada e experimental.",
     "Em 2025, alcançou o 15º lugar no ranking mundial e recebeu o prêmio Highest Climber. No ranking de 2026, figurou em 48º. A equipe continua construindo a carta em torno do abastecimento semanal de fazendas, pescadores e outros produtores britânicos."
   ],
   "cuisine": {
     "style": "Autoral com produtos britânicos e especiarias globais",
     "paragraphs": [
       "O restaurante descreve sua cozinha como baseada em especiarias e na micro-sazonalidade britânica. Vegetais cultivados lentamente, pescados de linha e carne de fornecedores locais são combinados a condimentos estudados ao longo de anos, com atenção à acidez, ao aroma e à profundidade dos molhos.",
-      "O jollof rice defumado é uma das preparações mais conhecidas do Ikoyi, mas aparece em versões próprias e com apresentações que se transformam. O Guia Michelin destaca ainda rodovalho maturado com missô de egusi e suya servido com creme de ervilhas.",
-      "A casa oferece uma degustação completa e uma opção mais curta. Não há uma lista fixa de pratos: a seleção segue os ingredientes disponíveis e pode mudar diariamente. O restaurante informa restrições para algumas alergias, que devem ser consultadas antes da reserva."
+      "O jollof rice defumado é uma das preparações mais conhecidas do Ikoyi, mas aparece em versões próprias e com apresentações que se transformam. O Guia Michelin, em texto de 2024, destacou rodovalho maturado com missô de egusi e moleja temperada com suya, servida com creme de ervilhas.",
+      "A casa oferece uma degustação completa e uma opção mais curta. Não há uma lista fixa de pratos: a seleção segue os ingredientes disponíveis e muda com frequência. O restaurante avisa que alergias e restrições alimentares não informadas com antecedência geram cobrança adicional."
     ]
   },
   "chef": {
@@ -28,7 +28,17 @@
         "author": "Ask4ugo",
         "license": "CC BY-SA 4.0",
         "caption": "Arroz jollof nigeriano, fotografado em 2012. Imagem ilustrativa da tradição culinária, NÃO do prato servido no Ikoyi.",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Arroz jollof nigeriano (2012)",
+        "alt": "Prato de arroz jollof avermelhado",
+        "capturedAt": "2012-09-24",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+        "attribution": "Ask4ugo, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -37,8 +47,8 @@
       "photo": null
     },
     {
-      "name": "Suya com creme de ervilhas",
-      "desc": "Preparação com referências ao suya, tempero aromático popular na África Ocidental, combinada a ervilhas.",
+      "name": "Moleja com suya e creme de ervilhas",
+      "desc": "Moleja temperada com suya, mistura de especiarias popular na África Ocidental, servida com creme de ervilhas, segundo os inspetores do Guia Michelin (2024).",
       "photo": null
     },
     {
@@ -49,12 +59,16 @@
   ],
   "awards": [
     {
+      "year": 2018,
+      "title": "Primeira estrela Michelin — Guia Michelin Grã-Bretanha e Irlanda 2019 (anunciado em outubro de 2018)"
+    },
+    {
       "year": 2021,
       "title": "One To Watch Award — The World's 50 Best Restaurants"
     },
     {
       "year": 2022,
-      "title": "Duas estrelas Michelin — reconhecimento do Ikoyi no Guia Michelin"
+      "title": "Segunda estrela Michelin — Guia Michelin Grã-Bretanha e Irlanda 2022"
     },
     {
       "year": 2025,
@@ -67,10 +81,6 @@
     {
       "year": 2026,
       "title": "The 50 Best Restaurants — nº 48"
-    },
-    {
-      "year": 2018,
-      "title": "Primeira estrela Michelin — Guia Michelin Grã-Bretanha e Irlanda"
     }
   ],
   "practical": {
@@ -78,7 +88,19 @@
     "website": "https://ikoyilondon.com/",
     "reservationUrl": "https://www.sevenrooms.com/explore/ikoyilondon/reservations/create/search/",
     "price": "Degustação completa £395; versão mais curta £180, conforme o site oficial consultado em novembro de 2026. Valores sujeitos a alterações.",
-    "reservation": "Reservas pelo SevenRooms, com abertura no primeiro dia de cada mês, ao meio-dia de Londres, para até dois meses à frente. Contato: reservations@ikoyilondon.com. Jantar de segunda a sexta e almoço de quarta a sexta; confirmar exigências alimentares antes de reservar."
+    "reservation": "Reservas on-line pelo SevenRooms, liberadas no dia 1º de cada mês, às 12h (GMT), para até dois meses à frente. Sem disponibilidade, escreva para reservations@ikoyilondon.com ou ligue para +44 20 3583 4660. O menu degustação é servido no jantar de segunda a sexta e no almoço de quarta a sexta. Alergias e restrições não avisadas geram cobrança adicional.",
+    "reservationMode": "online",
+    "phone": "+44 20 3583 4660",
+    "email": "reservations@ikoyilondon.com",
+    "priceDetails": {
+      "amount": 395,
+      "currency": "GBP",
+      "basis": "Menu degustação completo, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://ikoyilondon.com/",
+      "checkedAt": "2026-11-10",
+      "note": "Menu mais curto a £ 180; o site não menciona taxa de serviço, bebidas ou depósito."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/ikoyi.html",
@@ -93,6 +115,9 @@
     "https://guide.michelin.com/gb/en/article/dining-out/ikoyi-inspectors-two-michelin-star-restaurant-london"
   ],
   "slug": "ikoyi",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 48,
   "founded": 2017,
   "founders": [
@@ -105,7 +130,17 @@
     "author": "CVB",
     "license": "CC BY-SA 4.0",
     "caption": "Vista da rua Strand, em Londres, em 2018. Fotografia do contexto urbano, NÃO da fachada do Ikoyi nem de seu salão atual em 180 Strand.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Rua Strand, Londres (2018)",
+    "alt": "Vista da rua Strand, em Londres, com prédios históricos",
+    "capturedAt": "2018-07-11",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "CVB, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -120,5 +155,48 @@
         "note": "Apresentação da unidade atual, equipe e conceito culinário."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://ikoyilondon.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Página do SevenRooms não renderizou; telefone fixo acrescentado (há também o celular +44 7354 848264)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://ikoyilondon.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/the-list/ikoyi.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Fundado em St James's Market; carvalho e pedra no salão sem fonte (retirados)."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://guide.michelin.com/gb/en/article/dining-out/ikoyi-inspectors-two-michelin-star-restaurant-london",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Página do Michelin lida só por trecho de busca; o suya acompanha moleja."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.thestaffcanteen.com/News/michelin-guide-uk-2026-full-list",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legendas já diziam isso."
+    }
+  ]
 }

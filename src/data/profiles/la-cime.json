@@ -4,12 +4,12 @@
     "Yusuke Takada nasceu em Amami Ōshima, ilha subtropical no sul do Japão, e buscou formação em cozinha francesa. Trabalhou em Lyon e Paris, incluindo experiências em Le Taillevent e Le Meurice, antes de voltar ao Japão decidido a construir uma linguagem própria.",
     "Em 2010, abriu o La Cime no centro de Osaka. O nome francês remete ao cume de uma montanha, e a filosofia da casa descreve três elementos inseparáveis: o convidado, a cozinha e o espaço. A decoração foi reformulada em 2016, mantendo um ambiente íntimo de cerca de 20 lugares.",
     "A proposta incorpora a expressão japonesa keikoshōkon, registrada no Kojiki, que recomenda examinar o passado como orientação para o presente. Na prática, isso permite a Takada reinterpretar técnicas francesas clássicas utilizando ingredientes de várias regiões do Japão, inclusive cítricos e produtos de Amami.",
-    "O restaurante entrou no Asia's 50 Best Restaurants em 2018, diretamente no 17º lugar, recebendo o prêmio Highest New Entry. Em 2020, Takada venceu o Chefs' Choice Award votado por seus colegas. Em 2026, o La Cime ficou em 13º na Ásia, recebeu o título de melhor restaurante do Japão na lista e alcançou 52º no ranking mundial estendido."
+    "O restaurante entrou no Asia's 50 Best Restaurants em 2018, diretamente no 17º lugar, recebendo o prêmio Highest New Entry. Em 2020, Takada venceu o Chefs' Choice Award votado por seus colegas. Em 2025, voltou à lista mundial The World's 50 Best Restaurants, em 44º. Em 2026, o La Cime ficou em 13º na Ásia, recebeu o título de melhor restaurante do Japão na lista e alcançou o 52º lugar na lista mundial 51–100."
   ],
   "cuisine": {
     "style": "Francesa contemporânea com produtos e memória japoneses",
     "paragraphs": [
-      "A identidade do La Cime nasce do diálogo entre molhos, técnicas e apresentações da culinária francesa com produtos japoneses de estação. O Guia Michelin destaca a atenção a alimentos como kudzu, yuba, missô e wasabi, além de ingredientes vinculados às origens do chef em Amami Ōshima.",
+      "A identidade do La Cime nasce do diálogo entre molhos, técnicas e apresentações da culinária francesa com produtos japoneses de estação. A cozinha dá atenção a produtos japoneses de estação, além de ingredientes ligados às origens do chef em Amami Ōshima.",
       "O menu oficial consultado apresenta uma degustação de aproximadamente 13 passagens: cinco pequenos aperitivos, quatro entradas, dois pratos principais, sobremesas e pequenos doces. O número de etapas pode variar de acordo com o abastecimento e com a estação.",
       "Um clássico autoral é o Boudin Dog, porção de boudin noir envolta em massa escura colorida com carvão vegetal, criada para ser comida em uma mordida. O restaurante também já apresentou tempura de caranguejo com elementos vegetais. Esses pratos são referências de repertório e não a composição garantida do menu do dia."
     ]
@@ -26,7 +26,7 @@
     },
     {
       "name": "Tempura de caranguejo",
-      "desc": "Criação sazonal de caranguejo frito em técnica japonesa, acompanhada de ingredientes vegetais; documentada no perfil do 50 Best.",
+      "desc": "Caranguejo em tempurá polvilhado com pó de folhas de bertalha (madeira vine), já citado entre os pratos do menu de 13 etapas; composição sujeita à estação.",
       "photo": null
     },
     {
@@ -55,6 +55,10 @@
       "title": "Yusuke Takada — Chefs' Choice Award, Asia's 50 Best Restaurants"
     },
     {
+      "year": 2025,
+      "title": "The World's 50 Best Restaurants — nº 44 (reentrada)"
+    },
+    {
       "year": 2026,
       "title": "Asia's 50 Best Restaurants — nº 13 e The Best Restaurant in Japan"
     },
@@ -71,9 +75,13 @@
     "https://www.the50.com/restaurants/best-in-asia/the-list/La-Cime.html",
     "https://www.theworlds50best.com/stories/News/welcome-to-la-cime-home-of-yusuke-takada.html",
     "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
-    "https://commons.wikimedia.org/wiki/File:Dotonbori_ao_01.jpg"
+    "https://commons.wikimedia.org/wiki/File:Dotonbori_ao_01.jpg",
+    "https://www.the50.com/discovery/Establishments/Japan/Osaka/La-Cime.html"
   ],
   "slug": "la-cime",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 52,
   "founded": 2010,
   "founders": [
@@ -85,20 +93,84 @@
     "author": "Sakai Yayoi",
     "license": "CC0 1.0",
     "caption": "Dōtonbori, Osaka, fotografado em agosto de 2026. Vista contextual da cidade; NÃO representa a entrada ou o interior do La Cime, em Kawaramachi.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Dōtonbori, Osaka (2026)",
+    "alt": "Canal e fachadas comerciais de Dōtonbori, em Osaka",
+    "capturedAt": "2026",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Sakai Yayoi, CC0 1.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "address": "1º andar, Kawaramachi Usami Building, 3-2-15 Kawaramachi, Chūō-ku, Osaka 541-0048, Japão",
     "website": "https://www.la-cime.com/",
     "reservationUrl": "https://www.la-cime.com/?page_id=6",
-    "reservation": "Reserva pela página oficial (opções em japonês e inglês) ou pelo telefone +81 6-6222-2010. Cerca de 20 lugares; serve almoço e jantar, fechado aos domingos e em datas específicas. A reserva pode exigir confirmação por e-mail; cancelamentos tardios podem gerar cobrança. A página oficial apresenta versões diferentes para a antecedência permitida, portanto confirme no sistema.",
-    "price": "Menu de aproximadamente 13 etapas: ¥ 35.200 por pessoa no almoço e no jantar, com impostos e serviço incluídos, segundo a página oficial consultada em novembro de 2026. Sala privativa: adicional de 15%."
+    "reservation": "Reserva pela página oficial (opções em japonês e inglês) ou pelo telefone +81 6-6222-2010. Cerca de 20 lugares; almoço das 12h às 15h e jantar das 18h às 22h, segundo o site oficial; fechado aos domingos, um dia por mês, no Ano-Novo e nas férias de verão. A reserva pode exigir confirmação por e-mail; cancelamentos tardios podem gerar cobrança. A página oficial apresenta versões diferentes para a antecedência permitida, portanto confirme no sistema.",
+    "price": "Menu de aproximadamente 13 etapas: ¥ 35.200 por pessoa no almoço e no jantar, com impostos e serviço incluídos, segundo a página oficial consultada em novembro de 2026. Sala privativa: adicional de 15%.",
+    "reservationMode": "online",
+    "phone": "+81 6-6222-2010",
+    "priceDetails": {
+      "amount": 35200,
+      "currency": "JPY",
+      "basis": "Menu de 13 etapas, por pessoa, no almoço e no jantar",
+      "taxesIncluded": true,
+      "sourceUrl": "https://www.la-cime.com/",
+      "checkedAt": "2026-11-10",
+      "note": "Impostos e serviço incluídos; sala privativa (até seis pessoas) com adicional de 15%."
+    }
   },
   "gallery": [],
   "photoReference": {
-    "kind": "fachada",
+    "kind": "ambientes",
     "publisher": "The 50 Best — matéria sobre La Cime",
     "url": "https://www.theworlds50best.com/stories/News/welcome-to-la-cime-home-of-yusuke-takada.html",
-    "note": "A matéria inclui fotografias reais da fachada preta do La Cime e do chef Yusuke Takada. A fotografia da capa do A Carta é apenas uma vista licenciada de Osaka; não é o restaurante."
-  }
+    "note": "A matéria inclui fotografias reais do salão e de pratos do La Cime. A fotografia da capa do A Carta é apenas uma vista licenciada de Osaka; não é o restaurante."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.la-cime.com/?page_id=6",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O The 50 Best indica outros horários (almoço só aos sábados); prevalece o site oficial. Sem e-mail publicado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.la-cime.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Japan/Osaka/La-Cime.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 44º lugar mundial de 2025 (reentrada); o ano da entrada anterior não foi conferido."
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://www.la-cime.com/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Frase atribuída ao Guia Michelin (kudzu, yuba, missô, wasabi) sem leitura do guia; retirada."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Japan/Osaka/La-Cime.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Nenhum prato confirmado no menu atual; o site oficial não lista pratos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; nota da referência externa corrigida (não há fachada preta na matéria)."
+    }
+  ]
 }

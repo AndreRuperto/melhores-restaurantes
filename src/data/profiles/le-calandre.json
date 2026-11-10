@@ -1,9 +1,9 @@
 {
-  "lede": "O Le Calandre, em Sarmeola di Rubano, perto de Pádua, é o coração do grupo Alajmo e uma das casas mais influentes da alta cozinha italiana. Inaugurado pelos pais Rita e Erminio em 1981, tornou-se o laboratório criativo de Massimiliano Alajmo, o chef que conquistou a terceira estrela Michelin aos 28 anos.",
+  "lede": "O Le Calandre, em Sarmeola di Rubano, perto de Pádua, é o coração do grupo Alajmo e uma das casas mais influentes da alta cozinha italiana. Assumido pelos pais Rita e Erminio em 1981, tornou-se o laboratório criativo de Massimiliano Alajmo, o chef que conquistou a terceira estrela Michelin aos 28 anos.",
   "history": [
     "A história começa em 1981, quando Rita Chimetto e Erminio Alajmo assumiram o restaurante de um hotel em Sarmeola di Rubano, rebatizando-o de Le Calandre. A primeira estrela Michelin veio em 1992, ainda sob a cozinha de Rita, que construiu a reputação inicial da casa com uma gastronomia atenta ao produto.",
     "Depois de passagens de formação fora da Itália, Massimiliano, conhecido como Max, entrou na cozinha em 1993 e assumiu sua direção em 1994, enquanto seu irmão Raffaele, o Raf, desenvolvia o serviço e a gestão. A segunda estrela foi conquistada em 1997. O reconhecimento máximo chegou em novembro de 2002, para o guia de 2003, quando Max tinha 28 anos.",
-    "Os irmãos transformaram o restaurante em referência de uma culinária que alterna memória e experimentação. A decoração abandonou parte da formalidade convencional: mesas de madeira, iluminação contida e louças desenhadas em parceria com a equipe reforçam a ideia de que formas, texturas e serviço integram o prato.",
+    "Os irmãos transformaram o restaurante em referência de uma culinária que alterna memória e experimentação. A decoração abandonou parte da formalidade convencional: as mesas foram esculpidas na madeira de um único freixo de cerca de 300 anos, reforçando a ideia de que formas, texturas e serviço integram o prato.",
     "A família expandiu sua atuação para outros endereços, mas o Le Calandre continua o laboratório central do grupo. Em 2026 mantinha três estrelas Michelin e foi classificado em 43º no The 50 Best Restaurants, reafirmando a relevância de um projeto que não ficou preso aos seus próprios pratos históricos."
   ],
   "cuisine": {
@@ -66,8 +66,20 @@
     "address": "Via Liguria 1, Sarmeola di Rubano, 35030 Rubano (PD), Itália",
     "website": "https://alajmo.it/en/pages/homepage-le-calandre",
     "reservationUrl": "https://alajmo.it/en/pages/booking-le-calandre",
-    "price": "Menus degustação Classico, Max e Raf; valores atuais devem ser consultados na carta oficial antes da reserva.",
-    "reservation": "Reservas pela página oficial de Le Calandre, telefone +39 049 630303 ou e-mail booking@alajmo.it. Terça-feira: jantar; quarta a sábado: almoço e jantar; fechado domingo e segunda (sujeito a datas especiais)."
+    "price": "Menus degustação Classico (€ 325), Max (€ 310) e Raf (€ 310) por pessoa, servidos para a mesa inteira; à la carte, 3, 4 ou 5 pratos por € 210, € 250 ou € 280. Bebidas não constam da carta; valores da carta de outono de 2026.",
+    "reservation": "Reservas pela página oficial de Le Calandre, telefone +39 049 630303 ou e-mail booking@alajmo.it. Terça-feira: jantar; quarta a sábado: almoço e jantar; fechado domingo e segunda. Fechado de 24 a 27 de dezembro de 2026 e de 1º a 6 de janeiro de 2027, com aberturas especiais em 21, 22, 28 e 29 de dezembro.",
+    "reservationMode": "contact",
+    "phone": "+39 049 630303",
+    "email": "booking@alajmo.it",
+    "priceDetails": {
+      "amount": 325,
+      "currency": "EUR",
+      "basis": "Menu degustação Classico, por pessoa (Max e Raf a € 310)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0508/7356/5353/files/Calandre_46X25_AUTUNNO26-ENG.pdf?v=1790068488",
+      "checkedAt": "2026-11-10",
+      "note": "Carta de outono de 2026; não menciona bebidas, couvert, serviço ou impostos; à la carte de 3, 4 ou 5 pratos a € 210, € 250 ou € 280."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/le-calandre.html",
@@ -79,9 +91,13 @@
     "https://alajmo.it/en/pages/booking-le-calandre",
     "https://guide.michelin.com/us/en/veneto/rubano/restaurant/le-calandre",
     "https://www.relaischateaux.com/us/restaurant/ristorante-le-calandre/",
-    "https://commons.wikimedia.org/wiki/File:Massimiliano_Alajmo_by_Mario_Reggiani.jpg"
+    "https://commons.wikimedia.org/wiki/File:Massimiliano_Alajmo_by_Mario_Reggiani.jpg",
+    "https://cdn.shopify.com/s/files/1/0508/7356/5353/files/Calandre_46X25_AUTUNNO26-ENG.pdf?v=1790068488"
   ],
   "slug": "le-calandre",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 43,
   "founded": 1981,
   "founders": [
@@ -94,7 +110,17 @@
     "author": "Mario Reggiani",
     "license": "CC BY-SA 3.0",
     "caption": "Massimiliano Alajmo, chef do Le Calandre, fotografado em 2010. Retrato histórico do chef, não imagem do restaurante.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "chef",
+    "subject": "Massimiliano Alajmo (2010)",
+    "alt": "Retrato do chef Massimiliano Alajmo",
+    "capturedAt": "2010-05-11",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Mario Reggiani, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -102,5 +128,54 @@
     "publisher": "Le Calandre / Alajmo — site oficial",
     "url": "https://alajmo.it/en/pages/homepage-le-calandre",
     "note": "Fotos atuais dos salões, menus e pratos; sem licença pública de reutilização identificada."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://alajmo.it/en/pages/booking-le-calandre",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Página de reserva com campo de e-mail; não foi possível saber se confirma na hora ou é pedido. Canal registrado como contato."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0508/7356/5353/files/Calandre_46X25_AUTUNNO26-ENG.pdf?v=1790068488",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://alajmo.it/en/pages/the-story",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Em 1981 os pais assumiram um restaurante de hotel já existente; louças desenhadas com a equipe sem fonte (retirado)."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://alajmo.it/en/pages/the-story",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Nascimento em Pádua só na Wikipédia."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://alajmo.it/en/pages/the-story",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0508/7356/5353/files/Calandre_46X25_AUTUNNO26-ENG.pdf?v=1790068488",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Retrato histórico do chef, de 2010."
+    }
+  ]
 }

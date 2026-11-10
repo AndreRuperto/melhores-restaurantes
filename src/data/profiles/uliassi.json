@@ -3,7 +3,7 @@
   "history": [
     "O restaurante Uliassi abriu em 27 de maio de 1990, um domingo, pelas mãos dos irmãos Mauro e Catia Uliassi. Na época, era pouco mais que uma pequena construção junto à praia, no encontro do porto-canal com o Adriático. Mauro comandava a cozinha e Catia organizava o atendimento em um projeto que começou com espírito familiar.",
     "Mauro estudou hotelaria, trabalhou em restaurantes e chegou a lecionar culinária. Ao longo dos anos, a casa passou da cozinha de praia para menus de pesquisa, mantendo um diálogo permanente com os sabores que o chef conhecia desde criança: pescados, moluscos, massas, ervas e aromas das férias no litoral.",
-    "O reconhecimento Michelin veio progressivamente. A segunda estrela chegou no guia de 2009 e a terceira na edição de 2019. A equipe estruturou o trabalho criativo em um laboratório anual, o Lab, que apresenta novas receitas a cada temporada. Ao lado desse repertório experimental, o menu Classico mantém as preparações que marcaram a trajetória da casa.",
+    "O reconhecimento Michelin veio progressivamente. A segunda estrela chegou no fim dos anos 2000 e a terceira na edição de 2019. A equipe estruturou o trabalho criativo em um laboratório anual, o Lab, que apresenta novas receitas a cada temporada. Ao lado desse repertório experimental, o menu Classico mantém as preparações que marcaram a trajetória da casa.",
     "Em 2022, o Uliassi alcançou o 12º lugar na lista mundial The World's 50 Best Restaurants, recebendo o prêmio Highest New Entry. Em 2025 estava em 43º e, em 2026, ficou em 51º. A casa segue administrada em família, com Catia na hospitalidade e Mauro desenvolvendo as propostas culinárias."
   ],
   "cuisine": {
@@ -11,12 +11,12 @@
     "paragraphs": [
       "A cozinha de Mauro Uliassi usa lembranças sensoriais como ponto de partida: o cheiro de um calamar na brasa, a maresia, os molhos de massa e os pequenos pratos de praia. Esses sabores são reinterpretados com técnica atual e combinações surpreendentes, sem perder o caráter reconhecível do ingrediente.",
       "O site oficial apresenta três percursos em 2026: Classico, que reúne pratos históricos; Lab, dedicado às invenções da temporada; e Caccia, voltado a preparações de caça e sabores do interior. A degustação é servida para a mesa inteira, com regras específicas de reserva.",
-      "No Classico 2026 aparecem o espaguete defumado com vôngoles e tomates datterino assados, camarão-vermelho com laranja e canela, linguado com alface e bergamota e a sobremesa Senigallia-Brest. Já o Lab 2026 explora combinações como camarão ao curry verde e massa com manteiga, anchovas, lúpulo e mirtilos."
+      "No Classico 2026 aparecem o espaguete defumado com vôngoles e tomates datterino assados, camarão-vermelho com laranja e canela, linguado com alface e bergamota e o pré-sobremesa Senigallia-Brest. Já o Lab 2026 explora combinações como camarão ao curry verde e massa com manteiga, anchovas, lúpulo e mirtilos."
     ]
   },
   "chef": {
     "name": "Mauro Uliassi (chef) e Catia Uliassi (hospitalidade)",
-    "bio": "Nascido e criado em Senigallia, Mauro Uliassi estudou hotelaria, trabalhou em cozinhas e ensinou culinária antes de abrir o restaurante em 1990 com a irmã Catia. Ele lidera a criação gastronômica e o laboratório anual de novos pratos; Catia, formada na convivência com clientes no bar da família, conduz o salão e a experiência de hospitalidade. Mauro Paolini integra a equipe como chef executivo."
+    "bio": "Nascido e criado em Senigallia, Mauro Uliassi estudou hotelaria, trabalhou em cozinhas e ensinou culinária antes de abrir o restaurante em 1990 com a irmã Catia. Ele lidera a criação gastronômica e o laboratório anual de novos pratos; Catia, formada na convivência com clientes no bar da família, conduz o salão e a experiência de hospitalidade."
   },
   "dishes": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "Rimini Fest",
-      "desc": "Espetinhos de pequenos lulas grelhadas e um complemento gelado cítrico, evocando a memória da praia.",
+      "desc": "Espetinhos de pequenas lulas acompanhados de doses geladas de citronette, evocando a memória da praia.",
       "photo": null
     },
     {
@@ -46,14 +46,14 @@
     },
     {
       "name": "Senigallia-Brest",
-      "desc": "Sobremesa de massa choux, chantilly de baunilha, cereja e azeitonas negras caramelizadas, presente no Classico 2026.",
+      "desc": "Pré-sobremesa de massa choux, chantilly de baunilha, cereja e azeitonas negras caramelizadas, presente no Classico 2026.",
       "photo": null
     }
   ],
   "awards": [
     {
       "year": 2009,
-      "title": "Segunda estrela Michelin — Guia Michelin Itália"
+      "title": "Segunda estrela Michelin — Guia Michelin Itália (2008 ou 2009, conforme a fonte)"
     },
     {
       "year": 2019,
@@ -90,13 +90,28 @@
     "https://commons.wikimedia.org/wiki/File:Senigallia_spiaggia_di_velluto._01.jpg"
   ],
   "slug": "uliassi",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 51,
   "practical": {
     "website": "https://uliassi.com/",
     "address": "Via Banchina di Levante 6, 60019 Senigallia (AN), Itália",
     "reservationUrl": "https://uliassi.com/prenotazioni/",
-    "reservation": "Reservas pela página oficial. Acima de quatro pessoas, a casa solicita contato pelo telefone +39 071 65463; menus Lab e Caccia exigem reserva antecipada. Serviço de quarta a domingo, almoço e jantar, conforme o Guia Michelin. Confirmar eventuais fechamentos sazonais.",
-    "price": "Classico e Lab: € 280 por pessoa; Easy Classico, de seis etapas, € 260, conforme a carta oficial de 2026. Bebidas não incluídas e valores sujeitos a revisão."
+    "reservation": "Reservas online pela página oficial, para até quatro pessoas; para grupos maiores ou reservas no mesmo dia, ligar para +39 071 65463 ou escrever para info@uliassi.com. Os menus Lab e Caccia só são servidos com reserva. O restaurante funciona de abril a dezembro, de quarta a domingo, no almoço e no jantar, segundo o site oficial. Cancelamentos com menos de 48 horas de antecedência ou não comparecimento podem gerar cobrança de € 150 por pessoa.",
+    "price": "Classico, Lab e Caccia: € 280 por pessoa; Easy Classico, de seis etapas escolhidas por Catia, € 260, segundo o cardápio do site oficial. Bebidas não incluídas; o site não informa taxa de serviço ou couvert.",
+    "reservationMode": "online",
+    "phone": "+39 071 65463",
+    "email": "info@uliassi.com",
+    "priceDetails": {
+      "amount": 280,
+      "currency": "EUR",
+      "basis": "Menus degustação Classico, Lab ou Caccia, por pessoa (Easy Classico a € 260)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://uliassi.com/menu/",
+      "checkedAt": "2026-11-10",
+      "note": "Bebidas não incluídas; serviço e couvert não informados; o cardápio não traz o ano."
+    }
   },
   "founded": 1990,
   "founders": [
@@ -109,7 +124,17 @@
     "author": "Lorenzo Cicconi Massi",
     "license": "CC BY-SA 4.0",
     "caption": "Retrato de Mauro Uliassi, chef e cofundador do restaurante, em junho de 2017. Não é uma fotografia do salão ou da fachada.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "chef",
+    "subject": "Mauro Uliassi (2017)",
+    "alt": "Retrato do chef Mauro Uliassi",
+    "capturedAt": "2017-06-09",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Lorenzo Cicconi Massi, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -118,7 +143,17 @@
       "author": "Massimo Mariselli",
       "license": "CC BY-SA 4.0",
       "caption": "A praia de Senigallia e a Rotonda a Mare em 2014, contexto geográfico da cozinha do Uliassi; não mostra o restaurante.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Praia de Senigallia e Rotonda a Mare (2014)",
+      "alt": "Praia de areia com a Rotonda a Mare sobre o mar",
+      "capturedAt": "2014-07-05",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+      "attribution": "Massimo Mariselli, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "photoReference": {
@@ -126,5 +161,48 @@
     "publisher": "Uliassi — galeria e site oficial",
     "url": "https://uliassi.com/",
     "note": "Fotografias atuais do próprio restaurante, do salão e dos pratos na fonte original. O A Carta publica apenas o retrato do chef e a paisagem com licenças explicitadas."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://uliassi.com/prenotazioni/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Horários do site oficial (o texto antes atribuía ao Guia Michelin); datas exatas da temporada 2026 não conferidas."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://uliassi.com/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://uliassi.com/en/mauro-and-catia/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Título de chef executivo de Mauro Paolini sem fonte; frase retirada."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://uliassi.com/en/mauro-and-catia/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Segunda estrela datada de 2008 ou de 2009 conforme a fonte. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://uliassi.com/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Senigallia-Brest é o pré-sobremesa do Classico; ingredientes não conferidos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Retrato do chef e paisagem da praia, com legendas corretas."
+    }
+  ]
 }

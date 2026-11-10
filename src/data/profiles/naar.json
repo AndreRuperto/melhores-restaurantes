@@ -1,7 +1,7 @@
 {
   "lede": "Escondido entre pinheiros nas encostas próximas de Kasauli, o Naar é a interpretação de Prateek Sadhu para as tradições do Himalaia. O nome significa 'fogo' em caxemir e resume uma cozinha de brasas, ervas silvestres e ingredientes de montanha organizada ao ritmo de seis estações.",
   "history": [
-    "Nascido na Caxemira, Prateek Sadhu desenvolveu sua carreira em restaurantes internacionais, com passagens por Alinea, The French Laundry e Le Bernardin. Mais tarde foi um dos fundadores do Masque, em Mumbai, antes de decidir dedicar-se a uma pesquisa aprofundada sobre ingredientes e comunidades do Himalaia.",
+    "Nascido na Caxemira, Prateek Sadhu formou-se no Culinary Institute of America e passou por cozinhas como Alinea, Noma e The French Laundry. Foi chef executivo do Masque, em Mumbai, desde a abertura em 2016 até 2022, antes de decidir dedicar-se a uma pesquisa aprofundada sobre ingredientes e comunidades do Himalaia.",
     "A partir de viagens pela faixa montanhosa do norte da Índia, Sadhu reuniu técnicas de conservação, preparações domésticas e conhecimento de pequenos produtores. Escolheu uma área de mata perto de Kasauli, no Himachal Pradesh, para criar uma experiência em que a própria viagem e a paisagem fazem parte da refeição.",
     "O Naar abriu para serviço em novembro de 2023. O nome vem da palavra caxemir para fogo, numa referência tanto ao modo de cozinhar sobre brasas quanto às memórias do chef. Um salão com amplas janelas projeta-se para os vales, e a cozinha constrói um percurso inspirado nas seis estações tradicionais da região.",
     "Em 2026, o Naar chegou ao 30º lugar no Asia's 50 Best Restaurants, estreou no ranking mundial em 49º e recebeu o Sustainable Restaurant Award, reconhecimento ao trabalho com produtores e à atenção ao impacto ambiental."
@@ -16,7 +16,7 @@
   },
   "chef": {
     "name": "Prateek Sadhu",
-    "bio": "Natural da Caxemira, trabalhou em cozinhas de referência internacional e cofundou o Masque, em Mumbai. Após uma pesquisa de campo no norte da Índia, abriu o Naar em 2023 para criar uma cozinha contemporânea baseada nas montanhas do Himalaia, suas comunidades e seus ingredientes."
+    "bio": "Natural da Caxemira, trabalhou em cozinhas de referência internacional e comandou o Masque, em Mumbai, de 2016 a 2022. Após uma pesquisa de campo no norte da Índia, abriu o Naar em 2023 para criar uma cozinha contemporânea baseada nas montanhas do Himalaia, suas comunidades e seus ingredientes."
   },
   "dishes": [
     {
@@ -59,11 +59,23 @@
     }
   ],
   "practical": {
-    "address": "Amaya, VPO Darwa, região de Kasauli, distrito de Solan, Himachal Pradesh 173206, Índia",
+    "address": "Amaya, VPO Darwa, região de Kasauli, distrito de Solan, Himachal Pradesh, Índia",
     "website": "https://restaurantnaar.com/",
     "reservationUrl": "https://restaurantnaar.com/reservations",
-    "reservation": "Reservas pelo canal oficial: +91 88004 22053, WhatsApp ou reservas@restaurantnaar.com. Terça a domingo, almoço a partir de 12h30 e jantar a partir de 18h30; fechado segunda-feira. A experiência dura aproximadamente 2h30. Confirmar o trajeto e as condições da visita com antecedência.",
-    "price": "Menu degustação multietapas com mudanças sazonais; preço atual não confirmado no site oficial aberto. Consultar a equipe antes da reserva."
+    "reservation": "Reservas por telefone ou WhatsApp (+91 88004 22053, atendimento das 12h às 20h) ou pelo e-mail reservations@restaurantnaar.com. A mesa só é confirmada com pagamento antecipado integral. Terça a domingo, almoço a partir de 12h30 e jantar a partir de 18h30; fechado segunda-feira. A experiência dura aproximadamente 2h30. Confirmar o trajeto e as condições da visita com antecedência.",
+    "price": "Menu degustação multietapas (vegetariano ou não vegetariano): Rs. 7.500 por pessoa, sem bebidas, impostos e taxa de serviço opcional, conforme a página oficial de reservas consultada em novembro de 2026. Harmonizações à parte: coquetéis Rs. 5.000, sem álcool Rs. 3.500 e vinhos Rs. 6.500.",
+    "reservationMode": "phone",
+    "phone": "+91 88004 22053",
+    "email": "reservations@restaurantnaar.com",
+    "priceDetails": {
+      "amount": 7500,
+      "currency": "INR",
+      "basis": "Menu degustação multietapas (vegetariano ou não), por pessoa, sem bebidas",
+      "taxesIncluded": false,
+      "sourceUrl": "https://restaurantnaar.com/reservations",
+      "checkedAt": "2026-11-10",
+      "note": "Sem impostos e sem a taxa de serviço opcional; pagamento antecipado integral; harmonizações de Rs. 3.500 a Rs. 6.500; página sem data."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/naar.html",
@@ -77,6 +89,9 @@
     "https://commons.wikimedia.org/wiki/File:Kasauli_Hills_Snow.jpg"
   ],
   "slug": "naar",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 49,
   "founded": 2023,
   "founders": [
@@ -88,7 +103,17 @@
     "author": "Pankykh",
     "license": "CC BY-SA 4.0",
     "caption": "Contrafortes do Himalaia vistos de Chandigarh após uma nevada, em fevereiro de 2021. Fotografia da região ampla, NÃO das instalações do Naar.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Contrafortes do Himalaia vistos de Chandigarh (2021)",
+    "alt": "Montanhas com neve no alto, ao fundo de uma paisagem",
+    "capturedAt": "2021-02-04",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Pankykh, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -103,5 +128,49 @@
         "note": "Galeria editorial com imagens reais de Naar, para visualização na publicação original."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://restaurantnaar.com/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "E-mail corrigido (reservations@, não reservas@)."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://restaurantnaar.com/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Página oficial sem data."
+    },
+    {
+      "field": "practical.address",
+      "sourceUrl": "https://www.the50.com/the-list/naar.html",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Duas páginas do The 50 Best trazem CEPs diferentes (173206 e 173236); CEP retirado."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.the50.com/the-list/naar.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Cofundação do Masque só na imprensa; texto diz que comandou a cozinha de 2016 a 2022."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/naar.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pratos documentados pelo The 50 Best; o site do Naar não lista pratos."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

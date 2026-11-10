@@ -10,8 +10,8 @@
     "style": "Cozinha colombiana contemporânea, sazonal e orientada por produtores",
     "paragraphs": [
       "A ideia não é reproduzir receitas tradicionais de forma literal: técnicas aprendidas em cozinhas internacionais ajudam a mostrar novos lados de tubérculos andinos, vegetais, ervas, pescados do Pacífico e ingredientes pouco usuais. Molhos intensos, fermentações e combinações de texturas servem ao sabor dos produtos.",
-      "O restaurante oferece à la carte e degustação, com versões que mudam segundo a disponibilidade. No cardápio à la carte publicado em novembro de 2026 aparecem arepa de mandioca com molho de vegetais grelhados, pão de algas com curry, salada de cenoura com mochi e creme de cabra, truta grelhada com beldroega e outros pratos que combinam território colombiano e invenção.",
-      "Os pratos citados são referências documentadas na carta consultada, não garantias de disponibilidade na data da visita. O serviço combina a técnica de uma cozinha de pesquisa com a informalidade de um restaurante de bairro."
+      "O cardápio muda segundo a pesquisa, a exploração e a sazonalidade. No térreo, pratos à la carte para compartilhar; no primeiro andar, o menu degustação.",
+      "Os pratos citados vêm das descrições do Latin America's 50 Best e podem não estar no menu da visita. O serviço combina a técnica de uma cozinha de pesquisa com a informalidade de um restaurante de bairro."
     ]
   },
   "chef": {
@@ -20,29 +20,16 @@
   },
   "dishes": [
     {
-      "name": "Arepa de mandioca",
-      "desc": "Arepa feita com mandioca, servida com molho de vegetais grelhados no cardápio à la carte de novembro de 2026.",
-      "photo": null
+      "name": "Palmito com rambutã",
+      "desc": "Combinação de palmito e rambutã citada pelo Latin America's 50 Best; pode não integrar o menu atual."
     },
     {
-      "name": "Pão de algas",
-      "desc": "Massa folhada com curry de algas, combinação indicada no menu à la carte.",
-      "photo": null
+      "name": "Tartare de carne com yacón",
+      "desc": "Tartare bovino com yacón e garum de cogumelos, segundo o Latin America's 50 Best; pode não integrar o menu atual."
     },
     {
-      "name": "Salada de cenoura",
-      "desc": "Cenoura com mochi, sementes de girassol e creme de queijo de cabra.",
-      "photo": null
-    },
-    {
-      "name": "Truta grelhada",
-      "desc": "Truta com beldroega, iogurte de cabra e amendoim fresco.",
-      "photo": null
-    },
-    {
-      "name": "Peixe cru com huacatay",
-      "desc": "Peixe cru acompanhado de gazpacho, pepino, pera e huacatay, conforme a carta consultada.",
-      "photo": null
+      "name": "Caracol-do-mar",
+      "desc": "Preparação com caracol marinho mencionada pelo Latin America's 50 Best; pode não integrar o menu atual."
     }
   ],
   "awards": [
@@ -86,9 +73,21 @@
   "practical": {
     "address": "Calle 65 #4-76, Chapinero Alto, Bogotá, Colômbia",
     "website": "https://www.elchato.co/",
-    "reservationUrl": "https://www.elchato.co/",
-    "reservation": "Usar o botão 'Reservar' no site oficial ou entrar em contato pelo WhatsApp/telefone +57 321 971 8676 e pelo e-mail reservas@elchato.co. Há serviço à la carte e degustação; disponibilidade deve ser confirmada na plataforma.",
-    "price": "À la carte e menu degustação. A carta publicada em 5/11/2026 informa pratos individuais a partir de COP 24.000; preços e composição podem mudar."
+    "reservationUrl": "https://www.apparta.co/el-chato/reservas",
+    "reservation": "Reservas online pela plataforma Apparta, indicada no botão \"Reservar\" do site oficial, ou pelo WhatsApp/telefone +57 321 971 8676 e pelo e-mail reservas@elchato.co. Funciona de segunda e terça das 14h às 23h, de quarta a sábado das 12h às 23h e aos domingos das 12h às 17h. Há serviço à la carte e degustação; disponibilidade deve ser confirmada na plataforma.",
+    "price": "À la carte e menu degustação. O site oficial não publica preços nem a carta; valores devem ser consultados no momento da reserva.",
+    "reservationMode": "online",
+    "phone": "+57 321 971 8676",
+    "email": "reservas@elchato.co",
+    "priceDetails": {
+      "amount": null,
+      "currency": "COP",
+      "basis": "À la carte e menu degustação; sem preço oficial publicado",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.elchato.co/",
+      "checkedAt": "2026-11-10",
+      "note": "Sem carta nem preço no site oficial; a página da Apparta não renderizou e a do OpenTable ficou ilegível."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/el-chato.html",
@@ -98,9 +97,13 @@
     "https://www.elchato.co/index-en.html",
     "https://www.the50.com/restaurants/best-in-latin-america/the-list/El-Chato.html",
     "https://www.opentable.com/r/el-chato-bogota?lang=es",
-    "https://commons.wikimedia.org/wiki/File:2017_Bogot%C3%A1_fachada_calle_64_con_carrera_3.jpg"
+    "https://commons.wikimedia.org/wiki/File:2017_Bogot%C3%A1_fachada_calle_64_con_carrera_3.jpg",
+    "https://www.apparta.co/el-chato/reservas"
   ],
   "slug": "el-chato",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 46,
   "founded": 2017,
   "founders": [
@@ -111,8 +114,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:2017_Bogot%C3%A1_fachada_calle_64_con_carrera_3.jpg",
     "author": "Felipe Restrepo Acosta",
     "license": "CC BY-SA 4.0",
-    "caption": "Casa na Calle 64 com Carrera 3, no bairro Chapinero, em Bogotá (2017). Imagem do entorno: NÃO é a fachada do El Chato, que fica na Calle 65 #4-76.",
-    "illustrative": true
+    "caption": "Trecho da Calle 64 com Carrera 3, no bairro Chapinero, em Bogotá (2017). Imagem do entorno: NÃO é a fachada do El Chato, que fica na Calle 65 #4-76.",
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Calle 64 com Carrera 3, Chapinero (2017)",
+    "alt": "Rua com prédios de apartamentos no bairro Chapinero, em Bogotá",
+    "capturedAt": "2017-10-14",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Felipe Restrepo Acosta, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -120,5 +133,48 @@
     "publisher": "El Chato — galeria oficial",
     "url": "https://www.elchato.co/",
     "note": "Fotografias reais de pratos, equipe e salão no site da casa; os direitos de republicação não foram identificados, então ficam apenas vinculadas à fonte original."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.elchato.co/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O botão \"Reservar\" leva à Apparta; link corrigido."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.elchato.co/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "A \"carta de 5/11/2026\" com pratos a partir de COP 24.000 não foi encontrada; afirmação retirada."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/El-Chato.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Os cinco pratos anteriores não tinham fonte; trocados pelos citados pelo Latin America's 50 Best."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/El-Chato.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Posições de 2018 a 2023 e o nº 54 de 2025 com fonte de imprensa; o 7º lugar aparece datado de 2019 ou 2020 conforme a fonte."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-latin-america/the-list/El-Chato.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Legenda da capa corrigida: a foto mostra a rua, não uma casa."
+    }
+  ]
 }

@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-10",
+  "env": "servidor de desenvolvimento Vite, painel de navegador Chromium do Claude Desktop",
+  "method": "scrollWidth vs clientWidth e elementos fora da viewport (exceto SVG decorativo recortado); imagens sem atributo alt (bandeiras decorativas com alt vazio não contam); links da seção Antes de ir",
+  "defectFound": null,
+  "consoleErrors": 0,
+  "cases": [
+    {
+      "slug": "le-calandre",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "le-calandre",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "don-julio",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "don-julio",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "mayta",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "mayta",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "el-chato",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "el-chato",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "le-louis-xv-alain-ducasse-a-lhotel-de-paris",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "ikoyi",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "ikoyi",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "naar",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "naar",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "saint-peter",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "saint-peter",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "uliassi",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "uliassi",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "la-cime",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "la-cime",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    }
+  ]
+}

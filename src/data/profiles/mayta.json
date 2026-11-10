@@ -2,7 +2,7 @@
   "lede": "Em Miraflores, Lima, o Mayta é o projeto mais pessoal do chef Jaime Pesaque: um percurso pela diversidade agrícola e cultural do Peru, com ingredientes dos Andes, da Amazônia e da costa apresentados com técnica contemporânea. Seu nome significa 'terra nobre' em aimará.",
   "history": [
     "Jaime Pesaque abriu o Mayta em 2008 depois de se formar em escolas de culinária e passar por restaurantes europeus, incluindo El Celler de Can Roca, na Espanha. Desde o começo, o projeto buscou apresentar produtos peruanos em uma linguagem moderna, sem abandonar o reconhecimento de sua origem.",
-    "Em 2018, no aniversário de dez anos da casa, o restaurante passou por uma reformulação da experiência e do espaço. O novo formato ganhou protagonismo em Miraflores, com um salão de desenho contemporâneo e uma cozinha mais focada em sequências degustação e em produtos de várias regiões do país.",
+    "Em 2018, no aniversário de dez anos, o Mayta mudou-se para um novo endereço, com interior renovado e um cardápio totalmente redesenhado. O novo formato reforçou a cozinha de sequências degustação e o uso de produtos de várias regiões do país.",
     "O trabalho de pesquisa associado a Mayta inclui iniciativas como Yachay, voltadas ao reconhecimento de ingredientes e de sistemas de produção peruanos. Milhos, tubérculos, pimentas, ervas, peixes e produtos amazônicos são tratados como pontos de partida para pratos que procuram contar histórias do território.",
     "O Mayta entrou no Latin America's 50 Best Restaurants em 2019, ganhou o Highest Climber Award em 2020 e ingressou no ranking mundial em 2022. Depois de terminar 2025 em 39º no mundo, foi classificado em 45º no The 50 Best Restaurants de 2026."
   ],
@@ -11,7 +11,7 @@
     "paragraphs": [
       "O menu cruza diferentes paisagens do Peru, do Pacífico às montanhas andinas e à floresta amazônica. Pesaque trabalha com apresentações delicadas, técnicas atuais e atenção à procedência, construindo contrastes de textura e temperatura.",
       "A Mayta Experience, registrada no cardápio oficial consultado em novembro de 2026, é uma degustação de dez etapas. O site também oferece opções à la carte, destinadas a quem prefere montar a própria refeição.",
-      "Entre as preparações descritas em perfis da casa aparecem a panela de pato em cinco preparos, com raízes sazonais e arroz verde, e pratos que valorizam peixes amazônicos, milho e plantas andinas. Esses são exemplos do repertório do chef, não garantia de presença no menu do dia."
+      "Entre as preparações descritas em perfis da casa aparecem o sartén de pato, com magret defumado, coxa confitada e arroz nir, e pratos que valorizam peixes amazônicos, milho e plantas andinas. Esses são exemplos do repertório do chef, não garantia de presença no menu do dia."
     ]
   },
   "chef": {
@@ -20,8 +20,8 @@
   },
   "dishes": [
     {
-      "name": "Panela de pato em cinco preparos",
-      "desc": "Criação destacada em publicações do 50 Best: partes e texturas de pato reunidas com raízes de estação e arroz verde; composição histórica, sujeita à atualização do menu.",
+      "name": "Sartén de pato",
+      "desc": "Prato emblemático citado pelo 50 Best e presente na carta à la carte de 2026: magret defumado, linguiça de pato, coxa confitada, foie gras grelhado e ovo de pata frito, com arroz nir, coentro, ají amarillo e abóbora.",
       "photo": null
     },
     {
@@ -56,11 +56,11 @@
     },
     {
       "year": 2022,
-      "title": "Estreia no The World's 50 Best Restaurants"
+      "title": "Estreia no The World's 50 Best Restaurants — nº 32"
     },
     {
       "year": 2022,
-      "title": "World Culinary Awards — reconhecimento internacional do Mayta"
+      "title": "World Culinary Awards — Melhor Restaurante do Mundo 2022"
     },
     {
       "year": 2024,
@@ -82,9 +82,20 @@
   "practical": {
     "address": "Avenida Mariscal La Mar 1285, Miraflores, Lima 15027, Peru",
     "website": "https://maytalima.com.pe/en/",
-    "reservationUrl": "https://mayta.mesa247.pe/",
-    "price": "Mayta Experience: S/ 998 por pessoa, menu degustação de dez etapas no cardápio oficial consultado em novembro de 2026. Há opções à la carte; preços sujeitos a atualização.",
-    "reservation": "Reservas pelo sistema Mesa 24/7 indicado no site oficial; almoço e jantar de segunda a domingo, das 12h às 15h e das 18h às 22h. Regras de cancelamento e condições para grupos devem ser verificadas no momento da reserva."
+    "reservationUrl": "https://mayta.mesa247.pe/reservas/mayta",
+    "price": "Mayta Experience: S/ 998 por pessoa, menu degustação de dez etapas, segundo o site oficial consultado em novembro de 2026; a plataforma de reservas informa que os preços incluem IGV e taxa de serviço. Harmonizações de S/ 395 a S/ 740. Há carta à la carte; preços sujeitos a atualização.",
+    "reservation": "Reservas pelo sistema Mesa 24/7 indicado no site oficial; almoço e jantar de segunda a domingo, das 12h às 15h e das 18h às 22h; o menu degustação começa entre 12h e 13h30 ou entre 18h e 20h30. Regras de cancelamento e condições para grupos devem ser verificadas no momento da reserva.",
+    "reservationMode": "online",
+    "phone": "+51 937 220 734",
+    "priceDetails": {
+      "amount": 998,
+      "currency": "PEN",
+      "basis": "Mayta Experience, menu degustação de dez etapas, por pessoa, sem bebidas",
+      "taxesIncluded": true,
+      "sourceUrl": "https://maytalima.com.pe/en/carta/",
+      "checkedAt": "2026-11-10",
+      "note": "IGV e taxa de serviço incluídos segundo a página da Mesa 24/7, não a do site oficial; harmonizações de S/ 395 a S/ 740."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/mayta.html",
@@ -97,9 +108,13 @@
     "https://mayta.mesa247.pe/",
     "https://www.the50.com/discovery/Establishments/Peru/Lima/Mayta.html",
     "https://jaimepesaque.com.pe/jaimepesaque/",
-    "https://commons.wikimedia.org/wiki/File:Miraflores_2023.jpg"
+    "https://commons.wikimedia.org/wiki/File:Miraflores_2023.jpg",
+    "https://mayta.mesa247.pe/reservas/mayta"
   ],
   "slug": "mayta",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 45,
   "founded": 2008,
   "founders": [
@@ -111,7 +126,17 @@
     "author": "Mojnsen",
     "license": "CC BY-SA 4.0",
     "caption": "Panorama de Miraflores, bairro de Lima onde funciona o Mayta, fotografado em dezembro de 2023. Imagem contextual; não é fotografia do restaurante.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Miraflores, Lima (2023)",
+    "alt": "Panorama de prédios do bairro de Miraflores, em Lima",
+    "capturedAt": "2023-12-16",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "Mojnsen, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -126,5 +151,49 @@
         "note": "Cardápio, valor do menu degustação e acesso à página de reservas"
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://mayta.mesa247.pe/reservas/mayta",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Link de reserva corrigido para a página do restaurante na Mesa 24/7. Sem e-mail publicado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://maytalima.com.pe/en/carta/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Inclusão de impostos e serviço só na plataforma de reservas."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/the-list/mayta.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Em 2018 o restaurante mudou de endereço; texto corrigido."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://maytalima.com.pe/en/carta/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Prato de pato descrito conforme a carta de 2026."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/mayta.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Nº 13 em 2024 só em fonte secundária."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

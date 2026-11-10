@@ -16,17 +16,17 @@
   },
   "chef": {
     "name": "Josh Niland (chef) · Julie Niland (cofundadora)",
-    "bio": "Josh Niland é chef e cofundador do Saint Peter, reconhecido pela pesquisa de maturação, charcutaria e aproveitamento integral do pescado. Junto com Julie Niland, abriu a casa em 2016 e expandiu a experiência para o Grand National Hotel em 2024, mantendo uma cozinha vinculada a produtores e pescadores australianos."
+    "bio": "Josh Niland é chef e cofundador do Saint Peter, reconhecido pela pesquisa de maturação, charcutaria e aproveitamento integral do pescado. Junto com Julie Niland, abriu a casa em 2016 e a transferiu para o Grand National Hotel, em Paddington, em 2024, mantendo uma cozinha vinculada a produtores e pescadores australianos."
   },
   "dishes": [
     {
       "name": "Embutido de bacalhau Murray",
-      "desc": "Preparação de charcutaria feita com pescado australiano, uma das assinaturas do repertório do chef.",
+      "desc": "Preparação de charcutaria feita com pescado australiano, uma das assinaturas do repertório do chef; documentado pelo 50 Best, pode não integrar o menu atual.",
       "photo": null
     },
     {
       "name": "Patê de fígado de peixe-são-pedro",
-      "desc": "Especialidade de charcutaria marinha que aproveita partes menos habituais na cozinha clássica.",
+      "desc": "Especialidade de charcutaria marinha que aproveita partes menos habituais na cozinha clássica; documentado pelo 50 Best, pode não integrar o menu atual.",
       "photo": null
     },
     {
@@ -72,7 +72,19 @@
     "website": "https://www.saintpeter.com.au/",
     "reservationUrl": "https://www.saintpeter.com.au/reservations",
     "reservation": "Reservas da sala principal pelo site oficial, liberadas até seis meses antes. Almoço de quinta a domingo e jantar diariamente; o bar aceita visitantes sem reserva, sujeito a lugares. Para confirmar a mesa, o restaurante exige dados de cartão e informa regra de cancelamento de 48 horas. Telefone +61 2 9167 3703.",
-    "price": "Almoço de três etapas: AUD 195 por pessoa. Jantar degustação de dez etapas: AUD 395 por pessoa, conforme a página oficial consultada em novembro de 2026. Taxas e valores podem mudar."
+    "price": "Almoço de três etapas à escolha: AUD 195 por pessoa. Jantar degustação de dez etapas (cerca de três horas): AUD 395 por pessoa, conforme a página oficial consultada em novembro de 2026. Há sobretaxa de 10% aos domingos e de 15% em feriados, e taxa de serviço de 10% para grupos de seis ou mais. Valores indicativos, sujeitos a mudanças sazonais.",
+    "reservationMode": "online",
+    "phone": "+61 2 9167 3703",
+    "email": "hello@saintpeter.com.au",
+    "priceDetails": {
+      "amount": 395,
+      "currency": "AUD",
+      "basis": "Jantar degustação de dez etapas, por pessoa (almoço de três etapas a AUD 195)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.saintpeter.com.au/reservations",
+      "checkedAt": "2026-11-10",
+      "note": "Valores indicativos; +10% aos domingos, +15% em feriados, 10% de serviço para grupos de seis ou mais; inclusão do GST não informada."
+    }
   },
   "sources": [
     "https://www.the50.com/restaurants/best-in-the-world/the-list/saint-peter.html",
@@ -88,6 +100,9 @@
     "https://www.brisbanetimes.com.au/goodfood/sydney-eating-out/the-sydney-morning-herald-good-food-guide-full-list-of-hats-20261026-p617ux.html"
   ],
   "slug": "saint-peter",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 50,
   "founded": 2016,
   "founders": [
@@ -100,7 +115,17 @@
     "author": "J Bar",
     "license": "CC BY 3.0",
     "caption": "Antigo edifício dos Correios de Paddington na Oxford Street, Sydney, fotografado em 2007. É uma imagem contextual do bairro e NÃO mostra o Saint Peter nem o Grand National Hotel.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Antigo prédio dos Correios de Paddington (2007)",
+    "alt": "Edifício histórico dos antigos Correios de Paddington, em Sydney",
+    "capturedAt": "2007-08-12",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L06.json).",
+    "attribution": "J Bar, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -115,5 +140,47 @@
         "note": "Histórico do restaurante e fotografias relacionadas ao projeto de Josh e Julie Niland."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.saintpeter.com.au/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.saintpeter.com.au/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.saintpeter.com.au/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Embutido de bacalhau Murray e patê de peixe-são-pedro não aparecem nos menus de exemplo atuais; marcados."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/the-list/saint-peter.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Bairro do endereço original de 2016 e cofundação de Julie Niland sem página primária."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/saint-peter.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Good Food Guide 2027 numa página ilegível para leitura automática (Brisbane Times)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }
