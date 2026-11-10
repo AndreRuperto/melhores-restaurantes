@@ -11,7 +11,7 @@
     "paragraphs": [
       "Os menus são construídos a partir de pesquisa de textos culinários, receitas transmitidas entre gerações e práticas do período Joseon. O resultado pode combinar apresentações delicadas, acompanhamentos em pequenas porções e técnicas de conserva que há séculos fazem parte da mesa coreana.",
       "Doenjang (pasta fermentada de soja), ganjang (molho de soja) e gochujang (pasta de pimenta) têm papel importante no repertório da cozinha e são fermentados ou maturados pelo projeto. A pesquisa também dialoga com a cozinha de templos budistas e o uso de vegetais e plantas de cada estação.",
-      "Exemplos tradicionais documentados em material de divulgação do Onjium incluem tangpyeongchae, salada de gelatina de feijão-mungo com vegetais, e galbi-jjim ao estilo de Jinju. Esses nomes descrevem o repertório estudado pela casa; não devem ser confundidos com a composição confirmada de um menu vigente, que muda conforme a época."
+      "Exemplos tradicionais documentados em material de divulgação do Onjium incluem tangpyeongchae, salada de gelatina de feijão-mungo com vegetais, e galbi-jjim ao estilo de Jinju. Esses nomes descrevem o repertório estudado pela casa; o menu muda conforme a época."
     ]
   },
   "chef": {
@@ -21,7 +21,7 @@
   "dishes": [
     {
       "name": "Tangpyeongchae",
-      "desc": "Salada tradicional coreana de tiras de gelatina de feijão-mungo e vegetais; exemplo de receita histórica associada à pesquisa da equipe, sem confirmação no cardápio atual.",
+      "desc": "Salada tradicional coreana de tiras de gelatina de feijão-mungo e vegetais; exemplo de receita histórica associada à pesquisa da equipe, que pode não estar no cardápio atual.",
       "photo": {
         "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean.cuisine-Banchan-04.jpg?width=960",
         "page": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Banchan-04.jpg",
@@ -90,8 +90,8 @@
   "practical": {
     "address": "4º andar, 49 Hyoja-ro, Jongno-gu, Seul 03043, Coreia do Sul",
     "website": "https://onjium.org/",
-    "price": "Menu degustação sazonal, a partir de US$ 116 segundo o guia Discovery do The 50 Best (valor indicativo, consultado em novembro de 2026); preço oficial em wons não confirmado. Confirmar com o restaurante.",
-    "reservation": "Reservas on-line pela plataforma CatchTable, segundo a página do restaurante na Tatler Asia; telefone +82 2 6952 0024. Segundo o The 50 Best, almoço e jantar de terça a sexta-feira; fechado sábado, domingo e segunda. Disponibilidade não verificada em tempo real.",
+    "price": "Menu degustação sazonal, a partir de US$ 116 segundo o guia Discovery do The 50 Best (valor indicativo, consultado em novembro de 2026); a casa não publica o preço em wons em página oficial.",
+    "reservation": "Reservas on-line pela plataforma CatchTable, segundo a página do restaurante na Tatler Asia; telefone +82 2 6952 0024. Segundo o The 50 Best, almoço e jantar de terça a sexta-feira; fechado sábado, domingo e segunda.",
     "reservationMode": "online",
     "reservationUrl": "https://catchtable.net/shop/onjiumrestaurant",
     "phone": "+82 2 6952 0024",
