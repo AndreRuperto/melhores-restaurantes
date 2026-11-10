@@ -37,7 +37,7 @@
     },
     {
       "name": "Arroz coreano de variedades locais",
-      "desc": "Passagem de degustação centrada em variedades nativas de arroz, cujo preparo muda conforme a estação e a safra.",
+      "desc": "Passagem de degustação centrada em variedades nativas de arroz, cujo preparo muda conforme a estação e a safra; sem fonte que confirme a etapa.",
       "photo": null
     }
   ],
@@ -75,6 +75,9 @@
     "https://commons.wikimedia.org/wiki/File:Teheran-ro_01.jpg"
   ],
   "slug": "eatanic-garden",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 72,
   "hero": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Teheran-ro%2001.jpg?width=1280",
@@ -82,18 +85,39 @@
     "author": "S h y numis",
     "license": "CC BY-SA 4.0",
     "caption": "Vista da avenida Teheran-ro, em Gangnam, fotografada em janeiro de 2020. Imagem ilustrativa da área de Seul; não mostra o Josun Palace nem o Eatanic Garden.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Avenida Teheran-ro, Gangnam (2020)",
+    "alt": "Avenida larga de Seul com prédios comerciais altos",
+    "capturedAt": "2020-01-30",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "S h y numis, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "chef": {
     "name": "Son Jong-won (chef) e Haesol Shin (confeitaria)",
-    "bio": "Son Jong-won desenvolveu sua carreira em cozinhas internacionais, incluindo Quince e COI, antes de assumir projetos do grupo Josun em Seul. Lidera o Eatanic Garden e o L'Amant Secret, ambos premiados com uma estrela Michelin na edição 2026. No Eatanic, interpreta tradições coreanas por meio de ingredientes sazonais; Haesol Shin responde pela confeitaria."
+    "bio": "Son Jong-won passou por cozinhas de alta gastronomia nos Estados Unidos antes de assumir projetos do grupo Josun em Seul: é chef executivo do L'Amant Secret desde a abertura, em 2018, e lidera o Eatanic Garden desde 2022. Os dois restaurantes mantiveram uma estrela Michelin na edição 2026 do guia Seul & Busan. No Eatanic, interpreta tradições coreanas por meio de ingredientes sazonais; Haesol Shin responde pela confeitaria."
   },
   "practical": {
     "website": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
     "address": "36º andar, Josun Palace, 231 Teheran-ro, Gangnam-gu, Seul 06142, Coreia do Sul",
     "reservationUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
-    "reservation": "Desde dezembro de 2025, a página oficial informa reservas exclusivamente pela plataforma Catchtable, acessível pelo site do hotel. O telefone +82 2-727-7610 atende a informações. Almoço e jantar de quarta a domingo; fechado segunda e terça. A casa informa restrições de acesso a crianças menores de 8 anos e orienta vestuário social casual.",
-    "price": "Degustação sazonal de alta gastronomia; preço em won sul-coreanos não confirmado de forma confiável na página oficial consultada. Consultar o valor no fluxo de reserva."
+    "reservation": "Desde 1º de dezembro de 2025, a página oficial informa que todas as reservas são feitas exclusivamente pela plataforma Catchtable. O restaurante divulga o telefone +82 2 727 7610. Almoço (12h às 14h30) e jantar (18h às 22h) de quarta a domingo; fechado segunda e terça. Não admite crianças menores de 8 anos e pede traje esporte fino (sem calça de moletom, chinelos, sandálias ou bermuda masculina).",
+    "price": "Degustação sazonal sem cardápio fixo; a página oficial não divulga preço. O 50 Best indica menu degustação a partir de US$ 239. Confirmar o valor em won no fluxo de reserva da Catchtable.",
+    "reservationMode": "online",
+    "phone": "+82 2 727 7610",
+    "priceDetails": {
+      "amount": null,
+      "currency": "KRW",
+      "basis": "Menu degustação, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/South-Korea/Seoul/eatanic-garden.html",
+      "checkedAt": "2026-11-10",
+      "note": "Sem preço oficial; o The 50 Best cita a partir de US$ 239; valor em won não confirmado."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -108,5 +132,49 @@
         "note": "Fotos dos pratos e do ambiente, com descrição da experiência e da equipe."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A página não traz link para a Catchtable, ao contrário do que o texto dizia; endereço da Catchtable não confirmado."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/South-Korea/Seoul/eatanic-garden.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Só a faixa em dólar do The 50 Best."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://view.asiae.co.kr/en/article/2026102313341883212",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Passagens por Quince e COI sem fonte primária (retiradas)."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/eatanic-garden.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ano da primeira estrela (2023) só na imprensa. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/eatanic-garden.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Etapa de arroz sem fonte; marcada."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

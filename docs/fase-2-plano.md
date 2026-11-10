@@ -606,3 +606,17 @@ Relatório: [fase-2-L07.md](lotes/fase-2-L07.md). Perfis 53 a 62.
 | 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+## 20. Atualização de execução — 10/11/2026, lote L8 em revisão
+
+Relatório: [fase-2-L08.md](lotes/fase-2-L08.md). Perfis 63 a 72.
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 15 usos e 14 arquivos conferidos; retrato do chef do Kol retirado por autoria em conflito no Commons; legendas do Arpège e do Seroja precisadas | Fotos licenciadas dos próprios restaurantes em nove dos dez perfis (P2); retrato do Kol com licença clara |
+| 2.4 | Reserva e preços oficiais do Arpège; preços e pratos atuais do Salsify, FYN e Evvai; preço não confirmado do Cocina Hermanos Torres retirado; prêmios do Willem Hiele completados | 16 itens com fonte única e 4 não verificados; site do Cocina Hermanos Torres inacessível |
+| Segurança | Página de contato do site do Kol exibe conteúdo de apostas; o A Carta não aponta para ela | Decisão do produto sobre avisar o restaurante |
+| F2-04 | Dez perfis no contrato estrito; total de 75 perfis e 291 fotos com direito aprovado | Revisor humano |
+| 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**

@@ -3,14 +3,14 @@
   "history": [
     "Alain Passard assumiu em 1986 o endereço de seu mentor Alain Senderens, na rue de Varenne 84, e abriu o Arpège. Sua formação valorizava o fogo, os assados e a cozinha francesa clássica; em 1996, o restaurante conquistou a terceira estrela Michelin, que ainda detinha na seleção de 2026.",
     "No início dos anos 2000, Passard reposicionou a cozinha a partir dos vegetais. Cultivos próprios passaram a fornecer raízes, frutas, ervas e flores diretamente ao restaurante, estreitando a relação entre o ritmo da horta e o trabalho do chef.",
-    "O projeto gastronômico cresceu em torno das propriedades agrícolas de Fillé-sur-Sarthe, Bois-Giroult e da região do Mont-Saint-Michel. As estações deixaram de ser somente um elemento da carta e passaram a decidir o que a equipe pode criar em cada serviço.",
+    "O projeto gastronômico cresceu em torno das hortas próprias, como as de Bois Giroult, na Normandia, e do Gros Chesnay, em Fillé-sur-Sarthe, ao sul de Le Mans, citadas no site oficial. As estações deixaram de ser somente um elemento da carta e passaram a decidir o que a equipe pode criar em cada serviço.",
     "Em 21 de julho de 2025, Passard anunciou uma mudança adicional: a cozinha deixaria de usar produtos de origem animal, com a exceção expressa do mel das colmeias do projeto. Em 2026, o Arpège seguiu com três estrelas Michelin e ficou em 67º na lista mundial estendida dos 50 Best."
   ],
   "cuisine": {
     "style": "Alta cozinha francesa vegetal, de horta e temporada",
     "paragraphs": [
       "A cozinha atual dá protagonismo absoluto a hortaliças, folhas, raízes, frutas, flores e ervas. As combinações acompanham a colheita; há preparos que usam infusões, defumação vegetal, assados e contrastes de textura. O mel continua como uma exceção de origem animal na política anunciada em 2025.",
-      "Tomates com flor de laranjeira e perfume de folha de figo e berinjela com melão e capim-limão são exemplos publicados do repertório dessa fase inteiramente vegetal. As preparações são exemplos editoriais, não a garantia de um prato no dia da reserva.",
+      "Tomates com flor de laranjeira e o perfume adocicado da figueira aparecem no menu de outono de 2026; a berinjela com melão e capim-limão foi citada pelo 50 Best como exemplo do repertório dessa fase inteiramente vegetal. As preparações são exemplos editoriais, não a garantia de um prato no dia da reserva.",
       "O passado do Arpège também inclui a conhecida tarte Bouquet de Rose, uma montagem de maçãs em finas fitas que lembra rosas. A fotografia licenciada que acompanha esta página é de 2009; nessa versão histórica o prato tinha caramelo com leite e, portanto, não representa necessariamente a carta vegetal vigente."
     ]
   },
@@ -49,9 +49,15 @@
     "https://guide.michelin.com/en/article/travel/michelin-starred-restaurants-paris",
     "https://commons.wikimedia.org/wiki/File:L%27Arp%C3%A8ge_restaurant,_Paris_201305101D0199_(8899609271).jpg",
     "https://commons.wikimedia.org/wiki/File:Alain_Passard_de_l%27Arp%C3%A8ge.jpg",
-    "https://commons.wikimedia.org/wiki/File:Tarte_aux_pommes_Bouquet_de_Rose_at_L%27Arp%C3%A8ge_(Paris).jpg"
+    "https://commons.wikimedia.org/wiki/File:Tarte_aux_pommes_Bouquet_de_Rose_at_L%27Arp%C3%A8ge_(Paris).jpg",
+    "https://bookings.zenchef.com/results?rid=354036&lang=fr",
+    "https://www.alain-passard.com/wp-content/uploads/2026/09/MENU-Dejeuner-.pdf",
+    "https://www.alain-passard.com/en/les-potagers/"
   ],
   "slug": "arpege",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "rank": 67,
   "dishes": [
     {
@@ -61,17 +67,17 @@
     },
     {
       "name": "Berinjela, melão e capim-limão",
-      "desc": "Combinação de berinjela, fruta e erva aromática descrita após a mudança para uma cozinha baseada em vegetais.",
+      "desc": "Combinação de berinjela, fruta e erva aromática descrita após a mudança para uma cozinha baseada em vegetais; não consta dos cardápios de 2026.",
       "photo": null
     },
     {
       "name": "Batatas defumadas em madeira de faia",
-      "desc": "Criação vegetal lembrada pelo Guia Michelin, com aromas de defumação e molho concentrado.",
+      "desc": "Criação vegetal lembrada pelo Guia Michelin, com aromas de defumação e molho concentrado; não consta dos cardápios de 2026.",
       "photo": null
     },
     {
       "name": "Sushi fantaisie de vegetais",
-      "desc": "Pequena composição com aspecto de sushi, mas centrada em produtos da horta, mencionada na apresentação Michelin.",
+      "desc": "Pequena composição com aspecto de sushi, mas centrada em produtos da horta, mencionada na apresentação Michelin; não consta dos cardápios de 2026.",
       "photo": null
     },
     {
@@ -83,7 +89,17 @@
         "author": "Meg Zimbeck",
         "license": "CC BY 2.0",
         "caption": "Tarte Bouquet de Rose servida no Arpège, fotografada em 2009. Registro real de uma versão histórica com caramelo ao leite, anterior à cozinha exclusivamente vegetal iniciada em 2025.",
-        "illustrative": false
+        "illustrative": false,
+        "kind": "dish",
+        "subject": "Tarte Bouquet de Rose (2009)",
+        "alt": "Torta de maçã com fatias enroladas em forma de rosas",
+        "capturedAt": "2009-07-15",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+        "attribution": "Meg Zimbeck, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -92,8 +108,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:Arp%C3%A8ge.jpg",
     "author": "NIeFH",
     "license": "CC BY-SA 2.0",
-    "caption": "Identificação do restaurante Arpège, na rue de Varenne, Paris, em 2013",
-    "illustrative": false
+    "caption": "Letreiro do restaurante Arpège na esquina da rue de Varenne com a rue de Bourgogne, em Paris, em 2013.",
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Letreiro do Arpège, Paris (2013)",
+    "alt": "Esquina de prédio de pedra com o letreiro Restaurant Arpège e a placa da rue de Bourgogne",
+    "capturedAt": "2013-05-10",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "NIeFH, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [
     {
@@ -101,8 +127,18 @@
       "page": "https://commons.wikimedia.org/wiki/File:L%27Arp%C3%A8ge_restaurant,_Paris_201305101D0199_(8899609271).jpg",
       "author": "NIeFH",
       "license": "CC BY-SA 2.0",
-      "caption": "Registro fotográfico real feito no Arpège em Paris em maio de 2013. Retrata uma fase histórica, anterior à mudança completa para a cozinha vegetal em 2025.",
-      "illustrative": false
+      "caption": "Pequenas tortinhas de vegetais servidas no Arpège em maio de 2013, fase anterior à cozinha exclusivamente vegetal iniciada em 2025.",
+      "illustrative": false,
+      "kind": "dish",
+      "subject": "Tortinhas de vegetais no Arpège (2013)",
+      "alt": "Seis pequenas tortinhas coloridas de vegetais num prato branco",
+      "capturedAt": "2013-05-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+      "attribution": "NIeFH, CC BY-SA 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Passard%20de%20l%27Arp%C3%A8ge.jpg?width=712",
@@ -110,7 +146,17 @@
       "author": "nienfanhsun",
       "license": "CC BY-SA 2.0",
       "caption": "Retrato real de Alain Passard, fundador e chef do Arpège, em 2013.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "chef",
+      "subject": "Alain Passard (2013)",
+      "alt": "Alain Passard de avental branco, inclinado entre as mesas do salão",
+      "capturedAt": "2013-05-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+      "attribution": "nienfanhsun, CC BY-SA 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "founded": 1986,
@@ -120,22 +166,88 @@
   "practical": {
     "address": "84 rue de Varenne, 75007 Paris, França",
     "website": "https://www.alain-passard.com/",
-    "reservationUrl": "https://www.alain-passard.com/",
-    "reservation": "Agendamento diretamente com o restaurante pelo site oficial ou telefone +33 1 47 05 09 06. Serviço de almoço e jantar de segunda a sexta; fechado sábado e domingo. A página oficial disponibiliza contato restaurant@alain-passard.com. Não foi confirmado um link separado de checkout online.",
-    "price": "Menus degustação sazonais da fase vegetal. A página oficial consultada não apresenta um valor atualizado verificável para a visita; solicitar preço e condições ao restaurante."
+    "reservationUrl": "https://bookings.zenchef.com/results?rid=354036&lang=fr",
+    "reservation": "Reservas online pelo botão \"Réserver une table\" do site oficial, que leva à plataforma Zenchef. O site também informa o telefone +33 1 47 05 09 06 e o e-mail restaurant@alain-passard.com. Serviço de almoço e jantar de segunda a sexta; fechado sábado e domingo.",
+    "price": "Menu \"Cuisine de la Terre\" a € 260 no almoço e € 380 no jantar; à la carte, pratos de € 75 a € 120. Preços líquidos, serviço incluído, segundo os cardápios em PDF do site oficial (setembro e outubro de 2026). O menu muda conforme a colheita.",
+    "reservationMode": "online",
+    "phone": "+33 1 47 05 09 06",
+    "email": "restaurant@alain-passard.com",
+    "priceDetails": {
+      "amount": 260,
+      "currency": "EUR",
+      "basis": "Menu Cuisine de la Terre no almoço, por pessoa (jantar € 380)",
+      "taxesIncluded": true,
+      "sourceUrl": "https://www.alain-passard.com/wp-content/uploads/2026/09/MENU-Dejeuner-.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Prix net, service compris; à la carte de € 75 a € 120 por prato; bebidas não informadas."
+    }
   },
   "facade": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Arp%C3%A8ge.jpg?width=960",
     "page": "https://commons.wikimedia.org/wiki/File:Arp%C3%A8ge.jpg",
     "author": "NIeFH",
     "license": "CC BY-SA 2.0",
-    "caption": "Placa e identificação da entrada real do Arpège, na rue de Varenne, Paris, fotografadas em 2013. A aparência pode ter mudado.",
-    "illustrative": false
+    "caption": "Letreiro do Arpège na esquina do prédio, em Paris, fotografado em 2013. A aparência pode ter mudado.",
+    "illustrative": false,
+    "kind": "facade",
+    "subject": "Letreiro do Arpège, Paris (2013)",
+    "alt": "Esquina de prédio de pedra com o letreiro Restaurant Arpège e a placa da rue de Bourgogne",
+    "capturedAt": "2013-05-10",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "NIeFH, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "photoReference": {
     "kind": "ambientes",
     "publisher": "Arpège — site oficial",
     "url": "https://www.alain-passard.com/",
     "note": "Site oficial com fotografias e informações da fase atual. A capa e galeria do A Carta mostram imagens reais com licenças abertas, registradas em 2009 e 2013, não representam o cardápio atual."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.alain-passard.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "O botão oficial leva ao Zenchef; o texto dizia que não havia link de reserva."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.alain-passard.com/wp-content/uploads/2026/09/MENU-Dejeuner-.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preços agora publicados nos PDFs oficiais."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.alain-passard.com/en/les-potagers/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Horta na região do Mont-Saint-Michel só em texto do Michelin lido por trecho de busca; trocada pelas hortas do site oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.alain-passard.com/en/le-chef/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Três estrelas de 2025 e 2026 só por trecho de busca e imprensa. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.alain-passard.com/wp-content/uploads/2026/09/MENU-Dejeuner-.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Berinjela, batatas defumadas e sushi fantaisie não constam dos cardápios de 2026; marcados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Letreiro, prato e retrato reais de 2009 e 2013; legendas precisadas."
+    }
+  ]
 }

@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-10",
+  "env": "servidor de desenvolvimento Vite, painel de navegador Chromium do Claude Desktop",
+  "method": "scrollWidth vs clientWidth e elementos fora da viewport (exceto SVG decorativo recortado); imagens sem atributo alt; links da seção Antes de ir; imagens do Commons carregadas no Kol",
+  "defectFound": null,
+  "consoleErrors": "114 erros ERR_CONNECTION_REFUSED herdados da aba, dos servidores de lotes anteriores já encerrados; contagem inalterada após recarregar um perfil",
+  "cases": [
+    {
+      "slug": "the-jane",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "the-jane",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "seroja",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "seroja",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "fyn",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "fyn",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "willem-hiele",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "willem-hiele",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "arpege",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "arpege",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "evvai",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "evvai",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "cocina-hermanos-torres",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "cocina-hermanos-torres",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "kol",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "kol",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "salsify-at-the-roundhouse",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "salsify-at-the-roundhouse",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    },
+    {
+      "slug": "eatanic-garden",
+      "theme": "light",
+      "viewport": 320,
+      "clientWidth": 320,
+      "scrollWidth": 320,
+      "overflowElements": 0,
+      "imagesWithoutAlt": 0
+    },
+    {
+      "slug": "eatanic-garden",
+      "theme": "dark",
+      "viewport": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "overflowElements": 0,
+      "labelColumnPx": 128
+    }
+  ]
+}

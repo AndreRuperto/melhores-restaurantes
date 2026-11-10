@@ -3,15 +3,15 @@
   "history": [
     "O Roundhouse, construção associada à história de Camps Bay, data de 1786 e reúne marcas de diferentes períodos de ocupação. Sua posição entre a encosta e o Atlântico tornou a casa um local singular para experiências de hospitalidade no Cabo.",
     "O Salsify abriu as portas no edifício em 2018. A proposta, conduzida pelo chef Ryan Cole, foi unir serviço de alta gastronomia com sabores contemporâneos da África do Sul, fazendo da vista e da arquitetura partes do percurso de visita.",
-    "Em 2022, o salão foi redesenhado pelo designer Jean-François de Villiers, preservando características da construção e incorporando elementos de arte contemporânea. Ryan Cole atua como chef executivo e coproprietário; Nina du Toit participa da liderança culinária.",
-    "O restaurante avançou na cena internacional: conquistou o reconhecimento de Restaurante do Ano do Eat Out Woolworths Restaurant Awards em 2025, entrou na lista mundial estendida em 88º naquele ano e subiu a 71º em 2026. As distinções são datadas para não sugerir que o restaurante já detinha esses resultados desde a abertura."
+    "Em 2022, o salão foi redesenhado pelo designer Jean Francois de Villiers, preservando características da construção e incorporando elementos de arte contemporânea. Ryan Cole atua como chef executivo e coproprietário; Nina du Toit participa da liderança culinária.",
+    "O restaurante avançou na cena internacional: conquistou o reconhecimento de Restaurante do Ano do Eat Out Woolworths Restaurant Awards em 2025, entrou na lista mundial estendida em 88º naquele ano e subiu a 71º em 2026."
   ],
   "cuisine": {
     "style": "Cozinha sul-africana contemporânea de mar e campo",
     "paragraphs": [
       "O cardápio trabalha com pescados da costa, carnes e ingredientes cultivados na África do Sul. A equipe combina técnica moderna, fermentações, ervas, notas de fogo e preparos de inspiração local em menus de degustação sazonais.",
-      "O Chef's Menu divulgado pela casa inclui exemplos como pão de fermentação natural com alho-negro, mexilhões com atchar de limão, peixe de linha com prenia e alho-poró confitado e língua e bochecha de boi com pimenta africana.",
-      "Há também pratos com polvo grelhado, cordeiro do Karoo e sobremesas que utilizam frutas locais. A descrição corresponde à carta publicada durante a consulta, não constitui garantia de que todas as etapas estarão disponíveis em uma reserva futura."
+      "O Chef's Menu divulgado pela casa inclui exemplos como pão de fermentação longa com buchu e sebo, kingklip com ostra confitada e prenia, polvo assado no fogo com açafrão do Karoo e lagostim, e língua e bochecha com pimenta africana e louro.",
+      "Há também springbok com feijão heerenbone e molho de alho-silvestre e sobremesas com frutas locais, como num num e goiaba com camomila. A descrição corresponde à carta publicada durante a consulta e não garante que todas as etapas estarão disponíveis em uma reserva futura."
     ]
   },
   "chef": {
@@ -20,35 +20,34 @@
   },
   "dishes": [
     {
-      "name": "Peixe de linha, prenia e alho-poró",
-      "desc": "Peixe costeiro com prenia, planta sul-africana, e alho-poró confitado; exemplo apresentado no menu oficial consultado.",
-      "photo": null
+      "name": "Kingklip, ostra confitada e prenia",
+      "desc": "Peixe kingklip com ostra confitada e prenia, planta sul-africana, no Chef's Menu publicado em novembro de 2026."
     },
     {
-      "name": "Língua e bochecha de boi",
-      "desc": "Cortes bovinos com pimenta africana e louro, numa combinação de técnica lenta e sabores intensos.",
-      "photo": null
+      "name": "Língua e bochecha",
+      "desc": "Língua e bochecha com pimenta africana e louro, no Chef's Menu publicado."
     },
     {
       "name": "Polvo assado no fogo",
-      "desc": "Polvo tostado acompanhado de tomate, amendoim e aipo, conforme versão do Chef's Menu publicado.",
-      "photo": null
+      "desc": "Polvo assado no fogo com açafrão do Karoo e lagostim, conforme o Chef's Menu publicado."
     },
     {
-      "name": "Cordeiro do Karoo",
-      "desc": "Cordeiro com sour fig e molho de alho-silvestre, produto ligado à paisagem rural sul-africana.",
-      "photo": null
+      "name": "Springbok e feijão heerenbone",
+      "desc": "Springbok com feijão heerenbone e molho de alho-silvestre, no Chef's Menu publicado."
     },
     {
-      "name": "Morango, goiaba e camomila",
-      "desc": "Sobremesa frutada do percurso sazonal publicado, reunindo acidez e notas florais.",
-      "photo": null
+      "name": "Num num, goiaba e camomila",
+      "desc": "Sobremesa com num num, goiaba e camomila, do percurso publicado."
     }
   ],
   "awards": [
     {
       "year": 2023,
       "title": "Ryan Cole — Chef do Ano, Eat Out Woolworths Restaurant Awards"
+    },
+    {
+      "year": 2023,
+      "title": "Africa's Best Landmark Restaurant — World Culinary Awards"
     },
     {
       "year": 2024,
@@ -79,6 +78,9 @@
     "https://commons.wikimedia.org/wiki/File:Camps_bay.jpg"
   ],
   "slug": "salsify-at-the-roundhouse",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 71,
   "founded": 2018,
   "founders": [
@@ -90,21 +92,43 @@
     "author": "Hein waschefort",
     "license": "CC BY-SA 3.0",
     "caption": "Vista de Camps Bay, Cidade do Cabo, em maio de 2006. Imagem ilustrativa da paisagem costeira; não mostra a fachada do Salsify.",
-    "illustrative": true
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Camps Bay, Cidade do Cabo (2006)",
+    "alt": "Baía de Camps Bay com casas na encosta e o mar com ondas",
+    "capturedAt": "2006-05-18",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "Hein waschefort, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "practical": {
     "website": "https://salsify.co.za/",
     "address": "The Roundhouse, Roundhouse Road, Camps Bay, Cidade do Cabo 8005, África do Sul",
     "reservationUrl": "https://salsify.co.za/reservations/",
-    "reservation": "Reservas na página oficial; a casa solicita depósito de ZAR 1.000 por pessoa para confirmar a mesa, com pagamento dentro de 24 horas. Jantar na segunda-feira; almoço e jantar de terça a sábado; fechado domingo. Contato: +27 21 010 6444. Verificar eventuais alterações de acesso viário descritas na página de reservas.",
-    "price": "Chef's Menu de dez etapas: ZAR 2.100 por pessoa; almoço especial anunciado: ZAR 1.090. Valores sujeitos a mudança e cobrança de serviço conforme a página oficial."
+    "reservation": "Reservas por telefone (+27 21 010 6444; terça a sexta, das 8h30 às 17h, e sábado, das 9h às 13h) ou pelo e-mail reservations@salsify.co.za, conforme a página oficial de reservas. A casa cobra depósito de ZAR 1.000 por pessoa, a ser pago em até 24 horas após a pré-reserva; sem o depósito, a reserva é cancelada automaticamente. Jantar na segunda-feira; almoço e jantar de terça a sábado; fechado domingo. Aceita apenas maiores de 12 anos. A Kloof Road está fechada no acesso pela M62; entre pela Victoria Road ou pela Lower Kloof Road.",
+    "price": "Chef's Menu de dez etapas (almoço e jantar): ZAR 2.395 por pessoa; harmonizações a partir de ZAR 2.450. A casa acrescenta taxa de serviço discricionária de 13% em todas as mesas (gorjeta de 15% para grupos com mais de oito pessoas). Valores sujeitos a mudança, conforme a página oficial de menus consultada em novembro de 2026.",
+    "reservationMode": "phone",
+    "phone": "+27 21 010 6444",
+    "email": "reservations@salsify.co.za",
+    "priceDetails": {
+      "amount": 2395,
+      "currency": "ZAR",
+      "basis": "Chef's Menu de dez etapas, por pessoa, no almoço e no jantar",
+      "taxesIncluded": null,
+      "sourceUrl": "https://salsify.co.za/menus/",
+      "checkedAt": "2026-11-10",
+      "note": "Serviço discricionário de 13% em todas as mesas (15% para mais de oito pessoas); harmonizações a partir de ZAR 2.450; página sem data."
+    }
   },
   "gallery": [],
   "photoReference": {
-    "kind": "fachada",
+    "kind": "ambientes",
     "publisher": "Indagare — Salsify at the Roundhouse",
     "url": "https://indagare.com/restaurant/salsify-at-the-roundhouse",
-    "note": "Fotografia real da entrada circular do Salsify. O A Carta apresenta uma imagem licenciada de Camps Bay como contexto; não republica a foto de Indagare por ausência de licença livre.",
+    "note": "Página com fotografias do Salsify, atrás de assinatura e não conferida. O A Carta apresenta uma imagem licenciada de Camps Bay como contexto; não republica fotos sem licença livre.",
     "additionalSources": [
       {
         "publisher": "Salsify — site oficial",
@@ -112,5 +136,49 @@
         "note": "Registros da fachada, dos ambientes e dos pratos nas galerias do restaurante."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://salsify.co.za/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem plataforma online; telefone ou e-mail."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://salsify.co.za/menus/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Preço antigo (ZAR 2.100) e almoço especial (ZAR 1.090) não constam mais da página."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://salsify.co.za/menus/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Pratos trocados pelos do menu publicado."
+    },
+    {
+      "field": "founders",
+      "sourceUrl": "https://salsify.co.za/about/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Nenhuma página oficial nomeia fundadores ou proprietários."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://salsify.co.za/about/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Prêmios de 2023 e 2024 só no site do restaurante."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda já dizia isso."
+    }
+  ]
 }

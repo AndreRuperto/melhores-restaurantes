@@ -10,7 +10,7 @@
     "style": "Cozinha mexicana contemporânea com produtos britânicos sazonais",
     "paragraphs": [
       "A casa traduz receitas mexicanas para matérias-primas de agricultores e pescadores britânicos. Tortillas, técnicas de massa de milho, moles, tamales e salsas servem como estrutura para peixe, crustáceos, vegetais e condimentos adaptados às estações locais.",
-      "O taco de lagostim é o prato assinatura desde a inauguração: o crustáceo é preparado com pimenta defumada e combinado com espinheiro-marítimo, fruta ácida colhida no litoral, para formar um contraste que remete às costas mexicanas.",
+      "O taco de lagostim é o prato assinatura desde a inauguração: o crustáceo é combinado com espinheiro-marítimo, fruta ácida usada no lugar do limão, para formar um contraste que remete às costas mexicanas.",
       "Outras criações registradas ao longo dos anos incluem tamal de truta com salsa macha, sope de beterraba cristalizada e vinagre de framboesa, e cordeiro com mole de pimenta mulato. O restaurante oferece um percurso de degustação que muda regularmente; o perfil não representa o cardápio fixo de uma data específica."
     ]
   },
@@ -21,7 +21,7 @@
   "dishes": [
     {
       "name": "Taco de lagostim",
-      "desc": "Assinatura do restaurante desde 2020, com lagostim, pimenta defumada e espinheiro-marítimo. O preparo e acompanhamentos podem evoluir.",
+      "desc": "Assinatura do restaurante desde 2020, com lagostim e espinheiro-marítimo. O preparo e acompanhamentos podem evoluir.",
       "photo": null
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "name": "Pozole de cogumelos",
-      "desc": "Adaptação vegetal da sopa tradicional mexicana com cogumelos, documentada em carta de 2026; composição variável.",
+      "desc": "Adaptação vegetal da sopa tradicional mexicana com cogumelos; composição variável; sem fonte encontrada.",
       "photo": null
     },
     {
       "name": "Quesadilla de abóbora",
-      "desc": "Preparação vegetal do repertório recente, usando abóbora e massa mexicana; disponibilidade sazonal.",
+      "desc": "Preparação vegetal, usando abóbora e massa mexicana; disponibilidade sazonal; sem fonte encontrada.",
       "photo": null
     }
   ],
@@ -87,44 +87,60 @@
     "https://www.cosentino.com/pt-br/blog/kol-restaurant/",
     "https://www.port-magazine.com/food-drink/questions-of-taste-kol-santiago-lastra/",
     "https://commons.wikimedia.org/wiki/File:Santiago_Lastra,_Photographer_Rebecca_Dickson.jpg",
-    "https://commons.wikimedia.org/wiki/File:Marylebone_High_Street_Londres.jpg"
+    "https://commons.wikimedia.org/wiki/File:Marylebone_High_Street_Londres.jpg",
+    "https://kolrestaurant.giftpro.co.uk/vouchers/michelin-starred-tasting-menu/"
   ],
   "slug": "kol",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 70,
   "founded": 2020,
   "founders": [
     "Santiago Lastra"
   ],
   "hero": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Lastra%2C%20Photographer%20Rebecca%20Dickson.jpg?width=960",
-    "page": "https://commons.wikimedia.org/wiki/File:Santiago_Lastra,_Photographer_Rebecca_Dickson.jpg",
-    "author": "Eloiselloveday (arquivo identificado como fotografia de Rebecca Dickson)",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Marylebone%20High%20Street%20Londres.jpg?width=960",
+    "page": "https://commons.wikimedia.org/wiki/File:Marylebone_High_Street_Londres.jpg",
+    "author": "CVB",
     "license": "CC BY-SA 4.0",
-    "caption": "Retrato real de Santiago Lastra, fundador do Kol, em abril de 2023. É imagem do chef, NÃO da fachada ou do salão do restaurante.",
-    "illustrative": false
+    "caption": "Marylebone High Street, no bairro londrino onde fica o Kol, fotografada em 2020. Foto urbana contextual, não da entrada na Seymour Street.",
+    "illustrative": true,
+    "kind": "context",
+    "subject": "Marylebone High Street, Londres (2020)",
+    "alt": "Rua comercial de Marylebone com prédios de tijolos e lojas",
+    "capturedAt": "2020-02-11",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "CVB, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
-  "gallery": [
-    {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Marylebone%20High%20Street%20Londres.jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Marylebone_High_Street_Londres.jpg",
-      "author": "CVB",
-      "license": "CC BY-SA 4.0",
-      "caption": "Rua de Marylebone, bairro londrino onde fica o Kol, fotografada em 2020. Foto urbana contextual, não da entrada na Seymour Street.",
-      "illustrative": true
-    }
-  ],
+  "gallery": [],
   "practical": {
     "address": "9 Seymour Street, Marylebone, Londres W1H 7BA, Reino Unido",
     "website": "https://kolrestaurant.com/",
-    "reservationUrl": "https://kolrestaurant.com/kol-restaurant-bookings/",
-    "reservation": "Reservas pela página oficial, que encaminha para SevenRooms. O restaurante oferece menu degustação, com reservas para grupos de até seis pessoas abertas, segundo a plataforma, por até dois meses de antecedência. Serve jantar de terça a sábado e almoço de quarta a sábado; fechado domingo e segunda. Contato: +44 20 3829 6888.",
-    "price": "Menu degustação exclusivo. Uma fonte de setembro de 2026 menciona cerca de £145 por pessoa, mas o valor não foi confirmado diretamente no site oficial; verificar a cotação mostrada na reserva."
+    "reservationUrl": "https://kolrestaurant.com/reservations/",
+    "reservation": "Reservas apenas on-line, pela página oficial de reservas; o restaurante não aceita pedidos por e-mail. Serve um menu degustação, de terça a sábado, com almoço em alguns dias da semana; fechado domingo e segunda. Os horários variam conforme a fonte, então confirme ao reservar. Telefone: +44 20 3829 6888.",
+    "price": "Menu degustação: cerca de £ 145 por pessoa, mais taxa de serviço discricionária de 15%, conforme o vale-presente oficial do restaurante (£ 333 para duas pessoas com serviço incluído). Bebidas e suplementos à parte.",
+    "reservationMode": "online",
+    "phone": "+44 20 3829 6888",
+    "priceDetails": {
+      "amount": 145,
+      "currency": "GBP",
+      "basis": "Menu degustação, por pessoa, sem bebidas",
+      "taxesIncluded": null,
+      "sourceUrl": "https://kolrestaurant.giftpro.co.uk/vouchers/michelin-starred-tasting-menu/",
+      "checkedAt": "2026-11-10",
+      "note": "Derivado do vale oficial de £ 333 para duas pessoas com 15% de serviço discricionário incluído; IVA não informado."
+    }
   },
   "photoReference": {
     "kind": "ambientes",
     "publisher": "Kol — site oficial",
     "url": "https://kolrestaurant.com/",
-    "note": "Fotos reais do salão, dos pratos e da cozinha aberta constam do site oficial. O A Carta apresenta apenas retrato licenciado de Santiago Lastra e imagem contextual de Marylebone.",
+    "note": "Fotos reais do salão, dos pratos e da cozinha aberta constam do site oficial. O A Carta apresenta apenas uma imagem contextual licenciada de Marylebone.",
     "additionalSources": [
       {
         "publisher": "Cosentino — projeto de interiores Kol",
@@ -132,5 +148,42 @@
         "note": "Fotografias reais do projeto de interiores da casa em Marylebone, sem licença de republicação especificada."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://kolrestaurant.giftpro.co.uk/vouchers/michelin-starred-tasting-menu/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Página do SevenRooms não renderizou; horários divergem entre as fontes. A página /contact/ do site oficial exibe conteúdo de apostas e não é citada."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://kolrestaurant.giftpro.co.uk/vouchers/michelin-starred-tasting-menu/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço derivado do vale-presente oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.thestaffcanteen.com/News/michelin-guide-uk-2026-full-list",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Estrelas de 2022 e 2026 pela imprensa; posições de 2023 a 2025 conferidas. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/kol.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Pozole e quesadilla sem fonte (marcados); pimenta defumada no taco sem fonte (retirada)."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Retrato do chef retirado: o Commons o registra como obra própria do usuário, mas a descrição credita a fotógrafa Rebecca Dickson; foto de Marylebone promovida a capa."
+    }
+  ]
 }

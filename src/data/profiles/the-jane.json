@@ -3,15 +3,15 @@
   "history": [
     "Em 2014, os chefs Sergio Herman e Nick Bril abriram o The Jane na antiga capela de um hospital militar no Groen Kwartier, em Antuérpia. O projeto chamou atenção pelo espaço monumental restaurado e pela combinação de cozinha autoral, objetos de design e música, atraindo visitantes muito além da Bélgica.",
     "O restaurante conquistou duas estrelas Michelin na primeira fase e entrou no cenário internacional de rankings gastronômicos. Nick Bril, formado na escola Ter Groene Poorte e com longa experiência na cozinha do Oud Sluis, tornou-se a figura central da criação culinária. Em 2021, após sete anos de parceria, passou a deter integralmente a operação do The Jane.",
-    "Depois de onze anos, a equipe encerrou o ciclo da capela e abriu em 2025 uma nova sede em Het Eilandje, num antigo armazém convertido na Limastraat 5. O novo salão é menor, com cozinha central e espaço para a interação entre convidados e cozinheiros. Arte e música continuam presentes, inclusive com uma instalação para DJ integrada à proposta do chef.",
+    "Depois de onze anos, a equipe encerrou o ciclo da capela e abriu em 2025 uma nova sede em Het Eilandje, num antigo armazém convertido na Limastraat 5. O novo salão é menor, com cozinha central e espaço para a interação entre convidados e cozinheiros. Arte e música continuam presentes na proposta do chef.",
     "Em maio de 2026, o Guia Michelin anunciou duas estrelas para a nova fase do The Jane. O restaurante figurou no ranking mundial estendido The 50 Best Restaurants 2026, na 63ª posição, preservando a identidade criativa em um cenário arquitetônico completamente distinto do original."
   ],
   "cuisine": {
     "style": "Alta cozinha contemporânea de inspiração internacional e técnica precisa",
     "paragraphs": [
-      "Nick Bril define sua cozinha como centrada em ingredientes locais com inspiração mundial. Os pratos combinam produtos sazonais, legumes, peixes e crustáceos, técnica clássica e referências asiáticas. O novo endereço trouxe a busca por composições com menos elementos, concentrando os sabores.",
+      "Nick Bril define sua cozinha como centrada em ingredientes locais com inspiração mundial. Os pratos combinam produtos sazonais, legumes, peixes e crustáceos, técnica clássica e referências asiáticas.",
       "O Guia Michelin descreve um prato de lagostim preparado na chapa, com manteiga defumada, óleo de folha de videira, jus e endívia com folhas de perilla. Também registra uma preparação de aipo-rábano, creme caramelizado e vinagrete de inspiração marinha. São exemplos da cozinha atual, não itens permanentes de um menu imutável.",
-      "O restaurante trabalha com três experiências: The Jane at Noon (almoço), The Jane's Experience e The Jane's Signature. A cozinha contempla uma opção vegetariana mediante informação prévia, mas não oferece um menu integralmente vegano, de acordo com a página oficial."
+      "O restaurante trabalha com três experiências: The Jane at Noon (almoço), The Jane's Experience e The Jane's Signature. Restrições alimentares devem ser informadas na reserva e são atendidas apenas em certa medida: ingredientes como ovos, cítricos, alho e aipo não podem ser retirados, e pedidos feitos na chegada têm acréscimo de € 30 por pessoa, segundo a página oficial."
     ]
   },
   "awards": [
@@ -26,6 +26,10 @@
     {
       "year": 2015,
       "title": "Restaurant & Bar Design Awards — melhor restaurante no prêmio internacional de design"
+    },
+    {
+      "year": 2024,
+      "title": "The World's 50 Best Restaurants — nº 36"
     },
     {
       "year": 2026,
@@ -48,9 +52,13 @@
     "https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-51-100-list",
     "https://commons.wikimedia.org/wiki/File:Kapel_Voormalig_Militair_Hospitaal_en_Arsenaal_Antwerpen_1-05-2019_14-12-44.jpg",
     "https://www.thebulletin.be/node/100760",
-    "https://www.nieuwsblad.be/lifestyle/eten-en-drinken/tweede-michelinster-voor-the-jane-van-sergio-herman-en-nick-bril/34364081.html"
+    "https://www.nieuwsblad.be/lifestyle/eten-en-drinken/tweede-michelinster-voor-the-jane-van-sergio-herman-en-nick-bril/34364081.html",
+    "https://www.the50.com/discovery/Establishments/Belgium/Antwerp/The-Jane.html"
   ],
   "slug": "the-jane",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 63,
   "founded": 2014,
   "founders": [
@@ -63,7 +71,17 @@
     "author": "Paul Hermans",
     "license": "CC BY-SA 4.0",
     "caption": "Capela do antigo hospital militar em Antuérpia, sede ORIGINAL do The Jane, fotografada em 2019. O restaurante mudou em 2025 para Limastraat 5; esta NÃO é a fachada atual.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Capela do antigo hospital militar de Antuérpia, sede original do The Jane (2019)",
+    "alt": "Capela de tijolos vermelhos e faixas claras com relógio e cruz no topo",
+    "capturedAt": "2019-05-01",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "Paul Hermans, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "chef": {
     "name": "Nick Bril",
@@ -72,12 +90,12 @@
   "dishes": [
     {
       "name": "Lagostim na chapa com manteiga defumada",
-      "desc": "Crustáceo grelhado com molho concentrado, óleo de folha de videira, endívia e perilla, prato contemporâneo descrito pelo Michelin.",
+      "desc": "Crustáceo grelhado com molho concentrado, óleo de folha de videira, endívia e perilla, prato contemporâneo descrito pelo Michelin; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
       "name": "Aipo-rábano, creme caramelizado e vinagrete marinho",
-      "desc": "Prato vegetal destacado pelos inspetores Michelin na edição 2026, com contraste entre doçura, acidez e notas do mar.",
+      "desc": "Prato vegetal destacado pelos inspetores Michelin na edição 2026, com contraste entre doçura, acidez e notas do mar; descrição atribuída ao Guia Michelin, sem leitura do guia.",
       "photo": null
     },
     {
@@ -100,8 +118,20 @@
     "address": "Limastraat 5, 2000 Antuérpia, Bélgica",
     "website": "https://www.thejaneantwerp.com/",
     "reservationUrl": "https://www.thejaneantwerp.com/reservations/",
-    "reservation": "Reservas no módulo do site oficial. As datas são liberadas no dia 1º de cada mês para o mês situado três meses à frente. Almoço de quinta a sábado, em geral às 12h ou 12h30; jantar de quarta a sábado às 19h ou 19h30. Informar alergias antecipadamente.",
-    "price": "The Jane at Noon € 175; The Jane's Experience € 285; The Jane's Signature € 325 por pessoa, segundo o cardápio publicado em novembro de 2026. Preços sujeitos a alteração."
+    "reservation": "Reservas no módulo do site oficial, para até 10 pessoas; grupos maiores, por e-mail. As datas são liberadas no dia 1º de cada mês para o mês situado três meses à frente, com depósito de € 150 por pessoa, descontado da conta. Jantar de quarta a sábado, às 19h ou 19h30; almoço em geral de quinta a sábado, às 12h ou 12h30 (os dias de almoço variam por semana). Fechado de 20 de dezembro de 2026 a 5 de janeiro de 2027. Informar alergias antecipadamente.",
+    "price": "The Jane at Noon € 175; The Jane's Experience € 285; The Jane's Signature € 325 por pessoa, segundo o cardápio publicado em novembro de 2026. Harmonizações opcionais de € 85 a € 225. Preços sujeitos a alteração.",
+    "reservationMode": "online",
+    "phone": "+32 3 808 44 65",
+    "email": "contact@thejaneantwerp.com",
+    "priceDetails": {
+      "amount": 175,
+      "currency": "EUR",
+      "basis": "The Jane at Noon (almoço), por pessoa, sem bebidas (Experience € 285; Signature € 325)",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.thejaneantwerp.com/menu/",
+      "checkedAt": "2026-11-10",
+      "note": "Harmonizações de € 85 a € 225; depósito de € 150 por pessoa na reserva; IVA e serviço não informados."
+    }
   },
   "gallery": [],
   "photoReference": {
@@ -116,5 +146,47 @@
         "note": "Fotografias e descrição da sede atual no armazém em Het Eilandje."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.thejaneantwerp.com/faq/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.thejaneantwerp.com/menu/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://www.thejaneantwerp.com/faq/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "Política vegetariana e vegana não consta da página oficial (texto trocado pela regra de restrições); \"menos elementos\" e instalação de DJ sem fonte (retirados)."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.michelin.com/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Lagostim e aipo-rábano atribuídos ao Michelin sem leitura do guia; demais pratos genéricos."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Belgium/Antwerp/The-Jane.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Faltava o 36º lugar mundial de 2024. Estrelas de 2015 com fontes secundárias; duas estrelas de 2026 no comunicado da Michelin."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Antiga sede, fotografada em 2019; a legenda já avisava."
+    }
+  ]
 }

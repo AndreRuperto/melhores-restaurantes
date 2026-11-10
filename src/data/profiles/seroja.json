@@ -1,7 +1,7 @@
 {
   "lede": "No DUO Galleria, em Singapura, o Seroja de Kevin Wong pesquisa as cozinhas e os produtos do arquipélago malaio. O pequeno restaurante, aberto em 2022, combina especiarias, técnicas de fogo e ingredientes de produtores da região numa experiência contemporânea de raízes culturais bem definidas.",
   "history": [
-    "Kevin Wong cresceu em Port Klang, na Malásia, em uma família ligada à rua Jalan Seroja. Escolheu o nome do restaurante por sua relação com a flor de lótus, símbolo compartilhado por muitas comunidades do arquipélago, e pela lembrança do endereço familiar.",
+    "Kevin Wong nasceu numa pequena cidade ao sul de Klang, na Malásia, e sua família ainda vive na rua Jalan Seroja. Escolheu o nome do restaurante por sua relação com a flor de lótus, símbolo compartilhado por muitas comunidades do arquipélago, e pela lembrança do endereço familiar.",
     "Depois de trabalhar em cozinhas na França, nos Estados Unidos e em Singapura, incluindo o restaurante Meta, Wong abriu o Seroja em 2022, no DUO Galleria, no bairro de Bugis. O espaço foi planejado com cozinha aberta, balcão de aproximadamente 13 lugares e mesas para pequenos grupos, totalizando cerca de 24 assentos.",
     "A pesquisa da casa acompanha plantas, pescados, especiarias, preparos domésticos e tradições de diferentes comunidades do Sudeste Asiático. O chef atua com Andrew Ou, colega de longa data e responsável pela cozinha, enquanto a equipe cria uma experiência em que o trabalho dos agricultores e pescadores é apresentado como parte da narrativa.",
     "Em 2023, o Seroja recebeu uma estrela Michelin, uma Estrela Verde e o Young Chef Award para Kevin Wong. Em 2026, conquistou a segunda estrela Michelin e manteve a Estrela Verde. No mesmo ano, ficou em 20º na Ásia e 64º na lista mundial estendida The 50 Best."
@@ -9,9 +9,9 @@
   "cuisine": {
     "style": "Cozinha malaia contemporânea do arquipélago, com ingredientes de origem",
     "paragraphs": [
-      "A cozinha apresenta tradições da Malásia, de Singapura e de outras ilhas do arquipélago por meio de menus de degustação. O uso de folhas de laksa, coco, tamarindo, especiarias e técnicas de grelha em madeira conversa com frutos do mar de origem rastreável e produtos cultivados localmente.",
+      "A cozinha apresenta tradições da Malásia, de Singapura e de outras ilhas do arquipélago por meio de menus de degustação. O uso de folhas de laksa, coco, especiarias e técnicas de grelha em madeira conversa com frutos do mar de origem rastreável e produtos cultivados localmente.",
       "A carta oficial de novembro de 2026 distingue o Kuntum Menu, servido no almoço, e o Nusantara Menu, no jantar. Entre as preparações descritas estão camarão marinado em molho asam pedas, roti paung com manteiga johoriana, vieira grelhada sobre madeira de mangue, peixe pomfret com abalone e cordeiro ou pato percik.",
-      "O restaurante valoriza aproveitamento de ingredientes e criatividade em acompanhamentos não alcoólicos. Conforme sua política oficial, pratos com frutos do mar, coco, soja, alho, glúten e especiarias são centrais: a equipe não consegue atender a todas as restrições alimentares e pede informação antecipada."
+      "O restaurante valoriza aproveitamento de ingredientes e criatividade em acompanhamentos não alcoólicos. Conforme sua política oficial, frutos do mar, coco, derivados de soja, aliáceas, ervas, especiarias e glúten são ingredientes centrais: a casa não oferece menus veganos, sem glúten ou outros menus especiais e não atende pedidos de última hora."
     ]
   },
   "chef": {
@@ -57,6 +57,9 @@
     "https://commons.wikimedia.org/wiki/File:Night_view_of_DUO_Singapore_from_junction_of_North_Bridge_Road_and_Arab_Street_20170831.jpg"
   ],
   "slug": "seroja",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "rank": 64,
   "dishes": [
     {
@@ -94,8 +97,20 @@
     "address": "Duo Galleria, unidades #01-30/31/32/33, 7 Fraser Street, Singapura 189356",
     "website": "https://seroja.sg/",
     "reservationUrl": "https://seroja.sg/reservations",
-    "reservation": "Reservas pelo botão do site oficial, com agenda aberta 60 dias antes. Jantar de terça a sábado, das 18h às 23h; almoço sexta e sábado, das 12h às 14h30. A casa pede confirmação de restrições alimentares e cartão de garantia; cancelamentos com menos de 72 horas podem gerar cobrança. Telefone +65 8522 2926.",
-    "price": "Kuntum (almoço) SGD 218++ e Nusantara (jantar) SGD 288++ por pessoa, segundo o menu oficial de novembro de 2026. O sinal ++ indica impostos e serviço adicionais."
+    "reservation": "Reservas pelo botão do site oficial, com agenda aberta 60 dias antes. Jantar de terça a sábado, das 18h às 23h; almoço sexta e sábado, das 12h às 14h30. A casa pede confirmação de restrições alimentares e faz pré-autorização de S$ 200 por pessoa no cartão; alterações ou cancelamentos com menos de 72 horas implicam perda do valor, e o não comparecimento é cobrado pelo preço integral do menu, com taxas. Telefone +65 8522 2926; e-mail info@seroja.sg.",
+    "price": "Kuntum (almoço) SGD 218++ e Nusantara (jantar) SGD 288++ por pessoa, segundo o menu oficial de novembro de 2026. O sinal ++ indica impostos e serviço adicionais.",
+    "reservationMode": "online",
+    "phone": "+65 8522 2926",
+    "email": "info@seroja.sg",
+    "priceDetails": {
+      "amount": 218,
+      "currency": "SGD",
+      "basis": "Menu Kuntum (almoço), por pessoa (Nusantara, no jantar, SGD 288)",
+      "taxesIncluded": false,
+      "sourceUrl": "https://seroja.sg/menu",
+      "checkedAt": "2026-11-10",
+      "note": "Valores ++: serviço e GST à parte; harmonizações de SGD 108 a 198; página sem data."
+    }
   },
   "founded": 2022,
   "founders": [
@@ -106,8 +121,18 @@
     "page": "https://commons.wikimedia.org/wiki/File:Night_view_of_DUO_Singapore_from_junction_of_North_Bridge_Road_and_Arab_Street_20170831.jpg",
     "author": "Xixian Wang",
     "license": "CC BY 3.0",
-    "caption": "Vista noturna do complexo DUO em Singapura, em 2017, onde o Seroja viria a abrir em 2022. Fotografia do empreendimento, NÃO da entrada ou do interior do restaurante.",
-    "illustrative": false
+    "caption": "Vista noturna, da esquina da North Bridge Road com a Arab Street, das torres que o arquivo identifica como o complexo DUO, em 2017; o Seroja abriu ali em 2022. Fotografia do empreendimento, NÃO da entrada ou do interior do restaurante.",
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Torres do complexo DUO à noite (2017)",
+    "alt": "Torres iluminadas à noite atrás de sobrados baixos numa esquina de Singapura",
+    "capturedAt": "2017",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L08.json).",
+    "attribution": "Xixian Wang, CC BY 3.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "gallery": [],
   "photoReference": {
@@ -122,5 +147,47 @@
         "note": "Fotos e informações do restaurante atual."
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://seroja.sg/reservations",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "A página leva ao SevenRooms; regras de cartão detalhadas."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://seroja.sg/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://seroja.sg/story",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O site oficial não cita Port Klang (nasceu ao sul de Klang); corrigido."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/seroja.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "A página do The 50 Best data a estreia asiática em 2023; o comunicado de 2024 confirma 2024. Duas estrelas de 2026 só na imprensa. Páginas do Guia Michelin ilegíveis para leitura automática; estrelas com fonte secundária."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://seroja.sg/menu",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Identificação do DUO só pelo nome do arquivo; coordenadas do Commons não batem, mas as placas visíveis são da North Bridge Road com a Arab Street."
+    }
+  ]
 }
