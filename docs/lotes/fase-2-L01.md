@@ -86,3 +86,19 @@ Ambiente: Windows, Node 26.13.0. Validador e build repetidos após a segunda rod
 - [ ] Revisor e aceite de produto registrados.
 
 **P1 do piloto ainda abertos:** F2-04 (metadados e validador), matriz de navegadores e acessibilidade manual, e L0-SEO (canonical, descrição e metadados sociais por perfil), que é transversal. **Próximo passo:** publicar estas correções e implementar o contrato de metadados no piloto.
+
+## Publicação conferida — 10/11/2026
+
+Commit [077c8b4](https://github.com/AndreRuperto/melhores-restaurantes/commit/077c8b499ed518bacfd8009dc0e80a9e501e6b0e) enviado à `main`. Railway: deploy `2cf4c1e4-9e15-4c7b-a79a-c80e032537dc` em SUCCESS para esse SHA, ambiente production.
+
+Teste no domínio público, por acesso direto a cada rota:
+
+| Perfil | Conferido no site público | Resultado |
+| --- | --- | --- |
+| Den | Link de reserva para `/en/reserve/`; regra de reserva de segunda-feira; Chefs’ Choice 2019 | Aprovado |
+| Aponiente | Link de reserva para `/reservas/`; pré-autorização de €300; alerta sem fonte sobre sites não oficiais ausente | Aprovado |
+| Steirereck | Prato “Badger Flame” presente; Art of Hospitality 2021 presente; prato antigo “Truta de montanha” ausente | Aprovado |
+| Khufu’s | Portão de Fayoum; Resy One To Watch 2025; Top Chef Middle East | Aprovado |
+| Asador Etxebarri | Categoria do Premio Nacional; biografia ajustada; zero imagens quebradas | Aprovado |
+
+Sem erros de console. O teste confirma o conteúdo publicado, não a homologação do lote: F2-04, a matriz de navegadores e o aceite de produto continuam pendentes.
