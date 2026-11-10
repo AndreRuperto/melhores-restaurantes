@@ -1,5 +1,8 @@
 {
   "slug": "merito",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Num sobrado de paredes de adobe em Barranco, o venezuelano Juan Luis Martínez faz uma cozinha que ele mesmo define como nem venezuelana nem peruana: uma identidade híbrida que junta memórias de Caracas à despensa dos Andes, da costa e da Amazônia. Aberto em 2018, o Mérito chegou ao 13º lugar da lista de 2026.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puente_de_los_Suspiros%2C_Barranco.jpg/1920px-Puente_de_los_Suspiros%2C_Barranco.jpg",
@@ -7,7 +10,17 @@
     "author": "Ibrehaut (Ivan Brehaut L.)",
     "license": "CC BY-SA 4.0",
     "caption": "Puente de los Suspiros, cartão-postal de Barranco, o bairro boêmio de Lima onde fica o Mérito",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Puente de los Suspiros, em Barranco",
+    "alt": "Ponte de madeira sobre uma ravina, com casarão vermelho de sacadas ao fundo",
+    "capturedAt": "2016-02-12",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "Ibrehaut (Ivan Brehaut L.), CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2018,
   "founders": [
@@ -16,10 +29,10 @@
   ],
   "chef": {
     "name": "Juan Luis Martínez",
-    "bio": "Nascido em Caracas, estudou comunicação social e só começou a cozinhar aos 27 anos, com formação na escola La Casserole du Chef, em Caracas, e passagem pela Ferrandi, em Paris. Trabalhou no sul da França e no DiverXo, de Dabiz Muñoz, em Madri, antes de se mudar para Lima em 2014 para integrar a equipe do Central, de Virgilio Martínez. Além do Mérito, comanda em Barranco o café e padaria Demo, o restaurante casual Clon e a pizzaria Indio."
+    "bio": "Nascido em Caracas, estudou comunicação social antes de se dedicar à cozinha, com formação na escola La Casserole du Chef, em Caracas, e passagem pela Ferrandi, em Paris. Trabalhou no DiverXo, de Dabiz Muñoz, em Madri, antes de se mudar para Lima em 2014 para integrar a equipe do Central, de Virgilio Martínez. Além do Mérito, comanda em Barranco o café e padaria Demo, o restaurante casual Clon e a pizzaria Indio."
   },
   "history": [
-    "Juan Luis Martínez e José Luis Saume se conheceram no início da carreira, na cozinha do Planta Baja, em Caracas. Martínez seguiu para a Europa e, depois de ver Virgilio Martínez falar no congresso Madrid Fusión, entrou para o Central em menos de duas semanas; em 2014 fixou-se em Lima. Em 2018, os dois venezuelanos abriram o Mérito num espaço estreito de dois andares em Barranco, com paredes de adobe, madeira e cozinha aberta, com projeto de interiores da designer Michelle Sikic, mulher do chef.",
+    "Juan Luis Martínez e José Luis Saume se conheceram no início da carreira, na cozinha do Planta Baja, em Caracas. Martínez seguiu para a Europa e, depois de ver Virgilio Martínez falar no congresso Madrid Fusión, entrou para o Central em menos de duas semanas; em 2014 fixou-se em Lima. Em 2018, os dois venezuelanos abriram o Mérito num espaço estreito de dois andares em Barranco, com paredes de adobe, madeira e cozinha aberta.",
     "A estreia na lista Latin America's 50 Best Restaurants veio em 2020, no 37º lugar, com o prêmio de maior entrada nova do ano. Durante a pandemia, o grupo criou o Demo, serviço de delivery de arepas e cachapas que virou café e padaria; em 2023 abriu o Clon, versão mais descontraída do Mérito, e depois a pizzaria Indio e a Casa Colón, espaço de experimentação com fermentação e café. Em 2024, a revista Food & Wine elegeu o Mérito o melhor restaurante internacional em seus prêmios Global Tastemakers.",
     "Na lista mundial, a casa estreou no 59º lugar em 2023, subiu para o 55º em 2024 e entrou no top 30 em 2025, no 26º posto. No mesmo ano, depois de sete anos trabalhando só à la carte, lançou seu primeiro menu degustação, com cerca de dez etapas. Em 2026, na edição realizada em Lima, alcançou o 13º lugar."
   ],
@@ -40,7 +53,17 @@
         "author": "Rodrigo Fernández",
         "license": "CC BY-SA 4.0",
         "caption": "Vieiras do Pacífico (Argopecten purpuratus) à venda num mercado de Santiago do Chile; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Vieiras do Pacífico num mercado de Santiago (ilustrativa)",
+        "alt": "Pilha de vieiras em conchas abertas e fechadas",
+        "capturedAt": "2017-11-25",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Rodrigo Fernández, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -52,7 +75,17 @@
         "author": "Periodismodepaz",
         "license": "CC BY-SA 4.0",
         "caption": "Arepas venezuelanas; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Arepas venezuelanas (ilustrativa)",
+        "alt": "Duas arepas tostadas numa cesta de vime",
+        "capturedAt": "2024-02-16",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Periodismodepaz, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -74,7 +107,17 @@
         "author": "Tgdileep",
         "license": "CC BY-SA 4.0",
         "caption": "Cherimoia inteira e cortada ao meio; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Cherimoia inteira e cortada (ilustrativa)",
+        "alt": "Cherimoia verde inteira e outra cortada ao meio, com polpa branca e sementes pretas",
+        "capturedAt": "2018",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Tgdileep, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -121,10 +164,22 @@
     }
   ],
   "practical": {
-    "price": "Menu degustação estimado em US$ 125 (cerca de S/ 460) por pessoa e pratos à la carte de S/ 55 a S/ 160 (Caretas, junho de 2025); o site do 50 Best indica menu degustação a partir de US$ 75 (2026)",
-    "reservation": "Online pelo Mesa 24/7 (merito.mesa247.pe) ou pelo telefone +51 1 277 1628; as reservas abrem mensalmente e se esgotam rápido. Almoço de terça a sábado, jantar de segunda a sábado.",
+    "price": "Não há preço publicado pelo restaurante. A ficha do guia Discovery do The 50 Best indica menu degustação a partir de 75 dólares; a revista Caretas estimava, em junho de 2025, cerca de US$ 125 (S/ 460) pelo menu e pratos à la carte de S/ 55 a S/ 160.",
+    "reservation": "Online pelo Mesa 24/7 (merito.mesa247.pe) ou pelo telefone +51 1 277 1628. Almoço de terça a sábado, jantar de segunda a sábado.",
     "website": "https://www.meritorestaurante.com/",
-    "address": "28 de Julio 206, Barranco, Lima 15063, Peru"
+    "address": "28 de Julio 206, Barranco, Lima 15063, Peru",
+    "reservationMode": "online",
+    "reservationUrl": "https://merito.mesa247.pe/reservas/merito#/merito",
+    "phone": "+51 1 277 1628",
+    "priceDetails": {
+      "amount": null,
+      "currency": "PEN",
+      "basis": "Menu degustação por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Peru/Lima/M%C3%A9rito.html",
+      "checkedAt": "2026-11-10",
+      "note": "O restaurante não publica preço; o guia Discovery indica \"a partir de $75\" e a Caretas estimava US$ 125 (S/ 460) em junho de 2025."
+    }
   },
   "gallery": [
     {
@@ -133,7 +188,17 @@
       "author": "McKay Savage",
       "license": "CC BY 2.0",
       "caption": "Fachadas coloridas em Barranco, bairro do Mérito",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Fachada colorida em Barranco",
+      "alt": "Janela de madeira branca com vidros coloridos numa parede azul",
+      "capturedAt": "2012-03-16",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "McKay Savage, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Corryocactus_brevistylus.jpg/1920px-Corryocactus_brevistylus.jpg",
@@ -141,7 +206,17 @@
       "author": "Carlos Zúñiga Gárate",
       "license": "CC BY 2.0",
       "caption": "Cacto Corryocactus brevistylus, que dá o fruto sanky, em Huanca, Arequipa; imagem ilustrativa",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Cacto que dá o fruto sanky, em Arequipa (ilustrativa)",
+      "alt": "Cacto com fruto espinhoso diante de vale com terraços agrícolas",
+      "capturedAt": "2008-04-03",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Carlos Zúñiga Gárate, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Solanum_sessiliflorum_1.jpg",
@@ -149,7 +224,17 @@
       "author": "Franz Xaver",
       "license": "CC BY-SA 3.0",
       "caption": "Cocona (Solanum sessiliflorum), fruta amazônica usada na cozinha do Mérito, fotografada na Costa Rica; imagem ilustrativa",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Cocona, fruta amazônica (ilustrativa)",
+      "alt": "Planta de folhas grandes e recortadas junto a uma cerca de madeira",
+      "capturedAt": "2010-03-17",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Franz Xaver, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -182,5 +267,47 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "O bairro de Barranco",
     "previewContext": "Fotografia real das fachadas coloridas do bairro Barranco, em Lima. Não mostra a fachada específica do Mérito. O projeto arquitetônico do restaurante pode ser consultado na fonte externa indicada abaixo."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.meritorestaurante.com/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/Peru/Lima/M%C3%A9rito.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Sem preço oficial; valores do guia Discovery e da imprensa."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.the50.com/the-list/merito.html",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Projeto de interiores de Michelle Sikic, \"começou a cozinhar aos 27 anos\", passagem pelo sul da França e \"sete anos só à la carte\" não confirmados; os três primeiros foram retirados."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/merito.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/merito.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Vieiras com sanky, rocha de chocolate e cherimoia citados pelo The 50 Best em 2026; panceta com arepas não confirmada."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos de bairro e ingredientes."
+    }
+  ]
 }

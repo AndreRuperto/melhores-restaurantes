@@ -1,5 +1,8 @@
 {
   "slug": "mingles",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Em Cheongdam-dong, no distrito de Gangnam, em Seul, o chef Kang Mingoo serve desde 2014 uma cozinha coreana contemporânea construída em torno do jang, os molhos fermentados de soja que estão na base da mesa coreana. Primeiro restaurante da Coreia do Sul a entrar no top 50 mundial, o Mingles é hoje o único três estrelas Michelin do país.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NIght_view_at_Ttukseom_Hangang_Park.jpg/1920px-NIght_view_at_Ttukseom_Hangang_Park.jpg",
@@ -7,7 +10,17 @@
     "author": "Real rism",
     "license": "CC BY-SA 4.0",
     "caption": "A ponte Cheongdam, que cruza o rio Han entre os distritos de Gwangjin e Gangnam, à noite, vista do parque Ttukseom Hangang (novembro de 2024)",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Ponte Cheongdam sobre o rio Han, à noite",
+    "alt": "Ponte iluminada sobre um rio escuro, com prédios acesos ao fundo",
+    "capturedAt": "2024-11-04",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "Real rism, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2014,
   "founders": [
@@ -20,7 +33,7 @@
   "history": [
     "Kang Mingoo abriu o Mingles em abril de 2014 em Cheongdam-dong, no distrito de Gangnam, ao sul do rio Han. O nome vem de um apelido do chef e do verbo inglês \"to mingle\", misturar, e resumia a proposta de combinar pratos coreanos com elementos estrangeiros. Nos primeiros tempos, segundo o próprio chef, só cerca de 30% de cada prato era coreano, e críticos apontavam falta de identidade. Kang passou então cerca de um ano e meio estudando a cozinha tradicional, com foco nos molhos fermentados, e inverteu a proporção.",
     "O reconhecimento internacional veio rápido. Em 2016 o restaurante estreou no Asia's 50 Best Restaurants em 15º lugar, a entrada mais alta daquele ano, e desde então aparece na lista todos os anos. Na primeira edição do Guia Michelin Seul, a de 2017, recebeu uma estrela; a segunda veio no guia de 2019 e foi mantida até 2024. Em 2019 o Mingles se mudou para um espaço maior no mesmo bairro, no segundo andar de um prédio da Dosan-daero 67-gil. Em 2021, Kang recebeu o Inedit Damm Chefs' Choice Award, votado pelos colegas da lista asiática.",
-    "Em 2024, ano em que completou dez anos, o Mingles entrou no The World's 50 Best Restaurants em 44º lugar, o primeiro restaurante coreano no top 50 mundial. Em fevereiro de 2025 o Guia Michelin Seul & Busan lhe deu a terceira estrela, mantida em 2026, e no mesmo ano a casa subiu para o 29º lugar no ranking mundial. Em 2026 ficou em 4º na lista asiática, como melhor restaurante da Coreia do Sul, e chegou ao 17º lugar no The World's 50 Best Restaurants."
+    "Em 2024, ano em que completou dez anos, o Mingles entrou no The World's 50 Best Restaurants em 44º lugar, o primeiro restaurante coreano no top 50 mundial. Em fevereiro de 2025 o Guia Michelin Seul & Busan lhe deu a terceira estrela, mantida em 2026, e no mesmo ano a casa subiu para o 29º lugar no ranking mundial. Em 2026 ficou em 4º na lista asiática, como melhor restaurante da Coreia do Sul, e chegou ao 17º lugar no The 50 Best Restaurants."
   ],
   "cuisine": {
     "style": "Coreana contemporânea (menu-degustação)",
@@ -39,7 +52,17 @@
         "author": "Korea Agro-Fisheries & Food Trade Corporation",
         "license": "KOGL Type 1",
         "caption": "Os três jang da cozinha coreana: doenjang (pasta de soja), ganjang (molho de soja) e gochujang (pasta de pimenta) (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Os três jang da cozinha coreana (ilustrativa)",
+        "alt": "Pasta de soja, molho de soja e pasta de pimenta em recipientes de madeira, com grãos de soja",
+        "capturedAt": "2024-08-15",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Korea Agro-Fisheries & Food Trade Corporation, KOGL Type 1, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -51,7 +74,17 @@
         "author": "lazy fri13th",
         "license": "CC BY 2.0",
         "caption": "Jeonbok-jjim, abalone cozido no vapor da cozinha coreana (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Jeonbok-jjim, abalone no vapor (ilustrativa)",
+        "alt": "Pedaços de abalone cozido num prato de borda azul e branca",
+        "capturedAt": "2019-01-29",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "lazy fri13th, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -63,7 +96,17 @@
         "author": "lazy fri13th",
         "license": "CC BY 2.0",
         "caption": "Carne hanwoo grelhada na brasa, à moda do churrasco coreano (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Hanwoo grelhado na brasa (ilustrativa)",
+        "alt": "Cubos de carne vermelha grelhando numa grelha sobre carvão, com cogumelos",
+        "capturedAt": "2018-03-23",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "lazy fri13th, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -80,7 +123,7 @@
   "awards": [
     {
       "year": 2016,
-      "title": "Asia's 50 Best Restaurants – nº 15 (maior entrada do ano)"
+      "title": "Asia's 50 Best Restaurants – nº 15 (maior entrada do ano) e Best Restaurant in Korea"
     },
     {
       "year": 2017,
@@ -108,7 +151,7 @@
     },
     {
       "year": 2021,
-      "title": "Asia's 50 Best Restaurants – nº 10"
+      "title": "Asia's 50 Best Restaurants – nº 10 e Best Restaurant in Korea"
     },
     {
       "year": 2021,
@@ -152,14 +195,25 @@
     },
     {
       "year": 2026,
-      "title": "The World's 50 Best Restaurants – nº 17"
+      "title": "The 50 Best Restaurants – nº 17"
     }
   ],
   "practical": {
-    "price": "Menu-degustação de ₩300.000 a ₩380.000 por pessoa; harmonização a partir de ₩120.000 (2026)",
-    "reservation": "Pelo aplicativo CatchTable; as datas abrem cerca de um mês antes e costumam esgotar em poucas horas. Almoço e jantar de terça a sábado.",
+    "price": "Menu-degustação por pessoa; em maio de 2025 custava ₩350.000, com reajuste anunciado para ₩400.000 a partir de junho daquele ano, segundo relato de cliente. Harmonizações à parte. O valor de 2026 não foi confirmado em fonte oficial.",
+    "reservation": "Reserva antecipada; o telefone publicado pelo The 50 Best é +82 2 515 7306. Almoço e jantar de terça a sábado.",
     "website": "https://www.restaurant-mingles.com",
-    "address": "19 Dosan-daero 67-gil, 2º andar, Gangnam-gu, Seul, Coreia do Sul"
+    "address": "19 Dosan-daero 67-gil, 2º andar, Gangnam-gu, Seul, Coreia do Sul",
+    "reservationMode": "phone",
+    "phone": "+82 2 515 7306",
+    "priceDetails": {
+      "amount": null,
+      "currency": "KRW",
+      "basis": "Menu-degustação por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.travelsforstars.com/blog/2025/05/07/mingles-seoul",
+      "checkedAt": "2026-11-10",
+      "note": "Sem preço oficial legível; relato de maio de 2025 indica ₩350.000, com reajuste para ₩400.000 em junho de 2025."
+    }
   },
   "gallery": [
     {
@@ -168,7 +222,17 @@
       "author": "Bernard Gagnon",
       "license": "CC0",
       "caption": "Jangdokdae, terraço de potes de cerâmica onde se fermentam os jang, no templo budista de Tongdosa (imagem ilustrativa)",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Jangdokdae do templo de Tongdosa (ilustrativa)",
+      "alt": "Terraço cercado por muro de telhas com dezenas de potes de cerâmica",
+      "capturedAt": "2022-10-05",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Bernard Gagnon, CC0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Korean_pottery-jangdoks_in_Gangjin_Jeollanamdo%281%29.jpg/1920px-Korean_pottery-jangdoks_in_Gangjin_Jeollanamdo%281%29.jpg",
@@ -176,7 +240,17 @@
       "author": "Mar del Este",
       "license": "CC BY-SA 4.0",
       "caption": "Fileiras de jangdok, potes tradicionais usados para fermentar e conservar condimentos, em Gangjin, na província de Jeolla do Sul (imagem ilustrativa)",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Fileiras de jangdok em Gangjin (ilustrativa)",
+      "alt": "Fileiras de potes de cerâmica escura sobre cascalho, com montanhas ao fundo",
+      "capturedAt": "2015-05-01",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Mar del Este, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -220,5 +294,42 @@
         "note": "Fotografias de pratos do restaurante e o cardápio oficial"
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.the50.com/discovery/Mingles.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Site oficial ilegível para leitura automática; uso do CatchTable não confirmado e retirado. Telefone e horários do The 50 Best."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.travelsforstars.com/blog/2025/05/07/mingles-seoul",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Sem preço oficial; o valor anterior do perfil era menor que o de 2025."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/asia/en/the-list/1-10/mingles.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Best Restaurant in Korea de 2016 e 2021 acrescentados."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/mingles.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Mingling Pot e hanwoo citados pelo The 50 Best em 2026; ravióli de baunilha não confirmado."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos ilustrativas da cultura dos jang."
+    }
+  ]
 }

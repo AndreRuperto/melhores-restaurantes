@@ -541,3 +541,16 @@ Relatório: [fase-2-L02.md](lotes/fase-2-L02.md). Perfis 2 a 11 (Gaggan a Atomix
 | 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.**
+
+## 15. Atualização de execução — 10/11/2026, lote L3 em revisão
+
+Relatório: [fase-2-L03.md](lotes/fase-2-L03.md). Perfis 12 a 21 (Sorn a Meet the Bund).
+
+| Frente | Progresso comprovado | O que continua aberto |
+| --- | --- | --- |
+| 2.2 | 75 usos e 73 arquivos conferidos no Commons e visualmente; nenhuma foto atribuída à casa errada; três legendas sem fonte ajustadas | Fotos licenciadas dos próprios restaurantes em nove dos dez perfis (P2) |
+| 2.4 | Correções nos dez perfis: preços desatualizados (Sorn, Odette, Mingles), prêmios faltantes ou mal descritos (Sorn, Nusara, Piazza Duomo, Odette) e trechos sem fonte retirados | Endereço do Meet the Bund (L03-MB-ENDERECO); 17 itens com fonte única e 7 não verificados |
+| F2-04 | Dez perfis no contrato estrito; total de 25 perfis e 156 fotos com direito aprovado | Revisor humano |
+| 2.3 | 20 casos de layout sem overflow, nos temas claro e escuro | Larguras intermediárias, teclado, outros navegadores e acessibilidade manual |
+
+**Perfis integralmente homologados neste checkpoint: 0/100.**

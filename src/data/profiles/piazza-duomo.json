@@ -1,5 +1,8 @@
 {
   "slug": "piazza-duomo",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Num salão de paredes cor-de-rosa voltado para a catedral de Alba, Enrico Crippa cozinha a partir de uma horta biodinâmica da família Ceretto, vinicultora das Langhe. A casa traduz o Piemonte dos vinhos e das trufas em menus que mudam conforme o que se colhe no dia.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Alba_Piazza_Duomo_1.jpg/1920px-Alba_Piazza_Duomo_1.jpg",
@@ -7,7 +10,17 @@
     "author": "Zairon",
     "license": "CC BY-SA 4.0",
     "caption": "A Piazza Risorgimento, em Alba, com a catedral ao fundo; o restaurante fica no número 4 da praça.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Piazza Risorgimento, em Alba, onde fica o restaurante",
+    "alt": "Praça de pedra com a catedral de tijolos vermelhos ao fundo e prédios com arcadas",
+    "capturedAt": "2021-09-10",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "Zairon, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2005,
   "founders": [
@@ -16,18 +29,18 @@
   ],
   "chef": {
     "name": "Enrico Crippa",
-    "bio": "Nascido em 1971 em Carate Brianza, na Lombardia, Crippa se formou com Gualtiero Marchesi, um dos chefs que renovaram a cozinha italiana, e passou também pelas cozinhas de Michel Bras e Ferran Adrià. Em 1996, Marchesi o mandou a Kobe, no Japão, para abrir um restaurante, experiência que mudou seu modo de apresentar a natureza no prato. Desde 2005 comanda o Piazza Duomo, onde conquistou as três estrelas Michelin."
+    "bio": "Nascido em 1971 em Carate Brianza, na Lombardia, Crippa se formou com Gualtiero Marchesi, um dos chefs que renovaram a cozinha italiana, e passou também pelas cozinhas de Michel Bras e Ferran Adrià. Marchesi o mandou ao Japão, onde passou cerca de três anos entre Kobe e Osaka, experiência que mudou seu modo de apresentar a natureza no prato. Desde 2005 comanda o Piazza Duomo, onde conquistou as três estrelas Michelin."
   },
   "history": [
     "O restaurante nasceu de um encontro em 2003 entre Crippa e Bruno Ceretto, da família de produtores de Barolo e Barbaresco que queria levar três estrelas Michelin a Alba, a capital das Langhe. Em 2005 abriram juntos, na Piazza Risorgimento, dois endereços: a Piola, de cozinha piemontesa do dia a dia, e o Piazza Duomo, com interiores de Bill Katz e afrescos do artista Francesco Clemente.",
     "A ascensão foi rápida: a primeira estrela Michelin chegou em 2006, a segunda em 2009 e a terceira em 2012. Em 2010 a casa ganhou uma sala envidraçada com vista para a cozinha. Para abastecê-la, os Ceretto cederam a Crippa terras da propriedade Monsordo Bernardina, nos arredores de Alba, onde hoje há cerca de três hectares de horta cultivada em regime biodinâmico, além de estufas.",
-    "O Piazza Duomo entrou na lista The World's 50 Best Restaurants em 2013 e chegou ao 15º lugar em 2017. Depois oscilou — caiu para o 42º posto em 2023 —, mas voltou a subir em 2025 (32º) e alcançou o 20º lugar na edição de 2026."
+    "O Piazza Duomo entrou na lista The World's 50 Best Restaurants em 2013 e chegou ao 15º lugar em 2017. Depois oscilou — caiu para o 42º posto em 2023 —, mas retomou a subida a partir de 2024 (39º), chegou ao 32º em 2025 e alcançou o 20º lugar na edição de 2026."
   ],
   "cuisine": {
     "style": "Piemontesa de horta",
     "paragraphs": [
       "A cozinha de Crippa parte da horta: a maior parte dos legumes, ervas e frutas servidos vem da propriedade dos Ceretto, e o chef a visita pela manhã para decidir o que entra no menu do dia. A ideia de cozinhar a partir do mercado e da colheita veio de Michel Bras, a quem Crippa chama de seu mestre de poesia; do Japão vieram o rigor e o cuidado com a apresentação.",
-      "Os menus são só de degustação. O Viaggio tem oito pratos; o Seasonal Things, onze, é montado com o que as estufas e hortas oferecem; e no outono há um menu dedicado à trufa branca de Alba. A base é a tradição do Piemonte — carne crua cortada à faca, caracóis, risotos —, revista com técnica moderna, ao lado de uma carta de vinhos de peso, com harmonizações dedicadas ao Barolo."
+      "A casa trabalha sobretudo com menus de degustação, ao lado de uma pequena seleção à la carte, a Vorrei, e de um menu de almoço mais curto, o Art Bites. O Viaggio tem oito pratos; o Seasonal Things, onze, é montado com o que as estufas e hortas oferecem; e no outono há um menu dedicado à trufa branca de Alba. A base é a tradição do Piemonte — carne crua cortada à faca, caracóis, risotos —, revista com técnica moderna, ao lado de uma carta de vinhos de peso, com harmonizações dedicadas ao Barolo."
     ]
   },
   "dishes": [
@@ -38,19 +51,29 @@
     },
     {
       "name": "Risotto alla zucca con fegatini di faraona (risoto de abóbora com fígados de galinha-d'angola)",
-      "desc": "Prato de inverno que junta o doce da abóbora ao sabor intenso dos miúdos de galinha-d'angola.",
+      "desc": "Prato de inverno que junta o doce da abóbora ao sabor intenso dos miúdos de galinha-d'angola. Prato de menus anteriores, não citado na cobertura do menu de 2026.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Risotto-alla-zucca.jpg/1920px-Risotto-alla-zucca.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Risotto-alla-zucca.jpg",
         "author": "Luca Nebuloni",
         "license": "CC BY 2.0",
         "caption": "Risoto de abóbora (imagem ilustrativa).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Risoto de abóbora (ilustrativa)",
+        "alt": "Risoto alaranjado decorado com anis-estrelado num prato fundo",
+        "capturedAt": "2012-12-02",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Luca Nebuloni, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Piselli e seppie (ervilhas e sépia)",
-      "desc": "Prato de primavera de ervilhas e sépia servidas com uma redução da tinta do próprio molusco.",
+      "desc": "Prato de primavera de ervilhas e sépia servidas com uma redução da tinta do próprio molusco. Prato de menus anteriores, não citado na cobertura do menu de 2026.",
       "photo": null
     },
     {
@@ -76,6 +99,10 @@
     {
       "year": 2012,
       "title": "Terceira estrela Michelin"
+    },
+    {
+      "year": 2013,
+      "title": "The World's 50 Best Restaurants — nº 41 (estreia)"
     },
     {
       "year": 2014,
@@ -134,7 +161,20 @@
     "price": "Menus degustação de € 290 (Viaggio, 8 pratos) e € 350 (Seasonal Things, 11 pratos) (março de 2026)",
     "reservation": "Pelo site oficial, pelo telefone +39 0173 366167 ou pelo e-mail info@piazzaduomoalba.it.",
     "website": "https://www.piazzaduomoalba.it/",
-    "address": "Piazza Risorgimento 4, 12051 Alba (CN), Itália"
+    "address": "Piazza Risorgimento 4, 12051 Alba (CN), Itália",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.piazzaduomoalba.it/en/prenota/",
+    "phone": "+39 0173 366167",
+    "email": "info@piazzaduomoalba.it",
+    "priceDetails": {
+      "amount": 290,
+      "currency": "EUR",
+      "basis": "Menu degustação Viaggio, oito pratos, por pessoa; Seasonal Things, onze pratos, por € 350",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.scattidigusto.it/ristorante-piazza-duomo-tre-stelle-michelin-chef-enrico-crippa",
+      "checkedAt": "2026-11-10",
+      "note": "Reportagem de 13/03/2026, coerente com a Reporter Gourmet (ago/2025); bebidas à parte; harmonização com Barolo a € 500; site oficial ilegível para leitura automática."
+    }
   },
   "gallery": [
     {
@@ -143,7 +183,17 @@
       "author": "Alessandra Cimatti",
       "license": "CC BY 2.0",
       "caption": "Vinhedos nas Langhe, perto de Treiso, a poucos quilômetros de Alba.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Vinhedos nas Langhe, perto de Treiso",
+      "alt": "Fileiras de videiras verdes em colinas",
+      "capturedAt": "2007-07-08",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Alessandra Cimatti, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/White_truffles_from_Alba.jpg/1920px-White_truffles_from_Alba.jpg",
@@ -151,7 +201,17 @@
       "author": "Kent Wang",
       "license": "CC BY-SA 2.0",
       "caption": "Trufas brancas de Alba, base do menu de outono do restaurante.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Trufas brancas de Alba",
+      "alt": "Trufas brancas numa caixa de madeira forrada com pano",
+      "capturedAt": "2015-10-18",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Kent Wang, CC BY-SA 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nebbiolo_vines_in_Langhe.jpg/1920px-Nebbiolo_vines_in_Langhe.jpg",
@@ -159,7 +219,17 @@
       "author": "Blue moon in her eyes",
       "license": "CC BY 2.0",
       "caption": "Videiras de nebbiolo, a uva do Barolo, em dia de neblina nas Langhe.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Videiras de nebbiolo nas Langhe",
+      "alt": "Videiras com folhas avermelhadas num dia de neblina",
+      "capturedAt": "2010-10-04",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Blue moon in her eyes, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alba_Piazza_Duomo_2.jpg?width=1280",
@@ -167,7 +237,17 @@
       "author": "Zairon",
       "license": "CC BY-SA 4.0",
       "caption": "A Piazza Risorgimento, no centro de Alba, fotografada em setembro de 2021. A imagem não identifica a porta do restaurante Piazza Duomo.",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Piazza Risorgimento, em Alba (ilustrativa)",
+      "alt": "Praça com torre medieval de tijolos e prédios coloridos, com faixas e barracas",
+      "capturedAt": "2021-09-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Zairon, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -206,5 +286,49 @@
         "note": "Fotografias dos salões e ambientes reais do restaurante"
       }
     ]
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.the50.com/the-list/piazza-duomo.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Site oficial bloqueado; página de reservas e e-mail conhecidos por fontes secundárias."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.scattidigusto.it/ristorante-piazza-duomo-tre-stelle-michelin-chef-enrico-crippa",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Preço da imprensa, sem confirmação no site oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/previous-list/2017",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Estreia de 2013 (nº 41) acrescentada."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.identitagolose.com/sito/en/6/2457/chef/enrico.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Ano de 1996 sem fonte; retirado."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.scattidigusto.it/ristorante-piazza-duomo-tre-stelle-michelin-chef-enrico-crippa",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Risoto de abóbora com fígados e ervilhas com sépia marcados como pratos anteriores."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos da praça e da região."
+    }
+  ]
 }

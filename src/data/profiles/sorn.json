@@ -1,5 +1,8 @@
 {
   "slug": "sorn",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Numa casa de cerca de 90 anos escondida num soi da Sukhumvit, em Bangkok, o Sorn serve só cozinha do sul da Tailândia, feita com produtos das 14 províncias da região e sem baixar o picante. Em 2025 tornou-se o primeiro restaurante do país com três estrelas Michelin.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Benjakitti_Forest_Park_%28I%29.jpg/1920px-Benjakitti_Forest_Park_%28I%29.jpg",
@@ -7,7 +10,17 @@
     "author": "Supanut Arunoprayote",
     "license": "CC BY 4.0",
     "caption": "Parque Florestal Benjakitti, no distrito de Khlong Toei, o mesmo distrito de Bangkok onde fica o Sorn",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Parque Florestal Benjakitti, em Khlong Toei",
+    "alt": "Lagos e canteiros de plantas aquáticas num parque, com arranha-céus ao fundo",
+    "capturedAt": "2021-12-26",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "Supanut Arunoprayote, CC BY 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2018,
   "founders": [
@@ -21,7 +34,7 @@
   "history": [
     "O Sorn abriu em meados de 2018 (as fontes citam maio ou junho) numa casa restaurada da Soi Sukhumvit 26. Ice o montou com economias próprias, sem investidores, ao lado do amigo de infância Yodkwan \"Yod\" U-Pumpruk, que se tornou chef de cozinha; toda a equipe inicial veio do Baan Ice. O nome junta o do filho mais velho do chef ao final do seu próprio nome, Supaksorn, e remete à palavra sânscrita śaraṇa, ligada à ideia de refúgio e de alguém que se apoia na própria força.",
     "O reconhecimento veio rápido: a primeira estrela Michelin chegou poucos meses após a abertura, no guia de 2019, e a segunda no guia de 2020, quando Sorn e R-Haan se tornaram as primeiras casas de cozinha tailandesa tradicional com duas estrelas. Na lista Asia's 50 Best, estreou em 2019, subiu 32 posições até o 16º lugar em 2020, ganhando o prêmio de maior escalada, e chegou ao 2º lugar em 2022, como melhor restaurante da Tailândia.",
-    "Em 2022 entrou no top 50 mundial, em 39º, como único restaurante tailandês da lista daquele ano. Foi 38º em 2024 e 17º em 2025, ano em que o Guia Michelin Tailândia lhe deu a terceira estrela, a primeira do país. Em 2026 ficou em 12º tanto no Asia's 50 Best quanto em The 50 Best Restaurants."
+    "Em 2022 entrou no top 50 mundial, em 39º, como único restaurante tailandês da lista daquele ano. Foi 38º em 2024 e 17º em 2025, ano em que o Guia Michelin Tailândia lhe deu a terceira estrela, a primeira do país; no guia de 2026 manteve as três estrelas, quando o Sühring se tornou o segundo restaurante tailandês com a distinção máxima. Em 2026 ficou em 12º tanto no Asia's 50 Best quanto em The 50 Best Restaurants."
   ],
   "cuisine": {
     "style": "Cozinha do sul da Tailândia",
@@ -40,7 +53,17 @@
         "author": "Almandine",
         "license": "CC BY-SA 3.0",
         "caption": "Caranguejo-azul (Portunus pelagicus), base do prato; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Caranguejo-azul Portunus pelagicus (ilustrativa)",
+        "alt": "Caranguejo azulado de patas longas visto de cima sobre fundo claro",
+        "capturedAt": "2008-10-09",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Almandine, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -52,7 +75,17 @@
         "author": "Vee Satayamas",
         "license": "CC BY 2.0",
         "caption": "Khao yam, salada de arroz do sul da Tailândia; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Khao yam, salada de arroz do sul (ilustrativa)",
+        "alt": "Prato de arroz misturado com ervas picadas e coco ralado",
+        "capturedAt": "2019-11-17",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Vee Satayamas, CC BY 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -64,7 +97,17 @@
         "author": "Takeaway",
         "license": "CC BY-SA 3.0",
         "caption": "Salteado de sato ao estilo do sul, versão com porco; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Salteado de sato com porco (ilustrativa)",
+        "alt": "Carne de porco salteada com vagens de sato e pimenta vermelha sobre arroz",
+        "capturedAt": "2013-08-04",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -76,7 +119,17 @@
         "author": "Takeaway",
         "license": "CC BY-SA 3.0",
         "caption": "Kaeng lueang com peixe e broto de bambu; imagem ilustrativa",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Kaeng lueang com peixe e broto de bambu (ilustrativa)",
+        "alt": "Tigela de caldo amarelo com pedaços de peixe e broto de bambu",
+        "capturedAt": "2011-11-29",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -107,6 +160,10 @@
       "title": "The World's 50 Best Restaurants: nº 63 (lista 51–100)"
     },
     {
+      "year": 2021,
+      "title": "Asia's 50 Best Restaurants: nº 11"
+    },
+    {
       "year": 2022,
       "title": "Asia's 50 Best Restaurants: nº 2 e melhor restaurante da Tailândia"
     },
@@ -117,6 +174,10 @@
     {
       "year": 2023,
       "title": "Asia's 50 Best Restaurants: nº 9"
+    },
+    {
+      "year": 2023,
+      "title": "The World's 50 Best Restaurants: nº 56 (lista 51–100)"
     },
     {
       "year": 2024,
@@ -145,13 +206,30 @@
     {
       "year": 2026,
       "title": "The 50 Best Restaurants: nº 12"
+    },
+    {
+      "year": 2026,
+      "title": "Três estrelas Michelin mantidas (Guia Michelin Tailândia 2026)"
     }
   ],
   "practical": {
-    "price": "Menu degustação a 7.200 bahts por pessoa, sem bebidas; harmonização de vinhos de 4.900 a 8.800 bahts (fevereiro de 2025). A página da 50 Best indica menu a partir de US$ 223 (2026).",
-    "reservation": "Pela plataforma TableCheck ou pelo e-mail reservation@sornfinesouthern.com; telefone +66 99 081 1119 (das 14h às 18h). Um único serviço de jantar por noite.",
+    "price": "Signature Menu a 7.800 bahts por pessoa até 30 de novembro de 2026 e a 8.800 bahts a partir de 1º de dezembro, para quem visita a casa pela primeira vez; o Seasonal Menu, reservado a clientes que já foram ao restaurante, custa de 8.900 a 9.500 bahts. Aos valores somam-se 10% de serviço e 7% de IVA. Harmonização de vinhos de 6.200 bahts (sete taças) ou 9.200 bahts (nove taças), também sem taxas (carta de bebidas de outubro de 2026).",
+    "reservation": "Online pelo TableCheck, com agenda aberta no dia 25 de cada mês, ao meio-dia de Bangcoc, para o mês seguinte; clientes estrangeiros podem fazer o pedido pelo e-mail reservation@sornfinesouthern.com a partir do dia 15. Informações pelo telefone +66 99 081 1119, das 14h às 18h.",
     "website": "https://sornfinesouthern.com/",
-    "address": "56 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok 10110, Tailândia"
+    "address": "56 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok 10110, Tailândia",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.tablecheck.com/en/sorn-fine-southern-cuisine/reserve/experiences",
+    "phone": "+66 99 081 1119",
+    "email": "reservation@sornfinesouthern.com",
+    "priceDetails": {
+      "amount": 7800,
+      "currency": "THB",
+      "basis": "Signature Menu por pessoa, sem bebidas, para quem visita a casa pela primeira vez; válido até 30/11/2026",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.tablecheck.com/en/sorn-fine-southern-cuisine/reserve/experiences",
+      "checkedAt": "2026-11-10",
+      "note": "8.800 bahts a partir de 1/12/2026; Seasonal Menu de 8.900 a 9.500 bahts para clientes recorrentes; mais 10% de serviço e 7% de IVA."
+    }
   },
   "gallery": [
     {
@@ -160,7 +238,17 @@
       "author": "Preecha.MJ",
       "license": "CC BY-SA 4.0",
       "caption": "Wat Phra Mahathat Woramahawihan, em Nakhon Si Thammarat, província onde o chef Ice cresceu com a avó",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Wat Phra Mahathat, em Nakhon Si Thammarat",
+      "alt": "Grande estupa branca e dourada de um templo, com pessoas no pátio",
+      "capturedAt": "2013-04-11",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Preecha.MJ, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Parkia_speciosa_%28bitter_bean%2C_stink_bean%2C_%E0%B8%AA%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7_sato_khao%29_Phuket%2C_Thailand.jpg/1920px-Parkia_speciosa_%28bitter_bean%2C_stink_bean%2C_%E0%B8%AA%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7_sato_khao%29_Phuket%2C_Thailand.jpg",
@@ -168,7 +256,17 @@
       "author": "Sharon Hahn Darlin",
       "license": "CC BY 2.0",
       "caption": "Vagens de sato à venda no mercado central de Phuket, ingrediente típico do sul",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Vagens de sato no mercado central de Phuket",
+      "alt": "Cachos de vagens verdes compridas pendurados numa banca de mercado",
+      "capturedAt": "2022-02-01",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2019_02_Southern_Thai_vegetable_platter.jpg/1920px-2019_02_Southern_Thai_vegetable_platter.jpg",
@@ -176,7 +274,17 @@
       "author": "Takeaway",
       "license": "CC BY-SA 4.0",
       "caption": "Travessa de vegetais crus típica da cozinha do sul da Tailândia; imagem ilustrativa",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Travessa de vegetais crus do sul da Tailândia (ilustrativa)",
+      "alt": "Bandeja com folhas, brotos de feijão e potinhos de vegetais cortados",
+      "capturedAt": "2019-02-10",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Takeaway, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stove_Thailand.jpg",
@@ -184,7 +292,17 @@
       "author": "Takeaway",
       "license": "CC BY-SA 3.0",
       "caption": "Fogareiro a carvão tailandês, técnica de cocção usada no Sorn; imagem ilustrativa",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Fogareiro a carvão tailandês (ilustrativa)",
+      "alt": "Fogareiro de barro com brasas acesas e uma panela por cima",
+      "capturedAt": "2013-01-17",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -207,7 +325,9 @@
     "https://www.timeout.com/bangkok/news/thailand-leads-asias-50-best-restaurants-2025-032625",
     "https://www.enprimeurclub.com/lists/2026-asias-50-best-restaurants",
     "https://www.travelsforstars.com/blog/2025/02/24/sorn-bangkok",
-    "https://curlytales.com/this-restaurant-in-thailand-is-the-first-in-the-country-to-earn-three-michelin-stars/amp/"
+    "https://curlytales.com/this-restaurant-in-thailand-is-the-first-in-the-country-to-earn-three-michelin-stars/amp/",
+    "https://sornfinesouthern.com/reservations/",
+    "https://www.tablecheck.com/en/sorn-fine-southern-cuisine/reserve/experiences"
   ],
   "photoReference": {
     "kind": "fachada",
@@ -217,5 +337,40 @@
     "featuredGalleryIndex": 1,
     "previewTitle": "Os ingredientes do sul",
     "previewContext": "Fotografia de vagens de sato (Parkia speciosa) em um mercado de Phuket, um ingrediente da tradição culinária do sul da Tailândia. Não mostra a sede do Sorn; a referência para sua entrada em Sukhumvit 26 está no link abaixo."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://sornfinesouthern.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.tablecheck.com/en/sorn-fine-southern-cuisine/reserve/experiences",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/sorn.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrelas de 2019 e 2020 confirmadas só pela imprensa; o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://sornfinesouthern.com/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "Serviço único por noite e capacidade de cerca de 40 lugares não confirmados; menção ao serviço único retirada da reserva."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos mostram o bairro, a região de origem do chef e ingredientes."
+    }
+  ]
 }

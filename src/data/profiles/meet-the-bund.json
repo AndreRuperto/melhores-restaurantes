@@ -1,5 +1,8 @@
 {
   "slug": "meet-the-bund",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Aberto em 2019 no Bund, em Xangai, o Meet the Bund se apresentou como o primeiro restaurante de alta gastronomia da cidade dedicado à cozinha de Fujian, a culinária min, com uma equipe de cozinha toda vinda daquela província do sul da China. Caldos de longo cozimento, frutos do mar e pratos clássicos de Fujian revistos com técnica moderna levaram a casa ao posto de melhor restaurante da China continental na lista asiática de 2026.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/1920px-Pudong_Shanghai_November_2017_panorama.jpg",
@@ -7,7 +10,17 @@
     "author": "King of Hearts",
     "license": "CC BY-SA 4.0",
     "caption": "Os arranha-céus de Lujiazui, em Pudong, vistos do Bund do outro lado do rio Huangpu: a paisagem que as janelas do restaurante emolduram (foto de 2017)",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Arranha-céus de Lujiazui vistos do Bund",
+    "alt": "Skyline de Pudong com a torre Pérola do Oriente, à beira do rio, ao entardecer",
+    "capturedAt": "2017",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2019,
   "founders": [
@@ -15,12 +28,12 @@
   ],
   "chef": {
     "name": "Chen Zhiping",
-    "bio": "Criado em Quanzhou, no sul de Fujian, Chen Zhiping, conhecido como Yoda, treinou por mais de uma década com Wu Rong, referência da cozinha min e dono do restaurante, e passou pela cozinha do grupo Yanyu em Xiamen. Comanda a cozinha do Meet the Bund desde a abertura, em 2019; no ano seguinte, quando a casa ganhou a primeira estrela, o Guia Michelin de Xangai concedeu ao jovem chef da casa o prêmio Michelin Young Chef. Ele resume o método assim: técnicas modernas são apenas pincéis novos para pintar a tradição."
+    "bio": "Criado em Quanzhou, no sul de Fujian, Chen Zhiping, conhecido como Yoda, treinou por mais de uma década com Wu Rong, referência da cozinha min e dono do restaurante. Comanda a cozinha do Meet the Bund desde a abertura, em 2019; no ano seguinte, quando a casa ganhou a primeira estrela, o Guia Michelin de Xangai concedeu ao jovem chef da casa o prêmio Michelin Young Chef. Ele resume o método assim: técnicas modernas são apenas pincéis novos para pintar a tradição."
   },
   "history": [
     "Por trás do restaurante está Wu Rong, cozinheiro de Fujian que começou em cozinhas de hotel em 1998, abriu em 2011 um restaurante de cozinha de fusão em sua província e, em 2016, voltou-se para a tradição com a rede Mr Rong's (荣先森), de comida do sul de Fujian. A ideia era tirar a cozinha min, uma das oito grandes tradições culinárias da China e menos conhecida fora da província que a sichuanesa ou a cantonesa, do circuito regional e levá-la às grandes cidades do país.",
     "O Meet the Bund (遇外滩) abriu em 2019 no terceiro andar do Bund Finance Center, complexo à beira do rio Huangpu, no extremo sul do Bund, como versão de alto padrão desse projeto. Chen Zhiping, discípulo de Wu, assumiu a cozinha. As paredes cor de tijolo lembram as casas de tijolo vermelho do sul de Fujian, e as janelas, do chão ao teto, dão para o rio e para o skyline de Xangai. Mais tarde a marca ganhou uma segunda casa, o Meet the Bund Skyline, no 56º andar de uma das torres do Raffles City The Bund, na margem norte do Bund.",
-    "Em outubro de 2020, menos de dois anos após a abertura, a casa recebeu uma estrela no Guia Michelin Xangai 2021, a primeira para um restaurante de cozinha de Fujian na seleção da cidade. A estreia no Asia's 50 Best Restaurants veio em 2024, no 50º lugar. Em 2025 subiu 36 posições, para o 14º, foi eleita o melhor restaurante da China continental e entrou na lista mundial estendida, em 94º. Em março de 2026 chegou ao 6º lugar na Ásia, de novo como o melhor da China continental, e em novembro ficou em 21º no The 50 Best Restaurants 2026."
+    "Em outubro de 2020, menos de dois anos após a abertura, a casa recebeu uma estrela no Guia Michelin Xangai 2021, entre as quatro novas estrelas da edição. A estreia no Asia's 50 Best Restaurants veio em 2024, no 50º lugar. Em 2025 subiu 36 posições, para o 14º, foi eleita o melhor restaurante da China continental e entrou na lista mundial estendida, em 94º. Em março de 2026 chegou ao 6º lugar na Ásia, de novo como o melhor da China continental, e em novembro ficou em 21º no The 50 Best Restaurants 2026."
   ],
   "cuisine": {
     "style": "Fujianesa (min) contemporânea",
@@ -39,7 +52,17 @@
         "author": "N509FZ",
         "license": "CC BY-SA 4.0",
         "caption": "Fotiaoqiang servido no restaurante Juchunyuan, em Fuzhou, capital de Fujian (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Fotiaoqiang num restaurante de Fuzhou (ilustrativa)",
+        "alt": "Pote de porcelana branca com caldo, pepino-do-mar e frutos do mar",
+        "capturedAt": "2025-01-27",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -61,7 +84,17 @@
         "author": "Fumikas Sagisavas",
         "license": "CC0",
         "caption": "Caçarola de inhame de Lipu (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Caçarola de inhame de Lipu (ilustrativa)",
+        "alt": "Fatias de inhame e carne em molho escuro numa panela de barro",
+        "capturedAt": "2024-06-08",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Fumikas Sagisavas, CC0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -73,7 +106,7 @@
   "awards": [
     {
       "year": 2020,
-      "title": "Guia Michelin Xangai 2021 (publicado em outubro de 2020) — 1 estrela, primeira para a cozinha de Fujian na seleção da cidade; Michelin Young Chef Award para o chef da casa"
+      "title": "Guia Michelin Xangai 2021 (publicado em outubro de 2020) — 1 estrela (uma das quatro novas da edição); Michelin Young Chef Award para o chef que comandava a cozinha da casa"
     },
     {
       "year": 2024,
@@ -101,10 +134,21 @@
     }
   ],
   "practical": {
-    "price": "Menu-degustação a partir de 194 dólares por pessoa, segundo o The 50 Best (2026); há também pedidos à la carte",
+    "price": "Menu-degustação a partir de 194 dólares por pessoa, segundo a ficha do restaurante no guia Discovery do The 50 Best (sem data); há também pedidos à la carte",
     "reservation": "Por telefone (+86 21 6377 7668). Almoço e jantar todos os dias. O Buddha Jumps Over the Wall precisa ser encomendado com antecedência.",
     "website": null,
-    "address": "S301, 3º andar, South Mall, The Bund Finance Center, 600 Zhongshan Dong Er Road, Huangpu, Xangai, China (endereço da ficha do The 50 Best; a marca tem uma segunda casa, o Meet the Bund Skyline, no 56º andar da torre oeste do Raffles City The Bund, em Hongkou, telefone +86 21 6888 9080)"
+    "address": "S301, 3º andar, South Mall, The Bund Finance Center, 600 Zhongshan Dong Er Road, Huangpu, Xangai, China (endereço da ficha do The 50 Best 2026; a ficha do Asia's 50 Best 2026 indica a unidade Meet the Bund Skyline, no 56º andar da torre oeste do Raffles City The Bund, em Hongkou, telefone +86 21 6888 9080. A marca tem ainda uma casa em Xintiandi)",
+    "reservationMode": "phone",
+    "phone": "+86 21 6377 7668",
+    "priceDetails": {
+      "amount": 194,
+      "currency": "USD",
+      "basis": "Menu-degustação, a partir de, por pessoa",
+      "taxesIncluded": null,
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/China/Shanghai/Meet-the-Bund.html",
+      "checkedAt": "2026-11-10",
+      "note": "Ficha do guia Discovery sem data; há pedidos à la carte; taxa de serviço desconhecida."
+    }
   },
   "gallery": [
     {
@@ -112,8 +156,18 @@
       "page": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_Fosun_en_Shangh%C3%A1i.jpg",
       "author": "Agomga14",
       "license": "CC BY-SA 4.0",
-      "caption": "Prédio da Fundação Fosun, centro de arte que faz parte do complexo Bund Finance Center, onde fica o restaurante (foto de 2019)",
-      "illustrative": false
+      "caption": "Prédio da Fundação Fosun, centro de arte do complexo Bund Finance Center, endereço que o The 50 Best indica para o restaurante (foto de 2019)",
+      "illustrative": false,
+      "kind": "building",
+      "subject": "Fundação Fosun, no Bund Finance Center (2019)",
+      "alt": "Edifício de fachada de tubos dourados em camadas, com escultura amarela de bolinhas na frente",
+      "capturedAt": "2019-05-28",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Agomga14, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/20230130_Old_City_of_Quanzhou_01.jpg",
@@ -121,7 +175,17 @@
       "author": "Windmemories",
       "license": "CC BY-SA 4.0",
       "caption": "Cidade velha de Quanzhou, no sul de Fujian, onde o chef Chen Zhiping foi criado",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Cidade velha de Quanzhou, onde o chef foi criado",
+      "alt": "Vista aérea de uma cidade com lago, pagode e montanhas ao fundo",
+      "capturedAt": "2023-01-30",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Windmemories, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuyi_Shan_Fengjing_Mingsheng_Qu_2012.08.23_15-10-18.jpg/1920px-Wuyi_Shan_Fengjing_Mingsheng_Qu_2012.08.23_15-10-18.jpg",
@@ -129,7 +193,17 @@
       "author": "Zhangzhugang",
       "license": "CC BY-SA 3.0",
       "caption": "Arbustos do chá Da Hong Pao na área cênica das montanhas Wuyi, em Fujian; chás da região aparecem no menu e nas sobremesas da casa (imagem ilustrativa)",
-      "illustrative": true
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Arbustos do chá Da Hong Pao nas montanhas Wuyi (ilustrativa)",
+      "alt": "Arbustos de chá crescendo junto a um paredão de rocha",
+      "capturedAt": "2012-08-23",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Zhangzhugang, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -160,5 +234,56 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "O complexo arquitetônico",
     "previewContext": "Foto da Fundação Fosun, edifício do Bund Finance Center. O Meet the Bund fica no complexo, mas esta imagem não confirma a entrada do restaurante."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/China/Shanghai/Meet-the-Bund.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Telefone é o único canal publicado; não foram encontrados site oficial, conta de WeChat ou página de reservas, só um perfil no Instagram."
+    },
+    {
+      "field": "practical.address",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-asia/the-list/Meet-The-Bund.html",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "A ficha do The 50 Best 2026 dá o endereço do Bund Finance Center, mas o texto dela e a ficha do Asia's 50 Best 2026 descrevem a unidade Skyline; as fontes não definem qual unidade está ranqueada."
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.the50.com/discovery/Establishments/China/Shanghai/Meet-the-Bund.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Ficha sem data."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/meet-the-bund.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "\"Primeira estrela para cozinha de Fujian\" sem fonte; texto ajustado para o que diz o comunicado do Michelin."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://chineserestaurantawards.com/list/2025/elite-15-asia/meet-the-bund/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Passagem pelo grupo Yanyu sem fonte; retirada. A ligação entre o \"Ian Chen\" do prêmio Young Chef e Chen Zhiping não foi confirmada."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.the50.com/the-list/meet-the-bund.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Fotiaoqiang e essência de pato confirmados; arroz glutinoso com caranguejo e frango Hetian não confirmados."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda da Fundação Fosun ajustada à dúvida sobre o endereço."
+    }
+  ]
 }

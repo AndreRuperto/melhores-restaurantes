@@ -1,5 +1,8 @@
 {
   "slug": "tuju",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Numa rua sem saída do Jardim Paulistano, em São Paulo, o Tuju organiza o menu degustação pelo regime de chuvas da cidade, e não pelas quatro estações do calendário. Comandado por Ivan Ralston, foi em 2026 um dos dois primeiros restaurantes da América Latina a receber três estrelas Michelin.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Lurocalis_semitorquatus_-_Short-tailed_Nighthawk%3B_Botanic_Garden%2C_S%C3%A3o_Paulo%2C_Brazil.jpg/1920px-Lurocalis_semitorquatus_-_Short-tailed_Nighthawk%3B_Botanic_Garden%2C_S%C3%A3o_Paulo%2C_Brazil.jpg",
@@ -7,7 +10,17 @@
     "author": "Hector Bottai",
     "license": "CC BY-SA 4.0",
     "caption": "O tuju (Lurocalis semitorquatus), ave sul-americana que dá nome ao restaurante, no Jardim Botânico de São Paulo.",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "O tuju, ave que dá nome ao restaurante, no Jardim Botânico de São Paulo",
+    "alt": "Ave de plumagem marrom pintalgada pousada num galho coberto de líquen",
+    "capturedAt": "2018-10-26",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "Hector Bottai, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2014,
   "founders": [
@@ -18,7 +31,7 @@
     "bio": "Nascido em São Paulo em 1985, Ivan Ralston é filho dos fundadores da rede de restaurantes Ráscal. Estudou música na Berklee College of Music, nos Estados Unidos, antes de se dedicar à cozinha, e trabalhou no Mugaritz e no El Celler de Can Roca, na Espanha, e no RyuGin, em Tóquio. Abriu o Tuju aos 28 anos e hoje divide o comando da casa com a pesquisadora Katherina Cordás, sua companheira e diretora de pesquisa e hospitalidade do restaurante."
   },
   "history": [
-    "O Tuju abriu em 2014 numa casa da Vila Madalena, em São Paulo, com o nome de uma ave sul-americana. Poucos meses depois, recebeu a primeira estrela do Guia Michelin; a segunda veio em 2018, quando São Paulo passou a ser a única cidade brasileira com dois restaurantes duas estrelas. Na época, a casa cultivava mais de 350 espécies comestíveis, que forneciam todas as folhas usadas no menu. O restaurante também entrou na lista Latin America's 50 Best Restaurants, na qual foi o 45º colocado em 2017.",
+    "O Tuju abriu em 2014 numa casa da Vila Madalena, em São Paulo, com o nome de uma ave sul-americana. No ano seguinte, recebeu a primeira estrela do Guia Michelin; a segunda veio em 2018. Na época, a casa cultivava mais de 350 espécies comestíveis, que forneciam todas as folhas usadas no menu. O restaurante também entrou na lista Latin America's 50 Best Restaurants, na qual foi o 45º colocado em 2017.",
     "Com a pandemia de covid-19, o Tuju fechou. Durante o intervalo de cerca de três anos, Ralston e Katherina Cordás viajaram pelos biomas brasileiros e estudaram ingredientes e cozinha do país. O restaurante reabriu em setembro de 2023, num prédio de três andares projetado pelo arquiteto Angelo Bucci na Rua Frei Galvão, no Jardim Paulistano. A nova casa tem nove mesas, recebe cerca de 30 pessoas por serviço, cerca de um terço do público do endereço anterior, e abriga um centro de pesquisa dedicado a ingredientes e sazonalidade.",
     "A segunda fase acelerou o reconhecimento. Menos de um ano após a reabertura, o Tuju voltou a ter duas estrelas Michelin e ganhou a estrela verde, por práticas de sustentabilidade. Na Latin America's 50 Best Restaurants foi 16º em 2024, com o prêmio de hospitalidade da lista, e 8º em 2025, como melhor restaurante do Brasil. Em 2025 estreou no ranking mundial, em 70º lugar. Em abril de 2026 recebeu a terceira estrela Michelin, ao lado do também paulistano Evvai, e em novembro, na cerimônia de Lima, entrou no top 50 mundial em 16º, com o prêmio de maior estreia (Highest New Entry Award) e o Art of Hospitality Award."
   ],
@@ -39,7 +52,17 @@
         "author": "Danesof",
         "license": "CC BY-SA 4.0",
         "caption": "Siri-azul em manguezal de São Sebastião, no litoral paulista (imagem ilustrativa; não é necessariamente o crustáceo usado no prato).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Siri-azul do litoral paulista (ilustrativa)",
+        "alt": "Siri-azul na palma de uma mão",
+        "capturedAt": "2019-06-16",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Danesof, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -51,7 +74,17 @@
         "author": "A3 Baard",
         "license": "CC BY-SA 4.0",
         "caption": "Berinjelas (imagem ilustrativa do ingrediente principal).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Berinjelas (ilustrativa)",
+        "alt": "Berinjelas roxas e listradas amontoadas",
+        "capturedAt": "2018-01-18",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "A3 Baard, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -63,7 +96,17 @@
         "author": "Ivar Leidus",
         "license": "CC BY-SA 4.0",
         "caption": "Figo cultivado no Brasil, cortado ao meio (imagem ilustrativa do ingrediente principal).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Figo cortado ao meio (ilustrativa)",
+        "alt": "Metade de um figo com polpa vermelha sobre superfície refletora",
+        "capturedAt": "2022",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -75,7 +118,17 @@
         "author": "Rodrigo.Argenton",
         "license": "CC BY-SA 4.0",
         "caption": "Fruto do cacau aberto, com a polpa e as sementes à mostra (imagem ilustrativa).",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Fruto do cacau aberto (ilustrativa)",
+        "alt": "Fruto de cacau amarelo aberto, com sementes brancas, sobre fundo preto",
+        "capturedAt": "2016-09-11",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Rodrigo.Argenton, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -122,10 +175,23 @@
     }
   ],
   "practical": {
-    "price": "R$ 1.650 por pessoa (menu degustação, sem bebidas; valor de 2026). Harmonizações cobradas à parte.",
+    "price": "R$ 1.650 por pessoa (menu degustação de dez etapas, sem bebidas e sem taxa de serviço; valor informado em novembro de 2026). Na reserva é cobrado um sinal de R$ 230, descontado da conta. Harmonizações cobradas à parte.",
     "reservation": "Pela plataforma Tock (exploretock.com/tuju-so-paulo), pelo e-mail reserva@tuju.com.br ou pelo telefone/WhatsApp +55 11 91899-0002. Jantar de terça a sábado e almoço aos sábados.",
     "website": "https://www.tuju.com.br/",
-    "address": "Rua Frei Galvão, 135, Jardim Paulistano, São Paulo - SP, 01454-060, Brasil"
+    "address": "Rua Frei Galvão, 135, Jardim Paulistano, São Paulo - SP, 01454-060, Brasil",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.exploretock.com/tuju-so-paulo",
+    "phone": "+55 11 91899-0002",
+    "email": "reserva@tuju.com.br",
+    "priceDetails": {
+      "amount": 1650,
+      "currency": "BRL",
+      "basis": "Menu degustação de dez etapas por pessoa, sem bebidas",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.seudinheiro.com/2026/lifestyle/quanto-custa-comer-nos-dois-restaurantes-brasileiros-eleitos-entre-os-50-melhores-do-mundo-sama/",
+      "checkedAt": "2026-11-10",
+      "note": "Valor citado do sistema de reservas (Tock, inacessível para leitura) em 05/11/2026 e confirmado pelo The Star em agosto de 2026; taxa de serviço à parte; sinal de R$ 230."
+    }
   },
   "gallery": [
     {
@@ -134,15 +200,35 @@
       "author": "Alexandre Giesbrecht",
       "license": "CC BY-SA 2.0",
       "caption": "Vista do Jardim Paulistano, bairro da zona oeste de São Paulo onde o Tuju funciona desde 2023 (foto de 2010).",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Jardim Paulistano, bairro do endereço atual (2010)",
+      "alt": "Prédios de São Paulo acima de uma faixa de árvores, sob céu azul",
+      "capturedAt": "2010-05-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Alexandre Giesbrecht, CC BY-SA 2.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Plinia_cauliflora_jabuticabeira.jpg/1920px-Plinia_cauliflora_jabuticabeira.jpg",
       "page": "https://commons.wikimedia.org/wiki/File:Plinia_cauliflora_jabuticabeira.jpg",
       "author": "Silvestresbrasileiros",
       "license": "Public domain",
-      "caption": "Jabuticabeira no sul de Minas Gerais; no térreo do Tuju, o bar fica ao lado de uma árvore dessa espécie (imagem ilustrativa).",
-      "illustrative": true
+      "caption": "Jabuticabeira no sul de Minas Gerais (imagem ilustrativa).",
+      "illustrative": true,
+      "kind": "context",
+      "subject": "Jabuticabeira (ilustrativa)",
+      "alt": "Pequena árvore de copa verde em terreno de terra batida",
+      "capturedAt": "2009-07",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Silvestresbrasileiros, Public domain, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Street_art_at_Vila_Madalena%2C_Sao_Paulo_01.jpg/1920px-Street_art_at_Vila_Madalena%2C_Sao_Paulo_01.jpg",
@@ -150,7 +236,17 @@
       "author": "Slyronit",
       "license": "CC BY-SA 4.0",
       "caption": "Arte de rua na Vila Madalena, bairro onde o Tuju funcionou de 2014 até o fechamento na pandemia.",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Arte de rua na Vila Madalena, bairro do primeiro endereço",
+      "alt": "Muro coberto de grafites coloridos numa rua de calçada estreita",
+      "capturedAt": "2016-03-13",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Slyronit, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -181,5 +277,48 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "O Jardim Paulistano",
     "previewContext": "Imagem do bairro Jardim Paulistano, em São Paulo, fotografada em 2010, anterior à reabertura do Tuju em 2023. Não mostra a fachada do restaurante na Rua Frei Galvão; há referência externa abaixo."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.tuju.com.br/contato",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.seudinheiro.com/2026/lifestyle/quanto-custa-comer-nos-dois-restaurantes-brasileiros-eleitos-entre-os-50-melhores-do-mundo-sama/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Página da Tock bloqueada; valor de duas fontes secundárias."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Estrelas de 2015 e 2018 vêm só da imprensa; o site do Guia Michelin não carregou."
+    },
+    {
+      "field": "history",
+      "sourceUrl": "https://www.tuju.com.br/",
+      "checkedAt": "2026-11-10",
+      "status": "unverified",
+      "note": "\"Única cidade brasileira com dois restaurantes duas estrelas\" sem fonte (retirado); 350 espécies, arquitetura de Angelo Bucci e cerca de 30 pessoas por serviço não reconferidos."
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/list/1-50",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O The 50 Best fala em 12 etapas trocadas a cada três meses; três outras fontes falam em dez etapas que mudam com as chuvas."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; legenda sem fonte da jabuticabeira ajustada."
+    }
+  ]
 }

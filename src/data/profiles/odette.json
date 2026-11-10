@@ -1,5 +1,8 @@
 {
   "slug": "odette",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "licensed-real",
   "lede": "Instalado na ala do antigo Supremo Tribunal, hoje parte da National Gallery Singapore, o Odette é o restaurante do francês Julien Royer, que leva o nome de sua avó e une a cozinha francesa a sabores e técnicas da Ásia. Foi o primeiro restaurante de Singapura a ser eleito o melhor da Ásia e tem três estrelas Michelin desde 2019.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/National_Gallery_Singapore_-_Joy_of_Museums_-_External.jpg/1920px-National_Gallery_Singapore_-_Joy_of_Museums_-_External.jpg",
@@ -7,7 +10,17 @@
     "author": "GordonMakryllos",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do antigo Supremo Tribunal de Singapura, hoje parte da National Gallery Singapore, prédio onde funciona o Odette",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Antigo Supremo Tribunal, hoje National Gallery Singapore, onde funciona o Odette",
+    "alt": "Edifício neoclássico com colunas e cúpula verde, com faixas vermelhas na fachada",
+    "capturedAt": "2017-06-20",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "GordonMakryllos, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2015,
   "founders": [
@@ -16,18 +29,18 @@
   ],
   "chef": {
     "name": "Julien Royer",
-    "bio": "Nascido em 1982 no Cantal, no centro da França, Julien Royer vem de uma família de agricultores que está na quarta geração. Começou ainda adolescente no restaurante de Michel Bras, em Laguiole, trabalhou com Bernard Andrieux em Durtol, na Auvergne, e mudou-se para Singapura em 2008; de 2011 a 2015 foi chef de cuisine do Jaan, no hotel Swissôtel The Stamford. Além do Odette, comanda o Louise, em Hong Kong, e a brasserie Claudine, em Singapura."
+    "bio": "Nascido em 1982 no Cantal, no centro da França, Julien Royer vem de uma família de agricultores que está na quarta geração. Começou ainda adolescente no restaurante de Michel Bras, em Laguiole, trabalhou com Bernard Andrieux em Durtol, na Auvergne, e mudou-se para Singapura em 2008; de 2011 a 2015 foi chef de cuisine do Jaan, no hotel Swissôtel The Stamford. Além do Odette, está por trás do Louise, em Hong Kong, e da brasserie Claudine, em Singapura."
   },
   "history": [
     "Royer chegou a Singapura em 2008 e ganhou projeção à frente do Jaan. Convidado por Chong Siak Ching, diretora-executiva da National Gallery Singapore, a ocupar um espaço no museu, deixou o hotel em junho de 2015 e abriu o Odette em novembro daquele ano, em sociedade com o grupo The Lo & Behold, de Wee Teng Wen. O nome homenageia sua avó, que o ensinou a cozinhar. O salão, na ala do antigo Supremo Tribunal, foi desenhado por Sacha Leong em tons de branco e rosa-claro, com uma instalação suspensa da artista Dawn Ng.",
     "A ascensão foi rápida: duas estrelas Michelin em 2016 e estreia no Asia's 50 Best Restaurants em 2017, direto em 9º lugar. Em 2019 recebeu a terceira estrela e tornou-se o primeiro restaurante de Singapura a liderar a lista asiática, título que repetiu em 2020, numa cerimônia virtual por causa da pandemia. Nesse período, segundo o chef, o serviço de entregas Odette at Home chegou a responder por cerca de 40% do faturamento de 2020. Em 2021 alcançou seu melhor resultado na lista mundial, o 8º lugar, com o título de melhor restaurante da Ásia.",
-    "Depois de cair para o 36º lugar em 2022, voltou ao 14º em 2023, quando Royer recebeu o Chefs' Choice Award e a chef confeiteira Louisa Lim foi eleita a melhor da Ásia. Para marcar os dez anos, a casa fechou em setembro de 2025 para uma reforma de cerca de 2 milhões de dólares de Singapura e reabriu em dezembro, com tons mais quentes, marchetaria inspirada no prédio dos anos 1930 e uma nova obra de Dawn Ng na entrada. Em 2026 manteve as três estrelas, foi eleito o melhor restaurante de Singapura no Asia's 50 Best e chegou ao 15º lugar do The 50 Best Restaurants."
+    "Depois de cair para o 36º lugar em 2022, voltou ao 14º em 2023, quando Royer recebeu o Chefs' Choice Award e a chef confeiteira Louisa Lim foi eleita a melhor da Ásia. Para marcar os dez anos, a casa fechou em setembro de 2025 para uma reforma de cerca de 2 milhões de dólares de Singapura e reabriu em dezembro, com tons mais quentes, marchetaria inspirada no prédio dos anos 1930 e uma nova obra de Dawn Ng na entrada. Em 2026 manteve as três estrelas, foi eleito o melhor restaurante de Singapura no Asia's 50 Best e chegou ao 15º lugar do The 50 Best Restaurants, edição em que a sommelière Lesley Liu recebeu o prêmio de melhor sommelière da lista."
   ],
   "cuisine": {
     "style": "Francesa contemporânea com influências asiáticas",
     "paragraphs": [
       "Criado numa família de agricultores, Royer põe o ingrediente no centro: compra de pequenos produtores da Ásia e da Europa, muda o menu conforme as estações e procura interferir pouco no sabor natural dos produtos. Ele descreve a cozinha francesa como a espinha dorsal do seu trabalho, à qual somou sensibilidades asiáticas; depois da reforma de 2025, o menu ficou mais leve e passou a usar mais sabores do Sudeste Asiático, como folha de limão kaffir, capim-limão, gengibre e galanga, além de referências a pratos de Singapura como o chilli crab e o bak kut teh.",
-      "O restaurante, com cerca de 40 lugares, trabalha com menus degustação: o Terre & Mer, só no almoço; o Epicure, de sete etapas; e o vegetariano Nature & Découverte. A confeitaria é de Louisa Lim, e o serviço de bebidas inclui uma carta de vinhos organizada por estilo e harmonizações sem álcool à base de chás e fermentados. Como lembrança da avó do chef, cada cliente recebe um pequeno pote de geleia feito com receitas da família."
+      "O restaurante, com cerca de 40 lugares, trabalha com menus degustação: no almoço, o Delight e o Indulgence; no jantar, o Épicure; e o vegetariano Nature & Découverte, servido nos dois turnos. A confeitaria é de Louisa Lim, e o serviço de bebidas inclui uma carta de vinhos organizada por estilo e harmonizações sem álcool à base de chás e fermentados. Como lembrança da avó do chef, cada cliente recebe um pequeno pote de geleia feito com receitas da família."
     ]
   },
   "dishes": [
@@ -38,14 +51,24 @@
     },
     {
       "name": "Kampot Pepper Crusted Pigeon (Pombo em crosta de pimenta de Kampot)",
-      "desc": "Pombo em crosta de pimenta de Kampot, comprada de um produtor da região de Kampot, no Camboja, prato apontado pelo The 50 Best como assinatura do Odette.",
+      "desc": "Pombo em crosta de pimenta de Kampot, do Camboja, um dos pratos do menu após a reabertura de dezembro de 2025.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kampot_Pepper.jpg/1920px-Kampot_Pepper.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Kampot_Pepper.jpg",
         "author": "Thalias",
         "license": "CC BY-SA 4.0",
         "caption": "Pimenta-do-reino no pé, numa plantação de Kampot, no Camboja (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Pimenta-do-reino numa plantação de Kampot (ilustrativa)",
+        "alt": "Cacho de grãos verdes de pimenta entre folhas no pé",
+        "capturedAt": "2016-02-02",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Thalias, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -57,7 +80,17 @@
         "author": "Pauloleong2002",
         "license": "CC BY-SA 4.0",
         "caption": "Abalones servidos na concha, em Macau (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Abalones servidos na concha (ilustrativa)",
+        "alt": "Abalones cozidos em suas conchas sobre gelo, num prato",
+        "capturedAt": "2018-03-08",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Pauloleong2002, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -153,14 +186,27 @@
     },
     {
       "year": 2026,
-      "title": "The 50 Best Restaurants – nº 15"
+      "title": "The 50 Best Restaurants – nº 15; Best Sommelier Award para Lesley Liu"
     }
   ],
   "practical": {
-    "price": "Menus degustação de S$ 298 (almoço de cinco etapas) a S$ 498 (Epicure, sete etapas), mais taxa de serviço e impostos; o vegetariano Nature & Découverte custa S$ 348 (The Beat Asia, dezembro de 2025)",
-    "reservation": "Pelo site oficial (odetterestaurant.com/reservations); almoço de terça a sábado e jantar de segunda a sábado, fechado aos domingos.",
+    "price": "No almoço, menus Delight (quatro etapas) a S$ 288, Indulgence (seis etapas) a S$ 468 e o vegetariano Nature & Découverte (seis etapas) a S$ 348; no jantar, Épicure a S$ 498 e Nature & Découverte a S$ 398. Valores sem taxa de serviço e GST (site oficial, consultado em novembro de 2026).",
+    "reservation": "Pelo site oficial (odetterestaurant.com/reservations), que leva ao sistema SevenRooms; a reserva exige depósito não reembolsável e pode ser remarcada ou transferida com pelo menos 72 horas de antecedência. Almoço de terça a sábado e jantar de segunda a sábado; fecha aos domingos.",
     "website": "https://www.odetterestaurant.com/",
-    "address": "1 St Andrew's Road, #01-04, National Gallery Singapore, Singapura 178957"
+    "address": "1 St Andrew's Road, #01-04, National Gallery Singapore, Singapura 178957",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.sevenrooms.com/explore/odette/reservations/create/search/",
+    "phone": "+65 9822 8283",
+    "email": "enquiry@odetterestaurant.com",
+    "priceDetails": {
+      "amount": 498,
+      "currency": "SGD",
+      "basis": "Menu Épicure no jantar, por pessoa; almoço a partir de S$ 288 no Delight de quatro etapas",
+      "taxesIncluded": false,
+      "sourceUrl": "https://odetterestaurant.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "note": "Preços \"++\", sem taxa de serviço e GST; página sem data."
+    }
   },
   "gallery": [
     {
@@ -169,7 +215,17 @@
       "author": "Odette Restaurant (enviado por Nataliejty)",
       "license": "CC BY-SA 4.0",
       "caption": "O chef Julien Royer, fundador do Odette",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "chef",
+      "subject": "O chef Julien Royer (2018)",
+      "alt": "Retrato de homem de dólmã branco, sentado, diante de fundo claro",
+      "capturedAt": "2018-11-26",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Odette Restaurant (enviado por Nataliejty), CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1920px-Interior_of_the_National_Gallery_Singapore.jpg",
@@ -177,7 +233,17 @@
       "author": "Basile Morin",
       "license": "CC BY-SA 4.0",
       "caption": "Interior da National Gallery Singapore, museu que abriga o Odette, com galerias em quatro andares sob a cobertura de vidro",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "building",
+      "subject": "Interior da National Gallery Singapore",
+      "alt": "Átrio de museu com galerias em vários andares sob cobertura de vidro",
+      "capturedAt": "2018-06-08",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Landscape_of_Salers_%281%29.jpg/1920px-Landscape_of_Salers_%281%29.jpg",
@@ -185,7 +251,17 @@
       "author": "Tournasol7",
       "license": "CC BY 4.0",
       "caption": "Paisagem de Salers, no Cantal, departamento francês onde Julien Royer cresceu numa família de agricultores",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Paisagem de Salers, no Cantal",
+      "alt": "Colinas verdes com pastos e árvores sob céu claro",
+      "capturedAt": "2024-05-25",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -219,6 +295,57 @@
     "author": "GordonMakryllos",
     "license": "CC BY-SA 4.0",
     "caption": "Fachada do antigo Supremo Tribunal de Singapura, hoje parte da National Gallery Singapore, prédio onde funciona o Odette",
-    "illustrative": false
-  }
+    "illustrative": false,
+    "kind": "building",
+    "subject": "Antigo Supremo Tribunal, hoje National Gallery Singapore, onde funciona o Odette",
+    "alt": "Edifício neoclássico com colunas e cúpula verde, com faixas vermelhas na fachada",
+    "capturedAt": "2017-06-20",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "GordonMakryllos, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://odetterestaurant.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://odetterestaurant.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "cuisine",
+      "sourceUrl": "https://odetterestaurant.com/reservations/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Menus atuais: Delight, Indulgence, Épicure e Nature & Découverte; o Terre & Mer saiu."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Julien_Royer",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Biografia confirmada só na Wikipédia; papel no Louise e no Claudine suavizado."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/restaurants/best-in-the-world/the-list/odette.html",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "\"Sétima edição seguida\" das três estrelas vem de fonte única."
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Julien_Royer,_Chef-Owner_of_Odette.jpg",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    }
+  ]
 }

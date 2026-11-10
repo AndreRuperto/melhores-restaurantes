@@ -1,5 +1,8 @@
 {
   "slug": "suhring",
+  "lastReviewedAt": "2026-11-10",
+  "verificationStatus": "partial",
+  "imageStatus": "historical-or-context",
   "lede": "Num casarão dos anos 1970 cercado por um jardim tropical em Bangcoc, os gêmeos alemães Thomas e Mathias Sühring reinterpretam a cozinha caseira da Alemanha a partir das receitas de família e das lembranças dos verões na casa da avó. Em novembro de 2025, o restaurante se tornou o segundo da Tailândia com três estrelas Michelin.",
   "hero": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sathon_area%2C_Bangkok_%2833164940940%29.jpg/1920px-Sathon_area%2C_Bangkok_%2833164940940%29.jpg",
@@ -7,7 +10,17 @@
     "author": "Ninara",
     "license": "CC BY 2.0",
     "caption": "Vista noturna da região de Sathon, em Bangcoc, a partir do terraço do edifício United Center; o Sühring fica no vizinho bairro de Chong Nonsi",
-    "illustrative": false
+    "illustrative": false,
+    "kind": "context",
+    "subject": "Região de Sathon, em Bangcoc, à noite",
+    "alt": "Arranha-céus iluminados de Bangcoc vistos do alto à noite",
+    "capturedAt": "2017-01-14",
+    "verifiedAt": "2026-11-10",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "rightsStatus": "approved",
+    "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+    "attribution": "Ninara, CC BY 2.0, via Wikimedia Commons",
+    "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
   },
   "founded": 2016,
   "founders": [
@@ -26,45 +39,75 @@
   "cuisine": {
     "style": "Alemã contemporânea",
     "paragraphs": [
-      "O ponto de partida do Sühring é a comida caseira alemã: receitas de família, um livro de receitas que pertenceu aos avós e lembranças de infância. Os gêmeos reinterpretam esses pratos num menu degustação chamado Erlebnis (\"experiência\", em alemão), que muda constantemente e reúne clássicos de diferentes regiões do país, como os spätzle do sul, o labskaus do norte e a torta Floresta Negra, ao lado de criações sazonais com lagosta, vieira e wagyu de Kagoshima.",
+      "O ponto de partida do Sühring é a comida caseira alemã: receitas de família, um livro de receitas que pertenceu aos avós e lembranças de infância. Os gêmeos reinterpretam esses pratos num menu degustação chamado Erlebnis (\"experiência\", em alemão), que muda constantemente e passa por clássicos como a torta Floresta Negra, ao lado de criações sazonais; os spätzle com trufa e o labskaus com caviar são oferecidos à parte, como extras do menu.",
       "Na técnica, recorrem a métodos tradicionais de conservação, como fermentar, conservar em salmoura e curar, aprendidos na infância. Os ingredientes misturam produtos trazidos da Alemanha, como manteiga de Oldenburg e vinagres do produtor Doktorenhof, com fornecedores locais, como uma fazenda de queijo de cabra em Nakhon Pathom; o pão é de fermentação natural, feito com um fermento iniciado em 2015. As mesas se espalham pelos ambientes da casa, algumas voltadas para a cozinha aberta e outras para um átrio com teto de vidro, e o jardim, segundo os irmãos, lembra a fazenda da avó."
     ]
   },
   "dishes": [
     {
       "name": "Spätzle",
-      "desc": "A massa de ovo típica do sul da Alemanha, servida com queijo de montanha da região de Allgäu e trufa negra, apontada pelo The 50 Best como prato-assinatura dos gêmeos.",
+      "desc": "A massa de ovo típica do sul da Alemanha, servida com queijo de montanha e trufa de inverno; no cardápio de 2026 aparece como extra opcional do menu Erlebnis.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kaesspaetzle_mit_Zwiebeln.jpg/1920px-Kaesspaetzle_mit_Zwiebeln.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Kaesspaetzle_mit_Zwiebeln.jpg",
         "author": "Stefan-Xp",
         "license": "CC BY-SA 3.0",
         "caption": "Käsespätzle, spätzle gratinados com queijo e cebola, versão tradicional do prato (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Käsespätzle tradicionais (ilustrativa)",
+        "alt": "Prato de spätzle gratinados com queijo e cebola caramelizada",
+        "capturedAt": "2008-10-03",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Brotzeit (hora do pão)",
-      "desc": "Serviço de pães com vários acompanhamentos e condimentos que chega no meio da refeição para ser compartilhado na mesa, à maneira do lanche tradicional alemão.",
+      "desc": "Serviço de pães com acompanhamentos, compartilhado na mesa no meio da refeição, que marcou os primeiros menus da casa.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Brotzeit_mit_allem.jpg/1920px-Brotzeit_mit_allem.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Brotzeit_mit_allem.jpg",
         "author": "Xocolatl",
         "license": "CC BY-SA 3.0",
         "caption": "Brotzeit bávaro, com pão, queijo de montanha e acompanhamentos (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Brotzeit bávaro (ilustrativa)",
+        "alt": "Tábua com pão de centeio, manteiga, queijo, presunto e pepinos em conserva",
+        "capturedAt": "2013",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Xocolatl, CC BY-SA 3.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
       "name": "Labskaus",
-      "desc": "Prato de marinheiros do norte da Alemanha, à base de carne em conserva e beterraba, que a casa serve com caviar.",
+      "desc": "Prato de marinheiros do norte da Alemanha, à base de carne em conserva e beterraba, que a casa oferece como extra do menu, acompanhado de caviar.",
       "photo": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Moderne_Variante_vom_Labskaus_mit_Corned_Beef.jpg/1920px-Moderne_Variante_vom_Labskaus_mit_Corned_Beef.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Moderne_Variante_vom_Labskaus_mit_Corned_Beef.jpg",
         "author": "Hannesauas14",
         "license": "CC BY-SA 4.0",
         "caption": "Versão moderna de labskaus com carne em conserva, beterraba e rollmops (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Labskaus em versão moderna (ilustrativa)",
+        "alt": "Prato de labskaus rosado com ovo frito, beterraba e rollmops",
+        "capturedAt": "2021-05-02",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Hannesauas14, CC BY-SA 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -76,7 +119,17 @@
         "author": "Mikelo",
         "license": "CC BY-SA 2.0",
         "caption": "Fatia de Schwarzwälder Kirschtorte, a torta Floresta Negra tradicional (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Torta Floresta Negra tradicional (ilustrativa)",
+        "alt": "Torta de chocolate com creme branco e cerejas, com uma fatia cortada",
+        "capturedAt": "2006-05-07",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Mikelo, CC BY-SA 2.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     },
     {
@@ -88,7 +141,17 @@
         "author": "Sebastian Koppehel",
         "license": "CC BY 4.0",
         "caption": "Taça de licor de ovos (Eierlikör) (imagem ilustrativa)",
-        "illustrative": true
+        "illustrative": true,
+        "kind": "context",
+        "subject": "Taça de licor de ovos (ilustrativa)",
+        "alt": "Taça de pé alto com licor amarelo-claro sobre fundo cinza",
+        "capturedAt": "2016-01-10",
+        "verifiedAt": "2026-11-10",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "rightsStatus": "approved",
+        "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+        "attribution": "Sebastian Koppehel, CC BY 4.0, via Wikimedia Commons",
+        "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
       }
     }
   ],
@@ -171,10 +234,23 @@
     }
   ],
   "practical": {
-    "price": "Menu degustação Erlebnis a 9.800 bahts por pessoa (7.800 bahts na versão mais curta; menu de almoço de 5.800 bahts sob consulta), sem bebidas, mais 10% de serviço e 7% de imposto; harmonização de vinhos de 5.800 a 9.800 bahts (cardápio de agosto de 2026). A página da 50 Best indica menu a partir de US$ 241 (2026).",
-    "reservation": "Pelo site oficial, com até 60 dias de antecedência (a casa recomenda reservar cerca de um mês antes); grupos com mais de oito pessoas pelo telefone +66 2107 2777 ou pelo e-mail reservation@restaurantsuhring.com. Almoço de quinta a domingo e jantar de quarta a domingo; fecha às segundas e terças.",
+    "price": "Menu degustação Erlebnis a 9.800 bahts por pessoa (7.800 bahts na versão mais curta; menu de almoço de 5.800 bahts sob consulta), sem bebidas, mais 10% de serviço e 7% de imposto; harmonização de vinhos de 5.800 a 9.800 bahts e harmonização sem álcool de 3.800 a 4.800 bahts (cardápio de agosto de 2026). A página da 50 Best indica menu a partir de US$ 241 (2026).",
+    "reservation": "Pelo site oficial, que leva ao sistema SevenRooms, com até 60 dias de antecedência (a casa recomenda reservar cerca de um mês antes); grupos com mais de oito pessoas pelo telefone +66 2107 2777 ou pelo e-mail reservation@restaurantsuhring.com. Almoço de quinta a domingo e jantar de quarta a domingo; fecha às segundas e terças.",
     "website": "https://www.restaurantsuhring.com/",
-    "address": "10 Soi Yen Akat 3, Chong Nonsi, Yan Nawa, Bangcoc 10120, Tailândia"
+    "address": "10 Soi Yen Akat 3, Chong Nonsi, Yan Nawa, Bangcoc 10120, Tailândia",
+    "reservationMode": "online",
+    "reservationUrl": "https://www.sevenrooms.com/reservations/suhring",
+    "phone": "+66 2107 2777",
+    "email": "reservation@restaurantsuhring.com",
+    "priceDetails": {
+      "amount": 9800,
+      "currency": "THB",
+      "basis": "Menu degustação Erlebnis por pessoa, sem bebidas; versão mais curta por 7.800 e almoço de 5.800 sob consulta",
+      "taxesIncluded": false,
+      "sourceUrl": "https://www.restaurantsuhring.com/menu.pdf",
+      "checkedAt": "2026-11-10",
+      "note": "Mais 10% de serviço e 7% de IVA; o PDF não traz data impressa (metadados de 27/08/2026)."
+    }
   },
   "gallery": [
     {
@@ -183,7 +259,17 @@
       "author": "Chainwit.",
       "license": "CC BY-SA 4.0",
       "caption": "A passarela elevada de Chong Nonsi, sobre o cruzamento de Sathon, no bairro onde fica o Sühring",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Passarela elevada de Chong Nonsi",
+      "alt": "Passarela branca curva entre torres espelhadas, vista de baixo",
+      "capturedAt": "2020-06-01",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Chainwit., CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Wat_Chong_Nonsi_%281%29.jpg/1920px-Wat_Chong_Nonsi_%281%29.jpg",
@@ -191,7 +277,17 @@
       "author": "Kriengsak Jirasirirojanakorn",
       "license": "CC BY-SA 4.0",
       "caption": "Wat Chong Nonsi, templo budista histórico do distrito de Yan Nawa, o mesmo do restaurante",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Wat Chong Nonsi, em Yan Nawa",
+      "alt": "Templo budista branco de telhado vermelho visto através de um arco antigo",
+      "capturedAt": "2023-09-27",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Kriengsak Jirasirirojanakorn, CC BY-SA 4.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     },
     {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Lebua_at_State_Tower_IMG_1399_01.jpg/1920px-Lebua_at_State_Tower_IMG_1399_01.jpg",
@@ -199,7 +295,17 @@
       "author": "Na derdingseben",
       "license": "CC BY-SA 3.0",
       "caption": "O bar Sirocco, no 64º andar da State Tower, sede do complexo lebua, onde os gêmeos comandaram a cozinha do Mezzaluna antes de abrir o Sühring",
-      "illustrative": false
+      "illustrative": false,
+      "kind": "context",
+      "subject": "Bar Sirocco, na State Tower",
+      "alt": "Terraço de bar no alto de um arranha-céu, com a cidade ao fundo",
+      "capturedAt": "2013-01-06",
+      "verifiedAt": "2026-11-10",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Página do arquivo no Wikimedia Commons; autor, licença e data conferidos pela API do Commons em 2026-11-10 (docs/lotes/fase-2-evidencias/commons-L03.json).",
+      "attribution": "Na derdingseben, CC BY-SA 3.0, via Wikimedia Commons",
+      "modifications": "Miniatura redimensionada pelo servidor do Wikimedia; sem recorte ou outra alteração."
     }
   ],
   "sources": [
@@ -235,5 +341,53 @@
     "featuredGalleryIndex": 0,
     "previewTitle": "O bairro de Chong Nonsi",
     "previewContext": "Passarela urbana do setor de Chong Nonsi/Sathon em Bangcoc, fotografada em 2020. Não mostra a vila do Sühring; a fachada verdadeira está documentada no site oficial indicado abaixo."
-  }
+  },
+  "fieldReviews": [
+    {
+      "field": "practical.reservation",
+      "sourceUrl": "https://www.restaurantsuhring.com/reservation.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.price",
+      "sourceUrl": "https://www.restaurantsuhring.com/menu.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "practical.phone",
+      "sourceUrl": "https://www.restaurantsuhring.com/",
+      "checkedAt": "2026-11-10",
+      "status": "divergent",
+      "note": "O site oficial dá +66 2107 2777; o The 50 Best dá +66 2287 1799. Prevalece o site oficial."
+    },
+    {
+      "field": "dishes",
+      "sourceUrl": "https://www.restaurantsuhring.com/menu.pdf",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Spätzle e labskaus aparecem como extras; Brotzeit é dos primeiros menus."
+    },
+    {
+      "field": "chef.bio",
+      "sourceUrl": "https://www.gamberorossointernational.com/news/the-best-german-cuisine-is-in-asia-two-twins-bring-germany-to-bangkok/",
+      "checkedAt": "2026-11-10",
+      "status": "single-source",
+      "note": "Biografia e manteiga de Oldenburg/fazenda de Nakhon Pathom não confirmadas em fonte oficial."
+    },
+    {
+      "field": "awards",
+      "sourceUrl": "https://www.the50.com/the-list/11-20/Suhring.html",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed"
+    },
+    {
+      "field": "images",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "checkedAt": "2026-11-10",
+      "status": "confirmed",
+      "note": "Sem foto real do restaurante; fotos do bairro e ilustrativas."
+    }
+  ]
 }
