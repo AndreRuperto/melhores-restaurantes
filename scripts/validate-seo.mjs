@@ -133,10 +133,13 @@ const staticBases = process.argv.filter(arg => arg.startsWith('--http-static='))
 const httpBases = [...new Set([...process.argv.filter(arg => arg.startsWith('--http=')).map(arg => arg.slice(7).replace(/\/$/, '')), ...staticBases])]
 
 
+// Compara sem CR: um build feito em checkout Windows (CRLF) deve bater com o deploy Linux (LF).
+const lf = (text) => text.replace(/\r/g, '')
 const titles = new Set()
 const descriptions = new Set()
 let count = 0
 let images = 0
+let structuredImages = 0
 for (const path of routePaths) {
   const restaurant = restaurantForPath(path)
   const profile = restaurant ? JSON.parse(await readFile(resolve(root, `src/data/profiles/${restaurant.slug}.json`), 'utf8')) : undefined
@@ -146,7 +149,7 @@ for (const path of routePaths) {
     for (const requestPath of path === '/' ? ['/'] : [path, `${path}/`]) {
       const response = await fetch(`${base}${requestPath}`, { signal: AbortSignal.timeout(10000) })
       assert.equal(response.status, 200, `${base}${requestPath}: HTTP status`)
-      assert.equal(await response.text(), html, `${base}${requestPath}: HTTP must serve this route's HTML, not SPA root fallback`)
+      assert.equal(lf(await response.text()), lf(html), `${base}${requestPath}: HTTP must serve this route's HTML, not SPA root fallback`)
     }
   }
   const embedded = [...html.matchAll(profileScript)]
@@ -170,6 +173,24 @@ for (const path of routePaths) {
   titles.add(meta.title)
   assert(!descriptions.has(meta.description), `${path}: distinct description`)
   descriptions.add(meta.description)
+  const ldBlocks = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)]
+  assert.equal(ldBlocks.length, restaurant ? 1 : 0, `${path}: structured data count`)
+  if (restaurant) {
+    const ld = JSON.parse(ldBlocks[0][1])
+    assert.deepEqual(ld, meta.structuredData, `${path}: structured data matches profile`)
+    assert.equal(ld['@type'], 'Restaurant', `${path}: structured data type`)
+    assert.equal(ld.name, restaurant.name, `${path}: structured data name`)
+    assert.equal(ld.mainEntityOfPage, `${ORIGIN}${path}`, `${path}: structured data page`)
+    for (const forbidden of ['aggregateRating', 'review', 'starRating', 'ratingValue']) assert(!JSON.stringify(ld).includes(forbidden), `${path}: no invented ${forbidden}`)
+    if (ld.image) {
+      const photos = [profile.hero, profile.facade, ...(profile.gallery || []), ...(profile.dishes || []).map(d => d.photo)]
+      assert(photos.some(photo => photo?.src === ld.image && photo.rightsStatus === 'approved' && ['facade', 'interior', 'dish', 'chef'].includes(photo.kind)), `${path}: structured data image shows the restaurant`)
+      structuredImages++
+    }
+    if (ld.address) assert.equal(ld.address, profile.practical.address, `${path}: structured data address`)
+    if (ld.telephone) assert.equal(ld.telephone, profile.practical.phone, `${path}: structured data phone`)
+    assert(!/[<\u2028\u2029]/.test(ldBlocks[0][1]), `${path}: structured data safe payload`)
+  }
   if (restaurant) {
     count++
     assert(profile.lede.startsWith(meta.description.replace(/…$/, '')), `${path}: local lede`)
@@ -215,7 +236,7 @@ for (const path of ['/restaurante/asador-etxebarri', '/restaurantes', '/nao-exis
   assert.equal(nodes.find(n => n.name === 'robots').content, meta.robots)
   assert.equal(nodes.some(n => n.property === 'og:image'), Boolean(meta.image))
 }
-console.log(`SEO verified: ${count}/100 profiles; 103 unique HTML heads; ${images} approved social images; sitemap/robots; client metadata transitions and duplicate prevention.`)
+console.log(`SEO verified: ${count}/100 profiles; 103 unique HTML heads; ${images} approved social images; 100 Restaurant JSON-LD blocks (${structuredImages} with a photo of the restaurant itself); sitemap/robots; client metadata transitions and duplicate prevention.`)
 
 if (httpBases.length) console.log(`HTTP verified against ${httpBases.join(', ')}: all 103 clean routes and 102 trailing-slash routes serve their route-specific HTML.`)
 else console.log('HTTP not checked. Pass --http=http://127.0.0.1:4174 for preview and --http-static=http://127.0.0.1:4177 for static serve; only supplied endpoints are verified.')
@@ -229,7 +250,7 @@ for (const base of staticBases) {
   for (const path of ['/seo-missing-route-check', '/restaurante/seo-missing-profile-check']) {
     const response = await fetch(`${base}${path}`, { signal: AbortSignal.timeout(10000) })
     assert.equal(response.status, 404, `${base}${path}: real HTTP 404`)
-    assert.equal(await response.text(), notFoundHtml, `${base}${path}: custom noindex SPA shell`)
+    assert.equal(lf(await response.text()), lf(notFoundHtml), `${base}${path}: custom noindex SPA shell`)
   }
   console.log(`Static HTTP 404 verified against ${base}: missing page and profile return the custom noindex app shell.`)
 }

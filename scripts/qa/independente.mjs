@@ -1,13 +1,13 @@
-import { chromium, firefox } from '@playwright/test';
+import { chromium, firefox, webkit } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import {mkdir,writeFile,readFile} from 'node:fs/promises';
 import {restaurants} from '../../src/data/restaurants.js';
-const dir='docs/qa-frontend/evidencias/independente'+(process.env.QA_FIREFOX==='1'?'/firefox':''); await mkdir(dir,{recursive:true});
-const results={started:new Date().toISOString(),base:'http://127.0.0.1:4174',geometry:[],functional:[],seo:[],axe:[],errors:[],limitations:['Sem leitor de tela ou dispositivo físico','640x400 mede reflow; não zoom real 200%','Sem Lighthouse nesta amostra independente']};
+const qaBrowser=process.env.QA_BROWSER||(process.env.QA_FIREFOX==='1'?'firefox':'chromium');const dir=process.env.QA_OUT||('docs/qa-frontend/evidencias/independente'+(qaBrowser==='chromium'?'':'/'+qaBrowser)); await mkdir(dir,{recursive:true});
+const results={started:new Date().toISOString(),base:process.env.QA_URL||'http://127.0.0.1:4174',geometry:[],functional:[],seo:[],axe:[],errors:[],limitations:['Sem leitor de tela ou dispositivo físico','640x400 mede reflow; não zoom real 200%','Sem Lighthouse nesta amostra independente']};
 if(process.env.QA_EXTRA==='1')Object.assign(results,JSON.parse(await readFile(dir+'/resultados.json','utf8')));
 const save=()=>writeFile(`${dir}/resultados.json`,JSON.stringify(results,null,2));
 const sizes=[[320,568],[360,640],[390,844],[430,932],[640,400],[768,1024],[1024,768],[1440,900]];
-const browsers=process.env.QA_FIREFOX==='1'?[['firefox',firefox]]:[['chromium',chromium]];
+const browsers=[[qaBrowser,{chromium,firefox,webkit}[qaBrowser]]];
 for(const [engine,type] of browsers){
  const browser=await type.launch({headless:true});
  for(const theme of (process.env.QA_EXTRA==='1'?[]:['light','dark'])) for(const [width,height] of sizes) for(const route of ['/','/restaurantes']){
