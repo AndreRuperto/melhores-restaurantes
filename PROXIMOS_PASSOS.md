@@ -1,13 +1,13 @@
 # Próximos passos — A Carta
 
-Atualizado em 11/11/2026, na branch `fase-2/homologacao-lighthouse` (PR #11).
+Atualizado em 11/11/2026, na `main` (`02a4df1`, deploy `160e5af2` em `SUCCESS`).
 
 ## O que foi feito (10 e 11/11/2026)
 
 - **Varredura de frases:** frases de instrução e de processo retiradas dos perfis revisados (`docs/lotes/fase-2-varredura-frases.md`).
 - **PR #9, QA de interface, performance e SEO:** menus, cabeçalho, contraste, mapa por teclado, HTML próprio por rota, 404 real, sitemap, fontes locais e CI `Frontend QA`. Mesclado.
 - **PR #10, homologação do site publicado:** testes HTTP, 100 rotas, WebKit e Responsively no site público; dados estruturados `Restaurant` nos 100 perfis; correção do LCP da home; roteiro de testes manuais. Mesclado e publicado (deploy `4ecf4f2`).
-- **PR #11, Lighthouse depois da correção:** home de 87 para 94; lista e perfil em 100. **Aberto, aguardando merge.**
+- **PR #11, Lighthouse depois da correção:** home de 87 para 94; lista e perfil em 100. Mesclado e publicado (deploy `02a4df1`).
 
 ## Estado atual
 
@@ -17,7 +17,7 @@ Atualizado em 11/11/2026, na branch `fase-2/homologacao-lighthouse` (PR #11).
 
 ## Próximos passos
 
-- [ ] Mesclar o PR #11.
+- [x] Mesclar o PR #11.
 - [ ] Rodar o roteiro manual (`docs/qa-frontend/ROTEIRO-MANUAL.md`): NVDA, Safari/iOS e Android, e preencher a tabela de registro.
 - [ ] Revisar os 233 registros não confirmados em `fieldReviews` (149 com fonte única, 47 não verificados, 37 divergentes) e marcar como `verified` os perfis aceitos.
 - [ ] Resolver ou aceitar os 13 avisos editoriais: 9 fotos de capa pendentes e 4 perfis com dados práticos parciais (lista em `docs/lotes/fase-2-homologacao.md`).
