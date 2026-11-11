@@ -29,11 +29,11 @@ Perfis integralmente homologados: **0/100**. Os 100 estão em `verificationStatu
 | HTML próprio de cada rota | `validate-seo.mjs --http-static=<site>` | 103 rotas sem barra e 102 com barra entregam o próprio HTML | saída do comando (reproduzível) |
 | 404 real | mesmo comando | Página e perfil inexistentes respondem HTTP 404 com `noindex,follow` | idem |
 | Sitemap | `GET /sitemap.xml` | 103 URLs | idem |
-| 100 perfis no navegador | `rotas-final.mjs` com `QA_URL` público | 100/100 com o nome certo em acesso direto e recarga; canonical próprio em todos | `evidencias/homologacao/rotas-publicas.json` |
+| 100 perfis no navegador | `rotas-final.mjs` com `QA_URL` público | 100/100 com o nome certo em acesso direto e recarga; canonical próprio em todos | `evidencias/homologacao/rotas-reteste-4ecf4f2.json` |
 | Layout no WebKit (motor do Safari) | `layout.mjs` com `QA_BROWSER=webkit` | 144 casos (9 rotas × 8 tamanhos × 2 temas) sem overflow, sem violação axe e sem erro de página | `evidencias/homologacao/webkit/` |
 | Menus no WebKit | `independente.mjs` com `QA_BROWSER=webkit` | 64 menus de país e continente contidos na tela; Esc e seleção fecham e devolvem o foco; sem violação axe | `evidencias/homologacao/webkit-menus/resultados.json` |
 | Comparação visual | Responsively App, 320, 390, 768, 1024 e 1440 px | Home, lista e perfil de nome longo (Le Louis XV) sem corte nem sobreposição | inspeção visual nesta sessão |
-| Lighthouse mobile | `lighthouse.mjs` com `QA_URL` público | ver tabela abaixo | `evidencias/homologacao/lighthouse-publico.json` |
+| Lighthouse mobile | `lighthouse.mjs` com `QA_URL` público | ver tabela abaixo | `evidencias/homologacao/lighthouse-reteste-4ecf4f2.json` |
 
 No Responsively, os títulos aparecem com uma franja colorida nos celulares. Não é efeito do site: o CSS não tem `text-shadow`, e a franja vem da redução da captura de telas de alta densidade.
 
