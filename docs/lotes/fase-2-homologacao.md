@@ -4,7 +4,7 @@ Data: 10/11/2026. Site testado: <https://melhores-restaurantes.up.railway.app/>,
 
 ## Situação
 
-**Homologação técnica: aprovada no que a automação cobre, com uma pendência.** Nenhum P0 ou P1 está aberto. A pendência é a Performance da home no site publicado (87, meta 90). A causa foi identificada e corrigida nesta branch, mas o resultado só se comprova com um novo Lighthouse depois do deploy.
+**Homologação técnica: aprovada no que a automação cobre.** Nenhum P0 ou P1 está aberto, e o Lighthouse no site publicado cumpre a meta de 90 nas três rotas medidas.
 
 **A Fase 2 ainda não está concluída.** Faltam três coisas que só uma pessoa pode fazer:
 
@@ -51,7 +51,19 @@ Três execuções por rota contra o site publicado (deploy `e5f0b6a`), com simul
 
 A home ficou **abaixo da meta de 90** (mediana 87). O elemento LCP é o título principal, que estava dentro de um bloco com a animação `.fade` (opacidade 0 por 0,7 s). Com a latência real do servidor, o primeiro desenho do título atrasava até cerca de 3 s. É o mesmo problema que o PR #9 corrigiu no perfil.
 
-**Correção nesta branch:** o bloco do título da home deixa de usar `.fade`. No build local, o título aparece com opacidade efetiva 1 no primeiro quadro; no site publicado antes da correção, aparecia com 0,80. A matriz de layout local (144 casos), o `check:seo` e o teste HTTP continuam passando. **O Lighthouse da home precisa ser repetido no site depois do deploy desta correção**; até lá, a meta de 90 na home não está comprovada.
+**Correção (PR #10):** o bloco do título da home deixa de usar `.fade`. No build local, o título aparece com opacidade efetiva 1 no primeiro quadro; no site publicado antes da correção, aparecia com 0,80. A matriz de layout local (144 casos), o `check:seo` e o teste HTTP continuam passando. A nova medição, depois do deploy, está logo abaixo.
+
+### Lighthouse depois da correção (deploy `4ecf4f2`)
+
+Mesmas condições, no site publicado depois do merge do PR #10 (deploy `e5567f5e` em `SUCCESS`, 21h26 BRT de 10/11/2026).
+
+| Rota | Perf. (mediana / pior) | A11y | Boas práticas | SEO | LCP mediana / pior (ms) | CLS pior |
+|---|---:|---:|---:|---:|---:|---:|
+| `/` | 94 / 93 | 100 | 100 | 100 | 917 / 983 | 0,0020 |
+| `/restaurantes` | 100 / 97 | 100 | 100 | 100 | 920 / 1035 | 0,0000 |
+| `/restaurante/asador-etxebarri` | 100 / 100 | 100 | 100 | 100 | 1068 / 1069 | 0,0000 |
+
+**A meta de 90 está cumprida nas três rotas**, inclusive no pior resultado. A home subiu de 87 para 94 de mediana. Depois desse deploy, o teste HTTP (103 + 102 rotas e 404 real) passou de novo, agora com os 100 blocos de dados estruturados no ar.
 
 ## Dados estruturados
 

@@ -654,7 +654,7 @@ Relatórios: [QA de interface, performance e SEO](qa-frontend/RELATORIO-FASE-2.m
 | Frente | Progresso comprovado | O que continua aberto |
 | --- | --- | --- |
 | 2.3 | Matriz de 144 casos sem overflow no Chromium e no WebKit; menus no Chromium, no Firefox e no WebKit; contraste corrigido; mapa por teclado | Leitor de tela, Safari/iOS e celular físico ([roteiro manual](qa-frontend/ROTEIRO-MANUAL.md)) |
-| 2.5 | HTML, canonical e metadados próprios nas 103 rotas; 404 real; sitemap; dados estruturados `Restaurant` sem nota inventada; Lighthouse no site publicado: lista e perfil acima de 90; home em 87 por animação no título, corrigida nesta rodada | Repetir o Lighthouse da home após o deploy; Core Web Vitals de usuários reais |
+| 2.5 | HTML, canonical e metadados próprios nas 103 rotas; 404 real; sitemap; dados estruturados `Restaurant` sem nota inventada; Lighthouse no site publicado acima de 90 nas três rotas, depois da correção do título da home (87 → 94) | Core Web Vitals de usuários reais |
 | 2.6 | Deploy `e5f0b6a` em `SUCCESS`; 100 rotas certas no site publicado | Aceite de produto; revisão humana de 233 registros não confirmados |
 
 **Perfis integralmente homologados neste checkpoint: 0/100.** A homologação técnica não encontrou P0 nem P1; o fechamento da Fase 2 depende dos testes manuais, do revisor humano e do aceite de produto.
