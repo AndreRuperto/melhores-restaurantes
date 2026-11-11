@@ -1,0 +1,185 @@
+[
+  {
+    "route": "/",
+    "n": 1,
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 933.4825000000001,
+    "cls": 0,
+    "tbt": 136,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 32 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/",
+    "n": 2,
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 910.6885,
+    "cls": 0.001956877363321752,
+    "tbt": 178,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 31 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/",
+    "n": 3,
+    "scores": {
+      "performance": 91,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 912.9283,
+    "cls": 0.001956877363321752,
+    "tbt": 303,
+    "opportunities": [],
+    "warnings": []
+  },
+  {
+    "route": "/restaurantes",
+    "n": 1,
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 911.0890999999999,
+    "cls": 0,
+    "tbt": 101,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 32 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/restaurantes",
+    "n": 2,
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 909.8838000000001,
+    "cls": 0,
+    "tbt": 162.5,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 32 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/restaurantes",
+    "n": 3,
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 912.6027,
+    "cls": 0,
+    "tbt": 131.4999999999999,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 32 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "n": 1,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 1074.1036,
+    "cls": 0,
+    "tbt": 9,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 33 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "n": 2,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 1064.0325,
+    "cls": 0,
+    "tbt": 52.99189999999999,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 32 KiB"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "route": "/restaurante/asador-etxebarri",
+    "n": 3,
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 1060.0469,
+    "cls": 0,
+    "tbt": 5,
+    "opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 33 KiB"
+      }
+    ],
+    "warnings": []
+  }
+]
