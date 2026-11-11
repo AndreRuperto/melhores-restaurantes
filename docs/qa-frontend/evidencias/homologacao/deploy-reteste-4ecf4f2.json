@@ -1,0 +1,12 @@
+{
+  "project": "carta",
+  "service": "melhores-restaurantes",
+  "environment": "production",
+  "deploymentId": "e5567f5e-0016-49bb-8589-143aa2e6524c",
+  "commit": "4ecf4f2763199b2ea33a5cb0d9e23fde7cd7ffee",
+  "branch": "main",
+  "status": "SUCCESS",
+  "createdAt": "2026-11-11T00:25:42.529Z",
+  "publicUrl": "https://melhores-restaurantes.up.railway.app/",
+  "evidence": "Railway list_deployments consulted in this retest; no deployment was triggered."
+}

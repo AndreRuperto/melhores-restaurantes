@@ -1,0 +1,7 @@
+Initial profile verified: 100/100 slug/payload round trips; script escaping; synchronous hook, SPA cache, slug isolation, cancellation and fallback.
+SEO: generated 103 route heads, 102 clean URL aliases, 404.html (noindex), sitemap.xml and robots.txt
+SEO: generated 103 route heads, 102 clean URL aliases, 404.html (noindex), sitemap.xml and robots.txt
+Alias generation verified: 102/102 flat .html aliases equal route indexes; correct payloads and canonicals; repeat generation is safe.
+SEO verified: 100/100 profiles; 103 unique HTML heads; 91 approved social images; 100 Restaurant JSON-LD blocks (29 with a photo of the restaurant itself); sitemap/robots; client metadata transitions and duplicate prevention.
+HTTP verified against https://melhores-restaurantes.up.railway.app: all 103 clean routes and 102 trailing-slash routes serve their route-specific HTML.
+Static HTTP 404 verified against https://melhores-restaurantes.up.railway.app: missing page and profile return the custom noindex app shell.

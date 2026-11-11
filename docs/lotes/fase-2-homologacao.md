@@ -1,10 +1,10 @@
 # Fase 2 — homologação
 
-Data: 10/11/2026. Site testado: <https://melhores-restaurantes.up.railway.app/>, deploy `4bb3bab5` do Railway, commit `e5f0b6a` (merge do PR #9). Este documento junta os testes do site publicado e o que ainda falta para fechar a Fase 2 (etapa 2.6 do [plano](../fase-2-plano.md)).
+Data: 10/11/2026. Site testado: <https://melhores-restaurantes.up.railway.app/>, deploy `e5567f5e` do Railway, commit `4ecf4f2` (merge do PR #10). Este documento junta os testes do site publicado e o que ainda falta para fechar a Fase 2 (etapa 2.6 do [plano](../fase-2-plano.md)).
 
 ## Situação
 
-**Homologação técnica: aprovada no que a automação cobre, com uma pendência.** Nenhum P0 ou P1 está aberto. A pendência é a Performance da home no site publicado (87, meta 90). A causa foi identificada e corrigida nesta branch, mas o resultado só se comprova com um novo Lighthouse depois do deploy.
+**Homologação técnica: aprovada no escopo automatizado registrado.** A pendência de Performance da home foi retestada no deploy `e5567f5e` / commit `4ecf4f2`: mediana 96 e pior resultado 91, acima da meta 90. Nenhum novo P0 ou P1 foi identificado nesse reteste. Isso não substitui os testes manuais e o aceite humano abaixo.
 
 **A Fase 2 ainda não está concluída.** Faltam três coisas que só uma pessoa pode fazer:
 
@@ -18,8 +18,8 @@ Perfis integralmente homologados: **0/100**. Os 100 estão em `verificationStatu
 
 | Item | Resultado |
 |---|---|
-| Deploy | `4bb3bab5-0c79-482b-989f-0c728fa6bf96`, status `SUCCESS`, branch `main`, commit `e5f0b6a`, criado às 19h57 BRT de 10/11/2026 |
-| Logs do container | `serve dist` aceitando conexões na porta 8080; só um aviso do npm sobre `--omit=dev`, sem erro da aplicação |
+| Deploy | `e5567f5e-0016-49bb-8589-143aa2e6524c`, status `SUCCESS`, branch `main`, commit `4ecf4f2`, criado às 21h25 BRT de 10/11/2026 |
+| Logs do container (verificação anterior, deploy `4bb3bab5`) | `serve dist` aceitando conexões na porta 8080; só um aviso do npm sobre `--omit=dev`, sem erro da aplicação |
 | CI no GitHub | Workflow `Frontend QA` passou no PR #9 (build, validação HTTP, matriz de layout e 100 rotas) |
 
 ## Testes no site publicado
@@ -41,17 +41,17 @@ Os testes de função dos filtros (busca sem acento, contagens, limpar, URL) só
 
 ### Lighthouse mobile no site publicado
 
-Três execuções por rota contra o site publicado (deploy `e5f0b6a`), com simulação mobile padrão. São valores de laboratório, sem INP de campo.
+Três novas execuções por rota contra o site publicado (deploy `e5567f5e`, commit `4ecf4f2`), com simulação mobile padrão. Evidência: `evidencias/homologacao/lighthouse-reteste-4ecf4f2.json`. São valores de laboratório, sem INP de campo.
 
 | Rota | Perf. (mediana / pior) | A11y | Boas práticas | SEO | LCP mediana / pior (ms) | CLS pior |
 |---|---:|---:|---:|---:|---:|---:|
-| `/` | 87 / 86 | 100 | 100 | 100 | 3012 / 3014 | 0,0020 |
-| `/restaurantes` | 99 / 91 | 100 | 100 | 100 | 926 / 1065 | 0,0000 |
-| `/restaurante/asador-etxebarri` | 100 / 100 | 100 | 100 | 100 | 1073 / 1150 | 0,0000 |
+| `/` | 96 / 91 | 100 | 100 | 100 | 913 / 933 | 0.0020 |
+| `/restaurantes` | 99 / 98 | 100 | 100 | 100 | 911 / 913 | 0.0000 |
+| `/restaurante/asador-etxebarri` | 100 / 100 | 100 | 100 | 100 | 1064 / 1074 | 0.0000 |
 
-A home ficou **abaixo da meta de 90** (mediana 87). O elemento LCP é o título principal, que estava dentro de um bloco com a animação `.fade` (opacidade 0 por 0,7 s). Com a latência real do servidor, o primeiro desenho do título atrasava até cerca de 3 s. É o mesmo problema que o PR #9 corrigiu no perfil.
+No deploy anterior (`e5f0b6a`), a home tinha mediana 87 e LCP mediano de cerca de 3 s porque o título usava `.fade`. A retirada dessa animação já está publicada no commit `4ecf4f2`. Nesta rodada, a home atingiu mediana 96, pior Performance 91 e LCP mediano de 913 ms; a pendência técnica de Performance ficou resolvida no escopo medido. As quatro categorias ficaram acima de 90 nas nove execuções. São resultados de laboratório; não há aprovação de Core Web Vitals de campo.
 
-**Correção nesta branch:** o bloco do título da home deixa de usar `.fade`. No build local, o título aparece com opacidade efetiva 1 no primeiro quadro; no site publicado antes da correção, aparecia com 0,80. A matriz de layout local (144 casos), o `check:seo` e o teste HTTP continuam passando. **O Lighthouse da home precisa ser repetido no site depois do deploy desta correção**; até lá, a meta de 90 na home não está comprovada.
+A matriz de layout/WebKit e os demais testes acima pertencem à rodada anterior documentada. Neste reteste foram repetidos o build, o SEO por HTTP no domínio público e as 100 páginas em acesso direto/recarga, com novas evidências. Não foram repetidos leitor de tela, aparelho físico ou inspeção visual completa.
 
 ## Dados estruturados
 
@@ -108,6 +108,14 @@ São P2: o perfil funciona com o fallback neutro, e a foto fica pendente até ha
 | Consolidar este documento | Feito |
 | Aceite de produto | **Pendente** |
 
+## Fila para revisão humana
+
+O arquivo [fase-2-revisao-humana.csv](fase-2-revisao-humana.csv) reúne os **233 registros** que ainda não estão confirmados: 37 divergentes, 47 não verificados e 149 com fonte única. A ordenação começa por divergências, depois itens não verificados e fonte única, com rank crescente em cada grupo. Cada linha preserva campo, valor, fonte, data e nota da revisão anterior.
+
+O revisor preenche `decisao_humana` (`aceitar`, `corrigir` ou `manter-pendente`), `valor_corrigido` quando houver, `fonte_adicional`, `revisor`, `data_decisao` (AAAA-MM-DD) e `observacao_revisor`. Todas essas colunas começam vazias. São registros por campo, não 233 restaurantes.
+
+Gerador reproduzível: `python scripts/qa/exportar-revisao-humana.py`. Ele confere os 100 perfis, as 595 revisões e 233 IDs únicos. Manifesto: `evidencias/homologacao/revisao-humana-inventario.json`. O CSV não é importado automaticamente e não altera `fieldReviews` ou `verificationStatus`. Antes de aprovar um perfil, resolver ou aceitar explicitamente todas as suas pendências e registrar o aceite de produto.
+
 ## Para fechar a Fase 2
 
 1. Rodar o [roteiro manual](../qa-frontend/ROTEIRO-MANUAL.md) e preencher a tabela de registro.
@@ -117,3 +125,11 @@ São P2: o perfil funciona com o fallback neutro, e a foto fica pendente até ha
 | Data | Responsável | Decisão | Observações |
 |---|---|---|---|
 | | | | |
+
+## Evidências do reteste no commit 4ecf4f2
+
+- `evidencias/homologacao/deploy-reteste-4ecf4f2.json`: vínculo do deploy, SHA e status consultado.
+- `evidencias/homologacao/build-reteste-4ecf4f2.txt`: build local da base publicada, saída zero.
+- `evidencias/homologacao/seo-reteste-4ecf4f2.txt`: HTML próprio das 103 rotas e 102 variantes com barra, dados estruturados e 404 no domínio público.
+- `evidencias/homologacao/rotas-reteste-4ecf4f2.json`: identidade dos 100 perfis em acesso direto e recarga.
+- `evidencias/homologacao/lighthouse-reteste-4ecf4f2.json`: nove medições novas; resultados anteriores permanecem em `lighthouse-publico.json`.
