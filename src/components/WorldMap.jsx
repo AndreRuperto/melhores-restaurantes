@@ -15,7 +15,7 @@ export const TIER_COLOR = { top50: 'var(--c-wine)', ext: 'var(--c-muted)' }
 const HIT_PX = 11
 
 // Mapa em estilo gravura: papel, contorno a tinta, pontos vinho (1–50) e sépia (51–100).
-export default function WorldMap({ items, focus = null, className = 'aspect-[960/470]', interactive = true, spreadOverlapping = false }) {
+export default function WorldMap({ items, focus = null, className = 'aspect-[960/470]', interactive = true, spreadOverlapping = true }) {
   const navigate = useNavigate()
   const svgRef = useRef(null)
   const [hover, setHover] = useState(null) // mouse: ponto sob o cursor

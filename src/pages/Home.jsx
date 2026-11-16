@@ -133,7 +133,7 @@ function MapSection() {
         {items.length} {items.length === 1 ? 'restaurante' : 'restaurantes'} no mapa
         {country ? ` · ${country}` : cont ? ` · ${cont}` : ''}
       </p>
-      <WorldMap items={items} spreadOverlapping={!!country} />
+      <WorldMap items={items} />
       {country && (
         <div className="mt-4 border border-rule bg-paper-2/40 px-4 py-4 sm:px-6">
           <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
