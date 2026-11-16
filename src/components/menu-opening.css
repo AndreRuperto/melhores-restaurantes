@@ -11,19 +11,42 @@
   place-items: center;
   overflow: hidden;
   isolation: isolate;
+  color: var(--intro-gold);
+}
+
+/* O fundo escuro fica numa camada própria para sumir enquanto o título viaja. */
+.menu-opening::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
   background:
     radial-gradient(ellipse at 50% 43%, rgba(99, 60, 49, 0.17), transparent 60%),
     repeating-linear-gradient(58deg, transparent 0 78px, rgba(255, 232, 195, 0.018) 79px 80px),
     #181311;
-  color: var(--intro-gold);
-  opacity: 1;
-  transition: opacity 650ms ease, visibility 650ms ease;
+  transition: opacity 800ms ease 250ms;
 }
 
-.menu-opening--leaving {
-  opacity: 0;
-  visibility: hidden;
+.menu-opening__masthead,
+.menu-opening__skip,
+.menu-opening__stage,
+.menu-opening__caption { transition: opacity 420ms ease; }
+
+.menu-opening--zooming { pointer-events: none; }
+.menu-opening--zooming::before,
+.menu-opening--zooming .menu-opening__masthead,
+.menu-opening--zooming .menu-opening__skip,
+.menu-opening--zooming .menu-opening__stage,
+.menu-opening--zooming .menu-opening__caption { opacity: 0; }
+
+/* Cópia do título da Home que sai da carta e pousa no lugar do original. */
+.menu-opening__travel {
+  position: fixed;
+  z-index: 20;
+  margin: 0;
+  transform-origin: top left;
   pointer-events: none;
+  will-change: transform, opacity;
 }
 
 .menu-opening__masthead {
@@ -57,6 +80,7 @@
 .menu-opening__skip:focus-visible { outline: 2px solid #e8d1a7; outline-offset: 5px; }
 
 .menu-opening__stage {
+  position: relative;
   width: min(760px, 92vw, 138vh);
   aspect-ratio: 1.65;
   perspective: 1900px;
@@ -72,7 +96,7 @@
   transition: transform 1650ms cubic-bezier(0.23, 0.72, 0.16, 1);
 }
 .menu-opening--opening .menu-opening__book,
-.menu-opening--leaving .menu-opening__book { transform: translateX(0); }
+.menu-opening--zooming .menu-opening__book { transform: translateX(0); }
 
 .menu-opening__page {
   background:
@@ -114,7 +138,35 @@
   transition: transform 1650ms cubic-bezier(0.23, 0.72, 0.16, 1);
 }
 .menu-opening--opening .menu-opening__leaf,
-.menu-opening--leaving .menu-opening__leaf { transform: rotateY(-180deg); }
+.menu-opening--zooming .menu-opening__leaf { transform: rotateY(-180deg); }
+
+/* Fechada, a capa "respira": entreabre de leve para mostrar que se abre. */
+.menu-opening--closed .menu-opening__leaf {
+  animation: menu-opening-peek 2600ms cubic-bezier(0.45, 0, 0.3, 1) 1200ms infinite;
+}
+.menu-opening__stage:has(.menu-opening__open:hover) .menu-opening__leaf,
+.menu-opening__stage:has(.menu-opening__open:focus-visible) .menu-opening__leaf {
+  animation: none;
+  transform: rotateY(-16deg);
+  transition-duration: 380ms;
+}
+@keyframes menu-opening-peek {
+  0%, 55%, 100% { transform: rotateY(0deg); }
+  25% { transform: rotateY(-13deg); }
+}
+
+/* Botão invisível do tamanho da capa (a capa fechada ocupa o centro do palco). */
+.menu-opening__open {
+  position: absolute;
+  inset: 0 25%;
+  z-index: 5;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+}
+.menu-opening__open:disabled { display: none; }
+.menu-opening__open:focus-visible { outline: 2px solid var(--intro-gold); outline-offset: 6px; }
 
 .menu-opening__cover,
 .menu-opening__inside-page {
@@ -271,7 +323,7 @@
 @media (prefers-reduced-motion: reduce) {
   .menu-opening,
   .menu-opening__book,
-  .menu-opening__leaf { transition: none !important; }
+  .menu-opening__leaf { transition: none !important; animation: none !important; }
 }
 
 /* A mesma marca vetorial da navegação também identifica o cardápio. */
@@ -293,3 +345,7 @@
 @media (max-width: 580px) {
   .menu-opening__cover-mark { font-size: 24px; }
 }
+
+/* O título da carta some logo no início da viagem, para não haver dois títulos sobrepostos. */
+.menu-opening__inside-heading { transition: opacity 180ms ease; }
+.menu-opening--zooming .menu-opening__inside-heading { opacity: 0; }
