@@ -25,8 +25,17 @@ jobs:
           node scripts/validate-seo.mjs --http=http://127.0.0.1:4174 --http=http://127.0.0.1:4177
           node scripts/qa/layout.mjs
           node scripts/qa/rotas-final.mjs
+      - name: Test country filter dropdown (Playwright)
+        run: npm run test:frontend
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: frontend-qa-evidence
           path: docs/qa-frontend/evidencias
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: frontend-playwright-report
+          path: |
+            frontend-playwright-report
+            frontend-test-results
