@@ -1,0 +1,14 @@
+{
+  "sourceCommit": "2cc0041f6051d0a6ba7261c5dba4672cfc6b4ba3",
+  "generatedAt": "2026-11-17T14:54:21.984429+00:00",
+  "profiles": 100,
+  "reviews": {
+    "confirmed": 362,
+    "single-source": 149,
+    "unverified": 47,
+    "divergent": 37
+  },
+  "pending": 233,
+  "uniqueIds": 233,
+  "humanDecisionsFilled": 0
+}
