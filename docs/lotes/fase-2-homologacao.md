@@ -9,7 +9,7 @@ Data: 10/11/2026. Site testado: <https://melhores-restaurantes.up.railway.app/>,
 **A Fase 2 ainda não está concluída.** Faltam três coisas que só uma pessoa pode fazer:
 
 1. Os testes manuais com leitor de tela, Safari/iOS e celular, seguindo o [roteiro manual](../qa-frontend/ROTEIRO-MANUAL.md).
-2. A revisão humana dos dados com fonte única, não verificados ou divergentes (tabela abaixo).
+2. A revisão humana dos dados com fonte única, não verificados ou divergentes ([fila em CSV](fase-2-revisao-humana.csv), seção "Fila para revisão humana").
 3. O aceite de produto, com nome e data.
 
 Perfis integralmente homologados: **0/100**. Os 100 estão em `verificationStatus: partial` até o revisor humano decidir.
@@ -64,6 +64,27 @@ Mesmas condições, no site publicado depois do merge do PR #10 (deploy `e5567f5
 | `/restaurante/asador-etxebarri` | 100 / 100 | 100 | 100 | 100 | 1068 / 1069 | 0,0000 |
 
 **A meta de 90 está cumprida nas três rotas**, inclusive no pior resultado. A home subiu de 87 para 94 de mediana. Depois desse deploy, o teste HTTP (103 + 102 rotas e 404 real) passou de novo, agora com os 100 blocos de dados estruturados no ar.
+
+### Reteste em 17/11/2026 (deploy `2cc0041`)
+
+Repetido depois das mudanças de interface de 16/11: abertura que abre ao toque com o título indo para o da Home (PR #16) e pontos da mesma cidade separados no mapa (PR #17). Site publicado no deploy `1a510750` do Railway, commit `2cc0041`, status `SUCCESS`. Nenhum deploy foi disparado pelo teste.
+
+| Teste | Resultado | Evidência |
+|---|---|---|
+| Build do conteúdo exato do commit (`git archive`) | saída 0 | `evidencias/homologacao/build-reteste-2cc0041.txt` |
+| HTML próprio, 404 real e dados estruturados no domínio público | 103 rotas sem barra e 102 com barra com o próprio HTML; 404 com `noindex`; 100 blocos `Restaurant` | `evidencias/homologacao/seo-reteste-2cc0041.txt` |
+| 100 perfis no navegador | 100/100 com o nome certo em acesso direto e recarga | `evidencias/homologacao/rotas-reteste-2cc0041.json` |
+| Lighthouse mobile, 3 execuções por rota | tabela abaixo | `evidencias/homologacao/lighthouse-reteste-2cc0041.json` |
+
+| Rota | Perf. (mediana / pior) | A11y | Boas práticas | SEO | LCP mediana / pior (ms) | CLS pior |
+|---|---:|---:|---:|---:|---:|---:|
+| `/` | 97 / 94 | 100 | 100 | 100 | 911 / 912 | 0,0000 |
+| `/restaurantes` | 97 / 92 | 100 | 100 | 100 | 912 / 954 | 0,0000 |
+| `/restaurante/asador-etxebarri` | 100 / 99 | 100 | 100 | 100 | 1063 / 1153 | 0,0000 |
+
+A meta de 90 continua cumprida nas três rotas, inclusive no pior resultado; a nova abertura não piorou a home. O Lighthouse abre a página sem sessão, então mediu a home com a abertura na tela. São valores de laboratório, sem INP de campo.
+
+Ao validar o HTML, um build feito com a cópia de trabalho local falhou só porque os nomes dos arquivos JS e CSS tinham hash diferente do deploy (arquivos com fim de linha diferente do commit). O build do conteúdo exato do commit passou. Não foram repetidos neste reteste: matriz de layout no WebKit, menus, inspeção visual, leitor de tela e aparelho físico.
 
 ## Dados estruturados
 
@@ -120,10 +141,18 @@ São P2: o perfil funciona com o fallback neutro, e a foto fica pendente até ha
 | Consolidar este documento | Feito |
 | Aceite de produto | **Pendente** |
 
+## Fila para revisão humana
+
+O arquivo [fase-2-revisao-humana.csv](fase-2-revisao-humana.csv) reúne os **233 registros** que ainda não estão confirmados: 37 divergentes, 47 não verificados e 149 com fonte única. A ordem começa pelas divergências, depois os não verificados e os de fonte única, com rank crescente em cada grupo. Cada linha preserva campo, valor, fonte, data e nota da revisão anterior. São registros por campo, não 233 restaurantes.
+
+O revisor preenche `decisao_humana` (`aceitar`, `corrigir` ou `manter-pendente`), `valor_corrigido` quando houver, `fonte_adicional`, `revisor`, `data_decisao` (AAAA-MM-DD) e `observacao_revisor`. Todas essas colunas começam vazias.
+
+Gerador: `python scripts/qa/exportar-revisao-humana.py`. Ele lê os 100 perfis atuais, confere que o número de linhas é o total de revisões não confirmadas e que os IDs são únicos, e grava o manifesto em `evidencias/homologacao/revisao-humana-inventario.json`. Em 17/11/2026, no commit `2cc0041`, as 595 revisões se dividem em 362 confirmadas e 233 pendentes. O CSV não é importado automaticamente e não altera `fieldReviews` nem `verificationStatus`. Antes de aprovar um perfil, resolver ou aceitar explicitamente todas as pendências dele e registrar o aceite de produto.
+
 ## Para fechar a Fase 2
 
 1. Rodar o [roteiro manual](../qa-frontend/ROTEIRO-MANUAL.md) e preencher a tabela de registro.
-2. O revisor decide sobre os 233 registros que não estão confirmados (fonte única, não verificados e divergentes) e marca como `verified` os perfis aceitos.
+2. O revisor decide sobre os 233 registros da [fila em CSV](fase-2-revisao-humana.csv) e marca como `verified` os perfis aceitos.
 3. Registrar o aceite de produto aqui:
 
 | Data | Responsável | Decisão | Observações |
