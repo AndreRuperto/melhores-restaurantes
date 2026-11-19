@@ -126,13 +126,20 @@ export function Footer() {
             <a className="link-u text-ink" href="https://www.theworlds50best.com/" target="_blank" rel="noreferrer">The 50 Best Restaurants</a>. Lista reproduzida via{' '}
             <a className="link-u text-ink" href="https://www.finedininglovers.com/explore/articles/50-best-restaurants-2026-full-list" target="_blank" rel="noreferrer">Fine Dining Lovers</a>.
           </p>
-          <div className="smallcaps mt-2 flex flex-wrap justify-center gap-6 text-ink-2">
+          <nav aria-label="Navegação do site" className="smallcaps mt-2 flex flex-wrap justify-center gap-6 text-ink-2">
             <Link to="/restaurantes" className="hover:text-wine">Restaurantes</Link>
             <Link to="/como-funciona" className="hover:text-wine">Como funciona</Link>
-            <a href="https://github.com/andreruperto" target="_blank" rel="noreferrer" className="hover:text-wine">GitHub</a>
-            <a href="https://www.linkedin.com/in/andrerup/" target="_blank" rel="noreferrer" className="hover:text-wine">LinkedIn</a>
-          </div>
-          <p className="mt-4 text-xs italic text-muted">Um projeto de André Ruperto · © 2026</p>
+          </nav>
+        </div>
+        {/* Autoria fica separada da navegação do site, para que GitHub e LinkedIn
+            não pareçam perfis do A Carta. */}
+        <div className="flex flex-col items-center gap-2 border-t border-rule py-6 text-center text-xs text-muted">
+          <p className="italic">Um projeto de André Ruperto · © 2026</p>
+          <p className="flex items-center gap-3">
+            <a href="https://github.com/andreruperto" target="_blank" rel="noreferrer" aria-label="GitHub de André Ruperto" className="link-u hover:text-wine">GitHub</a>
+            <span aria-hidden="true">·</span>
+            <a href="https://www.linkedin.com/in/andrerup/" target="_blank" rel="noreferrer" aria-label="LinkedIn de André Ruperto" className="link-u hover:text-wine">LinkedIn</a>
+          </p>
         </div>
       </div>
     </footer>
