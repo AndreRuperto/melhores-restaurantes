@@ -1,6 +1,6 @@
 # Próximos passos — A Carta
 
-Atualizado em 19/11/2026, na `main` (`1d6cd53`, deploy `fb03ef05` em `SUCCESS`).
+Atualizado em 19/11/2026, na `main` (`a24617d`, deploy `e90fc118` em `SUCCESS`).
 
 ## O que foi feito (10 a 19/11/2026)
 
@@ -17,14 +17,14 @@ Atualizado em 19/11/2026, na `main` (`1d6cd53`, deploy `fb03ef05` em `SUCCESS`).
 ## Estado atual
 
 - **Funciona e está testado no site publicado:** 103 rotas, 404 real, sitemap, 100 perfis, layout no Chromium e no WebKit, menus no Chromium, no Firefox e no WebKit, e Lighthouse acima de 90 nas três rotas medidas (repetido em 17/11, depois da nova abertura e do mapa).
-- **Não repetido depois dos PRs #16 e #17:** matriz WebKit, menus no WebKit e inspeção visual.
+- **WebKit depois dos PRs #16 e #17:** matriz, menus e abertura aprovados em 19/11. O WebKit do Playwright no Windows mostra a carta fechada espelhada porque ignora `backface-visibility`; conferir no iPhone (item 2.0 do roteiro manual).
 - **Não testado:** leitor de tela, Safari no iPhone, celular físico e Core Web Vitals de usuários reais.
 - **Homologação:** técnica aprovada no que a automação cobre; 0/100 perfis homologados até o revisor humano decidir.
 
 ## Próximos passos
 
 - [x] Mesclar os PRs #11 a #18.
-- [ ] Repetir a matriz WebKit e os menus no site publicado, para cobrir a nova abertura (#16) e o mapa (#17).
+- [x] Repetir a matriz WebKit e os menus no site publicado e testar a nova abertura (19/11: tudo aprovado; ver `docs/lotes/fase-2-homologacao.md`).
 - [ ] Rodar o roteiro manual (`docs/qa-frontend/ROTEIRO-MANUAL.md`): NVDA, Safari/iOS e Android, e preencher a tabela de registro.
 - [ ] Revisar os 233 registros não confirmados (149 com fonte única, 47 não verificados, 37 divergentes) preenchendo as colunas de decisão de `docs/lotes/fase-2-revisao-humana.csv`, e marcar como `verified` os perfis aceitos.
 - [ ] Resolver ou aceitar os 13 avisos editoriais: 9 fotos de capa pendentes e 4 perfis com dados práticos parciais (lista em `docs/lotes/fase-2-homologacao.md`).
@@ -50,4 +50,5 @@ node scripts/validate-seo.mjs --http-static=https://melhores-restaurantes.up.rai
 QA_URL=https://melhores-restaurantes.up.railway.app QA_OUT=/tmp/rotas.json node scripts/qa/rotas-final.mjs
 QA_BROWSER=webkit QA_URL=https://melhores-restaurantes.up.railway.app QA_OUT=/tmp/webkit node scripts/qa/layout.mjs
 QA_URL=https://melhores-restaurantes.up.railway.app QA_OUT=/tmp/lh.json node scripts/qa/lighthouse.mjs
+QA_BROWSER=webkit QA_URL=https://melhores-restaurantes.up.railway.app QA_OUT=/tmp/abertura node scripts/qa/abertura.mjs
 ```

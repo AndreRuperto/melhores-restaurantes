@@ -31,6 +31,7 @@ Testes que a automação não substitui. Faça no site publicado, <https://melho
 
 | # | O que fazer | O que deve acontecer |
 |---|---|---|
+| 2.0 | Numa aba anônima, abra a home e espere a carta aparecer | A carta fechada mostra a capa vinho com "A Carta" e 2026, não um texto espelhado. Ao tocar, ela abre como um livro e o título vai para o topo da página |
 | 2.1 | Abra a home e role até o fim | Nada fica cortado na lateral e não existe rolagem para os lados |
 | 2.2 | Toque em "Restaurantes", abra o filtro de países e toque na busca dele | O teclado aparece sem esconder o campo nem empurrar o menu para fora da tela |
 | 2.3 | Toque num ponto do mapa e depois toque de novo | O primeiro toque mostra o restaurante; o segundo abre o perfil |

@@ -86,6 +86,23 @@ A meta de 90 continua cumprida nas três rotas, inclusive no pior resultado; a n
 
 Ao validar o HTML, um build feito com a cópia de trabalho local falhou só porque os nomes dos arquivos JS e CSS tinham hash diferente do deploy (arquivos com fim de linha diferente do commit). O build do conteúdo exato do commit passou. Não foram repetidos neste reteste: matriz de layout no WebKit, menus, inspeção visual, leitor de tela e aparelho físico.
 
+### WebKit e abertura em 19/11/2026 (deploy `a24617d`)
+
+Completa o reteste de 17/11 com o que ficou de fora: o WebKit (motor do Safari) depois da nova abertura (PR #16) e do mapa (PR #17). Site publicado no deploy `e90fc118` do Railway, commit `a24617d`, status `SUCCESS`.
+
+| Teste | Resultado | Evidência |
+|---|---|---|
+| Matriz de layout no WebKit | 144 casos (9 rotas × 8 tamanhos × 2 temas) sem overflow, sem violação axe e sem erro de página | `evidencias/homologacao/webkit-v2/` |
+| Menus de país e continente no WebKit | 64 menus contidos na tela; Esc e seleção fecham e devolvem o foco; sem violação axe | `evidencias/homologacao/webkit-menus-v2/resultados.json` |
+| Abertura no WebKit e no Chromium | 16 casos por motor, todos aprovados: carta fechada espera o gesto, toque ou clique abre e o título assume, abre sozinha, "Pular introdução", Esc, Tab preso, recarga sem repetir e modo sem movimento | `evidencias/homologacao/abertura/webkit.json` e `chromium.json` (script `scripts/qa/abertura.mjs`) |
+
+Dois achados no WebKit, nenhum deles defeito confirmado do site:
+
+- **Carta fechada mostra o verso espelhado.** Nas capturas do WebKit, a carta fechada mostra a página de dentro espelhada, e não a capa vinho que aparece no Chromium. Um cartão mínimo de duas faces, sem nada do site, falha do mesmo jeito. Ou seja, o WebKit do Playwright no Windows ignora `backface-visibility`, que o CSS da carta já declara com e sem prefixo. Não dá para concluir que o Safari erra; a conferência foi para o item 2.0 do [roteiro manual](../qa-frontend/ROTEIRO-MANUAL.md).
+- **Foco inicial em modo celular.** Com toque, o WebKit não move o foco para "Abrir a carta" quando a abertura aparece (fica no `body`). O toque, o Esc e o Tab continuam funcionando. Fica como P2, para conferir com teclado num iPad.
+
+O teste da abertura espera o efeito que liga o teclado antes de apertar teclas. Sem essa espera, o WebKit recebia o Esc antes de o ouvinte existir, o que dava falso negativo.
+
 ## Dados estruturados
 
 Cada perfil passa a ter um bloco `application/ld+json` do tipo `Restaurant`, gerado só com fatos já publicados no perfil:
