@@ -1,0 +1,182 @@
+{
+  "engine": "chromium",
+  "base": "https://melhores-restaurantes.up.railway.app",
+  "date": "2026-11-19T04:06:54.599Z",
+  "cases": 16,
+  "failed": 0,
+  "errors": [],
+  "rows": [
+    {
+      "case": "carta fechada espera o gesto",
+      "device": "celular",
+      "pass": true,
+      "ms": 2608,
+      "caption": "Toque na carta para abrir",
+      "focused": "Abrir a carta",
+      "stillClosed": 1,
+      "focusOk": true
+    },
+    {
+      "case": "toque ou clique abre e o título assume",
+      "device": "celular",
+      "pass": true,
+      "ms": 4837,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "abre sozinha sem gesto",
+      "device": "celular",
+      "pass": true,
+      "ms": 8867,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "Pular introdução encerra na hora",
+      "device": "celular",
+      "pass": true,
+      "ms": 937,
+      "closeMs": 81,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "Esc encerra",
+      "device": "celular",
+      "pass": true,
+      "ms": 804,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "Tab fica preso entre os dois botões",
+      "device": "celular",
+      "pass": true,
+      "ms": 800,
+      "seq": [
+        "Pular introdução ↗",
+        "Abrir a carta",
+        "Pular introdução ↗",
+        "Abrir a carta"
+      ]
+    },
+    {
+      "case": "recarga na mesma sessão não repete",
+      "device": "celular",
+      "pass": true,
+      "ms": 2004,
+      "shown": 0
+    },
+    {
+      "case": "sem movimento não mostra a abertura",
+      "device": "celular",
+      "pass": true,
+      "ms": 1523,
+      "shown": 0,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": false,
+      "horizontalScroll": false
+    },
+    {
+      "case": "carta fechada espera o gesto",
+      "device": "computador",
+      "pass": true,
+      "ms": 2674,
+      "caption": "Clique na carta para abrir",
+      "focused": "Abrir a carta",
+      "stillClosed": 1,
+      "focusOk": true
+    },
+    {
+      "case": "toque ou clique abre e o título assume",
+      "device": "computador",
+      "pass": true,
+      "ms": 4340,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "abre sozinha sem gesto",
+      "device": "computador",
+      "pass": true,
+      "ms": 9334,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "Pular introdução encerra na hora",
+      "device": "computador",
+      "pass": true,
+      "ms": 1007,
+      "closeMs": 58,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "Esc encerra",
+      "device": "computador",
+      "pass": true,
+      "ms": 1099,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": true,
+      "horizontalScroll": false
+    },
+    {
+      "case": "Tab fica preso entre os dois botões",
+      "device": "computador",
+      "pass": true,
+      "ms": 950,
+      "seq": [
+        "Pular introdução ↗",
+        "Abrir a carta",
+        "Pular introdução ↗",
+        "Abrir a carta"
+      ]
+    },
+    {
+      "case": "recarga na mesma sessão não repete",
+      "device": "computador",
+      "pass": true,
+      "ms": 2272,
+      "shown": 0
+    },
+    {
+      "case": "sem movimento não mostra a abertura",
+      "device": "computador",
+      "pass": true,
+      "ms": 1730,
+      "shown": 0,
+      "titleVisible": true,
+      "travelLeft": 0,
+      "bodyOverflow": "",
+      "remembered": false,
+      "horizontalScroll": false
+    }
+  ]
+}
